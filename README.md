@@ -4,7 +4,6 @@
 
 > **置換が必要なプレースホルダ**
 >
-> - `<GitHubユーザー名>`
 > - `YOUR_AMAZON_TAG`
 > - `YOUR_RAKUTEN_PARAMS`
 
@@ -57,7 +56,7 @@
    ```
 
 4. **Hugo 設定**
-   - `config.toml` の `baseURL` を `https://<GitHubユーザー名>.github.io/manga-kousatsu-hub/` に変更。
+   - `config.toml` の `baseURL` を `https://pontarou0610.github.io/manga-kousatsu-hub/` に変更。
    - Amazon / Rakuten のトラッキング情報を `YOUR_AMAZON_TAG`, `YOUR_RAKUTEN_PARAMS` に置き換えます。
 
 5. **作品設定**

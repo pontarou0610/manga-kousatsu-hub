@@ -1,4 +1,4 @@
-baseURL = "https://<GitHubユーザー名>.github.io/manga-kousatsu-hub/"
+baseURL = "https://pontarou0610.github.io/manga-kousatsu-hub/"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
 title = "漫画考察ハブ"

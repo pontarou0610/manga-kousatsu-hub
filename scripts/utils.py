@@ -159,7 +159,7 @@ def fetch_feed(url: str) -> Iterable[feedparser.FeedParserDict]:
     if not url:
         return []
     headers = {
-        "User-Agent": "manga-kousatsu-hub-bot (+https://github.com/<GitHubユーザー名>/manga-kousatsu-hub)",
+        "User-Agent": "manga-kousatsu-hub-bot (+https://github.com/pontarou0610/manga-kousatsu-hub)",
     }
     response = requests.get(url, headers=headers, timeout=30)
     response.raise_for_status()
