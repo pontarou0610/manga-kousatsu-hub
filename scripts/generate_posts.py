@@ -19,6 +19,7 @@ from utils import (
     load_entries_for_series,
     fetch_pexels_image,
     load_glossary_terms,
+    select_glossary_terms,
     load_series_config,
     load_state,
     render_markdown,
@@ -123,16 +124,17 @@ def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Di
             new_entries.append(unique)
 
     if "glossary" in content_modes:
-        write_glossary_post(series)
+        write_glossary_post(series, state)
 
     return new_entries
 
 
-def write_glossary_post(series: Dict[str, Any]) -> None:
+def write_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> None:
     terms = load_glossary_terms(series["slug"])
     if not terms:
         return
-    context = build_glossary_context(series, terms)
+    selected, remaining = select_glossary_terms(series["slug"], terms, state)
+    context = build_glossary_context(series, selected, remaining)
     context["date"] = dt.datetime.now(dt.timezone.utc).isoformat()
     markdown = render_markdown(context, "post_glossary.md.j2")
     destination = CONTENT_DIR / "posts" / series["slug"] / "glossary.md"

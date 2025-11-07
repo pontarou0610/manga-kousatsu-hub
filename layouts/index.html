@@ -12,7 +12,7 @@
       <article>
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <p>{{ .Date.Format "2006-01-02" }} ｜ {{ .Params.series }}</p>
-        <p>{{ .Summary }}</p>
+        <p class="excerpt">{{ .Summary | plainify | truncate 140 }}</p>
       </article>
       <hr />
     {{ end }}

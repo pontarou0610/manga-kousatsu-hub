@@ -19,6 +19,10 @@ images: []
 ---
 {{ intro }}
 
+{% if glossary_note %}
+> {{ glossary_note }}
+{% endif %}
+
 ## 用語リスト
 {% for term in glossary %}
 ### {{ term.term }}（{{ term.reading }}）

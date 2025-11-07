@@ -130,12 +130,17 @@ def load_series_config(path: Path = DATA_DIR / "series.yaml") -> List[Dict[str, 
 
 def load_state(path: Path = DATA_DIR / "state.json") -> Dict[str, Any]:
     if not path.exists():
-        return {"entries": []}
+        return {"entries": [], "glossary_progress": {}}
     with path.open(encoding="utf-8") as f:
         try:
-            return json.load(f)
+            state = json.load(f)
         except json.JSONDecodeError:
-            return {"entries": []}
+            state = {"entries": []}
+    if "entries" not in state:
+        state["entries"] = []
+    if "glossary_progress" not in state:
+        state["glossary_progress"] = {}
+    return state
 
 
 def save_state(state: Dict[str, Any], path: Path = DATA_DIR / "state.json") -> None:
@@ -470,6 +475,19 @@ def load_glossary_terms(series_slug: str) -> List[Dict[str, str]]:
     return data.get("terms", [])
 
 
+def select_glossary_terms(series_slug: str, terms: List[Dict[str, str]], state: Dict[str, Any]) -> Tuple[List[Dict[str, str]], int]:
+    progress = state.setdefault("glossary_progress", {})
+    current = progress.get(series_slug, 0)
+    minimum = min(len(terms), 3)
+    target = max(current, minimum)
+    if target < len(terms):
+        target += 1
+    target = min(len(terms), target)
+    progress[series_slug] = target
+    remaining = max(0, len(terms) - target)
+    return terms[:target], remaining
+
+
 def build_spoiler_context(
     series: Dict[str, Any],
     entry: Dict[str, Any],
@@ -592,7 +610,7 @@ def build_insight_context(
     }
 
 
-def build_glossary_context(series: Dict[str, Any], terms: List[Dict[str, str]]) -> Dict[str, Any]:
+def build_glossary_context(series: Dict[str, Any], terms: List[Dict[str, str]], remaining_count: int) -> Dict[str, Any]:
     affiliates = build_affiliate_urls(series)
     disclaimer_text = series.get("defaults", {}).get(
         "disclaimer",
@@ -602,6 +620,9 @@ def build_glossary_context(series: Dict[str, Any], terms: List[Dict[str, str]]) 
         f"{series['name']}に登場する用語・組織・人物を公式情報から抜粋し、"
         "初見読者でも追いやすいように整理しました。"
     )
+    glossary_note = None
+    if remaining_count > 0:
+        glossary_note = f"※ さらに {remaining_count} 件の用語を順次追加予定です。"
     return {
         "title": f"{series['name']} 用語集",
         "series": series["name"],
@@ -618,6 +639,7 @@ def build_glossary_context(series: Dict[str, Any], terms: List[Dict[str, str]]) 
         },
         "intro": intro,
         "glossary": terms,
+        "glossary_note": glossary_note,
     }
 
 
