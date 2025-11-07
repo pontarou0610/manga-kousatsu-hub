@@ -26,7 +26,7 @@ disableHugoGeneratorInject = true
   defaultOgImage = "/ogp/default.png"
   spoilerSummary = "※ネタバレはこの下（折りたたみ内）に掲載しています。"
   [params.affiliate]
-    amazon_tag = "YOUR_AMAZON_TAG"
+    amazon_tag = "naoto0610-22"
     rakuten_params = "YOUR_RAKUTEN_PARAMS"
 
 [markup]
