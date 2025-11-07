@@ -1,0 +1,217 @@
+# 作品ごとの設定。必要に応じてエントリを追加してください。
+
+- name: "天国大魔境"
+  slug: "heavenly-delusion"
+  rss: ""
+  release_day: "2025-01-15"
+  manual: true
+  auto_publish: false
+  official_links:
+    - label: "作品公式サイト"
+      url: "https://dengekidaioh.jp/product/tenkoku/"
+    - label: "アニメ公式サイト"
+      url: "https://tdm-anime.com/"
+  tags:
+    - "SF"
+    - "ミステリー"
+    - "月刊誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "壁外サバイバルの基本装備をおさらい"
+    - "天国側の教育カリキュラムから読み解く価値観"
+    - "異形との遭遇事例から学ぶ行動指針"
+  affiliates:
+    amazon:
+      asin: "B0CHD00123"
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Amazon"
+      - "Rakuten"
+  defaults:
+    disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。"
+    synopsis_prefix: "壁の内外で"
+
+- name: "スキップとローファー"
+  slug: "skip-and-loafer"
+  rss: ""
+  release_day: "2025-01-20"
+  manual: true
+  auto_publish: false
+  official_links:
+    - label: "月刊アフタヌーン公式"
+      url: "https://afternoon.kodansha.co.jp/c/skiploaf/"
+    - label: "TVアニメ公式サイト"
+      url: "https://skip-and-loafer.com/"
+  tags:
+    - "青春"
+    - "日常"
+    - "月刊誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "みつみの時間管理から学ぶ受験スケジュール術"
+    - "志摩聡介が見せる距離感の取り方を実生活に応用"
+    - "石川県と東京のギャップを乗り越えるコミュニケーション"
+  affiliates:
+    amazon:
+      asin: "B0CSKIP001"
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Rakuten"
+      - "Amazon"
+  defaults:
+    disclaimer: "学校生活の描写は公式発表の範囲内で引用し、ネタバレはトグル内のみ。"
+    synopsis_prefix: "みつみの高校生活で"
+
+- name: "デッドマウント・デスプレイ"
+  slug: "dead-mount-death-play"
+  rss: ""
+  release_day: "2025-01-12"
+  manual: true
+  auto_publish: false
+  official_links:
+    - label: "ガンガンJOKER公式"
+      url: "https://magazine.jp.square-enix.com/joker/series/deadmount/"
+    - label: "アニメ公式サイト"
+      url: "https://dmdp-anime.jp/"
+  tags:
+    - "ダークファンタジー"
+    - "バトル"
+    - "月刊誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "屍神殿の転生先で役立った術式まとめ"
+    - "現代社会で死霊術を隠すためのカバーストーリー術"
+    - "篠山家の権力構造から学ぶリスク管理"
+  affiliates:
+    amazon:
+      asin: "B0CDMDP001"
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Amazon"
+      - "Rakuten"
+  defaults:
+    disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
+    synopsis_prefix: "転生した屍神殿が"
+
+- name: "キングダム"
+  slug: "kingdom"
+  rss: ""
+  release_day: "2025-01-18"
+  manual: true
+  auto_publish: false
+  official_links:
+    - label: "週刊ヤングジャンプ公式"
+      url: "https://youngjump.jp/manga/kingdom/"
+    - label: "TVアニメ公式サイト"
+      url: "https://kingdom-anime.com/"
+  tags:
+    - "歴史"
+    - "バトル"
+    - "週刊誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "飛信隊の組織運営から学ぶリーダーシップ術"
+    - "六大将軍制度と現代組織論の共通点"
+    - "合従軍編で鍛えられた情報戦の考え方"
+  affiliates:
+    amazon:
+      asin: "B0CKING001"
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Amazon"
+      - "Rakuten"
+  defaults:
+    disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
+    synopsis_prefix: "中華統一を目指す信と政が"
+
+- name: "薬屋のひとりごと"
+  slug: "kusuriya-no-hitorigoto"
+  rss: ""
+  release_day: "2025-01-09"
+  manual: true
+  auto_publish: false
+  official_links:
+    - label: "月刊サンデーGX公式"
+      url: "https://sundaygx.com/contents/kusuriya/"
+    - label: "TVアニメ公式サイト"
+      url: "https://kusuriyanohitorigoto.jp/"
+  tags:
+    - "歴史ミステリー"
+    - "宮廷劇"
+    - "月刊誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "猫猫の観察術を日常の問題解決に生かす方法"
+    - "後宮の役職構造から学ぶ職場コミュニケーション"
+    - "香料・薬草の使い分けから考えるロジカルシンキング"
+  affiliates:
+    amazon:
+      asin: "B0CKUSU001"
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Rakuten"
+      - "Amazon"
+  defaults:
+    disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。"
+    synopsis_prefix: "後宮の薬師・猫猫が"
+
+- name: "宇宙兄弟"
+  slug: "space-brothers"
+  rss: ""
+  release_day: "2025-01-25"
+  manual: true
+  auto_publish: false
+  official_links:
+    - label: "モーニング公式サイト"
+      url: "https://morning.kodansha.co.jp/c/uchu_kyodai.html"
+    - label: "TVアニメ公式サイト"
+      url: "https://www.ytv.co.jp/uchukyodai/"
+  tags:
+    - "宇宙"
+    - "ヒューマンドラマ"
+    - "月刊誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "JAXA選抜試験のステップをキャリア設計に置き換える"
+    - "南波兄弟の逆境マネジメント術"
+    - "宇宙飛行士訓練の習慣化メソッドを日常に応用"
+  affiliates:
+    amazon:
+      asin: "B0CSPACE01"
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Amazon"
+      - "Rakuten"
+  defaults:
+    disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
+    synopsis_prefix: "南波兄弟の宇宙挑戦で"

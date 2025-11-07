@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <section>
+    <h2>最新考察</h2>
+    <p>公式RSSから検知した新着情報をもとに、ネタバレ配慮つきでまとめた考察記事を一覧表示します。</p>
+
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+    {{ if not (gt (len $paginator.Pages) 0) }}
+      <p>まだ記事がありません。GitHub Actions または <code>python scripts/generate_posts.py</code> で生成してください。</p>
+    {{ end }}
+
+    {{ range $paginator.Pages }}
+      <article>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Date.Format "2006-01-02" }} ｜ {{ .Params.series }}</p>
+        <p>{{ .Summary }}</p>
+      </article>
+      <hr />
+    {{ end }}
+
+    {{ template "_internal/pagination.html" . }}
+  </section>
+{{ end }}

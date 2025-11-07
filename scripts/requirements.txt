@@ -3,3 +3,6 @@ requests
 jinja2
 python-frontmatter
 Pillow
+pyyaml
+openai
+python-dotenv

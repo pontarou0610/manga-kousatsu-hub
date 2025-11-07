@@ -1,0 +1,29 @@
+---
+title: "{{ title }}"
+date: {{ date }}
+series: "{{ series }}"
+chapter: "用語集"
+article_variant: "glossary"
+tags:
+  - "用語解説"
+  {% for tag in tags %}
+  - "{{ tag }}"
+  {% endfor %}
+draft: false
+affiliate_ids:
+  amazon: "{{ affiliate_ids.amazon }}"
+  rakuten: "{{ affiliate_ids.rakuten }}"
+  others: []
+disclaimer: "{{ disclaimer }}"
+images: []
+---
+{{ intro }}
+
+## 用語リスト
+{% for term in glossary %}
+### {{ term.term }}（{{ term.reading }}）
+- 説明: {{ term.description }}
+- 参考: {{ term.reference }}
+{% endfor %}
+
+{{ "{{< affbox title=\"関連巻をチェック\" desc=\"まとめ買いで伏線をおさらい\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}

@@ -1,0 +1,72 @@
+---
+title: "{{ title }}"
+date: {{ date }}
+series: "{{ series }}"
+chapter: "{{ chapter }}"
+article_variant: "insight"
+{% if tags %}
+tags:
+{% for tag in tags %}
+  - "{{ tag }}"
+{% endfor %}
+{% else %}
+tags: []
+{% endif %}
+draft: {{ draft | lower }}
+affiliate_ids:
+  amazon: "{{ affiliate_ids.amazon }}"
+  rakuten: "{{ affiliate_ids.rakuten }}"
+{% if affiliate_ids.others %}
+  others:
+{% for other in affiliate_ids.others %}
+    - name: "{{ other.name }}"
+      url: "{{ other.url }}"
+{% endfor %}
+{% else %}
+  others: []
+{% endif %}
+disclaimer: "{{ disclaimer }}"
+{% if images %}
+images:
+{% for image in images %}
+  - "{{ image }}"
+{% endfor %}
+{% else %}
+images: []
+{% endif %}
+---
+{{ intro }}
+
+{% if hero_image %}
+![{{ hero_image.alt }}]({{ hero_image.url }})
+<small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
+{% endif %}
+
+## 着眼ポイント（ネタバレ無し）
+{% for point in summary_points %}
+- {{ point }}
+{% endfor %}
+
+## テーマ深掘り
+{% for item in insight.themes %}
+- **{{ item.title }}** — {{ item.detail }}
+{% endfor %}
+
+## キャラクター視点
+{% for item in insight.characters %}
+- **{{ item.name }}**: {{ item.focus }}
+{% endfor %}
+
+## 今日できる小さな一歩
+{% for step in insight.actions %}
+- {{ step }}
+{% endfor %}
+
+## 参考リンク（すべて公式）
+{% for link in reference_links %}
+- [{{ link.label }}]({{ link.url }})
+{% endfor %}
+
+{{ "{{< affbox title=\"既刊セット（Amazon）\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+
+{{ "{{< affbox title=\"最新巻（Rakuten）\" desc=\"楽天ポイント還元あり\" url=\"" }}{{ affiliate_widgets.rakuten }}{{ "\" >}}" }}

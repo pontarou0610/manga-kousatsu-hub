@@ -1,0 +1,45 @@
+baseURL = "https://<GitHubユーザー名>.github.io/manga-kousatsu-hub/"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
+title = "漫画考察ハブ"
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+hasCJKLanguage = true
+summaryLength = 120
+canonifyURLs = true
+disableHugoGeneratorInject = true
+
+[pagination]
+  pagerSize = 20
+
+[permalinks]
+  posts = "/posts/:year/:month/:slug/"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[params]
+  siteDescription = "人気漫画の考察をネタバレ配慮しつつまとめるブログ。"
+  defaultDisclaimer = "公式情報のみを参照し、ネタバレは折りたたみ内に限定しています。"
+  defaultOgImage = "/ogp/default.png"
+  spoilerSummary = "※ネタバレはこの下（折りたたみ内）に掲載しています。"
+  [params.affiliate]
+    amazon_tag = "YOUR_AMAZON_TAG"
+    rakuten_params = "YOUR_RAKUTEN_PARAMS"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 5
+
+[services]
+  [services.rss]
+    limit = 50
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true

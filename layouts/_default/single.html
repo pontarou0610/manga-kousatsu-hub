@@ -1,0 +1,41 @@
+{{ define "main" }}
+  <article class="post">
+    <header>
+      <p class="post__series">{{ .Params.series }} {{ with .Params.chapter }}｜{{ . }}{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      <p class="post__meta">
+        公開日: {{ .Date.Format "2006-01-02 15:04" }} / タグ:
+        {{ if .Params.tags }}
+          {{ range $index, $tag := .Params.tags }}
+            {{ if $index }}, {{ end }}#{{ $tag }}
+          {{ end }}
+        {{ else }}
+          #未設定
+        {{ end }}
+      </p>
+    </header>
+
+    {{ partial "affiliate_notice.html" . }}
+
+    {{ with .Params.disclaimer }}
+      <p><strong>{{ . }}</strong></p>
+    {{ else }}
+      <p><strong>{{ .Site.Params.defaultDisclaimer }}</strong></p>
+    {{ end }}
+
+    {{ .Content }}
+
+    {{ with .Params.affiliate_ids.others }}
+      <section class="affiliate-list">
+        <h2>デジタル配信／その他公式ストア</h2>
+        <ul>
+          {{ range . }}
+            <li>
+              <a href="{{ .url }}" target="_blank" rel="sponsored noopener">{{ .name }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </article>
+{{ end }}
