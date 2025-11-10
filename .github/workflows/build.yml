@@ -10,6 +10,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+      AMAZON_TAG: ${{ secrets.AMAZON_TAG }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

@@ -26,7 +26,6 @@
   affiliates:
     amazon:
       asin: "B0CHD00123"
-      tag: "naoto0610-22"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -63,7 +62,6 @@
   affiliates:
     amazon:
       asin: "B0CSKIP001"
-      tag: "naoto0610-22"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -100,7 +98,6 @@
   affiliates:
     amazon:
       asin: "B0CDMDP001"
-      tag: "naoto0610-22"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -137,7 +134,6 @@
   affiliates:
     amazon:
       asin: "B0CKING001"
-      tag: "naoto0610-22"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -174,7 +170,6 @@
   affiliates:
     amazon:
       asin: "B0CKUSU001"
-      tag: "naoto0610-22"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -211,7 +206,6 @@
   affiliates:
     amazon:
       asin: "B0CSPACE01"
-      tag: "naoto0610-22"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []

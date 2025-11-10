@@ -47,11 +47,12 @@
 
 3. **API キー (.env)**
 
-   ルートに `.env` を作成し、少なくとも `OPENAI_API_KEY` を設定します。任意で `OPENAI_MODEL`（既定: `gpt-4o-mini`）と Pexels 画像取得用の `PEXELS_API_KEY` も指定できます。
+   ルートに `.env` を作成し、少なくとも `OPENAI_API_KEY` を設定します。任意で `OPENAI_MODEL`（既定: `gpt-4o-mini`）と Pexels 画像取得用の `PEXELS_API_KEY` も指定できます。また Amazon アソシエイトのトラッキングID（例: `naoto0610-22`）を `AMAZON_TAG` として設定すると、リンクに自動付与されます。
 
    ```
    OPENAI_API_KEY=sk-xxxx
    OPENAI_MODEL=gpt-4o-mini
+   AMAZON_TAG=naoto0610-22
    PEXELS_API_KEY=your_pexels_token
    ```
 
@@ -105,6 +106,9 @@
 - `push`（`main`）
 
 処理フロー: checkout → setup-python → 依存インストール → `python scripts/generate_posts.py` → `hugo --minify` → `peaceiris/actions-gh-pages@v3` で `gh-pages` ブランチにデプロイ。
+
+> **Secrets**
+> - `OPENAI_API_KEY`, `PEXELS_API_KEY`, `AMAZON_TAG` を Repository Secrets に登録し、ワークフロー内で環境変数として参照しています。
 
 ## 収益設計
 

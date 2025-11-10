@@ -35,6 +35,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY")
 PEXELS_API_ENDPOINT = "https://api.pexels.com/v1/search"
+AMAZON_TAG = os.getenv("AMAZON_TAG")
 if OPENAI_API_KEY:
     openai.api_key = OPENAI_API_KEY
 
@@ -262,7 +263,16 @@ def fetch_pexels_image(query: str) -> Optional[Dict[str, str]]:
 def build_affiliate_urls(series: Dict[str, Any]) -> Dict[str, str]:
     amazon_asin = series.get("affiliates", {}).get("amazon", {}).get("asin", "")
     rakuten_params = series.get("affiliates", {}).get("rakuten", {}).get("params", "YOUR_RAKUTEN_PARAMS")
-    amazon_url = f"https://www.amazon.co.jp/dp/{amazon_asin}?tag=YOUR_AMAZON_TAG" if amazon_asin else ""
+    amazon_tag = (
+        series.get("affiliates", {}).get("amazon", {}).get("tag")
+        or AMAZON_TAG
+        or "YOUR_AMAZON_TAG"
+    )
+    amazon_url = (
+        f"https://www.amazon.co.jp/dp/{amazon_asin}?tag={amazon_tag}"
+        if amazon_asin and amazon_tag
+        else ""
+    )
     rakuten_url = f"https://hb.afl.rakuten.co.jp/?{rakuten_params}" if rakuten_params else ""
     return {
         "amazon": amazon_url,
