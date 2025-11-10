@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <section>
+    <h2>{{ .Title }}</h2>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+
+    {{ $paginator := .Paginate .Pages }}
+    {{ if not (gt (len $paginator.Pages) 0) }}
+      <p>まだ記事がありません。GitHub Actions または <code>python scripts/generate_posts.py</code> で生成してください。</p>
+    {{ end }}
+
+    <div class="card-grid">
+    {{ range $paginator.Pages }}
+      <article class="post-card">
+        <a class="post-card__thumb" href="{{ .RelPermalink }}">
+          {{ $thumb := "" }}
+          {{ with .Params.images }}
+            {{ $thumb = index . 0 }}
+          {{ end }}
+          {{ if $thumb }}
+            <img src="{{ $thumb | absURL }}" alt="{{ .Title }}" loading="lazy" />
+          {{ else }}
+            <img src="{{ .Site.Params.defaultOgImage | absURL }}" alt="{{ .Site.Title }}" loading="lazy" />
+          {{ end }}
+        </a>
+        <div class="post-card__body">
+          <p class="post-card__meta">{{ .Date.Format "2006-01-02" }} ｜ {{ .Params.series }}</p>
+          <h3 class="post-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p class="post-card__excerpt">{{ .Summary | plainify | truncate 140 }}</p>
+          <a class="post-card__more" href="{{ .RelPermalink }}">続きを読む</a>
+        </div>
+      </article>
+    {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+  </section>
+{{ end }}

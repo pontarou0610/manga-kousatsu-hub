@@ -25,6 +25,18 @@
 
     {{ .Content }}
 
+    {{ $seriesPages := where (where .Site.RegularPages "Params.series" .Params.series) "Permalink" "ne" .Permalink }}
+    {{ if gt (len $seriesPages) 0 }}
+      <section class="related-posts">
+        <h2>同シリーズの他の記事</h2>
+        <ul>
+          {{ range first 3 $seriesPages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>（{{ .Date.Format "2006-01-02" }}）</li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+
     {{ with .Params.affiliate_ids.others }}
       <section class="affiliate-list">
         <h2>デジタル配信／その他公式ストア</h2>

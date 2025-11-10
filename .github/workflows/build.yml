@@ -59,3 +59,8 @@ jobs:
         with:
           name: state
           path: data/state.json
+      - name: Restore state artifact
+        uses: actions/cache@v4
+        with:
+          path: data/state.json
+          key: state-${{ github.ref }}
