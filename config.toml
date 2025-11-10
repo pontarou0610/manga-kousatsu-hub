@@ -25,6 +25,8 @@ disableHugoGeneratorInject = true
   defaultDisclaimer = "公式情報のみを参照し、ネタバレは折りたたみ内に限定しています。"
   defaultOgImage = "/ogp/default.png"
   spoilerSummary = "※ネタバレはこの下（折りたたみ内）に掲載しています。"
+  [params.analytics]
+    ga4_id = ""
   [params.affiliate]
     amazon_tag = "YOUR_AMAZON_TAG"
     rakuten_params = "YOUR_RAKUTEN_PARAMS"

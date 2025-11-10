@@ -54,10 +54,12 @@
    OPENAI_MODEL=gpt-4o-mini
    AMAZON_TAG=naoto0610-22
    PEXELS_API_KEY=your_pexels_token
+   GA4_ID=G-XXXXXXXXXX
    ```
 
 4. **Hugo 設定**
    - `config.toml` の `baseURL` を `https://pontarou0610.github.io/manga-kousatsu-hub/` に変更。
+   - Google Analytics を使う場合は `[params.analytics] ga4_id = "G-XXXXXXXXXX"` を設定（Secrets から読み込む場合は Actions 側で環境変数 `GA4_ID` を渡し、`config.toml` から `getenv` で取得しても OK）。
    - Amazon / Rakuten のトラッキング情報を `YOUR_AMAZON_TAG`, `YOUR_RAKUTEN_PARAMS` に置き換えます。
 
 5. **作品設定**
@@ -109,6 +111,7 @@
 
 > **Secrets**
 > - `OPENAI_API_KEY`, `PEXELS_API_KEY`, `AMAZON_TAG` を Repository Secrets に登録し、ワークフロー内で環境変数として参照しています。
+> - Google Analytics を使う場合は `GA4_ID` を追加し、`GA4_ID: ${{ secrets.GA4_ID }}` を `env` に渡してください。
 
 ## 収益設計
 
