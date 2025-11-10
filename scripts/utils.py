@@ -200,13 +200,17 @@ def create_ogp_image(title: str, series: str, chapter: str, output_path: Path) -
     font_title = ImageFont.load_default()
     font_meta = ImageFont.load_default()
 
+    def text_width(text: str, font) -> int:
+        bbox = draw.textbbox((0, 0), text, font=font)
+        return bbox[2] - bbox[0]
+
     def draw_text(text: str, xy: Tuple[int, int], font, max_width: int, line_height: int) -> None:
         words = text.split()
         line = ""
         x, y = xy
         for word in words:
             test_line = (line + " " + word).strip()
-            w, _ = draw.textsize(test_line, font=font)
+            w = text_width(test_line, font)
             if w > max_width and line:
                 draw.text((x, y), line, font=font, fill="#f4f6fb")
                 line = word
@@ -323,10 +327,12 @@ def _extract_json_block(text: Optional[str]) -> Optional[str]:
         return None
     text = text.strip()
     if text.startswith("{") and text.endswith("}"):
-        return text
+        return text.strip("` ")
     match = re.search(r"\{.*\}", text, re.S)
     if match:
-        return match.group(0)
+        candidate = match.group(0).strip("` \n")
+        if candidate.startswith("{") and candidate.endswith("}"):
+            return candidate
     return None
 
 
@@ -342,9 +348,19 @@ def _normalize_spoiler_payload(data: Dict[str, Any], official_links: List[Dict[s
         return items
 
     summary_points = clean_list(data.get("summary_points"))[:3]
+    if not summary_points:
+        summary_points = [
+            "公開済み情報のみで最新話の見どころを整理。",
+            "伏線・新情報はネタバレトグル内に限定。",
+            "推測は根拠を添えて提示し、読者の安全を確保。",
+        ]
     spoiler = data.get("spoiler") or {}
     foreshadowings = clean_list(spoiler.get("foreshadowings"))[:2]
+    if not foreshadowings:
+        foreshadowings = ["既知の伏線を整理中。", "新情報の真偽を確認中。"]
     predictions = clean_list(spoiler.get("predictions"))[:2]
+    if not predictions:
+        predictions = ["次号の公式情報待ち。", "確定情報が出次第更新予定。"]
 
     allowed_urls = {link.get("url") for link in official_links if link.get("url")}
     references: List[Dict[str, str]] = []
@@ -411,14 +427,54 @@ def _normalize_insight_payload(data: Dict[str, Any], official_links: List[Dict[s
     if not references:
         references = official_links[:3]
 
+    summary_points = clean_str_list(data.get("summary_points"))[:3]
+    if not summary_points:
+        summary_points = [
+            "公開済みの設定やテーマをネタバレ無しで俯瞰。",
+            "キャラクターの価値観を既出情報から読み解く。",
+            "今日から実践できる小さな一歩を提示。",
+        ]
+
+    themes = clean_dict_list(data.get("themes"), ("title", "detail"))[:2]
+    if not themes:
+        themes = [
+            {"title": "テーマ整理中", "detail": "最新の公開情報を確認次第更新します。"},
+            {"title": "モチーフ整理中", "detail": "既出の設定集から構造化中です。"},
+        ]
+
+    characters = clean_dict_list(data.get("characters"), ("name", "focus"))[:2]
+    if not characters:
+        characters = [
+            {"name": "主人公", "focus": "既出エピソードで見える価値観を整理。"},
+            {"name": "主要キャラ", "focus": "テーマとの関連を確認中。"},
+        ]
+
+    actions = clean_str_list(data.get("actions"))[:3]
+    if not actions:
+        actions = [
+            "気になるシーンを読み返して感情の動きをメモする。",
+            "公式設定資料を引用して固有名詞の意味を確認する。",
+            "日常の出来事に作品テーマを当てはめて考察してみる。",
+        ]
+
     return {
         "intro": (data.get("intro") or "").strip(),
-        "summary_points": clean_str_list(data.get("summary_points"))[:3],
-        "themes": clean_dict_list(data.get("themes"), ("title", "detail"))[:2],
-        "characters": clean_dict_list(data.get("characters"), ("name", "focus"))[:2],
-        "actions": clean_str_list(data.get("actions"))[:3],
+        "summary_points": summary_points,
+        "themes": themes,
+        "characters": characters,
+        "actions": actions,
         "reference_links": references,
     }
+
+
+def generate_seo_title(series: Dict[str, Any], entry: Dict[str, Any], mode: str) -> str:
+    series_name = series.get("name", "")
+    chapter = entry.get("chapter") or entry.get("title") or "最新話"
+    mode_label = "最新話考察" if mode == "spoiler" else "ネタバレ無し考察"
+    topic = entry.get("title") or entry.get("summary", "").split("。")[0]
+    parts = [series_name, chapter, mode_label, topic]
+    title = "｜".join([p for p in parts if p])
+    return title[:60] if title else f"{series_name} {mode_label}"
 
 
 def generate_article_sections(series: Dict[str, Any], entry: Dict[str, Any], mode: str) -> Optional[Dict[str, Any]]:
@@ -429,16 +485,18 @@ def generate_article_sections(series: Dict[str, Any], entry: Dict[str, Any], mod
     official_text = "\n".join(
         f"- {link.get('label')} : {link.get('url')}" for link in official_links if link.get("label") and link.get("url")
     ) or "- （公式リンク情報なし。参考リンクがなければ空配列で返す）"
+    fallback_title = generate_seo_title(series, entry, mode)
 
     if mode == "insight":
         user_prompt = ARTICLE_INSIGHT_USER_TMPL.format(
             series_name=series.get("name"),
             chapter=entry.get("chapter") or entry.get("title", "最新話"),
-            entry_title=entry.get("title", ""),
+            entry_title=fallback_title,
             entry_summary=entry.get("summary", "")[:400],
             official_links=official_text,
         )
-        raw = _call_openai(ARTICLE_SYSTEM_PROMPT_INSIGHT, user_prompt, temperature=0.5)
+        insight_system = ARTICLE_SYSTEM_PROMPT_INSIGHT + ARTICLE_INSIGHT_SYSTEM_EXTRA
+        raw = _call_openai(insight_system, user_prompt, temperature=0.5)
         json_str = _extract_json_block(raw)
         if not json_str:
             return None
@@ -451,12 +509,14 @@ def generate_article_sections(series: Dict[str, Any], entry: Dict[str, Any], mod
             if not json_str:
                 return None
             data = json.loads(json_str)
-        return _normalize_insight_payload(data, official_links)
+        payload = _normalize_insight_payload(data, official_links)
+        payload["title"] = data.get("title") or fallback_title
+        return payload
 
     user_prompt = ARTICLE_SPOILER_USER_TMPL.format(
         series_name=series.get("name"),
         chapter=entry.get("chapter") or entry.get("title", "最新話"),
-        entry_title=entry.get("title", ""),
+        entry_title=fallback_title,
         entry_summary=entry.get("summary", "")[:400],
         official_links=official_text,
     )
@@ -473,7 +533,9 @@ def generate_article_sections(series: Dict[str, Any], entry: Dict[str, Any], mod
         if not json_str:
             return None
         data = json.loads(json_str)
-    return _normalize_spoiler_payload(data, official_links)
+    payload = _normalize_spoiler_payload(data, official_links)
+    payload["title"] = data.get("title") or fallback_title
+    return payload
 
 
 def load_glossary_terms(series_slug: str) -> List[Dict[str, str]]:
@@ -522,7 +584,7 @@ def build_spoiler_context(
     )
 
     return {
-        "title": entry.get("title", f"{series['name']} 最新考察"),
+        "title": (payload.get("title") if payload else entry.get("title", f"{series['name']} 最新考察")),
         "series": series["name"],
         "chapter": entry.get("chapter", entry.get("title", "最新話")),
         "date": entry.get("date"),
@@ -588,7 +650,7 @@ def build_insight_context(
     }
 
     return {
-        "title": f"{entry.get('title', series['name'])} 考察メモ（ネタバレ無し）",
+        "title": (payload.get("title") if payload else f"{entry.get('title', series['name'])} 考察メモ（ネタバレ無し）"),
         "series": series["name"],
         "chapter": entry.get("chapter", entry.get("title", "最新話")),
         "date": entry.get("date"),
