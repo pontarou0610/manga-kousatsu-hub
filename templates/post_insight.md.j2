@@ -67,6 +67,10 @@ images: []
 - [{{ link.label }}]({{ link.url }})
 {% endfor %}
 
-{{ "{{< affbox title=\"既刊セット（Amazon）\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+{% if affiliate_widgets.amazon %}
+{{ "{{< affbox title=\"最新巻（Amazon）\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+{% endif %}
 
+{% if affiliate_widgets.rakuten %}
 {{ "{{< affbox title=\"最新巻（Rakuten）\" desc=\"楽天ポイント還元あり\" url=\"" }}{{ affiliate_widgets.rakuten }}{{ "\" >}}" }}
+{% endif %}
