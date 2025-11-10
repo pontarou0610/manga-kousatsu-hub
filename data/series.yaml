@@ -1,5 +1,4 @@
 # 作品ごとの設定。必要に応じてエントリを追加してください。
-
 - name: "天国大魔境"
   slug: "heavenly-delusion"
   rss: ""
@@ -69,7 +68,7 @@
       - "Rakuten"
       - "Amazon"
   defaults:
-    disclaimer: "学校生活の描写は公式発表の範囲内で引用し、ネタバレはトグル内のみ。"
+    disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
     synopsis_prefix: "みつみの高校生活で"
 
 - name: "デッドマウント・デスプレイ"
@@ -133,7 +132,7 @@
     - "合従軍編で鍛えられた情報戦の考え方"
   affiliates:
     amazon:
-      asin: "B0CKING001"
+      asin: "B009LHBVQ0"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -169,7 +168,7 @@
     - "香料・薬草の使い分けから考えるロジカルシンキング"
   affiliates:
     amazon:
-      asin: "B0CKUSU001"
+      asin: "B0757MTWDV"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -205,7 +204,7 @@
     - "宇宙飛行士訓練の習慣化メソッドを日常に応用"
   affiliates:
     amazon:
-      asin: "B0CSPACE01"
+      asin: "B009KWUFNG"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -215,3 +214,75 @@
   defaults:
     disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
     synopsis_prefix: "南波兄弟の宇宙挑戦で"
+
+- name: "ゴールデンカムイ"
+  slug: "golden-kamuy"
+  rss: ""
+  release_day: "2025-01-14"
+  manual: true
+  auto_publish: false
+  official_links:
+    - label: "週刊ヤングジャンプ公式"
+      url: "https://youngjump.jp/manga/goldenkamuy/"
+    - label: "アニメ公式サイト"
+      url: "https://kamuy-anime.com/"
+  tags:
+    - "歴史"
+    - "サバイバル"
+    - "週刊誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "アイヌ文化とサバイバル術の基礎を整理"
+    - "金塊争奪戦の勢力図から学ぶリスクマネジメント"
+    - "杉元とアシㇼパそれぞれの価値観を深掘り"
+  affiliates:
+    amazon:
+      asin: "B00T3XVB9E"
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Amazon"
+      - "Rakuten"
+  defaults:
+    disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
+    synopsis_prefix: "金塊争奪戦の最前線で"
+
+- name: "アオアシ"
+  slug: "aoashi"
+  rss: ""
+  release_day: "2025-01-22"
+  manual: true
+  auto_publish: false
+  official_links:
+    - label: "ビッグコミックス公式"
+      url: "https://bigcomicbros.net/work/aoashi/"
+    - label: "アニメ公式サイト"
+      url: "https://aoashi-pr.com/"
+  tags:
+    - "サッカー"
+    - "青春"
+    - "週刊誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "エスペリオンの戦術から学ぶチームビルディング"
+    - "アシトと仲間たちのキャリア設計を考える"
+    - "試合前後のメンタルコントロール術"
+  affiliates:
+    amazon:
+      asin: "B00Z6HQWYU"
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Amazon"
+      - "Rakuten"
+  defaults:
+    disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
+    synopsis_prefix: "青井葦人の成長譚で"
