@@ -1,0 +1,64 @@
+{{ define "main" }}
+  <section class="search-page">
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+
+    <input id="search-input" class="search-input" type="search" placeholder="キーワードを入力（例：作品名・キャラ名）" aria-label="サイト内検索" />
+    <div id="search-meta" class="search-meta">最近の記事 {{ now.Format "2006-01-02" }} 更新</div>
+    <ul id="search-results" class="search-results"></ul>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/lunr/lunr.min.js"></script>
+  <script>
+    const searchInput = document.getElementById("search-input");
+    const searchResults = document.getElementById("search-results");
+    const meta = document.getElementById("search-meta");
+    let idx;
+    let documents = [];
+
+    async function initSearch() {
+      const response = await fetch("/index.json");
+      documents = await response.json();
+      idx = lunr(function () {
+        this.ref("url");
+        this.field("title");
+        this.field("series");
+        this.field("summary");
+        documents.forEach(doc => this.add(doc), this);
+      });
+    }
+
+    function renderResults(results) {
+      if (!results.length) {
+        searchResults.innerHTML = "<li>該当する記事が見つかりませんでした。</li>";
+        return;
+      }
+      searchResults.innerHTML = results
+        .map(result => {
+          const doc = documents.find(d => d.url === result.ref) || {};
+          return `<li>
+            <a href="${doc.url}">${doc.title}</a>
+            <span class="search-series">${doc.series || ""}</span>
+            <p>${doc.summary || ""}</p>
+          </li>`;
+        })
+        .join("");
+    }
+
+    searchInput.addEventListener("input", (event) => {
+      const query = event.target.value.trim();
+      if (!query || !idx) {
+        searchResults.innerHTML = "";
+        return;
+      }
+      try {
+        const results = idx.search(query);
+        renderResults(results);
+      } catch (error) {
+        console.error(error);
+      }
+    });
+
+    initSearch();
+  </script>
+{{ end }}

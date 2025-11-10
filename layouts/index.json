@@ -7,7 +7,8 @@
     "series": {{ $page.Params.series | default "" | jsonify }},
     "date": "{{ $page.Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "url": {{ $page.Permalink | jsonify }},
-    "tags": {{ $page.Params.tags | default (slice) | jsonify }}
+    "tags": {{ $page.Params.tags | default (slice) | jsonify }},
+    "summary": {{ $page.Summary | plainify | jsonify }}
   }
 {{- end }}
 ]

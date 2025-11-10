@@ -23,6 +23,10 @@
     <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.siteDescription }}{{ end }}" />
     <meta name="twitter:image" content="{{ $image | absURL }}" />
     <link rel="canonical" href="{{ .Permalink }}" />
+    {{ if .IsPage }}
+      {{ with .PrevInSection }}<link rel="prev" href="{{ .Permalink }}" />{{ end }}
+      {{ with .NextInSection }}<link rel="next" href="{{ .Permalink }}" />{{ end }}
+    {{ end }}
     {{- range .AlternativeOutputFormats }}
       <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" />
     {{- end }}
@@ -86,6 +90,12 @@
         text-align: center;
         background: rgba(255, 255, 255, 0.02);
         border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      }
+      .site-nav {
+        margin-top: 0.5rem;
+        display: inline-flex;
+        gap: 1rem;
+        font-size: 0.95rem;
       }
       main {
         max-width: 960px;
@@ -199,12 +209,42 @@
         color: #fff;
         font-size: 0.9rem;
       }
+      .search-page { max-width: 720px; margin: 0 auto; }
+      .search-input {
+        width: 100%;
+        padding: 0.8rem 1rem;
+        border-radius: 999px;
+        border: 1px solid rgba(255,255,255,0.2);
+        background: rgba(0,0,0,0.2);
+        color: #fff;
+        margin-top: 1rem;
+      }
+      .search-results {
+        list-style: none;
+        padding: 0;
+        margin-top: 1.5rem;
+      }
+      .search-results li {
+        margin-bottom: 1.5rem;
+        border-bottom: 1px solid rgba(255,255,255,0.08);
+        padding-bottom: 1rem;
+      }
+      .search-series {
+        display: inline-block;
+        font-size: 0.85rem;
+        color: rgba(255,255,255,0.7);
+        margin-left: 0.5rem;
+      }
     </style>
   </head>
   <body>
     <header>
       <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
       <p>{{ .Site.Params.siteDescription }}</p>
+      <nav class="site-nav">
+        <a href="{{ .Site.BaseURL }}">ホーム</a>
+        <a href="{{ .Site.BaseURL }}search/">検索</a>
+      </nav>
     </header>
     <main>
       {{ block "main" . }}{{ end }}
