@@ -22,9 +22,39 @@
     <meta name="twitter:title" content="{{ .Title }}" />
     <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.siteDescription }}{{ end }}" />
     <meta name="twitter:image" content="{{ $image | absURL }}" />
+    <link rel="canonical" href="{{ .Permalink }}" />
     {{- range .AlternativeOutputFormats }}
       <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" />
     {{- end }}
+    {{ if .IsPage }}
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": {{ .Title | jsonify }},
+          "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+          "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ .Permalink }}"
+          },
+          "image": {{ $image | absURL | jsonify }},
+          "author": {
+            "@type": "Organization",
+            "name": {{ .Site.Title | jsonify }}
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": {{ .Site.Title | jsonify }},
+            "logo": {
+              "@type": "ImageObject",
+              "url": {{ .Site.Params.defaultOgImage | absURL | jsonify }}
+            }
+          },
+          "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.siteDescription | jsonify }}{{ end }}
+        }
+      </script>
+    {{ end }}
     {{ with .Site.Params.analytics.ga4_id }}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
       <script>

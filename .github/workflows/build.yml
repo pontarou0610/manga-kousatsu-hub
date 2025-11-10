@@ -7,6 +7,10 @@ on:
   push:
     branches: [ main ]
 
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,10 +18,13 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
       AMAZON_TAG: ${{ secrets.AMAZON_TAG }}
+      GA4_ID: ${{ secrets.GA4_ID }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
+        with:
+          python-version: "3.11"
+          cache: "pip"
       - uses: peaceiris/actions-hugo@v3
         with: { hugo-version: "0.134.2", extended: true }
 

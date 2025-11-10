@@ -71,7 +71,10 @@
    - `data/glossary/<series-slug>.yaml` に `terms` 配列（用語・読み・説明・参考）を追加します。`glossary` モードが有効な作品で参照されます。
    - 参考情報は公式サイトだけでなく、Wikipedia など信頼できる公開資料も明記してください。用語は3件以上から始め、追記するたびに上から順に自動公開され、1回のビルドで少しずつ増えていきます。
 
-7. **動作確認**
+7. **フォント（OGP用）**
+   - 日本語テキストを綺麗に描画するため、`assets/fonts/NotoSansJP-Regular.ttf` などの TrueType フォントを配置してください（名称が異なる場合は `scripts/utils.py` の `FONT_PATH` を更新）。ファイルを置かない場合は Pillow のデフォルトフォントが使用されます。
+
+8. **動作確認**
 
    ```bash
    python scripts/generate_posts.py

@@ -29,6 +29,7 @@ OGP_WIDTH = 1200
 OGP_HEIGHT = 630
 OGP_BG = "#090a13"
 OGP_ACCENT = "#ff5c7b"
+FONT_PATH = ROOT_DIR / "assets" / "fonts" / "NotoSansJP-Regular.ttf"
 
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -199,6 +200,13 @@ def create_ogp_image(title: str, series: str, chapter: str, output_path: Path) -
     draw = ImageDraw.Draw(canvas)
     font_title = ImageFont.load_default()
     font_meta = ImageFont.load_default()
+    if FONT_PATH.exists():
+        try:
+            font_title = ImageFont.truetype(str(FONT_PATH), size=40)
+            font_meta = ImageFont.truetype(str(FONT_PATH), size=28)
+        except Exception:
+            font_title = ImageFont.load_default()
+            font_meta = ImageFont.load_default()
 
     def text_width(text: str, font) -> int:
         bbox = draw.textbbox((0, 0), text, font=font)
