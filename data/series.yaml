@@ -24,7 +24,7 @@
     - "異形との遭遇事例から学ぶ行動指針"
   affiliates:
     amazon:
-      asin: "B0CHD00123"
+      asin: "B07FCHN6XQ"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -60,7 +60,7 @@
     - "石川県と東京のギャップを乗り越えるコミュニケーション"
   affiliates:
     amazon:
-      asin: "B0CSKIP001"
+      asin: "B07MT9BQFX"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -96,7 +96,7 @@
     - "篠山家の権力構造から学ぶリスク管理"
   affiliates:
     amazon:
-      asin: "B0CDMDP001"
+      asin: "B07BSZLR4X"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
     others: []
@@ -171,7 +171,9 @@
       asin: "B0757MTWDV"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
-    others: []
+    others:
+      - name: "Amazon（小学館サンデーGX版）"
+        url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
     priority:
       - "Rakuten"
       - "Amazon"
@@ -207,7 +209,9 @@
       asin: "B009KWUFNG"
     rakuten:
       params: "YOUR_RAKUTEN_PARAMS"
-    others: []
+    others:
+      - name: "Amazon（オールカラー版）"
+        url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
     priority:
       - "Amazon"
       - "Rakuten"
