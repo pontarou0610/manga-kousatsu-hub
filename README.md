@@ -138,3 +138,10 @@
 ## ライセンス
 
 MIT License（`LICENSE` 参照）。
+
+## 運用ガイド
+
+- **フォント**: `assets/fonts/NotoSansJP-Regular.ttf` を追加すると OGP で日本語フォントが使用されます（リポジトリには `.gitkeep` のみコミット）。
+- **state.json の引き継ぎ**: GitHub Actions は `data/state.json` をアーティファクトで復元・保存します。ローカルで生成した場合は変更をコミットして共有してください。
+- **Secrets**: `OPENAI_API_KEY`, `PEXELS_API_KEY`, `AMAZON_TAG`, `GA4_ID` を Repository Secrets に登録し、`.env` にも同じ値を設定するとローカルとCIが同期します。
+- **手動実行**: `python scripts/generate_posts.py` → `hugo --minify` で検証し、生成物と `data/state.json` を確認したうえで `git commit` / `git push` を行います。

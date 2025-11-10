@@ -5,6 +5,7 @@ import hashlib
 import json
 import os
 import re
+import time
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
@@ -316,18 +317,23 @@ def default_summary_points(series_name: str, chapter_title: str) -> List[str]:
 def _call_openai(system_prompt: str, user_prompt: str, temperature: float = 0.6) -> Optional[str]:
     if not OPENAI_API_KEY:
         return None
-    try:
-        resp = openai.chat.completions.create(
-            model=OPENAI_MODEL,
-            temperature=temperature,
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
-            ],
-        )
-        return (resp.choices[0].message.content or "").strip()
-    except Exception:
-        return None
+    last_error: Optional[Exception] = None
+    for attempt in range(3):
+        try:
+            resp = openai.chat.completions.create(
+                model=OPENAI_MODEL,
+                temperature=temperature,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                ],
+            )
+            return (resp.choices[0].message.content or "").strip()
+        except Exception as exc:
+            last_error = exc
+            sleep_for = min(8, 2 ** attempt)
+            time.sleep(sleep_for)
+    return None
 
 
 def _extract_json_block(text: Optional[str]) -> Optional[str]:
