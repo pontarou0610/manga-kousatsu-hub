@@ -696,7 +696,10 @@ def map_feed_entry(series: Dict[str, Any], entry: feedparser.FeedParserDict) -> 
 def load_entries_for_series(series: Dict[str, Any]) -> List[Dict[str, Any]]:
     if series.get("manual"):
         manual_entry = collect_manual_entry(series)
-        return [manual_entry] if manual_entry else []
+        if manual_entry:
+            return [manual_entry]
+        fallback_manual = build_fallback_entry(series)
+        return [fallback_manual] if fallback_manual else []
     entries = []
     for entry in fetch_feed(series.get("rss", "")):
         entries.append(map_feed_entry(series, entry))
