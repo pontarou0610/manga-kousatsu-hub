@@ -68,8 +68,8 @@ images: []
 {% endfor %}
 
 {% if reference_links %}
-{{ $official := index reference_links 0 }}
-<p><a class="post-card__more" href="{{ $official.url }}" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+{% set official = reference_links[0] %}
+<p><a class="post-card__more" href="{{ official.url }}" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 {% endif %}
 
 {% if affiliate_widgets.amazon %}

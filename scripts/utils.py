@@ -8,6 +8,7 @@ import re
 import time
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
+from string import Template
 import unicodedata
 
 import feedparser
@@ -72,53 +73,54 @@ ARTICLE_REVIEW_SYSTEM = (
     "あなたは厳格な校閲者です。渡されたJSONを仕様に合わせて整形し、"
     "欠落データを補完したうえで有効なJSONだけを返してください。"
 )
-ARTICLE_SPOILER_USER_TMPL = """\
-以下の情報を使って、漫画考察記事向けの要約データをJSONで作成してください。
+ARTICLE_SPOILER_USER_TMPL = Template("""
+Use the following context to produce JSON for a spoiler-friendly article.
 
-# シリーズ情報
-- シリーズ名: {series_name}
-- 最新話/章: {chapter}
-- エントリタイトル: {entry_title}
-- RSS概要: {entry_summary}
-- 利用可能な公式リンク（最大3件まで利用可）:
-{official_links}
+# Series Info
+- Title: $series_name
+- Chapter: $chapter
+- Entry title: $entry_title
+- RSS summary: $entry_summary
+- Official links (up to 3):
+$official_links
 
-# 出力フォーマット
-JSONのキーは `intro`, `summary_points`, `spoiler`, `reference_links` の4つ。
-1. `intro`: 80〜140字、ネタバレ無し。
-2. `summary_points`: 3項目、箇条書きテキスト（ネタバレ無し）。
-3. `spoiler`: { "synopsis": 120字以内, "foreshadowings": 2項目, "predictions": 2項目 }。ここだけネタバレ可。推測は根拠を添える。
-4. `reference_links`: 提供リスト内の公式リンクのみ使用。要素は { "label": "...", "url": "..." }。
+# Output
+Keys: intro, summary_points, spoiler, reference_links.
+1. intro: 80-140 chars, no spoilers.
+2. summary_points: 3 bullet strings, spoiler-free.
+3. spoiler: { "synopsis": <=120 chars, "foreshadowings": 2 items, "predictions": 2 items } with spoilers allowed.
+4. reference_links: only from provided list. Each item { "label": "...", "url": "..." }.
 
-JSON以外の文字は一切出力しない。
-"""
+Return JSON only.
+""")
 ARTICLE_SPOILER_REVIEW_TMPL = """\
 次のJSONをブログ仕様に整えてください。欠落項目は補完し、形式違反は修正してください。
 
 {raw}
 """
-ARTICLE_INSIGHT_USER_TMPL = """\
-以下の情報を使って、ネタバレ無しの分析記事用JSONを作成してください。
+ARTICLE_INSIGHT_USER_TMPL = Template("""
+Use the following context to produce spoiler-free analysis JSON.
 
-# シリーズ情報
-- シリーズ名: {series_name}
-- 最新話/章: {chapter}
-- エントリタイトル: {entry_title}
-- RSS概要: {entry_summary}
-- 利用可能な公式リンク（最大3件まで利用可）:
-{official_links}
+# Series Info
+- Title: $series_name
+- Chapter: $chapter
+- Entry title: $entry_title
+- RSS summary: $entry_summary
+- Official links (up to 3):
+$official_links
 
-# 出力フォーマット
-キーは `intro`, `summary_points`, `themes`, `characters`, `actions`, `reference_links`。
-1. `intro`: 80〜140字でネタバレ無しの導入。
-2. `summary_points`: 3項目、箇条書きテキスト（ネタバレ禁止）。
-3. `themes`: 2項目、各 { "title": "...", "detail": "..." } としてテーマを解説。
-4. `characters`: 2項目、各 { "name": "...", "focus": "..." } としてキャラクター視点を整理。
-5. `actions`: 2〜3項目、読者が今日試せる小さな行動。
-6. `reference_links`: 提供リスト内の公式リンクのみ使用。要素は { "label": "...", "url": "..." }。
+# Output
+Keys: intro, summary_points, themes, characters, actions, reference_links, title.
+1. intro: 80-140 chars, spoiler-free.
+2. summary_points: 3 bullet strings, spoiler-free.
+3. themes: 2 items { "title": "...", "detail": "..." }.
+4. characters: 2 items { "name": "...", "focus": "..." }.
+5. actions: 2-3 bullet strings for actionable steps.
+6. reference_links: only provided official links.
+7. title: SEO friendly Japanese title (~30 chars) including series + topic.
 
-JSON以外の文字は出力しないでください。
-"""
+Return JSON only.
+""")
 ARTICLE_INSIGHT_REVIEW_TMPL = """\
 次のJSONをネタバレ無し分析記事の仕様に整えてください。欠落項目を補完し、形式違反を修正してください。
 
@@ -524,7 +526,7 @@ def generate_article_sections(series: Dict[str, Any], entry: Dict[str, Any], mod
     fallback_title = generate_seo_title(series, entry, mode)
 
     if mode == "insight":
-        user_prompt = ARTICLE_INSIGHT_USER_TMPL.format(
+        user_prompt = ARTICLE_INSIGHT_USER_TMPL.substitute(
             series_name=series.get("name"),
             chapter=entry.get("chapter") or entry.get("title", "最新話"),
             entry_title=fallback_title,
@@ -549,7 +551,7 @@ def generate_article_sections(series: Dict[str, Any], entry: Dict[str, Any], mod
         payload["title"] = data.get("title") or fallback_title
         return payload
 
-    user_prompt = ARTICLE_SPOILER_USER_TMPL.format(
+    user_prompt = ARTICLE_SPOILER_USER_TMPL.substitute(
         series_name=series.get("name"),
         chapter=entry.get("chapter") or entry.get("title", "最新話"),
         entry_title=fallback_title,
