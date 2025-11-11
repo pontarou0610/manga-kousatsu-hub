@@ -67,6 +67,11 @@ images: []
 - [{{ link.label }}]({{ link.url }})
 {% endfor %}
 
+{% if reference_links %}
+{{ $official := index reference_links 0 }}
+<p><a class="post-card__more" href="{{ $official.url }}" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+{% endif %}
+
 {% if affiliate_widgets.amazon %}
 {{ "{{< affbox title=\"最新巻（Amazon）\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
 {% endif %}
