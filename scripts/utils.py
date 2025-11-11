@@ -8,6 +8,7 @@ import re
 import time
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
+import unicodedata
 
 import feedparser
 import frontmatter
@@ -17,6 +18,11 @@ import yaml
 from dotenv import load_dotenv
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from PIL import Image, ImageDraw, ImageFont
+
+try:
+    from unidecode import unidecode
+except ImportError:
+    unidecode = None
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
@@ -152,10 +158,26 @@ def save_state(state: Dict[str, Any], path: Path = DATA_DIR / "state.json") -> N
 
 
 def slugify(value: str) -> str:
-    value = value.lower()
-    value = re.sub(r"[^\w\s-]", "", value)
-    value = re.sub(r"[\s_-]+", "-", value).strip("-")
-    return value or "post"
+    """
+    Convert arbitrary text into an ASCII-only slug suitable for permalinks.
+
+    Japanese titles (and other non-Latin scripts) are transliterated when
+    possible; otherwise we fall back to a stable hash to keep URLs deterministic.
+    """
+    if not value:
+        return "post"
+
+    normalized = unicodedata.normalize("NFKD", value)
+    transliterated = unidecode(normalized) if unidecode else normalized
+    ascii_value = transliterated.encode("ascii", "ignore").decode("ascii")
+    ascii_value = ascii_value.lower()
+    ascii_value = re.sub(r"[^\w\s-]", "", ascii_value)
+    ascii_value = re.sub(r"[\s_-]+", "-", ascii_value).strip("-")
+    if ascii_value:
+        return ascii_value
+
+    digest = hashlib.sha1(value.encode("utf-8")).hexdigest()[:8]
+    return f"post-{digest}"
 
 
 def hash_entry(*parts: str) -> str:
