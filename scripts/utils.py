@@ -614,6 +614,8 @@ def build_spoiler_context(
     }
     reference_links = payload.get("reference_links") if payload else series.get("official_links", [])
 
+    official_links = series.get("official_links", [])
+    official_link = official_links[0] if official_links else None
     affiliates = build_affiliate_urls(series)
     others = prioritized_other_affiliates(series)
     disclaimer_text = series.get("defaults", {}).get(
@@ -647,6 +649,7 @@ def build_spoiler_context(
         "spoiler": spoiler_block,
         "reference_links": reference_links,
         "hero_image": hero_image,
+        "official_link": official_link,
     }
 
 
@@ -658,6 +661,8 @@ def build_insight_context(
     payload: Optional[Dict[str, Any]],
     hero_image: Optional[Dict[str, str]],
 ) -> Dict[str, Any]:
+    official_links = series.get("official_links", [])
+    official_link = official_links[0] if official_links else None
     affiliates = build_affiliate_urls(series)
     others = prioritized_other_affiliates(series)
     disclaimer_text = series.get("defaults", {}).get(
@@ -717,6 +722,7 @@ def build_insight_context(
         },
         "reference_links": insight_block.get("reference_links", series.get("official_links", [])),
         "hero_image": hero_image,
+        "official_link": official_link,
     }
 
 
@@ -736,6 +742,7 @@ def build_glossary_context(series: Dict[str, Any], terms: List[Dict[str, str]], 
     return {
         "title": f"{series['name']} 用語集",
         "series": series["name"],
+        "series_slug": series["slug"],
         "tags": list({*series.get("tags", []), "用語解説"}),
         "disclaimer": disclaimer_text,
         "affiliate_ids": {

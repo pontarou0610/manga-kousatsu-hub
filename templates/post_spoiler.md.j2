@@ -68,8 +68,12 @@ images: []
 {% endfor %}
 
 {% if reference_links %}
-{% set official = reference_links[0] %}
+{% set official = official_link if official_link else reference_links[0] %}
 <p><a class="post-card__more" href="{{ official.url }}" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+{% endif %}
+
+{% if affiliate_widgets.amazon %}
+<p><a class="post-card__more post-card__more--amazon" href="{{ affiliate_widgets.amazon }}" target="_blank" rel="sponsored noopener">Amazonでチェックする</a></p>
 {% endif %}
 
 {% if affiliate_widgets.amazon %}
