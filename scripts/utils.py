@@ -262,7 +262,7 @@ def create_ogp_image(title: str, series: str, chapter: str, output_path: Path) -
 
     canvas.save(output_path)
     rel_path = output_path.relative_to(STATIC_DIR).as_posix()
-    return f"/{rel_path}"
+    return rel_path
 
 
 def fetch_pexels_image(query: str) -> Optional[Dict[str, str]]:
@@ -728,6 +728,8 @@ def build_insight_context(
 
 def build_glossary_context(series: Dict[str, Any], terms: List[Dict[str, str]], remaining_count: int) -> Dict[str, Any]:
     affiliates = build_affiliate_urls(series)
+    official_links = series.get("official_links", [])
+    official_link = official_links[0] if official_links else None
     disclaimer_text = series.get("defaults", {}).get(
         "disclaimer",
         "公式情報のみを参照し、ネタバレは折りたたみ内に限定しています。",
@@ -757,6 +759,7 @@ def build_glossary_context(series: Dict[str, Any], terms: List[Dict[str, str]], 
         "intro": intro,
         "glossary": terms,
         "glossary_note": glossary_note,
+        "official_link": official_link,
     }
 
 

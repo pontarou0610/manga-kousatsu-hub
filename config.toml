@@ -23,7 +23,7 @@ disableHugoGeneratorInject = true
 [params]
   siteDescription = "人気漫画の考察をネタバレ配慮しつつまとめるブログ。"
   defaultDisclaimer = "公式情報のみを参照し、ネタバレは折りたたみ内に限定しています。"
-  defaultOgImage = "/ogp/default.png"
+  defaultOgImage = "ogp/default.png"
   spoilerSummary = "※ネタバレはこの下（折りたたみ内）に掲載しています。"
   [params.analytics]
     ga4_id = "G-KWHDV8F93G"
