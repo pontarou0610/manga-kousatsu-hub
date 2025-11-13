@@ -1,0 +1,26 @@
+﻿entries:
+  - title: "屍神殿が現代社会に馴染むための偽装工作"
+    chapter: "Stage.70"
+    date: "2024-01-08T00:00:00Z"
+    summary: "屍神殿がポルカの身体を借りた直後に行った身元偽装の手口を整理し、現在のアンダーグラウンド事情につなげます。"
+    intro: "魔術サスペンスの根幹エピソードを再確認し、読者の記憶を呼び起こします。"
+    research_links:
+      - label: "DMDP観測記"
+        url: "https://fanblog.example.com/dmdp/disguise-technique"
+      - label: "ガンガンJOKER公式"
+        url: "https://magazine.jp.square-enix.com/joker/series/deadmount/"
+    force_modes:
+      - spoiler
+      - insight
+  - title: "四乃山家と迦楼羅の因縁"
+    chapter: "Stage.82"
+    date: "2023-08-30T00:00:00Z"
+    summary: "四乃山家の権力構造と迦楼羅の立ち位置を振り返り、最新章での動きを理解しやすくします。"
+    intro: "敵味方が流動化する編に備えて、勢力図をおさらいします。"
+    research_links:
+      - label: "死霊術の書き留め"
+        url: "https://analysis.example.com/dmdp/shinoyama-power"
+      - label: "アニメ公式サイト"
+        url: "https://dmdp-anime.jp/"
+    force_modes:
+      - insight

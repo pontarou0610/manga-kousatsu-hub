@@ -32,6 +32,7 @@ TEMPLATE_DIR = ROOT_DIR / "templates"
 STATIC_DIR = ROOT_DIR / "static"
 OGP_DIR = STATIC_DIR / "ogp"
 GLOSSARY_DIR = DATA_DIR / "glossary"
+BACKLOG_DIR = DATA_DIR / "backlog"
 
 OGP_WIDTH = 1200
 OGP_HEIGHT = 630
@@ -141,7 +142,7 @@ def load_series_config(path: Path = DATA_DIR / "series.yaml") -> List[Dict[str, 
 
 def load_state(path: Path = DATA_DIR / "state.json") -> Dict[str, Any]:
     if not path.exists():
-        return {"entries": [], "glossary_progress": {}}
+        return {"entries": [], "glossary_progress": {}, "backlog_progress": {}}
     with path.open(encoding="utf-8") as f:
         try:
             state = json.load(f)
@@ -151,6 +152,8 @@ def load_state(path: Path = DATA_DIR / "state.json") -> Dict[str, Any]:
         state["entries"] = []
     if "glossary_progress" not in state:
         state["glossary_progress"] = {}
+    if "backlog_progress" not in state:
+        state["backlog_progress"] = {}
     return state
 
 
@@ -288,6 +291,7 @@ def fetch_pexels_image(query: str) -> Optional[Dict[str, str]]:
     image_url = src.get("landscape") or src.get("large") or src.get("medium")
     if not image_url:
         return None
+
     return {
         "url": image_url,
         "alt": photo.get("alt") or query,
@@ -598,6 +602,24 @@ def select_glossary_terms(series_slug: str, terms: List[Dict[str, str]], state: 
     return terms[:target], remaining
 
 
+def _merge_reference_links(
+    primary: Optional[List[Dict[str, str]]], fallback: Optional[List[Dict[str, str]]]
+) -> List[Dict[str, str]]:
+    merged: List[Dict[str, str]] = []
+    seen: set[str] = set()
+    for block in (primary or [], fallback or []):
+        for link in block or []:
+            if not link:
+                continue
+            url = (link.get("url") or "").strip()
+            if not url or url in seen:
+                continue
+            seen.add(url)
+            label = link.get("label") or url
+            merged.append({"label": label, "url": url})
+    return merged
+
+
 def build_spoiler_context(
     series: Dict[str, Any],
     entry: Dict[str, Any],
@@ -612,7 +634,9 @@ def build_spoiler_context(
         "foreshadowings": ["伏線整理中。", "続報を確認中。"],
         "predictions": ["公式情報待ち。", "確定情報が出次第更新予定。"],
     }
-    reference_links = payload.get("reference_links") if payload else series.get("official_links", [])
+    payload_links = payload.get("reference_links") if payload else []
+    supplemental_links = entry.get("research_links") or series.get("official_links", [])
+    reference_links = _merge_reference_links(payload_links, supplemental_links)
 
     official_links = series.get("official_links", [])
     official_link = official_links[0] if official_links else None
@@ -720,7 +744,7 @@ def build_insight_context(
             "characters": insight_block.get("characters", []),
             "actions": insight_block.get("actions", []),
         },
-        "reference_links": insight_block.get("reference_links", series.get("official_links", [])),
+        "reference_links": reference_links,
         "hero_image": hero_image,
         "official_link": official_link,
     }
@@ -760,6 +784,43 @@ def build_glossary_context(series: Dict[str, Any], terms: List[Dict[str, str]], 
         "glossary": terms,
         "glossary_note": glossary_note,
         "official_link": official_link,
+    }
+
+
+def load_backlog_entries(series_slug: str) -> List[Dict[str, Any]]:
+    path = BACKLOG_DIR / f"{series_slug}.yaml"
+    if not path.exists():
+        return []
+    with path.open(encoding="utf-8") as f:
+        data = yaml.safe_load(f) or {}
+    entries = data.get("entries") or data.get("topics") or []
+    return [entry for entry in entries if isinstance(entry, dict)]
+
+
+def select_backlog_entry(series: Dict[str, Any], state: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+    backlog_entries = load_backlog_entries(series["slug"])
+    if not backlog_entries:
+        return None
+    progress = state.setdefault("backlog_progress", {})
+    index = progress.get(series["slug"], 0)
+    if index >= len(backlog_entries):
+        return None
+    entry = backlog_entries[index]
+    progress[series["slug"]] = index + 1
+    official_links = series.get("official_links", [])
+    default_link = official_links[0].get("url") if official_links and official_links[0].get("url") else ""
+    research_links = entry.get("research_links") or []
+    return {
+        "id": entry.get("id") or f"{series['slug']}-backlog-{index}",
+        "title": entry.get("title", f"{series['name']} バックログ考察"),
+        "link": entry.get("link") or default_link or "",
+        "summary": entry.get("summary", ""),
+        "chapter": entry.get("chapter", entry.get("title", "")),
+        "intro": entry.get("intro", entry.get("summary", "")[:140]),
+        "date": entry.get("date") or dt.datetime.now(dt.timezone.utc).isoformat(),
+        "force_modes": entry.get("force_modes"),
+        "research_links": research_links,
+        "is_backlog": True,
     }
 
 
@@ -803,7 +864,7 @@ def map_feed_entry(series: Dict[str, Any], entry: feedparser.FeedParserDict) -> 
     }
 
 
-def load_entries_for_series(series: Dict[str, Any]) -> List[Dict[str, Any]]:
+def load_entries_for_series(series: Dict[str, Any], state: Dict[str, Any]) -> List[Dict[str, Any]]:
     if series.get("manual"):
         manual_entry = collect_manual_entry(series)
         if manual_entry:
@@ -813,6 +874,10 @@ def load_entries_for_series(series: Dict[str, Any]) -> List[Dict[str, Any]]:
     entries = []
     for entry in fetch_feed(series.get("rss", "")):
         entries.append(map_feed_entry(series, entry))
+    if not entries:
+        backlog_entry = select_backlog_entry(series, state)
+        if backlog_entry:
+            entries.append(backlog_entry)
     if not entries:
         fallback = build_fallback_entry(series)
         if fallback:

@@ -54,7 +54,7 @@ def try_generate_article(series: Dict[str, Any], entry: Dict[str, Any], mode: st
 def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Dict[str, Any]) -> List[str]:
     new_entries: List[str] = []
     try:
-        entries = load_entries_for_series(series)
+        entries = load_entries_for_series(series, state)
     except Exception as exc:
         log(f"RSS取得に失敗: {series['name']} - {exc}")
         traceback.print_exc()

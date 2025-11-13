@@ -1,0 +1,26 @@
+﻿entries:
+  - title: "合従軍から見る飛信隊の指揮術"
+    chapter: "第340話"
+    date: "2024-05-01T00:00:00Z"
+    summary: "合従軍戦で慶舎と対峙した飛信隊の動きを振り返り、奇襲と防衛の切り替えがどのように機能したかを整理します。"
+    intro: "最新話が空いている期間は、合従軍の名場面を振り返って戦術を棚卸しします。"
+    research_links:
+      - label: "考察ブログ: 合従軍編の戦術まとめ"
+        url: "https://fanblog.example.com/kingdom/gasshugod-analysis"
+      - label: "週刊ヤングジャンプ公式"
+        url: "https://youngjump.jp/manga/kingdom/"
+    force_modes:
+      - spoiler
+      - insight
+  - title: "秦趙同盟前夜の政と信"
+    chapter: "第499話"
+    date: "2023-12-10T00:00:00Z"
+    summary: "政と信がそれぞれの立場から趙との同盟を模索した際の心情を再整理し、現在の政局へのつながりを示します。"
+    intro: "大きな政争の礎になった外交戦を読み返し、今後の布石を確認します。"
+    research_links:
+      - label: "キングダム研究室"
+        url: "https://analysis.example.com/kingdom/shin-sei-diplomacy"
+      - label: "キングダム公式ガイド"
+        url: "https://youngjump.jp/manga/kingdom/"
+    force_modes:
+      - insight

@@ -1,0 +1,25 @@
+﻿entries:
+  - title: "みつみの文化祭プロジェクト反省会"
+    chapter: "第42話"
+    date: "2024-03-20T00:00:00Z"
+    summary: "文化祭でのプロジェクト管理を振り返り、みつみが地方出身者として抱えた葛藤と成長ポイントを整理します。"
+    intro: "休載期間は既出エピソードから受験・進路ネタをまとめ直します。"
+    research_links:
+      - label: "スキロー観察記"
+        url: "https://fanblog.example.com/skiploaf/culture-festival"
+      - label: "月刊アフタヌーン公式"
+        url: "https://afternoon.kodansha.co.jp/c/skiploaf/"
+    force_modes:
+      - insight
+  - title: "志摩とみつみの距離感アップデート"
+    chapter: "第35話"
+    date: "2023-10-28T00:00:00Z"
+    summary: "志摩が抱える過去と、みつみが寄り添うまでのプロセスを掘り下げ、現在の関係性の土台を可視化します。"
+    intro: "公開済みの心理描写をまとめ直し、今後の進展を予想します。"
+    research_links:
+      - label: "Skip&Loafer note"
+        url: "https://analysis.example.com/skiploaf/shima-growth"
+      - label: "TVアニメ公式"
+        url: "https://skip-and-loafer.com/"
+    force_modes:
+      - insight

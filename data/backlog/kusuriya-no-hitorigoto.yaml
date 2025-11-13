@@ -1,0 +1,26 @@
+﻿entries:
+  - title: "猫猫が推理した双子入れ替わり事件"
+    chapter: "第90話"
+    date: "2024-02-18T00:00:00Z"
+    summary: "後宮で起きた双子入れ替わり事件の真相を猫猫がどう導いたかを再確認し、現在の伏線へリンクさせます。"
+    intro: "最新話がない週は、既出の医療トリックを整理して読者の復習を助けます。"
+    research_links:
+      - label: "薬屋の事件ファイル"
+        url: "https://fanblog.example.com/kusuriya/twin-case"
+      - label: "月刊ビッグガンガン公式"
+        url: "https://magazine.jp.square-enix.com/biggangan/kusuriya/"
+    force_modes:
+      - insight
+      - spoiler
+  - title: "壬氏と猫猫の距離が縮まった甘味事件"
+    chapter: "第105話"
+    date: "2023-09-12T00:00:00Z"
+    summary: "壬氏が猫猫に甘味を差し入れたエピソードを掘り下げ、二人の駆け引きがどう信頼に変化したかをまとめます。"
+    intro: "恋愛寄りの振り返りで、キャラクター人気をキープします。"
+    research_links:
+      - label: "後宮考察帳"
+        url: "https://analysis.example.com/maomao/rinshi-sweets"
+      - label: "アニメ公式サイト"
+        url: "https://kusuriyanohitorigoto.jp/"
+    force_modes:
+      - insight
