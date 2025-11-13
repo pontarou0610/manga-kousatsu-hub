@@ -1,4 +1,4 @@
-# 作品ごとの設定。必要に応じてエントリを追加してください。
+﻿# 作品ごとの設定。必要に応じてエントリを追加してください。
 - name: "天国大魔境"
   slug: "heavenly-delusion"
   rss: ""
@@ -7,7 +7,7 @@
   auto_publish: false
   official_links:
     - label: "作品公式サイト"
-      url: "https://dengekidaioh.jp/product/tenkoku/"
+      url: "https://afternoon.kodansha.co.jp/c/tengokudaimakyo/"
     - label: "アニメ公式サイト"
       url: "https://tdm-anime.com/"
   tags:
@@ -43,7 +43,7 @@
   auto_publish: false
   official_links:
     - label: "月刊アフタヌーン公式"
-      url: "https://afternoon.kodansha.co.jp/c/skiploaf/"
+      url: "https://afternoon.kodansha.co.jp/c/skiptoloafer/"
     - label: "TVアニメ公式サイト"
       url: "https://skip-and-loafer.com/"
   tags:
@@ -79,7 +79,7 @@
   auto_publish: false
   official_links:
     - label: "ガンガンJOKER公式"
-      url: "https://magazine.jp.square-enix.com/joker/series/deadmount/"
+      url: "https://magazine.jp.square-enix.com/yg/introduction/dead/"
     - label: "アニメ公式サイト"
       url: "https://dmdp-anime.jp/"
   tags:
@@ -151,7 +151,7 @@
   auto_publish: false
   official_links:
     - label: "月刊サンデーGX公式"
-      url: "https://sundaygx.com/contents/kusuriya/"
+      url: "https://sundaygx.com/kusuriya/"
     - label: "TVアニメ公式サイト"
       url: "https://kusuriyanohitorigoto.jp/"
   tags:
@@ -189,7 +189,7 @@
   auto_publish: false
   official_links:
     - label: "モーニング公式サイト"
-      url: "https://morning.kodansha.co.jp/c/uchu_kyodai.html"
+      url: "https://morning.kodansha.co.jp/c/uchukyodai/"
     - label: "TVアニメ公式サイト"
       url: "https://www.ytv.co.jp/uchukyodai/"
   tags:
@@ -263,7 +263,7 @@
   auto_publish: false
   official_links:
     - label: "ビッグコミックス公式"
-      url: "https://bigcomicbros.net/work/aoashi/"
+      url: "https://bigcomicbros.net/comics/30384/"
     - label: "アニメ公式サイト"
       url: "https://aoashi-pr.com/"
   tags:
@@ -290,3 +290,35 @@
   defaults:
     disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
     synopsis_prefix: "青井葦人の成長譚で"
+
+- name: "魔男のイチ"
+  slug: "maotoko-no-ichi"
+  rss: ""
+  release_day: "2025-01-27"
+  manual: true
+  auto_publish: false
+  official_links: []
+  tags:
+    - "ダークファンタジー"
+    - "サスペンス"
+    - "青年誌"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  fallback_topics:
+    - "魔男一家の序列と掟を整理して勢力図を把握する"
+    - "イチの過去任務から読み解く判断基準と価値観"
+    - "裏都で使われる呪符・武具の仕組みを日常に応用する視点"
+  affiliates:
+    amazon:
+      asin: ""
+    rakuten:
+      params: "YOUR_RAKUTEN_PARAMS"
+    others: []
+    priority:
+      - "Amazon"
+      - "Rakuten"
+  defaults:
+    disclaimer: "公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。"
+    synopsis_prefix: "裏社会で暗躍するイチが"

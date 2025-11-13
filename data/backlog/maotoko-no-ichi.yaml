@@ -1,0 +1,25 @@
+﻿entries:
+  - title: "裏都潜入任務の振り返りと教訓"
+    chapter: "第18話"
+    date: "2024-02-14T00:00:00Z"
+    summary: "イチが裏都の呪具市場へ潜入した作戦を再検証し、仲間たちの役割分担と魔男一家の内紛を整理する。"
+    intro: "裏都での潜入任務を安全に完遂するための視点を短く確認します。"
+    research_links:
+      - label: "非公式まとめブログ"
+        url: "https://analysis.example.com/maotoko/uchito-case"
+      - label: "作者コメントアーカイブ"
+        url: "https://fanblog.example.com/maotoko/interview"
+    force_modes:
+      - insight
+  - title: "呪符工房の仕掛けを読み解く"
+    chapter: "第12話"
+    date: "2023-09-02T00:00:00Z"
+    summary: "呪符工房で起きた爆発事件から、イチが持ち込んだ旧式の術式と敵対勢力の狙いを整理し、次の備えを提示する。"
+    intro: "呪符の扱いをミスしないための基本を今日から復習しましょう。"
+    research_links:
+      - label: "魔術考察ノート"
+        url: "https://lore.example.com/maotoko/sigil-lab"
+      - label: "掲示板ログ"
+        url: "https://bbs.example.com/thread/maotoko-ichi"
+    force_modes:
+      - spoiler
