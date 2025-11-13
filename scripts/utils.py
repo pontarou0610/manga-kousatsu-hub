@@ -128,6 +128,13 @@ ARTICLE_INSIGHT_REVIEW_TMPL = """\
 {raw}
 """
 
+ARTICLE_INSIGHT_SYSTEM_EXTRA = (
+    "出力は必ず日本語で、公開済み情報だけを根拠にしてください。"
+    "数値や固有名詞は可能な限り具体的に書き、根拠がない推測は避けます。"
+    "読者が次の行動を取りやすいよう、簡潔で丁寧な言い回しを使ってください。"
+)
+
+
 
 def ensure_directory(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
@@ -715,6 +722,8 @@ def build_insight_context(
         ],
         "reference_links": series.get("official_links", []),
     }
+
+    reference_links = insight_block.get("reference_links", series.get("official_links", []))
 
     return {
         "title": (payload.get("title") if payload else f"{entry.get('title', series['name'])} 考察メモ（ネタバレ無し）"),
