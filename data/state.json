@@ -1,5 +1,19 @@
 {
-  "entries": [],
+  "entries": [
+    "6f5de6fc8d6842db4d9b145ca4ed485fc7a66ccb",
+    "8d2cb7ffa5e041687ea9b33474d455d2fb419fdd",
+    "465762f26e4c776913de6ce47bd92bc9ac784cb6",
+    "f452c9de6b65f1187c95a9c4b95fc1cb09cee22d",
+    "28b20b186db1651d86fcd78ef3e865f902271a74",
+    "b5ff20428795d9bd1bb496dacd8d166176b2daae",
+    "fd1715be177ddfc3c968393a4a30f71706e8d195",
+    "8232979219c421a0f8c9696c979736332d16ee41",
+    "67b06d9fbec94912a7436719a7dee6a6b5338b28",
+    "fe6f01c967ef345e35a519795b27bf7fab3090e2",
+    "ef91c7819b039b5a57d97e538eb03949b4ceaf0e",
+    "970243daf650fa3a22e386f991c8b9bbe7b3a5da",
+    "15fdafb4ace6ee3950284f177e39cda664477600"
+  ],
   "glossary_progress": {
     "heavenly-delusion": 5,
     "skip-and-loafer": 5,
@@ -7,5 +21,13 @@
     "kingdom": 5,
     "kusuriya-no-hitorigoto": 5,
     "space-brothers": 5
+  },
+  "backlog_progress": {
+    "skip-and-loafer": 1,
+    "dead-mount-death-play": 1,
+    "kingdom": 1,
+    "kusuriya-no-hitorigoto": 1,
+    "golden-kamuy": 1,
+    "maotoko-no-ichi": 1
   }
 }
