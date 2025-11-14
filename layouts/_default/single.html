@@ -25,6 +25,19 @@
 
     {{ .Content }}
 
+    {{ $shareURL := .Permalink | urlquery }}
+    {{ $shareTitle := .Title | urlquery }}
+    {{ $lineText := printf "%s%%0A%s" $shareTitle $shareURL }}
+    <section class="share-buttons">
+      <h2>この記事をシェアする</h2>
+      <div class="share-buttons__links">
+        <a class="share-button share-button--x" href="https://twitter.com/intent/tweet?url={{ $shareURL }}&text={{ $shareTitle }}" target="_blank" rel="noopener">Xでシェアする</a>
+        <a class="share-button share-button--line" href="https://line.me/R/msg/text/?{{ $lineText }}" target="_blank" rel="noopener">LINEでシェアする</a>
+        <a class="share-button share-button--facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ $shareURL }}" target="_blank" rel="noopener">Facebookでシェアする</a>
+        <a class="share-button share-button--hatena" href="https://b.hatena.ne.jp/add?mode=confirm&url={{ $shareURL }}&title={{ $shareTitle }}" target="_blank" rel="noopener">はてなブックマークでシェアする</a>
+      </div>
+    </section>
+
     {{ $seriesPages := where (where .Site.RegularPages "Params.series" .Params.series) "Permalink" "ne" .Permalink }}
     {{ if gt (len $seriesPages) 0 }}
       <section class="related-posts">

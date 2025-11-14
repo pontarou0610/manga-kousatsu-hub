@@ -64,11 +64,12 @@ ARTICLE_SYSTEM_PROMPT_SPOILER = (
     "あなたは人気漫画の考察ブログを運営する日本語編集者です。"
     "公式情報のみを扱い、ネタバレは指定されたトグル内に限定し、"
     "事実確認できない内容は推測として明確に示してください。"
+    "臨場感のある長文で、途中に筆者自身の感想や評価を織り交ぜながら書いてください。"
 )
 ARTICLE_SYSTEM_PROMPT_INSIGHT = (
-    "あなたは人気漫画の設定・テーマを整理する日本語編集者です。"
-    "作品の公開済み情報だけを使い、ネタバレは避けて解説してください。"
-    "読者が次の行動を取れるよう、具体的な視点と小さな一歩を提示します。"
+    "あなたは人気漫画の設定やテーマを深掘りする日本語編集者です。"
+    "作品の公開済み情報だけを使い、伏線や心理の因果を丁寧に紐解いてください。"
+    "軽い要約ではなく、具体例と論理で考察を厚く描写してください。"
 )
 ARTICLE_REVIEW_SYSTEM = (
     "あなたは厳格な校閲者です。渡されたJSONを仕様に合わせて整形し、"
@@ -89,15 +90,21 @@ $official_links
 Keys: intro, summary_points, spoiler, reference_links.
 1. intro: 80-140 chars, no spoilers.
 2. summary_points: 3 bullet strings, spoiler-free.
-3. spoiler: { "synopsis": <=120 chars, "foreshadowings": 2 items, "predictions": 2 items } with spoilers allowed.
+3. spoiler: {
+     "synopsis": >=1500 Japanese characters, multi-paragraph, mixing detailed plot beats with short first-person impressions,
+     "foreshadowings": 3 bullet strings explaining how clues were used or left unresolved,
+     "predictions": 2 bullet strings with explicit reasoning.
+   }
 4. reference_links: only from provided list. Each item { "label": "...", "url": "..." }.
 
 Return JSON only.
 """)
 ARTICLE_SPOILER_REVIEW_TMPL = """\
-次のJSONをブログ仕様に整えてください。欠落項目は補完し、形式違反は修正してください。
+
+次のJSONをブログ仕様に整えてください。欠落項目は補完し、synopsisが1500文字未満なら加筆し、形式違反も修正してください。
 
 {raw}
+
 """
 ARTICLE_INSIGHT_USER_TMPL = Template("""
 Use the following context to produce spoiler-free analysis JSON.
@@ -111,14 +118,13 @@ Use the following context to produce spoiler-free analysis JSON.
 $official_links
 
 # Output
-Keys: intro, summary_points, themes, characters, actions, reference_links, title.
-1. intro: 80-140 chars, spoiler-free.
-2. summary_points: 3 bullet strings, spoiler-free.
-3. themes: 2 items { "title": "...", "detail": "..." }.
-4. characters: 2 items { "name": "...", "focus": "..." }.
-5. actions: 2-3 bullet strings for actionable steps.
-6. reference_links: only provided official links.
-7. title: SEO friendly Japanese title (~30 chars) including series + topic.
+Keys: intro, summary_points, themes, characters, reference_links, title.
+1. intro: 120-180 chars, spoiler-free, setting up the question to explore.
+2. summary_points: 3 bullet strings (each >=80 Japanese chars) highlighting insights, not just plot.
+3. themes: 3 items { "title": "...", "detail": "...(>=200 chars with concrete examples)" }.
+4. characters: 3 items { "name": "...", "focus": "...(explain inner conflict / motive / consequence)" }.
+5. reference_links: only provided official links.
+6. title: SEO friendly Japanese title (~30 chars) including series + topic.
 
 Return JSON only.
 """)
@@ -484,14 +490,14 @@ def _normalize_insight_payload(data: Dict[str, Any], official_links: List[Dict[s
             "今日から実践できる小さな一歩を提示。",
         ]
 
-    themes = clean_dict_list(data.get("themes"), ("title", "detail"))[:2]
+    themes = clean_dict_list(data.get("themes"), ("title", "detail"))[:3]
     if not themes:
         themes = [
             {"title": "テーマ整理中", "detail": "最新の公開情報を確認次第更新します。"},
             {"title": "モチーフ整理中", "detail": "既出の設定集から構造化中です。"},
         ]
 
-    characters = clean_dict_list(data.get("characters"), ("name", "focus"))[:2]
+    characters = clean_dict_list(data.get("characters"), ("name", "focus"))[:3]
     if not characters:
         characters = [
             {"name": "主人公", "focus": "既出エピソードで見える価値観を整理。"},
@@ -511,7 +517,6 @@ def _normalize_insight_payload(data: Dict[str, Any], official_links: List[Dict[s
         "summary_points": summary_points,
         "themes": themes,
         "characters": characters,
-        "actions": actions,
         "reference_links": references,
     }
 
@@ -684,6 +689,7 @@ def build_spoiler_context(
     }
 
 
+
 def build_insight_context(
     series: Dict[str, Any],
     entry: Dict[str, Any],
@@ -698,13 +704,13 @@ def build_insight_context(
     others = prioritized_other_affiliates(series)
     disclaimer_text = series.get("defaults", {}).get(
         "disclaimer",
-        "公式情報のみを参照し、ネタバレは折りたたみ内に限定しています。",
+        "公式情報のみを参照し、ネタバレは折りたたみ領域に限定します。",
     )
 
     summary = payload.get("summary_points") if payload else [
-        f"{series['name']}の世界観やテーマをネタバレ無しで整理。",
-        "キャラクターの心理・価値観を既出情報だけで読み解く。",
-        "次回に向けた着眼点を行動ベースで提示。",
+        f"{series['name']}の世界観とテーマをネタバレ無しで整理します。",
+        "既出情報をもとにキャラクターの感情と決断を読み解きます。",
+        "伏線とモチーフの因果を丁寧に言語化します。",
     ]
 
     insight_block = payload if payload else {
@@ -713,12 +719,8 @@ def build_insight_context(
             {"title": "モチーフ整理中", "detail": "公開情報の確認後に解説します。"},
         ],
         "characters": [
-            {"name": "主要キャラA", "focus": "行動原理を既出設定から考察中。"},
-            {"name": "主要キャラB", "focus": "価値観と作品テーマの関係を確認中。"},
-        ],
-        "actions": [
-            "気になるシーンをもう一度読み直し、感情の変化に注目する。",
-            "公式設定資料で固有名詞の使い方を確認する。",
+            {"name": "主要キャラA", "focus": "行動原理と葛藤の接点を既出設定から確認中。"},
+            {"name": "主要キャラB", "focus": "価値観と作品テーマの結びつきを整理中。"},
         ],
         "reference_links": series.get("official_links", []),
     }
@@ -745,13 +747,12 @@ def build_insight_context(
         "images": [ogp_path] if ogp_path else [],
         "intro": insight_block.get("intro") or entry.get(
             "intro",
-            f"{series['name']}の公開済み情報をもとに、今読むべき視点を整理します。",
+            f"{series['name']}の公開済み情報だけを使って考察を深めます。",
         ),
         "summary_points": summary[:3],
         "insight": {
             "themes": insight_block.get("themes", []),
             "characters": insight_block.get("characters", []),
-            "actions": insight_block.get("actions", []),
         },
         "reference_links": reference_links,
         "hero_image": hero_image,

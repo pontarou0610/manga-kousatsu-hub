@@ -48,7 +48,7 @@ images: []
 {% endfor %}
 
 {{ "{{< spoiler >}}" }}
-### あらすじ（120字目安）
+### ネタバレ詳細と所感（1500文字以上）
 {{ spoiler.synopsis }}
 
 ### 回収された伏線／新たな疑問
@@ -56,13 +56,13 @@ images: []
 - {{ item }}
 {% endfor %}
 
-### 次回予想（根拠あり）
+### 次回予想（根拠つき）
 {% for item in spoiler.predictions %}
 - {{ item }}
 {% endfor %}
 {{ "{{< /spoiler >}}" }}
 
-## 参考リンク（すべて公式）
+## 参照リンク（すべて公式）
 {% for link in reference_links %}
 - [{{ link.label }}]({{ link.url }})
 {% endfor %}
@@ -77,9 +77,9 @@ images: []
 {% endif %}
 
 {% if affiliate_widgets.amazon %}
-{{ "{{< affbox title=\"最新巻（Amazon）\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"最新巻をAmazonで探す\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
 {% endif %}
 
 {% if affiliate_widgets.rakuten %}
-{{ "{{< affbox title=\"最新巻（Rakuten）\" desc=\"楽天ポイント還元あり\" url=\"" }}{{ affiliate_widgets.rakuten }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"最新巻をRakutenで探す\" desc=\"楽天ポイント還元あり\" url=\"" }}{{ affiliate_widgets.rakuten }}{{ "\" >}}" }}
 {% endif %}

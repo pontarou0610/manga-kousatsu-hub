@@ -49,7 +49,8 @@ images: []
 
 ## テーマ深掘り
 {% for item in insight.themes %}
-- **{{ item.title }}** — {{ item.detail }}
+### {{ item.title }}
+{{ item.detail }}
 {% endfor %}
 
 ## キャラクター視点
@@ -57,12 +58,7 @@ images: []
 - **{{ item.name }}**: {{ item.focus }}
 {% endfor %}
 
-## 今日できる小さな一歩
-{% for step in insight.actions %}
-- {{ step }}
-{% endfor %}
-
-## 参考リンク（すべて公式）
+## 参照リンク（すべて公式）
 {% for link in reference_links %}
 - [{{ link.label }}]({{ link.url }})
 {% endfor %}
@@ -77,9 +73,9 @@ images: []
 {% endif %}
 
 {% if affiliate_widgets.amazon %}
-{{ "{{< affbox title=\"最新巻（Amazon）\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"最新巻をAmazonで探す\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
 {% endif %}
 
 {% if affiliate_widgets.rakuten %}
-{{ "{{< affbox title=\"最新巻（Rakuten）\" desc=\"楽天ポイント還元あり\" url=\"" }}{{ affiliate_widgets.rakuten }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"最新巻をRakutenで探す\" desc=\"楽天ポイント還元あり\" url=\"" }}{{ affiliate_widgets.rakuten }}{{ "\" >}}" }}
 {% endif %}
