@@ -25,13 +25,14 @@
 
     {{ .Content }}
 
-    {{ $shareURL := .Permalink | urlquery }}
-    {{ $shareTitle := .Title | urlquery }}
-    {{ $lineText := printf "%s%%0A%s" $shareTitle $shareURL }}
+    {{ $shareURL := .Permalink }}
+    {{ $shareTitle := .Title }}
+    {{ $encodedTitle := $shareTitle | urlquery }}
+    {{ $lineText := printf "%s%%0A%s" $encodedTitle $shareURL }}
     <section class="share-buttons">
       <h2>この記事をシェアする</h2>
       <div class="share-buttons__links">
-        <a class="share-button share-button--x" href="https://twitter.com/intent/tweet?url={{ $shareURL }}&text={{ $shareTitle }}" target="_blank" rel="noopener" aria-label="Share on X">
+        <a class="share-button share-button--x" href="https://twitter.com/intent/tweet?url={{ $shareURL }}&text={{ $encodedTitle }}" target="_blank" rel="noopener" aria-label="Share on X">
           <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M18 2h3l-6.5 7.4L22 22h-7l-4.5-6L5 22H2l7-8.1L2.5 2H9l4 5.5L18 2z" fill="currentColor"/></svg>
         </a>
         <a class="share-button share-button--line" href="https://line.me/R/msg/text/?{{ $lineText }}" target="_blank" rel="noopener" aria-label="Share on LINE">
@@ -40,7 +41,7 @@
         <a class="share-button share-button--facebook" href="https://www.facebook.com/share.php?u={{ $shareURL }}" target="_blank" rel="noopener" aria-label="Share on Facebook">
           <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M13 22v-8h3l1-4h-4V7c0-1.1.9-2 2-2h2V1h-3c-3 0-5 2.2-5 5v3H6v4h3v8h4z" fill="currentColor"/></svg>
         </a>
-        <a class="share-button share-button--hatena" href="https://b.hatena.ne.jp/add?mode=confirm&url={{ $shareURL | htmlEscape }}" target="_blank" rel="noopener" aria-label="Share on Hatena Bookmark">
+        <a class="share-button share-button--hatena" href="https://b.hatena.ne.jp/add?mode=confirm&url={{ $shareURL }}" target="_blank" rel="noopener" aria-label="Share on Hatena Bookmark">
           <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M6 4h5.2c2.7 0 4.8 1.8 4.8 4 0 1.5-.9 2.6-2.2 3.2 1.8.5 3 1.9 3 3.8 0 2.5-2.2 4.5-5.1 4.5H6V4zm5 6c1.1 0 2-.7 2-1.8 0-1-1-1.7-2-1.7H9v3.5h2zm.4 6c1.3 0 2.3-.8 2.3-2s-1-2-2.3-2H9v4h2.4zM19 4h2v16h-2V4z" fill="currentColor"/></svg>
         </a>
       </div>
