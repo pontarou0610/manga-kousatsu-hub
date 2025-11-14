@@ -25,14 +25,13 @@
 
     {{ .Content }}
 
-    {{ $shareURL := .Permalink }}
+    {{ $shareURL := .Permalink | urlquery }}
     {{ $shareTitle := .Title }}
-    {{ $encodedTitle := $shareTitle | urlquery }}
-    {{ $lineText := printf "%s%%0A%s" $encodedTitle $shareURL }}
+    {{ $lineText := printf "%s\n%s" $shareTitle .Permalink | urlquery }}
     <section class="share-buttons">
       <h2>この記事をシェアする</h2>
       <div class="share-buttons__links">
-        <a class="share-button share-button--x" href="https://twitter.com/intent/tweet?url={{ $shareURL }}&text={{ $encodedTitle }}" target="_blank" rel="noopener" aria-label="Share on X">
+        <a class="share-button share-button--x" href="https://twitter.com/intent/tweet?url={{ $shareURL }}&text={{ $shareTitle | htmlEscape }}" target="_blank" rel="noopener" aria-label="Share on X">
           <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M18 2h3l-6.5 7.4L22 22h-7l-4.5-6L5 22H2l7-8.1L2.5 2H9l4 5.5L18 2z" fill="currentColor"/></svg>
         </a>
         <a class="share-button share-button--line" href="https://line.me/R/msg/text/?{{ $lineText }}" target="_blank" rel="noopener" aria-label="Share on LINE">
