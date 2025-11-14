@@ -3,8 +3,8 @@
   slug: "heavenly-delusion"
   rss: ""
   release_day: "2025-01-15"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links:
     - label: "作品公式サイト"
       url: "https://afternoon.kodansha.co.jp/c/tengokudaimakyo/"
@@ -39,8 +39,8 @@
   slug: "skip-and-loafer"
   rss: ""
   release_day: "2025-01-20"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links:
     - label: "月刊アフタヌーン公式"
       url: "https://afternoon.kodansha.co.jp/c/skiptoloafer/"
@@ -75,8 +75,8 @@
   slug: "dead-mount-death-play"
   rss: ""
   release_day: "2025-01-12"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links:
     - label: "ガンガンJOKER公式"
       url: "https://magazine.jp.square-enix.com/yg/introduction/dead/"
@@ -111,8 +111,8 @@
   slug: "kingdom"
   rss: ""
   release_day: "2025-01-18"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links:
     - label: "週刊ヤングジャンプ公式"
       url: "https://youngjump.jp/manga/kingdom/"
@@ -147,8 +147,8 @@
   slug: "kusuriya-no-hitorigoto"
   rss: ""
   release_day: "2025-01-09"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links:
     - label: "月刊サンデーGX公式"
       url: "https://sundaygx.com/kusuriya/"
@@ -185,8 +185,8 @@
   slug: "space-brothers"
   rss: ""
   release_day: "2025-01-25"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links:
     - label: "モーニング公式サイト"
       url: "https://morning.kodansha.co.jp/c/uchukyodai/"
@@ -223,8 +223,8 @@
   slug: "golden-kamuy"
   rss: ""
   release_day: "2025-01-14"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links:
     - label: "週刊ヤングジャンプ公式"
       url: "https://youngjump.jp/manga/goldenkamuy/"
@@ -259,8 +259,8 @@
   slug: "aoashi"
   rss: ""
   release_day: "2025-01-22"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links:
     - label: "ビッグコミックス公式"
       url: "https://bigcomicbros.net/comics/30384/"
@@ -295,8 +295,8 @@
   slug: "maotoko-no-ichi"
   rss: ""
   release_day: "2025-01-27"
-  manual: true
-  auto_publish: false
+  manual: false
+  auto_publish: true
   official_links: []
   tags:
     - "ダークファンタジー"
