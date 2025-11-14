@@ -902,10 +902,12 @@ def build_fallback_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     index = today.toordinal() % len(topics)
     topic = topics[index]
     topic_slug = slugify(topic)
+    official_links = series.get("official_links") or [{}]
+    primary_link = official_links[0] if isinstance(official_links, list) and official_links else {}
     return {
         "id": f"{series['slug']}-fallback-{today.isoformat()}-{topic_slug}",
         "title": topic,
-        "link": series.get("official_links", [{}])[0].get("url", ""),
+        "link": primary_link.get("url", ""),
         "summary": topic,
         "chapter": topic,
         "intro": f"{series['name']}の既出情報をもとに「{topic}」を深掘りします（ネタバレ無し）。",
