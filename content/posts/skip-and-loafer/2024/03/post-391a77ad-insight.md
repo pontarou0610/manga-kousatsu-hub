@@ -1,5 +1,6 @@
 ---
 title: "スキップとローファー｜第42話考察"
+slug: "post-391a77ad-insight"
 date: 2024-03-20T00:00:00Z
 series: "スキップとローファー"
 chapter: "第42話"

@@ -1,5 +1,6 @@
 ---
 title: "魔男のイチ｜第18話考察"
+slug: "post-9d0b2a18-insight"
 date: 2024-02-14T00:00:00Z
 series: "魔男のイチ"
 chapter: "第18話"

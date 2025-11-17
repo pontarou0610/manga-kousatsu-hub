@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>{{ if .IsHome }}{{ .Site.Title }}｜{{ .Site.Params.siteDescription }}{{ else }}{{ .Title }}｜{{ .Site.Title }}{{ end }}</title>
+    <title>{{ if .IsHome }}{{ .Site.Title }}・悳{ .Site.Params.siteDescription }}{{ else }}{{ .Title }}・悳{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.siteDescription }}{{ end }}" />
     {{ $image := "" }}
     {{ with .Params.images }}
@@ -70,109 +70,172 @@
     {{ end }}
     <style>
       :root {
-        color-scheme: light dark;
-        --accent: #ff5c7b;
-        --bg: #0e1014;
-        --fg: #f5f6fa;
+        --accent: #ff6b3d;
+        --accent-strong: #ff5a1f;
+        --bg: #f8fafc;
+        --fg: #161b26;
+        --card: #ffffff;
+        --border: #e6eaf0;
+        --shadow: 0 14px 36px rgba(0, 0, 0, 0.08);
       }
       * { box-sizing: border-box; }
       body {
         margin: 0;
         font-family: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", sans-serif;
-        background: #090a0f;
-        color: #f4f6fb;
-        line-height: 1.7;
+        background: radial-gradient(circle at 20% 20%, #fff3eb, #f8fafc 38%, #f4f6fb 70%);
+        color: var(--fg);
+        line-height: 1.8;
       }
       a { color: var(--accent); text-decoration: none; }
-      a:hover { text-decoration: underline; }
-      header, footer {
-        padding: 1.5rem 1rem;
-        text-align: center;
-        background: rgba(255, 255, 255, 0.02);
-        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      a:hover { color: var(--accent-strong); }
+      header {
+        padding: 1.5rem 1rem 1.25rem;
+        background: linear-gradient(135deg, #111828 0%, #1f2435 30%, #0d6efd 100%);
+        color: #f9fbff;
+        box-shadow: var(--shadow);
+        position: sticky;
+        top: 0;
+        z-index: 10;
+      }
+      .container {
+        width: min(1180px, 100%);
+        margin: 0 auto;
+        padding: 0 1.25rem;
+      }
+      .hero {
+        display: flex;
+        flex-direction: column;
+        gap: 0.65rem;
+      }
+      .hero__title {
+        margin: 0;
+        font-size: clamp(1.25rem, 3vw, 1.7rem);
+        letter-spacing: 0.01em;
+      }
+      .hero__desc {
+        margin: 0;
+        color: rgba(255,255,255,0.85);
+        font-size: 0.98rem;
       }
       .site-nav {
         margin-top: 0.5rem;
         display: inline-flex;
-        gap: 1rem;
+        gap: 0.5rem;
         font-size: 0.95rem;
+        flex-wrap: wrap;
+      }
+      .site-nav a {
+        padding: 0.45rem 0.95rem;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(255,255,255,0.12);
+        color: #fff;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.25);
+      }
+      .site-nav a:hover {
+        background: rgba(255, 255, 255, 0.22);
       }
       main {
-        max-width: 960px;
+        max-width: 1140px;
         margin: 0 auto;
-        padding: 2rem 1rem 4rem;
+        padding: 2.5rem 1rem 4rem;
+      }
+      .page-card {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        box-shadow: var(--shadow);
+        padding: 2rem 2.2rem;
       }
       .notice {
         margin: 1rem 0;
         padding: 1rem 1.25rem;
         border-left: 4px solid var(--accent);
-        background: rgba(255, 255, 255, 0.05);
+        background: #fff4ec;
         font-size: 0.95rem;
+        color: #3a2a1c;
+        border-radius: 12px;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);
       }
       .spoiler {
         margin: 1.5rem 0;
-        border: 1px dashed rgba(255, 255, 255, 0.3);
-        border-radius: 6px;
+        border: 1px solid var(--border);
+        border-radius: 10px;
         overflow: hidden;
+        background: #f9fbff;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.7);
       }
       .spoiler summary {
         cursor: pointer;
         padding: 0.75rem 1rem;
-        background: rgba(255, 255, 255, 0.08);
-        font-weight: 600;
+        background: linear-gradient(90deg, #fff7f2, #f0f4ff);
+        font-weight: 700;
+        color: #1f2435;
       }
       .spoiler__body {
-        padding: 1rem;
-        background: rgba(0, 0, 0, 0.15);
+        padding: 1rem 1.25rem;
+        background: #fff;
       }
       .aff-box {
-        margin: 2rem 0;
-        padding: 1.5rem;
-        background: rgba(255, 255, 255, 0.04);
-        border: 1px solid rgba(255, 255, 255, 0.08);
-        border-radius: 10px;
+        margin: 1.5rem 0;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: #fffdfb;
+        padding: 1rem;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.7);
       }
-      .aff-box__title {
-        margin: 0 0 0.5rem;
-        font-size: 1.1rem;
+      .toc {
+        border: 1px solid var(--border);
+        padding: 1rem;
+        border-radius: 12px;
+        background: #fff;
+        box-shadow: var(--shadow);
       }
-      .aff-box__cta {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        padding: 0.6rem 1.4rem;
-        background: var(--accent);
-        color: #111;
-        font-weight: bold;
+      .toc ul {
+        list-style: none;
+        padding-left: 0;
+        margin: 0;
+      }
+      .toc li {
+        margin: 0.4rem 0;
+      }
+      .tag {
+        display: inline-block;
+        padding: 0.25rem 0.7rem;
         border-radius: 999px;
-        margin-top: 0.75rem;
+        background: #ffe7dd;
+        color: #b44b26;
+        margin-right: 0.35rem;
+        margin-bottom: 0.2rem;
+        font-size: 0.85rem;
+        border: 1px solid #ffd9c7;
       }
-      .affiliate-list {
-        margin: 2rem 0;
-        padding: 1rem 1.25rem;
-        border: 1px solid rgba(255, 255, 255, 0.08);
-        border-radius: 8px;
-      }
-      .card-grid {
+      .post-list {
         display: grid;
         gap: 1.5rem;
         grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
         margin-top: 2rem;
       }
       .post-card {
-        background: rgba(255, 255, 255, 0.04);
-        border: 1px solid rgba(255, 255, 255, 0.08);
-        border-radius: 14px;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 18px;
         overflow: hidden;
         display: flex;
         flex-direction: column;
-        min-height: 320px;
+        min-height: 340px;
+        box-shadow: var(--shadow);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+      .post-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 18px 40px rgba(0,0,0,0.12);
       }
       .post-card__thumb {
         display: block;
         width: 100%;
-        height: 160px;
-        background: rgba(255, 255, 255, 0.05);
+        height: 180px;
+        background: linear-gradient(145deg, #fce7da, #f6f9ff);
         overflow: hidden;
       }
       .post-card__thumb img {
@@ -182,46 +245,50 @@
         display: block;
       }
       .post-card__body {
-        padding: 1rem 1.25rem 1.5rem;
+        padding: 1.1rem 1.3rem 1.6rem;
         display: flex;
         flex-direction: column;
         flex: 1;
       }
       .post-card__meta {
-        font-size: 0.85rem;
-        color: rgba(255, 255, 255, 0.7);
+        font-size: 0.86rem;
+        color: #6a7385;
       }
       .post-card__title {
-        margin: 0.5rem 0;
-        font-size: 1.05rem;
+        margin: 0.55rem 0 0.2rem;
+        font-size: 1.08rem;
+        color: #1d2230;
       }
       .post-card__excerpt {
         flex: 1;
         font-size: 0.95rem;
-        color: rgba(255, 255, 255, 0.85);
+        color: #4b5569;
       }
       .post-card__more {
         margin-top: 1rem;
         align-self: flex-start;
-        padding: 0.4rem 1rem;
+        padding: 0.5rem 1.15rem;
         border-radius: 999px;
-        background: rgba(255, 255, 255, 0.12);
+        background: linear-gradient(135deg, var(--accent), var(--accent-strong));
         color: #fff;
-        font-size: 0.9rem;
+        font-size: 0.92rem;
+        box-shadow: 0 10px 24px rgba(255, 107, 61, 0.35);
       }
       .post-card__more--amazon {
-        background: #ff9900;
-        color: #111;
+        background: #ffb347;
+        color: #2d1a00;
+        box-shadow: 0 10px 20px rgba(255,179,71,0.35);
       }
-      .search-page { max-width: 720px; margin: 0 auto; }
+      .search-page { max-width: 780px; margin: 0 auto; }
       .search-input {
         width: 100%;
-        padding: 0.8rem 1rem;
+        padding: 0.95rem 1.2rem;
         border-radius: 999px;
-        border: 1px solid rgba(255,255,255,0.2);
-        background: rgba(0,0,0,0.2);
-        color: #fff;
+        border: 1px solid var(--border);
+        background: #fff;
+        color: #161b26;
         margin-top: 1rem;
+        box-shadow: var(--shadow);
       }
       .search-results {
         list-style: none;
@@ -230,21 +297,22 @@
       }
       .search-results li {
         margin-bottom: 1.5rem;
-        border-bottom: 1px solid rgba(255,255,255,0.08);
+        border-bottom: 1px solid var(--border);
         padding-bottom: 1rem;
       }
       .search-series {
         display: inline-block;
         font-size: 0.85rem;
-        color: rgba(255,255,255,0.7);
+        color: #6a7385;
         margin-left: 0.5rem;
       }
       .share-buttons {
         margin: 2rem 0;
         padding: 1rem 1.25rem;
-        border: 1px solid rgba(255,255,255,0.1);
-        border-radius: 10px;
-        background: rgba(255,255,255,0.03);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: #fff;
+        box-shadow: var(--shadow);
       }
       .share-buttons__links {
         display: flex;
@@ -253,33 +321,52 @@
         margin-top: 1rem;
       }
       .share-button {
-        padding: 0.5rem 1rem;
+        padding: 0.55rem 1.1rem;
         border-radius: 999px;
         font-size: 0.9rem;
-        font-weight: 600;
-        border: 1px solid rgba(255,255,255,0.2);
-        color: #fff;
+        font-weight: 700;
+        border: 1px solid var(--border);
+        color: #1d2230;
+        background: #fff;
+        box-shadow: var(--shadow);
       }
-      .share-button--x { background: #111; border-color: #555; }
-      .share-button--line { background: #06c755; border: none; color: #111; }
-      .share-button--facebook { background: #1877f2; border: none; }
-      .share-button--hatena { background: #008fde; border: none; }
+      .share-button--x { background: #111; border-color: #111; color: #fff; }
+      .share-button--line { background: #06c755; border: none; color: #fff; }
+      .share-button--facebook { background: #1877f2; border: none; color: #fff; }
+      .share-button--hatena { background: #008fde; border: none; color: #fff; }
+      footer {
+        padding: 1.5rem 1rem 2rem;
+        text-align: center;
+        background: #0f1729;
+        color: rgba(255,255,255,0.8);
+        margin-top: 2rem;
+      }
     </style>
-  </head>
-  <body>
+    <body>
     <header>
-      <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-      <p>{{ .Site.Params.siteDescription }}</p>
-      <nav class="site-nav">
-        <a href="{{ .Site.BaseURL }}">ホーム</a>
-        <a href="{{ .Site.BaseURL }}search/">検索</a>
-      </nav>
+      <div class="container hero">
+        <div>
+          <h1 class="hero__title"><a href="{{ .Site.BaseURL }}" style="color:#fff; text-decoration:none;">{{ .Site.Title }}</a></h1>
+          <p class="hero__desc">{{ .Site.Params.siteDescription }}</p>
+        </div>
+        <nav class="site-nav">
+          <a href="{{ .Site.BaseURL }}">Home</a>
+          <a href="{{ .Site.BaseURL }}search/">Search</a>
+        </nav>
+      </div>
     </header>
     <main>
-      {{ block "main" . }}{{ end }}
+      <div class="page-card">
+        {{ block "main" . }}{{ end }}
+      </div>
     </main>
     <footer>
       <small>© {{ now.Format "2006" }} {{ .Site.Title }} / Powered by Hugo &amp; GitHub Pages</small>
     </footer>
   </body>
 </html>
+
+
+
+
+

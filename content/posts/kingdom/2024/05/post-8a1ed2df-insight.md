@@ -1,5 +1,6 @@
 ---
 title: "キングダム｜第340話｜飛信隊の指揮術"
+slug: "post-8a1ed2df-insight"
 date: 2024-05-01T00:00:00Z
 series: "キングダム"
 chapter: "第340話"

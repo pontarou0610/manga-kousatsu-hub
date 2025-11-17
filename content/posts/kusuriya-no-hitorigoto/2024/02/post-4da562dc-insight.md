@@ -1,5 +1,6 @@
 ---
 title: "薬屋のひとりごと｜第90話考察"
+slug: "post-4da562dc-insight"
 date: 2024-02-18T00:00:00Z
 series: "薬屋のひとりごと"
 chapter: "第90話"

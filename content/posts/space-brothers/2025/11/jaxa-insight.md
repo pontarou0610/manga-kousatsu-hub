@@ -1,5 +1,6 @@
 ---
 title: "宇宙兄弟のJAXA選抜試験を考察"
+slug: "jaxa-insight"
 date: 2025-11-14T07:51:54.300123+00:00
 series: "宇宙兄弟"
 chapter: "JAXA選抜試験のステップをキャリア設計に置き換える"

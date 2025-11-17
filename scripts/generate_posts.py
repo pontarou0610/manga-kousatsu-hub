@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import datetime as dt
 import traceback
@@ -46,9 +46,10 @@ def try_generate_article(series: Dict[str, Any], entry: Dict[str, Any], mode: st
     try:
         return generate_article_sections(series, entry, mode)
     except Exception as exc:
-        log(f"OpenAIによる記事要約生成に失敗 ({mode}): {exc}")
+        log(f"OpenAI縺ｫ繧医ｋ險倅ｺ玖ｦ∫ｴ・函謌舌↓螟ｱ謨・({mode}): {exc}")
         traceback.print_exc()
         return None
+
 
 
 def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Dict[str, Any]) -> List[str]:
@@ -56,16 +57,16 @@ def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Di
     try:
         entries = load_entries_for_series(series, state)
     except Exception as exc:
-        log(f"RSS取得に失敗: {series['name']} - {exc}")
+        log(f"RSS蜿門ｾ励↓螟ｱ謨・ {series['name']} - {exc}")
         traceback.print_exc()
         return new_entries
 
     content_modes = series.get("content_modes") or ["spoiler"]
     entry_modes = [mode for mode in content_modes if mode != "glossary"]
 
-    for entry in entries:
+    def process_entry(entry: Dict[str, Any]) -> None:
         if not entry:
-            continue
+            return
         base_id = entry.get("id", entry.get("title", ""))
         try:
             published = dt.datetime.fromisoformat(entry["date"])
@@ -84,7 +85,7 @@ def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Di
                 ogp_output,
             )
         except Exception as exc:
-            log(f"OGP生成に失敗: {exc}")
+            log(f"OGP逕滂ｿｽE縺ｫ螟ｱ謨・ {exc}")
             ogp_image = None
 
         draft_flag = bool(series.get("manual")) or not series.get("auto_publish", True)
@@ -107,27 +108,37 @@ def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Di
                 template_name = "post_spoiler.md.j2"
                 slug = base_slug
 
+            context["slug"] = slug
             markdown = render_markdown(context, template_name)
             destination = target_markdown_path(series["slug"], published, slug)
 
             try:
                 write_markdown_file(destination, markdown)
-                log(f"記事を生成しました: {destination}")
+                log(f"險倅ｺ九ｒ逕滂ｿｽE縺励∪縺励◆: {destination}")
             except Exception as exc:
-                log(f"記事書き込みに失敗。draftsへ退避: {exc}")
+                log(f"險倅ｺ区嶌縺崎ｾｼ縺ｿ縺ｫ螟ｱ謨励Ｅrafts縺ｸ騾驕ｿ: {exc}")
                 backup = fallback_path(series["slug"], slug)
                 write_markdown_file(backup, markdown)
-                log(f"draftsに保存: {backup}")
+                log(f"drafts縺ｫ菫晏ｭ・ {backup}")
 
             processed_hashes.add(unique)
             state.setdefault("entries", []).append(unique)
             new_entries.append(unique)
 
+    for entry in entries:
+        process_entry(entry)
+        if new_entries:
+            break
+
+    if not new_entries:
+        fallback_entry = select_backlog_entry(series, state)
+        if fallback_entry:
+            process_entry(fallback_entry)
+
     if "glossary" in content_modes:
         write_glossary_post(series, state)
 
     return new_entries
-
 
 def write_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> None:
     terms = load_glossary_terms(series["slug"])
@@ -139,7 +150,8 @@ def write_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> None:
     markdown = render_markdown(context, "post_glossary.md.j2")
     destination = CONTENT_DIR / "posts" / series["slug"] / "glossary.md"
     write_markdown_file(destination, markdown)
-    log(f"用語集を更新しました: {destination}")
+    log(f"逕ｨ隱樣寔繧呈峩譁ｰ縺励∪縺励◆: {destination}")
+
 
 
 def main() -> int:
@@ -148,6 +160,11 @@ def main() -> int:
     ensure_directory(OGP_DIR)
 
     state = load_state()
+    today = dt.date.today().isoformat()
+    if state.get("last_run_date") == today:
+        log("本日の更新は既に実行済みのためスキップします。")
+        return 0
+
     processed_hashes = set(state.get("entries", []))
     processed_hashes |= collect_existing_hashes()
 
@@ -162,6 +179,7 @@ def main() -> int:
         created = process_series(series, processed_hashes, state)
         total_new += len(created)
 
+    state["last_run_date"] = today
     save_state(state)
     log(f"新規生成 {total_new} 記事")
     return 0

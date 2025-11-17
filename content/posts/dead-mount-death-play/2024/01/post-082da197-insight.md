@@ -1,5 +1,6 @@
 ---
 title: "デッドマウント・デスプレイ｜偽装工作の考察"
+slug: "post-082da197-insight"
 date: 2024-01-08T00:00:00Z
 series: "デッドマウント・デスプレイ"
 chapter: "Stage.70"
