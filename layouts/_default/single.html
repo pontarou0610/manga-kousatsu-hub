@@ -1,16 +1,18 @@
-{{ define "main" }}
+﻿{{ define "main" }}
   <article class="post">
     <header>
-      <p class="post__series">{{ .Params.series }} {{ with .Params.chapter }}｜{{ . }}{{ end }}</p>
+      <p class="post__series">
+        {{ .Params.series }}{{ with .Params.chapter }} | {{ . }}{{ end }}
+      </p>
       <h1>{{ .Title }}</h1>
       <p class="post__meta">
-        公開日: {{ .Date.Format "2006-01-02 15:04" }} / タグ:
+        Published: {{ .Date.Format "2006-01-02 15:04" }} / Tags:
         {{ if .Params.tags }}
           {{ range $index, $tag := .Params.tags }}
             {{ if $index }}, {{ end }}#{{ $tag }}
           {{ end }}
         {{ else }}
-          #未設定
+          #no-tag
         {{ end }}
       </p>
     </header>
@@ -29,7 +31,7 @@
     {{ $shareTitle := .Title }}
     {{ $lineText := printf "%s\n%s" $shareTitle .Permalink | urlquery }}
     <section class="share-buttons">
-      <h2>この記事をシェアする</h2>
+      <h2>Share this article</h2>
       <div class="share-buttons__links">
         <a class="share-button share-button--x" href="https://twitter.com/intent/tweet?url={{ $shareURL }}&text={{ $shareTitle | htmlEscape }}" target="_blank" rel="noopener" aria-label="Share on X">
           <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M18 2h3l-6.5 7.4L22 22h-7l-4.5-6L5 22H2l7-8.1L2.5 2H9l4 5.5L18 2z" fill="currentColor"/></svg>
@@ -49,10 +51,13 @@
     {{ $seriesPages := where (where .Site.RegularPages "Params.series" .Params.series) "Permalink" "ne" .Permalink }}
     {{ if gt (len $seriesPages) 0 }}
       <section class="related-posts">
-        <h2>同シリーズの他の記事</h2>
+        <h2>More posts from this series</h2>
         <ul>
           {{ range first 3 $seriesPages }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>（{{ .Date.Format "2006-01-02" }}）</li>
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              ({{ .Date.Format "2006-01-02" }})
+            </li>
           {{ end }}
         </ul>
       </section>
@@ -60,7 +65,7 @@
 
     {{ with .Params.affiliate_ids.others }}
       <section class="affiliate-list">
-        <h2>デジタル配信／その他公式ストア</h2>
+        <h2>Digital release & other official stores</h2>
         <ul>
           {{ range . }}
             <li>

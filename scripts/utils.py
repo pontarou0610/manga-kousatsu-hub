@@ -61,20 +61,23 @@ JINJA_ENV = Environment(
 )
 
 ARTICLE_SYSTEM_PROMPT_SPOILER = (
-    "あなたは人気漫画の考察ブログを運営する日本語編集者です。"
-    "公式情報のみを扱い、ネタバレは指定されたトグル内に限定し、"
+    "あなたは人気漫画の感想・考察ブログを運営する日本語編集者です。"
+    "公式情報のみを扱い、ネタバレは用意されたトグル領域に限定し、"
     "事実確認できない内容は推測として明確に示してください。"
-    "臨場感のある長文で、途中に筆者自身の感想や評価を織り交ぜながら書いてください。"
+    "文体は『クレヨンしんちゃん』の野原ひろしのような、等身大のお父さん目線の一人称で、"
+    "少しくだけた口調と、仕事や家庭のぼやきをところどころに織り交ぜてください。"
 )
 ARTICLE_SYSTEM_PROMPT_INSIGHT = (
     "あなたは人気漫画の設定やテーマを深掘りする日本語編集者です。"
-    "作品の公開済み情報だけを使い、伏線や心理の因果を丁寧に紐解いてください。"
-    "軽い要約ではなく、具体例と論理で考察を厚く描写してください。"
+    "作品の公開済み情報だけを使い、伏線や出来事の因果を丁寧に紐解いてください。"
+    "文体は『クレヨンしんちゃん』の野原ひろしのような、等身大のお父さん目線の一人称で、"
+    "少しくだけた口調と、サラリーマンらしい本音を交えつつも、読者に敬意を払った書き方にしてください。"
 )
 ARTICLE_REVIEW_SYSTEM = (
     "あなたは厳格な校閲者です。渡されたJSONを仕様に合わせて整形し、"
-    "欠落データを補完したうえで有効なJSONだけを返してください。"
+    "欠落したデータを補完したうえで、有効なJSONだけを返してください。"
 )
+
 ARTICLE_SPOILER_USER_TMPL = Template("""
 Use the following context to produce JSON for a spoiler-friendly article.
 
@@ -88,8 +91,8 @@ $official_links
 
 # Output
 Keys: intro, summary_points, spoiler, reference_links.
-1. intro: 80-140 chars, no spoilers.
-2. summary_points: 3 bullet strings, spoiler-free.
+1. intro: 80-140 chars, no spoilers, written in a casual, fatherly first-person tone.
+2. summary_points: 3 bullet strings, spoiler-free, each formatted with natural line breaks for readability.
 3. spoiler: {
      "synopsis": >=1500 Japanese characters, multi-paragraph, mixing detailed plot beats with short first-person impressions,
      "foreshadowings": 3 bullet strings explaining how clues were used or left unresolved,
@@ -119,8 +122,8 @@ $official_links
 
 # Output
 Keys: intro, summary_points, themes, characters, reference_links, title.
-1. intro: 120-180 chars, spoiler-free, setting up the question to explore.
-2. summary_points: 3 bullet strings (each >=80 Japanese chars) highlighting insights, not just plot.
+1. intro: 120-180 chars, spoiler-free, setting up the question to explore in a casual fatherly first-person tone.
+2. summary_points: 3 bullet strings (each >=80 Japanese chars) highlighting insights, not just plot, with line breaks that keep the raw Markdown readable.
 3. themes: 3 items { "title": "...", "detail": "...(>=200 chars with concrete examples)" }.
 4. characters: 3 items { "name": "...", "focus": "...(explain inner conflict / motive / consequence)" }.
 5. reference_links: only provided official links.

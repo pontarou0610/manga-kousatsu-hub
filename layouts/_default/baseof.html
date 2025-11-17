@@ -93,9 +93,6 @@
         background: linear-gradient(135deg, #111828 0%, #1f2435 30%, #0d6efd 100%);
         color: #f9fbff;
         box-shadow: var(--shadow);
-        position: sticky;
-        top: 0;
-        z-index: 10;
       }
       .container {
         width: min(1180px, 100%);
@@ -139,6 +136,23 @@
         max-width: 1140px;
         margin: 0 auto;
         padding: 2.5rem 1rem 4rem;
+      }
+      .post img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 1.5rem auto 0.75rem;
+        border-radius: 12px;
+      }
+      .post p > img {
+        margin-top: 1.5rem;
+      }
+      .post small {
+        display: block;
+        text-align: center;
+        font-size: 0.8rem;
+        color: #6a7385;
+        margin-bottom: 1.5rem;
       }
       .page-card {
         background: var(--card);
@@ -361,10 +375,11 @@
       </div>
     </main>
     <footer>
-      <small>© {{ now.Format "2006" }} {{ .Site.Title }} / Powered by Hugo &amp; GitHub Pages</small>
+      <small>(c) {{ now.Format "2006" }} {{ .Site.Title }} / Powered by Hugo &amp; GitHub Pages</small>
     </footer>
   </body>
 </html>
+
 
 
 

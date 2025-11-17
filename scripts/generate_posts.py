@@ -1,4 +1,4 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
 import datetime as dt
 import traceback
@@ -26,6 +26,7 @@ from utils import (
     save_state,
     slugify,
     write_markdown_file,
+    select_backlog_entry,
 )
 
 
@@ -42,22 +43,32 @@ def fallback_path(series_slug: str, slug: str) -> Path:
     return CONTENT_DIR / "drafts" / series_slug / f"{slug}.md"
 
 
-def try_generate_article(series: Dict[str, Any], entry: Dict[str, Any], mode: str) -> Optional[Dict[str, Any]]:
+def try_generate_article(
+    series: Dict[str, Any],
+    entry: Dict[str, Any],
+    mode: str,
+) -> Optional[Dict[str, Any]]:
+    """Call OpenAI helper to generate article sections for a given entry."""
     try:
         return generate_article_sections(series, entry, mode)
-    except Exception as exc:
-        log(f"OpenAI縺ｫ繧医ｋ險倅ｺ玖ｦ∫ｴ・函謌舌↓螟ｱ謨・({mode}): {exc}")
+    except Exception as exc:  # noqa: BLE001
+        log(f"OpenAIによる記事セクション生成に失敗({mode}): {exc}")
         traceback.print_exc()
         return None
 
 
-
-def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Dict[str, Any]) -> List[str]:
+def process_series(
+    series: Dict[str, Any],
+    processed_hashes: set[str],
+    state: Dict[str, Any],
+) -> List[str]:
+    """Generate at most one article per series (per run), plus glossary."""
     new_entries: List[str] = []
+
     try:
         entries = load_entries_for_series(series, state)
-    except Exception as exc:
-        log(f"RSS蜿門ｾ励↓螟ｱ謨・ {series['name']} - {exc}")
+    except Exception as exc:  # noqa: BLE001
+        log(f"RSS取得に失敗: {series['name']} - {exc}")
         traceback.print_exc()
         return new_entries
 
@@ -67,10 +78,11 @@ def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Di
     def process_entry(entry: Dict[str, Any]) -> None:
         if not entry:
             return
+
         base_id = entry.get("id", entry.get("title", ""))
         try:
             published = dt.datetime.fromisoformat(entry["date"])
-        except Exception:
+        except Exception:  # noqa: BLE001
             published = dt.datetime.now(dt.timezone.utc)
 
         base_slug = slugify(entry.get("title", f"{series['slug']}-{published:%Y%m%d}"))
@@ -84,8 +96,8 @@ def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Di
                 entry.get("chapter", ""),
                 ogp_output,
             )
-        except Exception as exc:
-            log(f"OGP逕滂ｿｽE縺ｫ螟ｱ謨・ {exc}")
+        except Exception as exc:  # noqa: BLE001
+            log(f"OGP生成に失敗: {exc}")
             ogp_image = None
 
         draft_flag = bool(series.get("manual")) or not series.get("auto_publish", True)
@@ -100,36 +112,54 @@ def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Di
 
             sections = try_generate_article(series, entry, mode)
             if mode == "insight":
-                context = build_insight_context(series, entry, ogp_image, draft_flag, sections, hero_image)
+                context = build_insight_context(
+                    series,
+                    entry,
+                    ogp_image,
+                    draft_flag,
+                    sections,
+                    hero_image,
+                )
                 template_name = "post_insight.md.j2"
                 slug = f"{base_slug}-insight"
             else:
-                context = build_spoiler_context(series, entry, ogp_image, draft_flag, sections, hero_image)
+                context = build_spoiler_context(
+                    series,
+                    entry,
+                    ogp_image,
+                    draft_flag,
+                    sections,
+                    hero_image,
+                )
                 template_name = "post_spoiler.md.j2"
                 slug = base_slug
 
+            # Ensure slug is present in front matter for stable ASCII permalinks
             context["slug"] = slug
+
             markdown = render_markdown(context, template_name)
             destination = target_markdown_path(series["slug"], published, slug)
 
             try:
                 write_markdown_file(destination, markdown)
-                log(f"險倅ｺ九ｒ逕滂ｿｽE縺励∪縺励◆: {destination}")
-            except Exception as exc:
-                log(f"險倅ｺ区嶌縺崎ｾｼ縺ｿ縺ｫ螟ｱ謨励Ｅrafts縺ｸ騾驕ｿ: {exc}")
+                log(f"記事を生成しました: {destination}")
+            except Exception as exc:  # noqa: BLE001
+                log(f"記事書き込みに失敗。draftsへ退避: {exc}")
                 backup = fallback_path(series["slug"], slug)
                 write_markdown_file(backup, markdown)
-                log(f"drafts縺ｫ菫晏ｭ・ {backup}")
+                log(f"draftsに保存しました: {backup}")
 
             processed_hashes.add(unique)
             state.setdefault("entries", []).append(unique)
             new_entries.append(unique)
 
+    # 1日1シリーズあたり1本まで
     for entry in entries:
         process_entry(entry)
         if new_entries:
             break
 
+    # RSSに新着がなければバックログから1本だけ生成
     if not new_entries:
         fallback_entry = select_backlog_entry(series, state)
         if fallback_entry:
@@ -139,6 +169,7 @@ def process_series(series: Dict[str, Any], processed_hashes: set[str], state: Di
         write_glossary_post(series, state)
 
     return new_entries
+
 
 def write_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> None:
     terms = load_glossary_terms(series["slug"])
@@ -150,8 +181,7 @@ def write_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> None:
     markdown = render_markdown(context, "post_glossary.md.j2")
     destination = CONTENT_DIR / "posts" / series["slug"] / "glossary.md"
     write_markdown_file(destination, markdown)
-    log(f"逕ｨ隱樣寔繧呈峩譁ｰ縺励∪縺励◆: {destination}")
-
+    log(f"用語集を更新しました: {destination}")
 
 
 def main() -> int:
@@ -187,3 +217,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
