@@ -18,7 +18,7 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
       AMAZON_TAG: ${{ secrets.AMAZON_TAG }}
-      GA4_ID: ${{ secrets.GA4_ID }}
+      GA4_ID: ${{ secrets.GA4_ID || '' }}
     steps:
       - uses: actions/checkout@v4
 
