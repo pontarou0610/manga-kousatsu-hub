@@ -605,9 +605,11 @@ def select_glossary_terms(series_slug: str, terms: List[Dict[str, str]], state: 
     progress = state.setdefault("glossary_progress", {})
     current = progress.get(series_slug, 0)
     minimum = min(len(terms), 3)
+    # Increase aggressively so glossary grows even if更新頻度が低い
+    increment = 5
     target = max(current, minimum)
     if target < len(terms):
-        target += 1
+        target += increment
     target = min(len(terms), target)
     progress[series_slug] = target
     remaining = max(0, len(terms) - target)

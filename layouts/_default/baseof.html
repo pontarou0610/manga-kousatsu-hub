@@ -161,12 +161,63 @@
         color: #6a7385;
         margin-bottom: 1.5rem;
       }
+      .layout {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        margin-top: -3rem;
+        position: relative;
+        z-index: 2;
+      }
       .page-card {
         background: var(--card);
         border: 1px solid var(--border);
         border-radius: 16px;
         box-shadow: var(--shadow);
         padding: 2rem 2.2rem;
+      }
+      .sidebar {
+        position: sticky;
+        top: 1.5rem;
+        align-self: start;
+      }
+      .sidebar__card {
+        background: #fff;
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        padding: 1.1rem 1rem;
+        box-shadow: var(--shadow);
+      }
+      .series-list {
+        list-style: none;
+        padding: 0;
+        margin: 0.5rem 0 0;
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+      }
+      .series-list li a {
+        display: block;
+        padding: 0.4rem 0.5rem;
+        border-radius: 8px;
+        background: rgba(13,110,253,0.06);
+        color: #0d6efd;
+        text-decoration: none;
+        font-weight: 700;
+      }
+      .series-list li.is-active a {
+        background: linear-gradient(135deg, #0d6efd, #6f9dff);
+        color: #fff;
+      }
+      .series-list li a:hover {
+        background: #0d6efd;
+        color: #fff;
+      }
+      @media (min-width: 960px) {
+        .layout {
+          grid-template-columns: 3fr 1fr;
+          align-items: start;
+        }
       }
       .notice {
         margin: 1rem 0;
@@ -378,8 +429,30 @@
       </div>
     </header>
     <main>
-      <div class="page-card">
-        {{ block "main" . }}{{ end }}
+      <div class="container layout">
+        <div class="page-card">
+          {{ block "main" . }}{{ end }}
+        </div>
+        <aside class="sidebar">
+          <div class="sidebar__card">
+            <h3 style="margin:0;">ほかの作品</h3>
+            <ul class="series-list">
+              {{ $currentSeries := .Params.series }}
+              {{ range .Site.Data.series }}
+                {{ $name := .name }}
+                {{ $pages := where $.Site.RegularPages "Params.series" $name }}
+                {{ $link := "" }}
+                {{ with first 1 $pages }}
+                  {{ $link = (index . 0).RelPermalink }}
+                {{ end }}
+                {{ if not $link }}{{ $link = "/" }}{{ end }}
+                <li class="{{ if eq $currentSeries $name }}is-active{{ end }}">
+                  <a href="{{ $link }}">{{ $name }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        </aside>
       </div>
     </main>
     <footer>
