@@ -28,8 +28,8 @@
     {{ .Content }}
 
     {{ $permalink := .Permalink }}
-    {{ $shareURLRaw := $permalink }}                         {{/* raw URL for providers that encode internally */}}
-    {{ $shareURLParam := $permalink | urlquery }}            {{/* encoded once for query params */}}
+    {{ $shareURLRaw := $permalink }}                         {{/* raw URL */}}
+    {{ $shareURLParam := $permalink }}                       {{/* pass raw; providers handle encoding */}}
     {{ $shareTitle := .Title }}
     {{ $lineText := printf "%s\n%s" $shareTitle $permalink | urlquery }}
     <section class="share-buttons">
