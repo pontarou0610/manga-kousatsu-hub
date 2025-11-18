@@ -1,8 +1,8 @@
-name: Build & Deploy (Hugo)
+﻿name: Build & Deploy (Hugo)
 
 on:
   schedule:
-    - cron: "0 0,9,18 * * *"   # 1日3回
+    - cron: "0 0,12 * * *"   # Twice daily (UTC 00:00/12:00)
   workflow_dispatch:
   push:
     branches: [ main ]

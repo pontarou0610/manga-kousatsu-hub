@@ -61,17 +61,14 @@ JINJA_ENV = Environment(
 )
 
 ARTICLE_SYSTEM_PROMPT_SPOILER = (
-    "あなたは人気漫画の感想・考察ブログを運営する日本語編集者です。"
-    "公式情報のみを扱い、ネタバレは用意されたトグル領域に限定し、"
-    "事実確認できない内容は推測として明確に示してください。"
-    "文体は『クレヨンしんちゃん』の野原ひろしのような、等身大のお父さん目線の一人称で、"
-    "少しくだけた口調と、仕事や家庭のぼやきをところどころに織り交ぜてください。"
+    "あなたは『クレヨンしんちゃん』の野原ひろしを意識した漫画ブロガーです。"
+    "親父ギャグと飾らない一人称で、ボヤきやツッコミを交えつつも読者への配慮を忘れず、"
+    "シーンの温度感と自分の感想をほどよく混ぜてネタバレ記事をまとめてください。"
 )
 ARTICLE_SYSTEM_PROMPT_INSIGHT = (
-    "あなたは人気漫画の設定やテーマを深掘りする日本語編集者です。"
-    "作品の公開済み情報だけを使い、伏線や出来事の因果を丁寧に紐解いてください。"
-    "文体は『クレヨンしんちゃん』の野原ひろしのような、等身大のお父さん目線の一人称で、"
-    "少しくだけた口調と、サラリーマンらしい本音を交えつつも、読者に敬意を払った書き方にしてください。"
+    "あなたは『クレヨンしんちゃん』の野原ひろしを意識した漫画ブロガーです。"
+    "親父ギャグと飾らない一人称で、ボヤきやツッコミを交えつつも読者への配慮を忘れず、"
+    "シーンの温度感と自分の感想をほどよく混ぜてネタバレなしの考察記事をまとめてください。"
 )
 ARTICLE_REVIEW_SYSTEM = (
     "あなたは厳格な校閲者です。渡されたJSONを仕様に合わせて整形し、"
@@ -91,7 +88,7 @@ $official_links
 
 # Output
 Keys: intro, summary_points, spoiler, reference_links.
-1. intro: 80-140 chars, no spoilers, written in a casual, fatherly first-person tone.
+1. intro: 80-140 chars, no spoilers, written in a casual, 野原ひろし風の親父口調で一人称。
 2. summary_points: 3 bullet strings, spoiler-free, each formatted with natural line breaks for readability.
 3. spoiler: {
      "synopsis": >=1500 Japanese characters, multi-paragraph, mixing detailed plot beats with short first-person impressions,
@@ -810,8 +807,45 @@ def load_backlog_entries(series_slug: str) -> List[Dict[str, Any]]:
     return [entry for entry in entries if isinstance(entry, dict)]
 
 
+def _chapter_number_hint(entry: Dict[str, Any]) -> Optional[int]:
+    """
+    Try to extract a chapter number from common fields so we can post from 1話 onward.
+    Falls back to None if no usable number is found.
+    """
+    for key in ("chapter_number", "chapter", "title"):
+        value = entry.get(key)
+        if value is None:
+            continue
+        # Accept both ints and strings with digits like "第3話"
+        if isinstance(value, int):
+            return value
+        match = re.search(r"\d+", str(value))
+        if match:
+            try:
+                return int(match.group())
+            except ValueError:
+                continue
+    return None
+
+
+def sort_backlog_entries(entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Sort backlog to start from the earliest chapter we can infer, keeping original
+    order as a tiebreaker so author-provided ordering is preserved when no numbers.
+    """
+    with_index = list(enumerate(entries))
+
+    def sort_key(item: Tuple[int, Dict[str, Any]]) -> Tuple[int, int]:
+        idx, entry = item
+        num = _chapter_number_hint(entry)
+        # If no number, place after numbered items but keep original order.
+        return (num if num is not None else 10_000_000, idx)
+
+    return [entry for _, entry in sorted(with_index, key=sort_key)]
+
+
 def select_backlog_entry(series: Dict[str, Any], state: Dict[str, Any]) -> Optional[Dict[str, Any]]:
-    backlog_entries = load_backlog_entries(series["slug"])
+    backlog_entries = sort_backlog_entries(load_backlog_entries(series["slug"]))
     if not backlog_entries:
         return None
     progress = state.setdefault("backlog_progress", {})
