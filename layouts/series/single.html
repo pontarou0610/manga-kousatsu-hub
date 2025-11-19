@@ -1,0 +1,25 @@
+{{ define "main" }}
+  {{ $slug := .Params.series_slug | default .File.BaseFileName }}
+  {{ $name := .Params.series_name | default .Title }}
+  {{ $pages := where .Site.RegularPages "Params.series" $name }}
+
+  <article class="post">
+    <header>
+      <h1>{{ $name }} の記事一覧</h1>
+      <p class="post__meta">全 {{ len $pages }} 件</p>
+    </header>
+
+    {{ if gt (len $pages) 0 }}
+      <ul>
+        {{ range sort $pages "Date" "desc" }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            ({{ .Date.Format "2006-01-02" }})
+          </li>
+        {{ end }}
+      </ul>
+    {{ else }}
+      <p>まだ記事がありません。</p>
+    {{ end }}
+  </article>
+{{ end }}

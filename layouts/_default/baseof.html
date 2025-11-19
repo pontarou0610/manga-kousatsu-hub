@@ -442,12 +442,8 @@
               {{ $currentSeries := .Params.series }}
               {{ range .Site.Data.series }}
                 {{ $name := .name }}
-                {{ $pages := where $.Site.RegularPages "Params.series" $name }}
-                {{ $link := "" }}
-                {{ with first 1 $pages }}
-                  {{ $link = (index . 0).RelPermalink }}
-                {{ end }}
-                {{ if not $link }}{{ $link = "/" }}{{ end }}
+                {{ $slug := .slug }}
+                {{ $link := printf "/series/%s/" $slug }}
                 <li class="{{ if eq $currentSeries $name }}is-active{{ end }}">
                   <a href="{{ $link }}">{{ $name }}</a>
                 </li>
