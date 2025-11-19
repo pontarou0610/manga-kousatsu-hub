@@ -20,6 +20,7 @@ from utils import (
     fetch_pexels_image,
     load_glossary_terms,
     select_glossary_terms,
+    ensure_glossary_terms,
     load_series_config,
     load_state,
     render_markdown,
@@ -172,7 +173,7 @@ def process_series(
 
 
 def write_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> None:
-    terms = load_glossary_terms(series["slug"])
+    terms = ensure_glossary_terms(series, desired=5)
     if not terms:
         return
     selected, remaining = select_glossary_terms(series["slug"], terms, state)
@@ -217,4 +218,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

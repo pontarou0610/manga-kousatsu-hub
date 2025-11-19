@@ -142,6 +142,13 @@ ARTICLE_INSIGHT_SYSTEM_EXTRA = (
     "読者が次の行動を取りやすいよう、簡潔で丁寧な言い回しを使ってください。"
 )
 
+GLOSSARY_SYSTEM_PROMPT = (
+    "あなたは漫画考察ブログの編集者です。シリーズの基本情報から用語集を作成します。"
+    "固有名詞は正式名称と読み仮名をセットで示し、40〜80文字程度の説明を日本語でまとめてください。"
+    "返答は JSON 配列のみとし、各要素は {\"term\":\"...\",\"reading\":\"...\",\"description\":\"...\",\"reference\":\"...\"} です。"
+)
+
+
 
 
 def ensure_directory(path: Path) -> None:
@@ -601,6 +608,70 @@ def load_glossary_terms(series_slug: str) -> List[Dict[str, str]]:
     with path.open(encoding="utf-8") as f:
         data = yaml.safe_load(f) or {}
     return data.get("terms", [])
+
+
+def save_glossary_terms(series_slug: str, terms: List[Dict[str, str]]) -> None:
+    path = GLOSSARY_DIR / f"{series_slug}.yaml"
+    ensure_directory(path.parent)
+    with path.open("w", encoding="utf-8") as f:
+        yaml.safe_dump({"terms": terms}, f, allow_unicode=True, sort_keys=False)
+
+
+def _clean_glossary_items(items: Any) -> List[Dict[str, str]]:
+    cleaned = []
+    if not isinstance(items, list):
+        return cleaned
+    for entry in items:
+        if not isinstance(entry, dict):
+            continue
+        term = (entry.get("term") or "").strip()
+        desc = (entry.get("description") or "").strip()
+        if not term or not desc:
+            continue
+        cleaned.append(
+            {
+                "term": term,
+                "reading": (entry.get("reading") or "").strip(),
+                "description": desc,
+                "reference": (entry.get("reference") or "").strip(),
+            }
+        )
+    return cleaned
+
+
+def ensure_glossary_terms(series: Dict[str, Any], desired: int = 5) -> List[Dict[str, str]]:
+    """
+    Ensure glossary has at least `desired` terms by generating missing entries via OpenAI.
+    """
+    terms = load_glossary_terms(series["slug"])
+    if len(terms) >= desired or not OPENAI_API_KEY:
+        return terms
+
+    official_links = series.get("official_links") or []
+    link_text = "\n".join(f"- {link.get('label')}: {link.get('url')}" for link in official_links[:3])
+    prompt = [
+        f"シリーズ名: {series.get('name')}",
+        f"タグ: {', '.join(series.get('tags', []))}",
+        f"既存用語数: {len(terms)}",
+        "公式リンク:",
+        link_text or "- (なし)",
+        f"あと{desired - len(terms)}語追加してください。重複は避けてください。",
+    ]
+    user_prompt = "\n".join(prompt)
+    raw = _call_openai(GLOSSARY_SYSTEM_PROMPT, user_prompt, temperature=0.55)
+    try:
+        new_items = _clean_glossary_items(json.loads(raw)) if raw else []
+    except json.JSONDecodeError:
+        new_items = []
+    seen = {t["term"] for t in terms}
+    for item in new_items:
+        if item["term"] not in seen:
+            terms.append(item)
+            seen.add(item["term"])
+        if len(terms) >= desired:
+            break
+    save_glossary_terms(series["slug"], terms)
+    return terms
 
 
 def select_glossary_terms(series_slug: str, terms: List[Dict[str, str]], state: Dict[str, Any]) -> Tuple[List[Dict[str, str]], int]:
