@@ -6,6 +6,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.siteDescription }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ .Site.Params.siteDescription }}{{ end }}{{ end }}" />
+    {{ $keywords := "" }}
+    {{ with .Params.tags }}
+      {{ $keywords = delimit . ", " }}
+    {{ end }}
+    {{ if and (eq $keywords "") .Params.series }}
+      {{ $keywords = .Params.series }}
+    {{ end }}
+    {{ if ne $keywords "" }}
+      <meta name="keywords" content="{{ $keywords }}" />
+    {{ end }}
+    <meta name="author" content="{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}" />
     {{ if or .Draft .Params.noindex }}
       <meta name="robots" content="noindex,follow" />
     {{ else }}
@@ -23,6 +34,17 @@
     <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 180 }}{{ else }}{{ .Site.Params.siteDescription }}{{ end }}{{ end }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:image" content="{{ $image | absURL }}" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    <meta property="og:locale" content="ja_JP" />
+    {{ if .IsPage }}
+      <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
+      <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />
+      {{ with .Params.tags }}
+        {{ range . }}
+          <meta property="article:tag" content="{{ . }}" />
+        {{ end }}
+      {{ end }}
+    {{ end }}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ .Title }}" />
     <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 180 }}{{ else }}{{ .Site.Params.siteDescription }}{{ end }}{{ end }}" />
@@ -35,6 +57,21 @@
     {{- range .AlternativeOutputFormats }}
       <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" />
     {{- end }}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "{{ .Site.BaseURL }}",
+        "name": {{ .Site.Title | jsonify }},
+        "description": {{ .Site.Params.siteDescription | jsonify }},
+        "inLanguage": "ja-JP",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "{{ .Site.BaseURL }}Search/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
     {{ if .IsPage }}
       <script type="application/ld+json">
         {
@@ -43,6 +80,8 @@
           "headline": {{ .Title | jsonify }},
           "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
           "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+          "url": "{{ .Permalink }}",
+          "inLanguage": "ja-JP",
           "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "{{ .Permalink }}"
@@ -60,8 +99,33 @@
               "url": {{ .Site.Params.defaultOgImage | absURL | jsonify }}
             }
           },
+          {{ with .Params.series }}"articleSection": {{ . | jsonify }},{{ else if .Section }}"articleSection": {{ .Section | humanize | jsonify }},{{ end }}
+          {{ with .Params.tags }}"keywords": {{ delimit . ", " | jsonify }},{{ end }}
           "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.siteDescription | jsonify }}{{ end }}
         }
+      </script>
+      {{ $breadcrumbs := slice (dict "name" "Home" "url" .Site.BaseURL) }}
+      {{ with .Params.series }}
+        {{ $seriesURL := printf "%sseries/%s/" $.Site.BaseURL (urlize .) }}
+        {{ $breadcrumbs = $breadcrumbs | append (dict "name" . "url" $seriesURL) }}
+      {{ end }}
+      {{ $breadcrumbs = $breadcrumbs | append (dict "name" .Title "url" .Permalink) }}
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {{ range $index, $item := $breadcrumbs }}
+            {{ if $index }},{{ end }}
+            {
+              "@type": "ListItem",
+              "position": {{ add $index 1 }},
+              "name": {{ $item.name | jsonify }},
+              "item": "{{ $item.url }}"
+            }
+          {{ end }}
+        ]
+      }
       </script>
     {{ end }}
     {{ with .Site.Params.analytics.ga4_id }}

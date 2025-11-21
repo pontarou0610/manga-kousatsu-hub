@@ -14,6 +14,7 @@ tags:
 tags: []
 {% endif %}
 draft: {{ draft | lower }}
+description: "{{ description }}"
 affiliate_ids:
   amazon: "{{ affiliate_ids.amazon }}"
   rakuten: "{{ affiliate_ids.rakuten }}"
@@ -38,6 +39,14 @@ images: []
 ---
 {{ intro }}
 
+## 記事のアウトライン（検索意図ベース）
+{% for block in outline %}
+- **{{ block.heading }}**
+  {% for bullet in block.bullets %}
+  - {{ bullet }}
+  {% endfor %}
+{% endfor %}
+
 {% if hero_image %}
 ![{{ hero_image.alt }}]({{ hero_image.url }})
 <small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
@@ -57,13 +66,19 @@ images: []
 - {{ item }}
 {% endfor %}
 
-### 次回予想（根拠つき）
+### 次回予想・根拠つき
 {% for item in spoiler.predictions %}
 - {{ item }}
 {% endfor %}
 {{ "{{< /spoiler >}}" }}
 
-## 参照リンク（すべて公式）
+## FAQ
+{% for item in faq %}
+- **Q. {{ item.question }}**  
+  A. {{ item.answer }}
+{% endfor %}
+
+## 参考リンク（すべて公式）
 {% for link in reference_links %}
 - [{{ link.label }}]({{ link.url }})
 {% endfor %}
