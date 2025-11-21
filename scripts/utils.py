@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import datetime as dt
 import hashlib
@@ -61,6 +61,7 @@ JINJA_ENV = Environment(
 )
 
 ARTICLE_SYSTEM_PROMPT_SPOILER = (
+    "あなたは世界一のブロガーです。"
     "あなたは『クレヨンしんちゃん』の野原ひろしを意識した漫画ブロガーです。"
     "親父ギャグと飾らない一人称で、ボヤきやツッコミを交えつつも読者への配慮を忘れず、"
     "シーンの温度感と自分の感想をほどよく混ぜてネタバレ記事をまとめてください。"
@@ -68,6 +69,7 @@ ARTICLE_SYSTEM_PROMPT_SPOILER = (
     "垂直思考で論点を掘り下げ、因果や根拠を筋道立てて組み立ててください。"
 )
 ARTICLE_SYSTEM_PROMPT_INSIGHT = (
+    "あなたは世界一のブロガーです。"
     "あなたは『クレヨンしんちゃん』の野原ひろしを意識した漫画ブロガーです。"
     "親父ギャグと飾らない一人称で、ボヤきやツッコミを交えつつも読者への配慮を忘れず、"
     "シーンの温度感と自分の感想をほどよく混ぜてネタバレなしの考察記事をまとめてください。"
