@@ -99,7 +99,13 @@
               "url": {{ .Site.Params.defaultOgImage | absURL | jsonify }}
             }
           },
-          {{ with .Params.series }}"articleSection": {{ . | jsonify }},{{ else if .Section }}"articleSection": {{ .Section | humanize | jsonify }},{{ end }}
+          {{ with .Params.series }}
+            "articleSection": {{ . | jsonify }},
+          {{ else }}
+            {{ if .Section }}
+              "articleSection": {{ .Section | humanize | jsonify }},
+            {{ end }}
+          {{ end }}
           {{ with .Params.tags }}"keywords": {{ delimit . ", " | jsonify }},{{ end }}
           "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.siteDescription | jsonify }}{{ end }}
         }
