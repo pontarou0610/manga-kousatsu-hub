@@ -60,14 +60,14 @@ JINJA_ENV = Environment(
     lstrip_blocks=True,
 )
 
-ARTICLE_SYSTEM_PROMPT_SPOILER = (
-    "あなたは世界一のブロガーです。"
-    "あなたは『クレヨンしんちゃん』の野原ひろしを意識した漫画ブロガーです。"
-    "親父ギャグと飾らない一人称で、ボヤきやツッコミを交えつつも読者への配慮を忘れず、"
-    "シーンの温度感と自分の感想をほどよく混ぜてネタバレ記事をまとめてください。"
-    "ただし「こんにちは、ひろしです」などと名乗ったり、野原ひろし本人を装う自己紹介は書かないでください。"
-    "垂直思考で論点を掘り下げ、因果や根拠を筋道立てて組み立ててください。"
-)
+ARTICLE_SYSTEM_PROMPT_SPOILER = """
+あなたは「マンガ考察・ネタバレブログ」の記事を自動生成する専門ライターAIです。
+毎回、最新話ネタバレを最優先で扱い、話数を明記して詳細なネタバレと考察を書きます。
+最新話が不明・取得不可の場合は、第1話から順番に未作成の話数を埋めてください。
+記事構成は「注意書き→あらすじ→詳細ネタバレ→考察/伏線→今後の予想→用語集」を基本とし、
+用語集は新しい項目を優先して1〜3件追加し、既存用語しかない場合は説明を少し補足します。
+公開済みの公式情報のみに基づき、予想は「考察・予想」と明示して推測に留めてください。
+"""
 ARTICLE_SYSTEM_PROMPT_INSIGHT = (
     "あなたは世界一のブロガーです。"
     "あなたは『クレヨンしんちゃん』の野原ひろしを意識した漫画ブロガーです。"
@@ -83,7 +83,7 @@ ARTICLE_REVIEW_SYSTEM = (
 )
 
 ARTICLE_SPOILER_USER_TMPL = Template("""
-Use the following context to produce JSON for a spoiler-friendly article.
+Use the following context to produce JSON for a manga spoiler article.
 
 # Series Info
 - Title: $series_name
@@ -94,15 +94,18 @@ Use the following context to produce JSON for a spoiler-friendly article.
 $official_links
 
 # Output
-Keys: intro, summary_points, spoiler, reference_links.
-1. intro: 80-140 chars, no spoilers, written in a casual, 野原ひろし風の親父口調で一人称。
-2. summary_points: 3 bullet strings, spoiler-free, each formatted with natural line breaks for readability.
-3. spoiler: {
-     "synopsis": >=1500 Japanese characters, multi-paragraph, mixing detailed plot beats with short first-person impressions,
-     "foreshadowings": 3 bullet strings explaining how clues were used or left unresolved,
-     "predictions": 2 bullet strings with explicit reasoning.
+Return JSON with keys: title, intro, summary_points, spoiler, glossary_updates, reference_links.
+1. title: SEO-friendly Japanese title ~32 chars that includes series + chapter + "最新話ネタバレ・感想・考察".
+2. intro: 90-160 Japanese chars. Mention the chapter, include a soft warning that spoilers follow, and keep the tone friendly一人称。
+3. summary_points: 3 bullet strings (spoiler-free) that give a quick chronological outline of the chapter.
+4. spoiler: {
+     "synopsis": >=1500 Japanese characters, chronological and detailed, mixing key lines/actions with brief first-person reactions,
+     "foreshadowings": 3-4 bullet strings focusing on伏線・謎・キャラ心情の変化,
+     "predictions": 2 bullet strings for 今後の展開予想 with explicit reasoning and "予想" wording.
    }
-4. reference_links: only from provided list. Each item { "label": "...", "url": "..." }.
+5. glossary_updates: 1-3 items { "term": "...", "reading": optional, "description": "作品を知らない人にもわかる1-3文" }.
+   - Prefer new terms/abilities/組織/場所 from this chapter; if none, lightly enrich an existing term.
+6. reference_links: only from provided list. Each item { "label": "...", "url": "..." }.
 
 Return JSON only.
 """)
@@ -424,7 +427,7 @@ def _normalize_spoiler_payload(data: Dict[str, Any], official_links: List[Dict[s
             "推測は根拠を添えて提示し、読者の安全を確保。",
         ]
     spoiler = data.get("spoiler") or {}
-    foreshadowings = clean_list(spoiler.get("foreshadowings"))[:2]
+    foreshadowings = clean_list(spoiler.get("foreshadowings"))[:4]
     if not foreshadowings:
         foreshadowings = ["既知の伏線を整理中。", "新情報の真偽を確認中。"]
     predictions = clean_list(spoiler.get("predictions"))[:2]
@@ -446,6 +449,8 @@ def _normalize_spoiler_payload(data: Dict[str, Any], official_links: List[Dict[s
     if not references:
         references = official_links[:3]
 
+    glossary_updates = _clean_glossary_items(data.get("glossary_updates") or data.get("glossary") or [])
+
     return {
         "intro": (data.get("intro") or "").strip(),
         "summary_points": summary_points,
@@ -455,6 +460,7 @@ def _normalize_spoiler_payload(data: Dict[str, Any], official_links: List[Dict[s
             "predictions": predictions,
         },
         "reference_links": references,
+        "glossary_updates": glossary_updates,
     }
 
 
@@ -537,12 +543,14 @@ def _normalize_insight_payload(data: Dict[str, Any], official_links: List[Dict[s
 
 def generate_seo_title(series: Dict[str, Any], entry: Dict[str, Any], mode: str) -> str:
     series_name = series.get("name", "")
-    chapter = entry.get("chapter") or entry.get("title") or "最新話"
-    mode_label = "最新話考察" if mode == "spoiler" else "ネタバレ無し考察"
-    topic = entry.get("title") or entry.get("summary", "").split("。")[0]
-    parts = [series_name, chapter, mode_label, topic]
-    title = "｜".join([p for p in parts if p])
-    return title[:60] if title else f"{series_name} {mode_label}"
+    chapter_label = entry.get("chapter") or entry.get("title") or "最新話"
+    if mode == "spoiler":
+        title = f"{series_name}｜{chapter_label}｜最新話ネタバレ・感想・考察"
+    else:
+        topic = entry.get("title") or entry.get("summary", "").split("。")[0]
+        title = f"{series_name}｜{chapter_label}｜ネタバレ無し考察｜{topic}".strip("｜")
+    return title[:60] if title else f"{series_name} {mode}"
+
 
 
 def generate_article_sections(series: Dict[str, Any], entry: Dict[str, Any], mode: str) -> Optional[Dict[str, Any]]:
@@ -720,12 +728,14 @@ def build_spoiler_context(
     payload: Optional[Dict[str, Any]],
     hero_image: Optional[Dict[str, str]],
 ) -> Dict[str, Any]:
+    chapter_label = entry.get("chapter", entry.get("title", "最新話")) or "最新話"
     summary = payload.get("summary_points") if payload else default_summary_points(series["name"], entry.get("chapter", ""))
     spoiler_block = payload.get("spoiler") if payload else {
         "synopsis": entry.get("summary", "")[:120],
-        "foreshadowings": ["伏線整理中。", "続報を確認中。"],
-        "predictions": ["公式情報待ち。", "確定情報が出次第更新予定。"],
+        "foreshadowings": ["伏線の整理を準備中。", "次の謎はここから。"],
+        "predictions": ["次回の展開を予想。", "伏線が動きそうなポイント。"],
     }
+    glossary_updates = payload.get("glossary_updates") if payload else []
     payload_links = payload.get("reference_links") if payload else []
     supplemental_links = entry.get("research_links") or series.get("official_links", [])
     reference_links = _merge_reference_links(payload_links, supplemental_links)
@@ -736,13 +746,14 @@ def build_spoiler_context(
     others = prioritized_other_affiliates(series)
     disclaimer_text = series.get("defaults", {}).get(
         "disclaimer",
-        "公式情報のみを参照し、ネタバレは折りたたみ内に限定しています。",
+        "公開情報のみを基にし、ネタバレは折りたたみ内に収めています。",
     )
 
     return {
-        "title": (payload.get("title") if payload else entry.get("title", f"{series['name']} 最新考察")),
+        "title": (payload.get("title") if payload else entry.get("title", f"{series['name']} 最新話考察")),
         "series": series["name"],
         "chapter": entry.get("chapter", entry.get("title", "最新話")),
+        "chapter_label": chapter_label,
         "date": entry.get("date"),
         "tags": series.get("tags", []),
         "draft": draft,
@@ -759,15 +770,16 @@ def build_spoiler_context(
         "images": [ogp_path] if ogp_path else [],
         "intro": payload.get("intro") if payload else entry.get(
             "intro",
-            f"{series['name']}の最新話を公式情報のみで整理。ネタバレはトグル内に限定しています。",
+            f"{series['name']}の最新話をさっくり整理します。ネタバレはトグル内に収めています。",
         ),
         "summary_points": summary[:3],
         "spoiler": spoiler_block,
+        "glossary_updates": glossary_updates,
         "reference_links": reference_links,
         "hero_image": hero_image,
         "official_link": official_link,
+        "spoiler_notice": "本記事は最新話までのネタバレを含みます。",
     }
-
 
 
 def build_insight_context(

@@ -1,4 +1,4 @@
----
+﻿---
 title: "{{ title }}"
 slug: "{{ slug }}"
 date: {{ date }}
@@ -39,46 +39,43 @@ images: []
 ---
 {{ intro }}
 
-## 記事のアウトライン（検索意図ベース）
-{% for block in outline %}
-- **{{ block.heading }}**
-  {% for bullet in block.bullets %}
-  - {{ bullet }}
-  {% endfor %}
-{% endfor %}
+> **{{ spoiler_notice | default("本記事は最新話までのネタバレを含みます。") }}**
 
 {% if hero_image %}
 ![{{ hero_image.alt }}]({{ hero_image.url }})
 <small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
 {% endif %}
 
-## 要点まとめ（ネタバレ無し）
+## 第{{ chapter_label }}のあらすじ（ざっくり概要）
 {% for point in summary_points %}
 - {{ point }}
 {% endfor %}
 
 {{ "{{< spoiler >}}" }}
-### ネタバレ詳細と所感
+## 第{{ chapter_label }} 詳細ネタバレ（時系列で詳しく）
 {{ spoiler.synopsis }}
 
-### 回収された伏線／新たな疑問
+## 考察・伏線・キャラの心情分析
 {% for item in spoiler.foreshadowings %}
 - {{ item }}
 {% endfor %}
 
-### 次回予想・根拠つき
+## 今後の展開予想（あくまで予想）
 {% for item in spoiler.predictions %}
 - {{ item }}
 {% endfor %}
 {{ "{{< /spoiler >}}" }}
 
-## FAQ
-{% for item in faq %}
-- **Q. {{ item.question }}**  
-  A. {{ item.answer }}
+## 用語集（今回追加・更新分）
+{% if glossary_updates %}
+{% for term in glossary_updates %}
+- **{{ term.term }}**{% if term.reading %}（{{ term.reading }}）{% endif %}: {{ term.description }}
 {% endfor %}
+{% else %}
+- 今回は既存用語の補足のみでした。
+{% endif %}
 
-## 参考リンク（すべて公式）
+## 参考リンク（公式中心）
 {% for link in reference_links %}
 - [{{ link.label }}]({{ link.url }})
 {% endfor %}
