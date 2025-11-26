@@ -1,0 +1,22 @@
+entries:
+  - title: "南波兄弟の幼少期フラッシュバック整理"
+    chapter: "幼少期回想"
+    chapter_number: 0
+    date: "2023-01-03T00:00:00Z"
+    summary: "六太と日々人の幼少期エピソードをまとめ、兄弟の目標設定やNASA/JAXAへの憧れに関する用語を補強する。"
+    intro: "初期動機と家族関係を整理し、人物用語を増やす。"
+    research_links:
+      - label: "公式サイト"
+        url: "https://morning.kodansha.co.jp/c/uchukyodai/"
+    force_modes:
+      - spoiler
+  - title: "宇宙飛行士選抜で出た専門用語の洗い出し"
+    chapter: "選抜編用語"
+    date: "2023-01-04T00:00:00Z"
+    summary: "訓練や試験で出た専門用語・試験名・施設名を整理し、用語集を厚くする。"
+    intro: "用語集強化目的で、選抜編の名詞を集約する。"
+    research_links:
+      - label: "JAXA訓練"
+        url: "https://www.jaxa.jp/"
+    force_modes:
+      - glossary

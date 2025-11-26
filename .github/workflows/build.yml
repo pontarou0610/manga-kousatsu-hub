@@ -2,7 +2,7 @@
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"   # Twice daily (UTC 00:00/12:00)
+    - cron: "0 0 * * *"      # Once daily (UTC 00:00)
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -51,6 +51,18 @@ jobs:
 
       - name: Generate posts
         run: python scripts/generate_posts.py
+
+      - name: Commit generated content
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: main
+          commit_message: "chore: 自動生成コンテンツ更新"
+          file_pattern: |
+            content/**
+            data/state.json
+            static/ogp/**
+            templates/**
+            scripts/**
 
       - name: Build
         run: hugo --cleanDestinationDir --minify

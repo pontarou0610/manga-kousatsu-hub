@@ -1,0 +1,23 @@
+entries:
+  - title: "第1話の設備と外界ルールまとめ"
+    chapter: "第1話"
+    chapter_number: 1
+    date: "2023-01-01T00:00:00Z"
+    summary: "学校の設備、外界への恐怖、子どもたちの呼称など基本設定を整理し、用語集を厚くするための回想を収集する。"
+    intro: "初期設定の名詞を拾い、用語集の土台を整える目的で振り返る。"
+    research_links:
+      - label: "公式サイト"
+        url: "https://afternoon.kodansha.co.jp/c/tengokudaimakyo/"
+    force_modes:
+      - spoiler
+  - title: "保護者と子どもの関係性の伏線"
+    chapter: "第2話"
+    chapter_number: 2
+    date: "2023-01-02T00:00:00Z"
+    summary: "園内での大人の態度、子どもの反応、外部への恐怖心がどう植え付けられているかを追う。"
+    intro: "対人関係と伏線を重点に、用語と組織名を掘り起こす。"
+    research_links:
+      - label: "アニメ公式"
+        url: "https://tdm-anime.com/"
+    force_modes:
+      - spoiler

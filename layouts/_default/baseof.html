@@ -259,6 +259,7 @@
         border-radius: 14px;
         padding: 1.1rem 1rem;
         box-shadow: var(--shadow);
+        margin-bottom: 1rem;
       }
       .series-list {
         list-style: none;
@@ -423,6 +424,21 @@
         color: #2d1a00;
         box-shadow: 0 10px 20px rgba(255,179,71,0.35);
       }
+      .concept {
+        font-size: 0.95rem;
+        color: #1f2435;
+        line-height: 1.6;
+      }
+      .concept strong { display: block; font-size: 1.05rem; margin-bottom: 0.25rem; }
+      .caution {
+        background: #fff4ec;
+        border: 1px solid #ffd4b8;
+        border-radius: 10px;
+        padding: 0.8rem 0.9rem;
+        font-size: 0.92rem;
+        color: #3a2a1c;
+        margin-top: 0.75rem;
+      }
       .Search-page { max-width: 780px; margin: 0 auto; }
       .Search-input {
         width: 100%;
@@ -506,6 +522,11 @@
           {{ block "main" . }}{{ end }}
         </div>
         <aside class="sidebar">
+          <div class="sidebar__card concept">
+            <strong>コンセプト</strong>
+            <div>最新話のネタバレ考察と伏線整理を毎日更新。公式情報ベースで用語集も継続追加します。</div>
+            <div class="caution">※ 本サイトの記事は最新話までのネタバレを含みます。読み進める前にご留意ください。</div>
+          </div>
           <div class="sidebar__card">
             <h3 style="margin:0;">ほかの作品</h3>
             <ul class="series-list">

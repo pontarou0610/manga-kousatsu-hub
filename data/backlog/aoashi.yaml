@@ -1,0 +1,22 @@
+entries:
+  - title: "青井の初試合で出たポジションと用語整理"
+    chapter: "初試合"
+    chapter_number: 1
+    date: "2023-01-05T00:00:00Z"
+    summary: "初試合で登場したポジション・戦術用語・コーチの指示を洗い出し、用語集に追加する。"
+    intro: "サッカー用語と人物名を補強する目的の振り返り。"
+    research_links:
+      - label: "公式サイト"
+        url: "https://aoashi-pr.com/"
+    force_modes:
+      - spoiler
+  - title: "エスペリオンでのチーム内関係図"
+    chapter: "チーム関係図"
+    date: "2023-01-06T00:00:00Z"
+    summary: "エスペリオンのメンバー関係やポジション、役割を整理し、キャラ用語を増やす。"
+    intro: "人物・組織用語の強化用メモ。"
+    research_links:
+      - label: "エスペリオン公式"
+        url: "https://aoashi-pr.com/"
+    force_modes:
+      - glossary
