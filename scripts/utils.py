@@ -1021,6 +1021,10 @@ def load_entries_for_series(series: Dict[str, Any], state: Dict[str, Any]) -> Li
         fallback = build_fallback_entry(series)
         if fallback:
             entries.append(fallback)
+    if not entries:
+        suggest = build_suggest_entry(series)
+        if suggest:
+            entries.append(suggest)
     return entries
 
 
@@ -1042,6 +1046,55 @@ def build_fallback_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "chapter": topic,
         "intro": f"{series['name']}の既出情報をもとに「{topic}」を深掘りします（ネタバレ無し）。",
         "date": dt.datetime.now(dt.timezone.utc).isoformat(),
+        "force_modes": ["insight"],
+        "is_fallback": True,
+    }
+
+
+def fetch_google_suggestions(query: str) -> List[str]:
+    """
+    Fetch Google suggest keywords (Firefox client endpoint).
+    Returns a list of suggestion strings; network errors are swallowed to keep generation moving.
+    """
+    try:
+        resp = requests.get(
+            "https://suggestqueries.google.com/complete/search",
+            params={"client": "firefox", "hl": "ja", "q": query},
+            timeout=10,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        if isinstance(data, list) and len(data) >= 2 and isinstance(data[1], list):
+            return [s for s in data[1] if isinstance(s, str)]
+    except Exception:
+        return []
+    return []
+
+
+def build_suggest_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+    """
+    Build a fallback entry using Googleサジェストをベースにしたキーワードでの考察記事。
+    生成内容が推測に寄るため、安全側で insight モードに限定する。
+    """
+    base_query = f"{series.get('name','')} 最新話 考察"
+    suggestions = fetch_google_suggestions(base_query)
+    if not suggestions:
+        suggestions = fetch_google_suggestions(series.get("name", ""))
+    if not suggestions:
+        return None
+    topic = suggestions[0]
+    topic_slug = slugify(topic)
+    official_links = series.get("official_links") or [{}]
+    primary_link = official_links[0] if isinstance(official_links, list) and official_links else {}
+    now = dt.datetime.now(dt.timezone.utc)
+    return {
+        "id": f"{series['slug']}-suggest-{now.strftime('%Y%m%d')}-{topic_slug}",
+        "title": topic,
+        "link": primary_link.get("url", ""),
+        "summary": topic,
+        "chapter": topic,
+        "intro": f"{series['name']}の話題キーワード「{topic}」をもとにネタバレなしで整理します。",
+        "date": now.isoformat(),
         "force_modes": ["insight"],
         "is_fallback": True,
     }
