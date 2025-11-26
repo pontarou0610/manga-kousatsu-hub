@@ -173,7 +173,7 @@ def process_series(
 
 
 def write_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> None:
-    terms = ensure_glossary_terms(series, desired=5)
+    terms = ensure_glossary_terms(series, desired=30)
     if not terms:
         return
     selected, remaining = select_glossary_terms(series["slug"], terms, state)

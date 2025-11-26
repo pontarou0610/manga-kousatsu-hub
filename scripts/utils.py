@@ -652,9 +652,10 @@ def _clean_glossary_items(items: Any) -> List[Dict[str, str]]:
     return cleaned
 
 
-def ensure_glossary_terms(series: Dict[str, Any], desired: int = 5) -> List[Dict[str, str]]:
+def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dict[str, str]]:
     """
     Ensure glossary has at least `desired` terms by generating missing entries via OpenAI.
+    Defaultは30件まで拡充する方針に引き上げ、用語集の伸びを止めない。
     """
     terms = load_glossary_terms(series["slug"])
     if len(terms) >= desired or not OPENAI_API_KEY:
