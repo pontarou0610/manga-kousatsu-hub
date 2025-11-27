@@ -108,8 +108,6 @@ def process_series(
 
         for mode in target_modes:
             unique = hash_entry(series["slug"], base_id, mode)
-            if unique in processed_hashes:
-                continue
 
             sections = try_generate_article(series, entry, mode)
             if mode == "insight":
@@ -196,8 +194,7 @@ def main() -> int:
         log("本日の更新は既に実行済みのためスキップします。")
         return 0
 
-    processed_hashes = set(state.get("entries", []))
-    processed_hashes |= collect_existing_hashes()
+    processed_hashes = set()
 
     try:
         series_list = load_series_config()
