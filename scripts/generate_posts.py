@@ -201,13 +201,9 @@ def main() -> int:
         return 1
 
     total_new = 0
-    remaining = 3  # 1日あたりの上限本数
     for series in series_list:
-        if remaining <= 0:
-            break
-        created = process_series(series, processed_hashes, state, limit=remaining)
+        created = process_series(series, processed_hashes, state, limit=2)  # 各作品あたり2本まで
         total_new += len(created)
-        remaining -= len(created)
 
     save_state(state)
     log(f"新規生成 {total_new} 記事")
