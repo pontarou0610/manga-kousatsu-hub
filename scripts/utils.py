@@ -737,6 +737,17 @@ def build_spoiler_context(
         "predictions": ["次回の展開を予想。", "伏線が動きそうなポイント。"],
     }
     glossary_updates = payload.get("glossary_updates") if payload else []
+    if not glossary_updates:
+        existing_terms = ensure_glossary_terms(series, desired=30)
+        recent = existing_terms[-3:] if existing_terms else []
+        glossary_updates = [
+            {
+                "term": term.get("term", ""),
+                "reading": term.get("reading", ""),
+                "description": term.get("description", ""),
+            }
+            for term in recent
+        ]
     payload_links = payload.get("reference_links") if payload else []
     supplemental_links = entry.get("research_links") or series.get("official_links", [])
     reference_links = _merge_reference_links(payload_links, supplemental_links)
@@ -1047,7 +1058,7 @@ def build_fallback_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "chapter": topic,
         "intro": f"{series['name']}の既出情報をもとに「{topic}」を深掘りします（ネタバレ無し）。",
         "date": dt.datetime.now(dt.timezone.utc).isoformat(),
-        "force_modes": ["insight"],
+        "force_modes": ["spoiler"],
         "is_fallback": True,
     }
 
@@ -1096,7 +1107,7 @@ def build_suggest_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "chapter": topic,
         "intro": f"{series['name']}の話題キーワード「{topic}」をもとにネタバレなしで整理します。",
         "date": now.isoformat(),
-        "force_modes": ["insight"],
+        "force_modes": ["spoiler"],
         "is_fallback": True,
     }
 
