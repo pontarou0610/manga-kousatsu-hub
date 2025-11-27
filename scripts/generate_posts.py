@@ -189,11 +189,6 @@ def main() -> int:
     ensure_directory(OGP_DIR)
 
     state = load_state()
-    today = dt.date.today().isoformat()
-    if state.get("last_run_date") == today:
-        log("本日の更新は既に実行済みのためスキップします。")
-        return 0
-
     processed_hashes = set()
 
     try:
@@ -207,7 +202,6 @@ def main() -> int:
         created = process_series(series, processed_hashes, state)
         total_new += len(created)
 
-    state["last_run_date"] = today
     save_state(state)
     log(f"新規生成 {total_new} 記事")
     return 0
