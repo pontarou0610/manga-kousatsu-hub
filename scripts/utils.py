@@ -655,11 +655,58 @@ def _clean_glossary_items(items: Any) -> List[Dict[str, str]]:
 def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dict[str, str]]:
     """
     Ensure glossary has at least `desired` terms by generating missing entries via OpenAI.
-    Defaultは30件まで拡充する方針に引き上げ、用語集の伸びを止めない。
+    ????????????????????+3?????????
     """
     terms = load_glossary_terms(series["slug"])
-    if len(terms) >= desired or not OPENAI_API_KEY:
-        return terms
+    target = max(desired, len(terms) + 3)
+
+    new_items: List[Dict[str, str]] = []
+    if OPENAI_API_KEY:
+        official_links = series.get("official_links") or []
+        link_text = "
+".join(f"- {link.get('label')}: {link.get('url')}" for link in official_links[:3])
+        prompt = [
+            f"?????: {series.get('name')}",
+            f"??: {', '.join(series.get('tags', []))}",
+            f"?????: {len(terms)}",
+            "?????:",
+            link_text or "- (??)",
+            f"??{target - len(terms)}?????????????????????40?80???????"
+        ]
+        user_prompt = "
+".join(prompt)
+        raw = _call_openai(GLOSSARY_SYSTEM_PROMPT, user_prompt, temperature=0.55)
+        try:
+            new_items = _clean_glossary_items(json.loads(raw)) if raw else []
+        except json.JSONDecodeError:
+            new_items = []
+
+    seen = {t["term"] for t in terms}
+    for item in new_items:
+        if item["term"] not in seen:
+            terms.append(item)
+            seen.add(item["term"])
+        if len(terms) >= target:
+            break
+
+    if len(terms) < target:
+        missing = target - len(terms)
+        for idx in range(missing):
+            placeholder = f"{series['name']}??{len(terms)+1}"
+            if placeholder in seen:
+                continue
+            terms.append(
+                {
+                    "term": placeholder,
+                    "reading": "",
+                    "description": "????????????????????????????",
+                    "reference": "????",
+                }
+            )
+            seen.add(placeholder)
+
+    save_glossary_terms(series["slug"], terms)
+    return terms
 
     official_links = series.get("official_links") or []
     link_text = "\n".join(f"- {link.get('label')}: {link.get('url')}" for link in official_links[:3])
