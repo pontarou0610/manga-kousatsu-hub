@@ -655,9 +655,14 @@ def _clean_glossary_items(items: Any) -> List[Dict[str, str]]:
 def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dict[str, str]]:
     """
     Ensure glossary has at least `desired` terms by generating missing entries via OpenAI.
-    ????????????????????+3?????????
+    ???????????????????????????????????
     """
     terms = load_glossary_terms(series["slug"])
+
+    def is_placeholder(term: str) -> bool:
+        return "????" in term or term.endswith("??")
+
+    terms = [t for t in terms if not is_placeholder(t.get("term", ""))]
     target = max(desired, len(terms) + 3)
 
     new_items: List[Dict[str, str]] = []
@@ -688,22 +693,6 @@ def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dic
             seen.add(item["term"])
         if len(terms) >= target:
             break
-
-    if len(terms) < target:
-        missing = target - len(terms)
-        for idx in range(missing):
-            placeholder = f"{series['name']}??{len(terms)+1}"
-            if placeholder in seen:
-                continue
-            terms.append(
-                {
-                    "term": placeholder,
-                    "reading": "",
-                    "description": "????????????????????????????",
-                    "reference": "????",
-                }
-            )
-            seen.add(placeholder)
 
     save_glossary_terms(series["slug"], terms)
     return terms
