@@ -52,6 +52,11 @@ jobs:
       - name: Generate posts
         run: python scripts/generate_posts.py
 
+      - name: Show generated changes
+        run: |
+          git status -sb
+          git diff --stat || true
+
       - name: Commit generated content
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
