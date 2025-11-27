@@ -655,12 +655,12 @@ def _clean_glossary_items(items: Any) -> List[Dict[str, str]]:
 def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dict[str, str]]:
     """
     Ensure glossary has at least `desired` terms by generating missing entries via OpenAI.
-    ???????????????????????????????????
+    新しい用語を増やすことを目指すが、無意味なプレースホルダーは作らない。
     """
     terms = load_glossary_terms(series["slug"])
 
     def is_placeholder(term: str) -> bool:
-        return "????" in term or term.endswith("??")
+        return "用語補完" in term or term.endswith("用語")
 
     terms = [t for t in terms if not is_placeholder(t.get("term", ""))]
     target = max(desired, len(terms) + 3)
@@ -668,18 +668,16 @@ def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dic
     new_items: List[Dict[str, str]] = []
     if OPENAI_API_KEY:
         official_links = series.get("official_links") or []
-        link_text = "
-".join(f"- {link.get('label')}: {link.get('url')}" for link in official_links[:3])
+        link_text = "\n".join(f"- {link.get('label')}: {link.get('url')}" for link in official_links[:3])
         prompt = [
-            f"?????: {series.get('name')}",
-            f"??: {', '.join(series.get('tags', []))}",
-            f"?????: {len(terms)}",
-            "?????:",
-            link_text or "- (??)",
-            f"??{target - len(terms)}?????????????????????40?80???????"
+            f"シリーズ名: {series.get('name')}",
+            f"タグ: {', '.join(series.get('tags', []))}",
+            f"既存用語数: {len(terms)}",
+            "参考リンク:",
+            link_text or "- (なし)",
+            f"残り{target - len(terms)}件を追加してください。用語は初見でもわかる40〜80文字の説明を。"
         ]
-        user_prompt = "
-".join(prompt)
+        user_prompt = "\n".join(prompt)
         raw = _call_openai(GLOSSARY_SYSTEM_PROMPT, user_prompt, temperature=0.55)
         try:
             new_items = _clean_glossary_items(json.loads(raw)) if raw else []
