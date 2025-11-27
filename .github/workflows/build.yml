@@ -65,6 +65,7 @@ jobs:
           file_pattern: |
             content/**
             data/state.json
+            data/glossary/**
             static/ogp/**
             templates/**
             scripts/**
