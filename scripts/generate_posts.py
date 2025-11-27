@@ -62,8 +62,9 @@ def process_series(
     series: Dict[str, Any],
     processed_hashes: set[str],
     state: Dict[str, Any],
+    limit: int,
 ) -> List[str]:
-    """Generate at most one article per series (per run), plus glossary."""
+    """Generate up to `limit` articles per series (per run), plus glossary."""
     new_entries: List[str] = []
 
     try:
@@ -152,17 +153,19 @@ def process_series(
             state.setdefault("entries", []).append(unique)
             new_entries.append(unique)
 
-    # 1日1シリーズあたり1本まで
+    # 1???????????????
     for entry in entries:
-        process_entry(entry)
-        if new_entries:
+        if len(new_entries) >= limit:
             break
+        process_entry(entry)
 
-    # RSSに新着がなければバックログから1本だけ生成
-    if not new_entries:
+    # RSS???????????????????
+    while len(new_entries) < limit:
         fallback_entry = select_backlog_entry(series, state)
-        if fallback_entry:
-            process_entry(fallback_entry)
+        if not fallback_entry:
+            break
+        process_entry(fallback_entry)
+
 
     if "glossary" in content_modes:
         write_glossary_post(series, state)
@@ -198,9 +201,13 @@ def main() -> int:
         return 1
 
     total_new = 0
+    remaining = 3  # 1日あたりの上限本数
     for series in series_list:
-        created = process_series(series, processed_hashes, state)
+        if remaining <= 0:
+            break
+        created = process_series(series, processed_hashes, state, limit=remaining)
         total_new += len(created)
+        remaining -= len(created)
 
     save_state(state)
     log(f"新規生成 {total_new} 記事")
