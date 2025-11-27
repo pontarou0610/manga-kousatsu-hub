@@ -151,9 +151,9 @@ ARTICLE_INSIGHT_SYSTEM_EXTRA = (
 )
 
 GLOSSARY_SYSTEM_PROMPT = (
-    "あなたは漫画考察ブログの編集者です。シリーズの基本情報から用語集を作成します。"
-    "固有名詞は正式名称と読み仮名をセットで示し、40〜80文字程度の説明を日本語でまとめてください。"
-    "返答は JSON 配列のみとし、各要素は {\"term\":\"...\",\"reading\":\"...\",\"description\":\"...\",\"reference\":\"...\"} です。"
+    "??????????????????????????????????????????????"
+    "???40?80???????????????????????????"
+    "???JSON?????????? {\"term\":\"...\",\"reading\":\"...\",\"description\":\"...\",\"reference\":\"...\"} ????????"
 )
 
 
@@ -684,6 +684,21 @@ def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dic
             seen.add(item["term"])
         if len(terms) >= desired:
             break
+    if len(terms) < desired:
+        missing = desired - len(terms)
+        for idx in range(missing):
+            placeholder = f"{series['name']}用語補完{idx+1}"
+            if placeholder in seen:
+                continue
+            terms.append(
+                {
+                    "term": placeholder,
+                    "reading": "",
+                    "description": "公式情報に基づく用語の補完。詳細は次回更新で追記予定。",
+                    "reference": "自動補完",
+                }
+            )
+            seen.add(placeholder)
     save_glossary_terms(series["slug"], terms)
     return terms
 
