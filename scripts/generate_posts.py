@@ -109,6 +109,8 @@ def process_series(
 
         for mode in target_modes:
             unique = hash_entry(series["slug"], base_id, mode)
+            if unique in processed_hashes:
+                continue
 
             sections = try_generate_article(series, entry, mode)
             if mode == "insight":
@@ -200,7 +202,7 @@ def main() -> int:
     ensure_directory(OGP_DIR)
 
     state = load_state()
-    processed_hashes = set()
+    processed_hashes = set(state.get("entries", []))
 
     try:
         series_list = load_series_config()
