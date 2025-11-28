@@ -135,10 +135,18 @@ def process_series(
                 slug = base_slug
 
             # Ensure slug is present in front matter for stable ASCII permalinks
-            context["slug"] = slug
+            timestamp_suffix = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%d-%H%M%S")
+            slug_candidate = slug
+            destination = target_markdown_path(series["slug"], published, slug_candidate)
+            counter = 1
+            while destination.exists():
+                slug_candidate = f"{slug}-{timestamp_suffix}-{counter}"
+                destination = target_markdown_path(series["slug"], published, slug_candidate)
+                counter += 1
+
+            context["slug"] = slug_candidate
 
             markdown = render_markdown(context, template_name)
-            destination = target_markdown_path(series["slug"], published, slug)
 
             try:
                 write_markdown_file(destination, markdown)
