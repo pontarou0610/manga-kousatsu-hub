@@ -738,18 +738,12 @@ def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dic
 
 
 def select_glossary_terms(series_slug: str, terms: List[Dict[str, str]], state: Dict[str, Any]) -> Tuple[List[Dict[str, str]], int]:
-    progress = state.setdefault("glossary_progress", {})
-    current = progress.get(series_slug, 0)
-    minimum = min(len(terms), 3)
-    # Increase aggressively so glossary grows even if更新頻度が低い
-    increment = 5
-    target = max(current, minimum)
-    if target < len(terms):
-        target += increment
-    target = min(len(terms), target)
-    progress[series_slug] = target
-    remaining = max(0, len(terms) - target)
-    return terms[:target], remaining
+    """
+    Show all available glossary terms. We no longer stage terms gradually so
+    readers can see the full list and増加を確認できるようにする。
+    """
+    state.setdefault("glossary_progress", {})[series_slug] = len(terms)
+    return terms, 0
 
 
 def _merge_reference_links(
