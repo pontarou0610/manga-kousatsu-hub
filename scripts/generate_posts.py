@@ -53,7 +53,7 @@ def try_generate_article(
     try:
         return generate_article_sections(series, entry, mode)
     except Exception as exc:  # noqa: BLE001
-        log(f"OpenAIによる記事セクション生成に失敗({mode}): {exc}")
+        log(f"Failed to generate article sections via OpenAI ({mode}): {exc}")
         traceback.print_exc()
         return None
 
@@ -160,13 +160,13 @@ def process_series(
             state.setdefault("entries", []).append(unique)
             new_entries.append(unique)
 
-    # 1???????????????
+    # Process feed/manual entries first, then fill from backlog if needed
     for entry in entries:
         if len(new_entries) >= limit:
             break
         process_entry(entry)
 
-    # RSS???????????????????
+    # Fill with backlog entries if still under limit
     while len(new_entries) < limit:
         fallback_entry = select_backlog_entry(series, state)
         if not fallback_entry:
@@ -208,13 +208,23 @@ def main() -> int:
         return 1
 
     total_new = 0
+    total_limit = 3  # max per run
+    per_series_limit = 2  # cap per series
+
     for series in series_list:
-        created = process_series(series, processed_hashes, state, limit=2)  # 各作品あたり2本まで
+        if total_new >= total_limit:
+            log("Reached daily max; skipping remaining series")
+            break
+        remaining = total_limit - total_new
+        limit_for_series = min(per_series_limit, remaining)
+        created = process_series(series, processed_hashes, state, limit=limit_for_series)
         total_new += len(created)
 
     save_state(state)
-    log(f"新規生成 {total_new} 記事")
+    log(f"Generated {total_new} new posts")
     return 0
+
+
 
 
 if __name__ == "__main__":

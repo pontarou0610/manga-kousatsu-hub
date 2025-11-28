@@ -1,40 +1,42 @@
----
-title: "{{ title }}"
-date: {{ date }}
-series: "{{ series }}"
-chapter: "用語集"
-article_variant: "glossary"
-slug: "{{ series_slug }}-glossary"
-tags:
-  - "用語解説"
-  {% for tag in tags %}
-  - "{{ tag }}"
-  {% endfor %}
-draft: false
-affiliate_ids:
-  amazon: "{{ affiliate_ids.amazon }}"
-  rakuten: "{{ affiliate_ids.rakuten }}"
-  others: []
-disclaimer: "{{ disclaimer }}"
-images: []
----
-{{ intro }}
-
-{% if glossary_note %}
-> {{ glossary_note }}
-{% endif %}
-
-## 用語リスト
-{% for term in glossary %}
-### {{ term.term }}（{{ term.reading }}）
-- 説明: {{ term.description }}
-- 参考: {{ term.reference }}
-{% endfor %}
-
-{% if official_link %}
-{{ "{{< affbox title=\"" }}{{ official_link.label or "公式サイト" }}{{ "\" desc=\"公式情報はこちら\" url=\"" }}{{ official_link.url }}{{ "\" >}}" }}
-{% endif %}
-
-{% if affiliate_widgets.amazon %}
-{{ "{{< affbox title=\"Amazonで関連巻を探す\" desc=\"まとめ買い＆Kindle版はこちら\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
-{% endif %}
+---
+title: "{{ title }}"
+date: {{ date }}
+series: "{{ series }}"
+chapter: "用語集"
+article_variant: "glossary"
+slug: "{{ series_slug }}-glossary"
+tags:
+  - "用語解説"
+  {% for tag in tags %}
+  - "{{ tag }}"
+  {% endfor %}
+draft: false
+affiliate_ids:
+  amazon: "{{ affiliate_ids.amazon }}"
+  rakuten: "{{ affiliate_ids.rakuten }}"
+  others: []
+disclaimer: "{{ disclaimer }}"
+images: []
+---
+
+{{ intro }}
+
+{% if glossary_note %}
+> {{ glossary_note }}
+{% endif %}
+
+## 用語リスト
+{% for term in glossary %}
+### {{ term.term }}{% if term.reading %}（{{ term.reading }}）{% endif %}
+- 説明: {{ term.description }}
+- 参考: {{ term.reference }}
+
+{% endfor %}
+
+{% if official_link %}
+{{ "{{< affbox title=\"" }}{{ official_link.label or "公式サイト" }}{{ "\" desc=\"公式情報はこちら\" url=\"" }}{{ official_link.url }}{{ "\" >}}" }}
+{% endif %}
+
+{% if affiliate_widgets.amazon %}
+{{ "{{< affbox title=\"Amazonで関連巻を探す\" desc=\"まとめ買い・Kindle版はこちら\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+{% endif %}

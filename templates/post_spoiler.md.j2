@@ -1,4 +1,4 @@
-﻿---
+---
 title: "{{ title }}"
 slug: "{{ slug }}"
 date: {{ date }}
@@ -46,7 +46,7 @@ images: []
 <small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
 {% endif %}
 
-## 第{{ chapter_label }}のあらすじ（ざっくり概要）
+## 第{{ chapter_label }}のあらすじ（ざっくり）
 {% for point in summary_points %}
 - {{ point }}
 {% endfor %}
@@ -55,7 +55,7 @@ images: []
 ## 第{{ chapter_label }} 詳細ネタバレ（時系列で詳しく）
 {{ spoiler.synopsis }}
 
-## 考察・伏線・キャラの心情分析
+## 考察・伏線・キャラの心情変化
 {% for item in spoiler.foreshadowings %}
 - {{ item }}
 {% endfor %}
@@ -75,24 +75,7 @@ images: []
 - 今回は既存用語の補足のみでした。
 {% endif %}
 
-## 参考リンク（公式中心）
+## 参考リンク（すべて公式）
 {% for link in reference_links %}
 - [{{ link.label }}]({{ link.url }})
 {% endfor %}
-
-{% if reference_links %}
-{% set official = official_link if official_link else reference_links[0] %}
-<p><a class="post-card__more" href="{{ official.url }}" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
-{% endif %}
-
-{% if affiliate_widgets.amazon %}
-<p><a class="post-card__more post-card__more--amazon" href="{{ affiliate_widgets.amazon }}" target="_blank" rel="sponsored noopener">Amazonでチェックする</a></p>
-{% endif %}
-
-{% if affiliate_widgets.amazon %}
-{{ "{{< affbox title=\"最新巻をAmazonで探す\" desc=\"紙／Kindle版をまとめてチェック\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
-{% endif %}
-
-{% if affiliate_widgets.rakuten %}
-{{ "{{< affbox title=\"最新巻をRakutenで探す\" desc=\"楽天ポイント還元あり\" url=\"" }}{{ affiliate_widgets.rakuten }}{{ "\" >}}" }}
-{% endif %}
