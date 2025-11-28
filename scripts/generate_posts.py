@@ -137,18 +137,15 @@ def process_series(
                 slug = base_slug
 
             # Ensure slug is present in front matter for stable ASCII permalinks
-            timestamp_suffix = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%d-%H%M%S")
-            slug_candidate = slug
-            destination = target_markdown_path(series["slug"], published, slug_candidate)
-            counter = 1
-            while destination.exists():
-                slug_candidate = f"{slug}-{timestamp_suffix}-{counter}"
-                destination = target_markdown_path(series["slug"], published, slug_candidate)
-                counter += 1
-
-            context["slug"] = slug_candidate
+            context["slug"] = slug
 
             markdown = render_markdown(context, template_name)
+            destination = target_markdown_path(series["slug"], published, slug)
+
+            # Skip creating a new file if the slug already exists (avoid duplicate titles)
+            if destination.exists():
+                log(f"同じタイトルの記事が既に存在するためスキップ: {destination}")
+                continue
 
             try:
                 write_markdown_file(destination, markdown)
