@@ -1,15 +1,15 @@
 ---
 title: "デッドマウント・デスプレイ 用語集"
-date: 2025-12-01T04:55:11.042778+00:00
+date: 2025-12-01T05:45:28.554282+00:00
 series: "デッドマウント・デスプレイ"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "dead-mount-death-play-glossary"
 tags:
   - "用語解説"
+  - "用語解説"
   - "月刊誌"
   - "バトル"
-  - "用語解説"
   - "ダークファンタジー"
 draft: false
 affiliate_ids:
