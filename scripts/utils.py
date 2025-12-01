@@ -1145,33 +1145,6 @@ def write_markdown_file(path: Path, content: str) -> None:
         f.write(content)
 
 
-# ==== Override prompts with UTF-8 safe Japanese ==== 
-ARTICLE_SYSTEM_PROMPT_SPOILER = """
-"""
-
-ARTICLE_SYSTEM_PROMPT_INSIGHT = (
-)
-
-ARTICLE_REVIEW_SYSTEM = (
-)
-
-ARTICLE_SPOILER_REVIEW_TMPL = """
-
-{raw}
-
-"""
-
-{raw}
-"""
-
-ARTICLE_INSIGHT_SYSTEM_EXTRA = (
-)
-
-GLOSSARY_SYSTEM_PROMPT = (
-)
-
-
-
 # ASCII override prompts (avoid mojibake)
 ARTICLE_SYSTEM_PROMPT_SPOILER = """
 You are a Japanese manga spoiler writer. Always cover the latest chapter first; if unavailable, start from chapter 1 in order.
