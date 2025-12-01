@@ -1,16 +1,16 @@
 ---
 title: "薬屋のひとりごと 用語集"
-date: 2025-12-01T05:46:15.486289+00:00
+date: 2025-12-01T06:33:00.931312+00:00
 series: "薬屋のひとりごと"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "kusuriya-no-hitorigoto-glossary"
 tags:
   - "用語解説"
-  - "宮廷劇"
   - "歴史ミステリー"
-  - "月刊誌"
   - "用語解説"
+  - "月刊誌"
+  - "宮廷劇"
 draft: false
 affiliate_ids:
   amazon: "https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22"
