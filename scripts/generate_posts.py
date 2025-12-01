@@ -5,6 +5,8 @@ import traceback
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
+import frontmatter
+
 from utils import (
     CONTENT_DIR,
     OGP_DIR,
@@ -42,6 +44,24 @@ def target_markdown_path(series_slug: str, published_at: dt.datetime, slug: str)
 
 def fallback_path(series_slug: str, slug: str) -> Path:
     return CONTENT_DIR / "drafts" / series_slug / f"{slug}.md"
+
+
+def chapter_article_exists(series_slug: str, chapter: str, mode: str) -> bool:
+    """Check if the same chapter and variant already exists for the series."""
+    if not chapter:
+        return False
+    base_dir = CONTENT_DIR / "posts" / series_slug
+    if not base_dir.exists():
+        return False
+    for md_file in base_dir.rglob("*.md"):
+        try:
+            post = frontmatter.load(md_file)
+        except Exception:
+            continue
+        meta = post.metadata or {}
+        if meta.get("chapter") == chapter and meta.get("article_variant") == mode:
+            return True
+    return False
 
 
 def try_generate_article(
@@ -106,10 +126,15 @@ def process_series(
 
         hero_image = fetch_pexels_image(entry.get("title", series["name"]))
         target_modes = entry.get("force_modes") or entry_modes
+        chapter_label = entry.get("chapter") or entry.get("title", "")
 
         for mode in target_modes:
             unique = hash_entry(series["slug"], base_id, mode)
             if unique in processed_hashes:
+                continue
+
+            if chapter_article_exists(series["slug"], chapter_label, mode):
+                log(f"同じ話数の記事が既に存在するためスキップ: series={series['slug']} chapter={chapter_label} mode={mode}")
                 continue
 
             sections = try_generate_article(series, entry, mode)
