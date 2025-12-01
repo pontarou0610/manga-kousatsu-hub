@@ -1,16 +1,16 @@
 ---
 title: "宇宙兄弟 用語集"
-date: 2025-12-01T03:02:44.788685+00:00
+date: 2025-12-01T03:22:28.726000+00:00
 series: "宇宙兄弟"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "space-brothers-glossary"
 tags:
   - "用語解説"
-  - "宇宙"
-  - "月刊誌"
   - "用語解説"
   - "ヒューマンドラマ"
+  - "月刊誌"
+  - "宇宙"
 draft: false
 affiliate_ids:
   amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
