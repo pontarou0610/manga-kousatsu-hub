@@ -1179,7 +1179,7 @@ ARTICLE_INSIGHT_SYSTEM_EXTRA = (
     "Leave a bit of curiosity so readers want the next chapter."
 )
 
-GLOSSARY_SYSTEM_PROMPT = (
-    "Create a manga glossary in Japanese. Add 1-3 terms (skills/places/organizations) relevant to this article. "
-    "40-80 chars per item. Return JSON: {"term":"...","reading":"...","description":"...","reference":"..."}"
-)
+GLOSSARY_SYSTEM_PROMPT = """
+Create a manga glossary in Japanese. Add 1-3 terms (skills/places/organizations) relevant to this article.
+40-80 chars per item. Return JSON: {"term":"...","reading":"...","description":"...","reference":"..."}
+"""
