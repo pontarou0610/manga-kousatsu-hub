@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import datetime as dt
+import re
 import traceback
 from pathlib import Path
 from typing import Any, Dict, List, Optional
@@ -45,6 +46,17 @@ def target_markdown_path(series_slug: str, published_at: dt.datetime, slug: str)
 
 def fallback_path(series_slug: str, slug: str) -> Path:
     return CONTENT_DIR / "drafts" / series_slug / f"{slug}.md"
+
+
+def normalize_chapter_label(entry: Dict[str, Any], published: dt.datetime) -> str:
+    """Ensure chapter label is numeric style like '第100話' instead of '最新話'."""
+    raw = (entry.get("chapter") or entry.get("title") or "").strip()
+    match = re.search(r"\d+", raw)
+    if match:
+        return f"第{match.group()}話"
+    if "最新" in raw:
+        return f"第{published:%Y%m%d}話"
+    return raw or f"第{published:%Y%m%d}話"
 
 
 def chapter_article_exists(series_slug: str, chapter: str, mode: str) -> bool:
@@ -111,6 +123,10 @@ def process_series(
         except Exception:  # noqa: BLE001
             published = dt.datetime.now(dt.timezone.utc)
 
+        # normalize chapter to numeric style
+        entry["chapter"] = normalize_chapter_label(entry, published)
+        chapter_label = entry["chapter"]
+
         title_for_slug = entry.get("title", f"{series['slug']}-{published:%Y%m%d}")
         # スラッグ衝突を避けるため、バックログ/サジェスト/フォールバックは日付を付与
         if is_suggest or is_backlog or is_fallback:
@@ -134,7 +150,6 @@ def process_series(
 
         hero_image = fetch_pexels_image(entry.get("title", series["name"]))
         target_modes = entry.get("force_modes") or entry_modes
-        chapter_label = entry.get("chapter") or entry.get("title", "")
 
         for mode in target_modes:
             unique = hash_entry(series["slug"], base_id, mode)
