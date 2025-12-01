@@ -1,6 +1,6 @@
 ---
 title: "ゴールデンカムイ 用語集"
-date: 2025-12-01T05:47:37.805254+00:00
+date: 2025-12-01T07:35:07.685737+00:00
 series: "ゴールデンカムイ"
 chapter: "用語集"
 article_variant: "glossary"
@@ -8,8 +8,8 @@ slug: "golden-kamuy-glossary"
 tags:
   - "用語解説"
   - "週刊誌"
-  - "歴史"
   - "サバイバル"
+  - "歴史"
   - "用語解説"
 draft: false
 affiliate_ids:

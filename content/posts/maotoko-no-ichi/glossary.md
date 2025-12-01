@@ -1,16 +1,16 @@
 ---
 title: "魔男のイチ 用語集"
-date: 2025-12-01T05:49:03.242756+00:00
+date: 2025-12-01T07:36:44.160830+00:00
 series: "魔男のイチ"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "maotoko-no-ichi-glossary"
 tags:
   - "用語解説"
-  - "用語解説"
   - "サスペンス"
-  - "青年誌"
+  - "用語解説"
   - "ダークファンタジー"
+  - "青年誌"
 draft: false
 affiliate_ids:
   amazon: ""

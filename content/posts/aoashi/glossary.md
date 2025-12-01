@@ -1,6 +1,6 @@
 ---
 title: "アオアシ 用語集"
-date: 2025-12-01T05:48:26.497967+00:00
+date: 2025-12-01T07:36:09.505608+00:00
 series: "アオアシ"
 chapter: "用語集"
 article_variant: "glossary"
@@ -8,8 +8,8 @@ slug: "aoashi-glossary"
 tags:
   - "用語解説"
   - "週刊誌"
-  - "用語解説"
   - "サッカー"
+  - "用語解説"
   - "青春"
 draft: false
 affiliate_ids:

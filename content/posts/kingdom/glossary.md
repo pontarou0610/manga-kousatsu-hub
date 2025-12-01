@@ -1,15 +1,15 @@
 ---
 title: "キングダム 用語集"
-date: 2025-12-01T06:59:18.377992+00:00
+date: 2025-12-01T07:33:12.821898+00:00
 series: "キングダム"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "kingdom-glossary"
 tags:
   - "用語解説"
+  - "バトル"
   - "用語解説"
   - "週刊誌"
-  - "バトル"
   - "歴史"
 draft: false
 affiliate_ids:
