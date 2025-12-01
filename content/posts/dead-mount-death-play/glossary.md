@@ -1,16 +1,16 @@
 ---
 title: "デッドマウント・デスプレイ 用語集"
-date: 2025-12-01T07:32:45.901650+00:00
+date: 2025-12-01T07:52:16.024616+00:00
 series: "デッドマウント・デスプレイ"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "dead-mount-death-play-glossary"
 tags:
   - "用語解説"
-  - "バトル"
-  - "用語解説"
   - "ダークファンタジー"
   - "月刊誌"
+  - "バトル"
+  - "用語解説"
 draft: false
 affiliate_ids:
   amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
