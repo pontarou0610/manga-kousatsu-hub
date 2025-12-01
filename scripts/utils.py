@@ -143,6 +143,7 @@ ARTICLE_INSIGHT_SYSTEM_EXTRA = (
 GLOSSARY_SYSTEM_PROMPT = """
 Create a manga glossary in Japanese. Add 1-3 terms (skills/places/organizations) relevant to this article.
 40-80 chars per item. Return JSON: {"term":"...","reading":"...","description":"...","reference":"..."}
+Do not exceed 500 total terms; if already near 500, return only missing items.
 """
 
 def ensure_directory(path: Path) -> None:
@@ -638,7 +639,7 @@ def _clean_glossary_items(items: Any) -> List[Dict[str, str]]:
     return cleaned
 
 
-def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dict[str, str]]:
+def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30, max_terms: int = 500) -> List[Dict[str, str]]:
     """
     Ensure glossary has at least `desired` terms by generating missing entries via OpenAI.
     新しい用語を増やすことを目指すが、無意味なプレースホルダーは作らない。
@@ -649,7 +650,7 @@ def ensure_glossary_terms(series: Dict[str, Any], desired: int = 30) -> List[Dic
         return "用語補完" in term or term.endswith("用語")
 
     terms = [t for t in terms if not is_placeholder(t.get("term", ""))]
-    target = max(desired, len(terms) + 3)
+    target = min(max_terms, max(desired, len(terms) + 3))
 
     new_items: List[Dict[str, str]] = []
     if OPENAI_API_KEY:
