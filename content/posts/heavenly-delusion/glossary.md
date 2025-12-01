@@ -1,15 +1,15 @@
 ---
 title: "天国大魔境 用語集"
-date: 2025-12-01T02:06:57.752131+00:00
+date: 2025-12-01T02:38:21.977152+00:00
 series: "天国大魔境"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "heavenly-delusion-glossary"
 tags:
   - "用語解説"
+  - "月刊誌"
   - "SF"
   - "用語解説"
-  - "月刊誌"
   - "ミステリー"
 draft: false
 affiliate_ids:
