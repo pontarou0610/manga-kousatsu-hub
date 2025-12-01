@@ -326,9 +326,11 @@ def build_affiliate_urls(series: Dict[str, Any]) -> Dict[str, str]:
         or "YOUR_AMAZON_TAG"
     )
     amazon_url = (
+        f"https://www.amazon.co.jp/dp/{amazon_asin}?tag={amazon_tag}"
         if amazon_asin and amazon_tag
         else ""
     )
+    rakuten_url = f"https://hb.afl.rakuten.co.jp/?{rakuten_params}" if rakuten_params else ""
     return {
         "amazon": amazon_url,
         "rakuten": rakuten_url,
