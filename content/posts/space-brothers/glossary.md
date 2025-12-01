@@ -1,15 +1,15 @@
 ---
 title: "宇宙兄弟 用語集"
-date: 2025-12-01T06:33:44.109829+00:00
+date: 2025-12-01T07:01:01.288470+00:00
 series: "宇宙兄弟"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "space-brothers-glossary"
 tags:
   - "用語解説"
-  - "ヒューマンドラマ"
-  - "月刊誌"
   - "用語解説"
+  - "月刊誌"
+  - "ヒューマンドラマ"
   - "宇宙"
 draft: false
 affiliate_ids:

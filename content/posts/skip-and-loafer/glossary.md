@@ -1,16 +1,16 @@
 ---
 title: "スキップとローファー 用語集"
-date: 2025-12-01T06:31:27.703956+00:00
+date: 2025-12-01T06:58:37.361247+00:00
 series: "スキップとローファー"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "skip-and-loafer-glossary"
 tags:
   - "用語解説"
-  - "日常"
   - "用語解説"
   - "青春"
   - "月刊誌"
+  - "日常"
 draft: false
 affiliate_ids:
   amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
