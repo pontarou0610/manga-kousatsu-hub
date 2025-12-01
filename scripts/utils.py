@@ -142,7 +142,7 @@ ARTICLE_INSIGHT_SYSTEM_EXTRA = (
 
 GLOSSARY_SYSTEM_PROMPT = (
     "Create a manga glossary in Japanese. Add 1-3 terms (skills/places/organizations) relevant to this article. "
-    "40-80 chars per item. Return JSON: {"term":"...","reading":"...","description":"...","reference":"..."}"
+    "40-80 chars per item. Return JSON: {\"term\":\"...\",\"reading\":\"...\",\"description\":\"...\",\"reference\":\"...\"}"
 )
 
 def ensure_directory(path: Path) -> None:
