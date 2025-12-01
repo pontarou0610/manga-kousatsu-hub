@@ -30,6 +30,7 @@ from utils import (
     slugify,
     write_markdown_file,
     select_backlog_entry,
+    build_suggest_entry,
 )
 
 
@@ -102,12 +103,19 @@ def process_series(
             return
 
         base_id = entry.get("id", entry.get("title", ""))
+        is_suggest = bool(entry.get("is_suggest"))
+        is_backlog = bool(entry.get("is_backlog"))
+        is_fallback = bool(entry.get("is_fallback"))
         try:
             published = dt.datetime.fromisoformat(entry["date"])
         except Exception:  # noqa: BLE001
             published = dt.datetime.now(dt.timezone.utc)
 
-        base_slug = slugify(entry.get("title", f"{series['slug']}-{published:%Y%m%d}"))
+        title_for_slug = entry.get("title", f"{series['slug']}-{published:%Y%m%d}")
+        # スラッグ衝突を避けるため、バックログ/サジェスト/フォールバックは日付を付与
+        if is_suggest or is_backlog or is_fallback:
+            title_for_slug = f"{title_for_slug}-{published:%Y%m%d}"
+        base_slug = slugify(title_for_slug)
 
         ogp_filename = f"{published:%Y%m%d}_{base_slug}.png"
         ogp_output = OGP_DIR / published.strftime("%Y") / ogp_filename
@@ -197,6 +205,13 @@ def process_series(
         if not fallback_entry:
             break
         process_entry(fallback_entry)
+
+    # Still under limit? Use Google suggest as last resort
+    while len(new_entries) < limit:
+        suggest_entry = build_suggest_entry(series)
+        if not suggest_entry:
+            break
+        process_entry(suggest_entry)
 
 
     if "glossary" in content_modes:

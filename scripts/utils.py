@@ -1114,10 +1114,10 @@ def fetch_google_suggestions(query: str) -> List[str]:
 
 def build_suggest_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     """
-    Build a fallback entry using Googleサジェストをベースにしたキーワードでの考察記事。
-    生成内容が推測に寄るため、安全側で insight モードに限定する。
+    Build a fallback entry using Google suggest keywords.
+    Use spoiler mode to ensure we still output story content when sources are empty.
     """
-    base_query = f"{series.get('name','')} 最新話 考察"
+    base_query = f"{series.get('name','')} ??? ????"
     suggestions = fetch_google_suggestions(base_query)
     if not suggestions:
         suggestions = fetch_google_suggestions(series.get("name", ""))
@@ -1134,13 +1134,12 @@ def build_suggest_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "link": primary_link.get("url", ""),
         "summary": topic,
         "chapter": topic,
-        "intro": f"{series['name']}の話題キーワード「{topic}」をもとにネタバレなしで整理します。",
+        "intro": f"{series['name']}?????????{topic}??????????????????",
         "date": now.isoformat(),
         "force_modes": ["spoiler"],
         "is_fallback": True,
+        "is_suggest": True,
     }
-
-
 def write_markdown_file(path: Path, content: str) -> None:
     ensure_directory(path.parent)
     with path.open("w", encoding="utf-8") as f:
