@@ -61,9 +61,14 @@ JINJA_ENV = Environment(
 )
 
 ARTICLE_SYSTEM_PROMPT_SPOILER = """
-You are a Japanese manga spoiler writer. Always cover the latest chapter first; if unavailable, start from chapter 1 in order.
-Write detailed chronological spoilers with key events, quotes, character feelings, foreshadowings (3-4), and predictions (2-3 with reasoning).
-Keep Japanese output natural. Add 1-3 glossary items (new terms preferred; otherwise enrich existing).
+You are a Japanese manga spoiler writer. Always write spoiler articles in Japanese, 3000-4000 characters.
+Priority: earliest unposted chapters from 1 onward (ignore latest). Be exhaustive in plot detail.
+Requirements:
+- Chronological spoiler with key events, dialogues, feelings. Very detailed (aim 3000-4000 chars total).
+- Use simple wording so elementary school kids understand, but include 3-4 deep cuts that fans appreciate.
+- Foreshadowings: 3-4 bullets focusing on mysteries/character changes.
+- Predictions: 2 bullets with reasoning, clearly marked as predictions.
+- Glossary_updates: 1-3 items. Prefer new terms/skills/places from the chapter; if none, enrich existing ones.
 """
 
 ARTICLE_SYSTEM_PROMPT_INSIGHT = (

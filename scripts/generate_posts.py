@@ -100,15 +100,17 @@ def process_series(
     """Generate up to `limit` articles per series (per run), plus glossary."""
     new_entries: List[str] = []
 
-    try:
-        entries = load_entries_for_series(series, state)
-    except Exception as exc:  # noqa: BLE001
-        log(f"RSS取得に失敗: {series['name']} - {exc}")
-        traceback.print_exc()
-        return new_entries
+    # Always pull backlog entries (chapter 1 onward) up to the limit
+    entries: List[Dict[str, Any]] = []
+    while len(entries) < limit:
+        entry = select_backlog_entry(series, state)
+        if not entry:
+            break
+        entries.append(entry)
 
-    content_modes = series.get("content_modes") or ["spoiler"]
-    entry_modes = [mode for mode in content_modes if mode != "glossary"]
+    # 強制的にネタバレ記事のみを生成
+    content_modes = ["spoiler"]
+    entry_modes = ["spoiler"]
 
     def process_entry(entry: Dict[str, Any]) -> None:
         if not entry:
@@ -214,21 +216,6 @@ def process_series(
             break
         process_entry(entry)
 
-    # Fill with backlog entries if still under limit
-    while len(new_entries) < limit:
-        fallback_entry = select_backlog_entry(series, state)
-        if not fallback_entry:
-            break
-        process_entry(fallback_entry)
-
-    # Still under limit? Use Google suggest as last resort
-    while len(new_entries) < limit:
-        suggest_entry = build_suggest_entry(series)
-        if not suggest_entry:
-            break
-        process_entry(suggest_entry)
-
-
     if "glossary" in content_modes:
         write_glossary_post(series, state)
 
@@ -263,8 +250,8 @@ def main() -> int:
         return 1
 
     total_new = 0
-    total_limit = 3  # max per run
-    per_series_limit = 2  # cap per series
+    per_series_limit = 2  # 各シリーズ2本ずつ
+    total_limit = per_series_limit * len(series_list)  # 全シリーズ合計
 
     for series in series_list:
         if total_new >= total_limit:
