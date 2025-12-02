@@ -1,24 +1,25 @@
 ---
-title: "キングダム｜第340話考察｜合従軍戦で光る「守ってから殴る」指揮術（ネタバレなし）"
-slug: "post-8a1ed2df-insight"
-date: 2024-05-01T00:00:00Z
-series: "キングダム"
-chapter: "第340話"
-article_variant: "insight"
-tags:
-  - "合従軍"
-  - "戦術考察"
-  - "飛信隊"
-  - "ネタバレなし"
-draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
   others: []
-disclaimer: "本稿は大筋の展開に触れずに、戦術面の学びにフォーカスしています。"
+  rakuten: https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+article_variant: insight
+chapter: 第340話B-考察
+date: 2024-05-01 00:00:00+00:00
+disclaimer: 本稿は大筋の展開に触れずに、戦術面の学びにフォーカスしています。
+draft: false
 images:
-  - "ogp/2024/20240501_post-8a1ed2df.png"
+- ogp/2024/20240501_post-8a1ed2df.png
+series: キングダム
+slug: post-8a1ed2df-insight
+tags:
+- 合従軍
+- 戦術考察
+- 飛信隊
+- ネタバレなし
+title: キングダム｜第340話考察B（守ってから殴る指揮術）
 ---
+
 合従軍戦の一幕で示された「守ってから殴る」指揮術を、ビジネスやチーム運営の視点で整理します（ストーリーの核心ネタバレなし）。
 
 ## この記事のねらい

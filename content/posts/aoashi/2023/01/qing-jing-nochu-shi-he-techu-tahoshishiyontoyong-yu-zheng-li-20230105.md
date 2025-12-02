@@ -1,4 +1,4 @@
-﻿---
+---
 title: "アオアシ｜初試合｜最新話ネタバレ・感想・考察（ユース最初の一歩）"
 slug: "qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li-20230105"
 date: 2023-01-05T00:00:00Z
@@ -55,3 +55,4 @@ images:
 ## 関連記事・用語集
 - 関連話へのリンク：{{ official_link.url if official_link else "" }}
 - 用語集へのリンク：/posts/aoashi/glossary/
+

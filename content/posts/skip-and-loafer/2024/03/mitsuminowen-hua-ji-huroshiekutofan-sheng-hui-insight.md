@@ -1,25 +1,26 @@
 ---
-title: "スキップとローファー｜第42話の考察"
-slug: "mitsuminowen-hua-ji-huroshiekutofan-sheng-hui-insight"
-date: 2024-03-20T00:00:00Z
-series: "スキップとローファー"
-chapter: "第42話"
-article_variant: "insight"
-tags:
-  - "ネタバレ無し"
-  - "月刊誌"
-  - "日常"
-  - "青春"
-draft: false
-description: ""
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
   others: []
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
+  rakuten: https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+article_variant: insight
+chapter: 第42話A-考察
+date: 2024-03-20 00:00:00+00:00
+description: ''
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
+draft: false
 images:
-  - "ogp/2024/20240320_mitsuminowen-hua-ji-huroshiekutofan-sheng-hui.png"
+- ogp/2024/20240320_mitsuminowen-hua-ji-huroshiekutofan-sheng-hui.png
+series: スキップとローファー
+slug: mitsuminowen-hua-ji-huroshiekutofan-sheng-hui-insight
+tags:
+- ネタバレ無し
+- 月刊誌
+- 日常
+- 青春
+title: スキップとローファー｜第42話考察A（文化祭のチーム運営）
 ---
+
 文化祭の反省会でみつみは何を考え、どう成長したのか。地方出身者としての葛藤を通じて、彼女の心の動きを探ってみよう。
 
 ## 記事のアウトライン（検索意図ベース）

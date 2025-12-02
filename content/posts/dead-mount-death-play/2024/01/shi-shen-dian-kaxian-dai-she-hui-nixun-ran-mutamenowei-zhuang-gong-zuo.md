@@ -1,3 +1,9 @@
+---
+chapter: Stage.70A
+series: デッドマウント・デスプレイ
+title: デッドマウント・デスプレイ｜Stage.70 ネタバレ・感想（現代社会に潜む屍神殿）
+---
+
 ﻿---
 title: "デッドマウント・デスプレイ｜Stage.70｜最新話ネタバレ・感想・考察"
 slug: "shi-shen-dian-kaxian-dai-she-hui-nixun-ran-mutamenowei-zhuang-gong-zuo"

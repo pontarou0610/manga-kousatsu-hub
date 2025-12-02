@@ -1,25 +1,26 @@
 ---
-title: "キングダム｜第340話｜飛信隊の指揮術"
-slug: "he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu-insight"
-date: 2024-05-01T00:00:00Z
-series: "キングダム"
-chapter: "第340話"
-article_variant: "insight"
-tags:
-  - "週刊誌"
-  - "ネタバレ無し"
-  - "歴史"
-  - "バトル"
-draft: false
-description: ""
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
   others: []
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
+  rakuten: https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+article_variant: insight
+chapter: 第340話A-考察
+date: 2024-05-01 00:00:00+00:00
+description: ''
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
+draft: false
 images:
-  - "ogp/2024/20240501_he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu.png"
+- ogp/2024/20240501_he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu.png
+series: キングダム
+slug: he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu-insight
+tags:
+- 週刊誌
+- ネタバレ無し
+- 歴史
+- バトル
+title: キングダム｜第340話考察A（合従軍での飛信隊指揮術）
 ---
+
 合従軍との激闘を経て、飛信隊の指揮術がどのように進化したのかを考えてみたいと思います。戦術の切り替えが鍵ですね。
 
 ## 記事のアウトライン（検索意図ベース）

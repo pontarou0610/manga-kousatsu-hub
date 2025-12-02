@@ -1,3 +1,9 @@
+---
+chapter: 幼少期回想A
+series: 宇宙兄弟
+title: 宇宙兄弟｜幼少期回想の整理（ネタバレあり）
+---
+
 ﻿---
 title: "宇宙兄弟｜幼少期回想｜最新話ネタバレ・感想・考察"
 slug: "nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li"

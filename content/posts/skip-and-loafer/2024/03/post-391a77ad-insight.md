@@ -1,24 +1,25 @@
 ---
-title: "スキップとローファー｜第42話考察"
-slug: "post-391a77ad-insight"
-date: 2024-03-20T00:00:00Z
-series: "スキップとローファー"
-chapter: "第42話"
-article_variant: "insight"
-tags:
-  - "青春"
-  - "日常"
-  - "ネタバレ無し"
-  - "月刊誌"
-draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
   others: []
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
+  rakuten: https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+article_variant: insight
+chapter: 第42話B-考察
+date: 2024-03-20 00:00:00+00:00
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
+draft: false
 images:
-  - "ogp/2024/20240320_post-391a77ad.png"
+- ogp/2024/20240320_post-391a77ad.png
+series: スキップとローファー
+slug: post-391a77ad-insight
+tags:
+- 青春
+- 日常
+- ネタバレ無し
+- 月刊誌
+title: スキップとローファー｜第42話考察B（みつみの自己認識の変化）
 ---
+
 第42話では、みつみの文化祭プロジェクトを通じて、彼女が抱える葛藤と成長が描かれます。どのように彼女は自分を見つめ直すのでしょうか？
 
 ![Elegant black-winged stilt wading in calm waters with a soft reflection and warm light.](https://images.pexels.com/photos/34700105/pexels-photo-34700105.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
