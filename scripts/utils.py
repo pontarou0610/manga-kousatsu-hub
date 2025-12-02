@@ -764,13 +764,18 @@ def build_spoiler_context(
     payload: Optional[Dict[str, Any]],
     hero_image: Optional[Dict[str, str]],
 ) -> Dict[str, Any]:
-    chapter_label = entry.get("chapter", entry.get("title", "最新話")) or "最新話"
-    summary = payload.get("summary_points") if payload else default_summary_points(series["name"], entry.get("chapter", ""))
+    """Build rendering context for spoiler articles."""
+    chapter_label = entry.get("chapter", entry.get("title", "latest")) or "latest"
+    summary = payload.get("summary_points") if payload else default_summary_points(
+        series["name"],
+        entry.get("chapter", ""),
+    )
     spoiler_block = payload.get("spoiler") if payload else {
         "synopsis": entry.get("summary", "")[:120],
-        "foreshadowings": ["伏線の整理を準備中。", "次の謎はここから。"],
-        "predictions": ["次回の展開を予想。", "伏線が動きそうなポイント。"],
+        "foreshadowings": ["Check foreshadowing for next chapter.", "Note character mood changes."],
+        "predictions": ["Predict upcoming developments.", "Guess how conflicts may end."],
     }
+
     glossary_updates = payload.get("glossary_updates") if payload else []
     if not glossary_updates:
         existing_terms = ensure_glossary_terms(series, desired=30)
@@ -783,6 +788,7 @@ def build_spoiler_context(
             }
             for term in recent
         ]
+
     payload_links = payload.get("reference_links") if payload else []
     supplemental_links = entry.get("research_links") or series.get("official_links", [])
     reference_links = _merge_reference_links(payload_links, supplemental_links)
@@ -793,13 +799,14 @@ def build_spoiler_context(
     others = prioritized_other_affiliates(series)
     disclaimer_text = series.get("defaults", {}).get(
         "disclaimer",
-        "公開情報のみを基にし、ネタバレは折りたたみ内に収めています。",
+        "Spoilers are based only on published info; handle with care.",
     )
 
     return {
-        "title": (payload.get("title") if payload else entry.get("title", f"{series['name']} 最新話考察")),
+        "title": (payload.get("title") if payload else entry.get("title", f"{series['name']} latest spoiler")),
         "series": series["name"],
-        "chapter": entry.get("chapter", entry.get("title", "最新話")),
+        "series_slug": series.get("slug", ""),
+        "chapter": entry.get("chapter", entry.get("title", "latest")),
         "chapter_label": chapter_label,
         "date": entry.get("date"),
         "tags": series.get("tags", []),
@@ -815,9 +822,11 @@ def build_spoiler_context(
         },
         "disclaimer": disclaimer_text,
         "images": [ogp_path] if ogp_path else [],
-        "intro": payload.get("intro") if payload else entry.get(
+        "intro": payload.get("intro")
+        if payload
+        else entry.get(
             "intro",
-            f"{series['name']}の最新話をさっくり整理します。ネタバレはトグル内に収めています。",
+            f"Summarizing the latest chapter of {series['name']} with spoilers hidden behind toggles.",
         ),
         "summary_points": summary[:3],
         "spoiler": spoiler_block,
@@ -825,9 +834,8 @@ def build_spoiler_context(
         "reference_links": reference_links,
         "hero_image": hero_image,
         "official_link": official_link,
-        "spoiler_notice": "本記事は最新話までのネタバレを含みます。",
+        "spoiler_notice": "This article contains spoilers up to the latest chapter.",
     }
-
 
 def build_insight_context(
     series: Dict[str, Any],
@@ -1188,3 +1196,5 @@ GLOSSARY_SYSTEM_PROMPT = """
 Create a manga glossary in Japanese. Add 1-3 terms (skills/places/organizations) relevant to this article.
 40-80 chars per item. Return JSON: {"term":"...","reading":"...","description":"...","reference":"..."}
 """
+
+

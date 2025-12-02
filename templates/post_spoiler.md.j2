@@ -3,18 +3,15 @@ title: "{{ title }}"
 slug: "{{ slug }}"
 date: {{ date }}
 series: "{{ series }}"
+series_slug: "{{ series_slug }}"
 chapter: "{{ chapter }}"
 article_variant: "spoiler"
-{% if tags %}
 tags:
 {% for tag in tags %}
   - "{{ tag }}"
 {% endfor %}
-{% else %}
-tags: []
-{% endif %}
 draft: {{ draft | lower }}
-description: "{{ description }}"
+description: "{{ description | default(intro) }}"
 affiliate_ids:
   amazon: "{{ affiliate_ids.amazon }}"
   rakuten: "{{ affiliate_ids.rakuten }}"
@@ -28,18 +25,18 @@ affiliate_ids:
   others: []
 {% endif %}
 disclaimer: "{{ disclaimer }}"
-{% if images %}
 images:
+{% if images %}
 {% for image in images %}
   - "{{ image }}"
 {% endfor %}
 {% else %}
-images: []
+  - ""
 {% endif %}
 ---
 {{ intro }}
 
-> **{{ spoiler_notice | default("本記事は最新話までのネタバレを含みます。") }}**
+> **{{ spoiler_notice or "本記事は最新話までのネタバレを含みます。" }}**
 
 {% if hero_image %}
 ![{{ hero_image.alt }}]({{ hero_image.url }})
@@ -62,10 +59,10 @@ images: []
 {% endfor %}
 
 ### 世界観・設定の掘り下げ
-- （世界観や設定に関する気づきをここに追記）
+- 作品世界の設定に関する気づきをここに追記。
 
 ### 気になるセリフ・描写
-- （印象的なセリフ・演出に関する考察をここに追記）
+- 印象に残ったセリフや演出に関する考察をここに追記。
 
 ## 伏線・回収ポイントの整理
 {% for item in spoiler.foreshadowings %}
@@ -78,10 +75,10 @@ images: []
 {% endfor %}
 
 ## 関連巻・グッズへのリンク
-- 第{{ chapter_label }}収録巻：{{ affiliate_ids.amazon or "（Amazonリンク未設定）" }}
+- 第{{ chapter_label }}収録巻：{{ affiliate_ids.amazon or "Amazonリンク未設定" }}
 - 電子書籍：{{ series }}（Kindle / 楽天Kobo 等）
 {{ "{{< /spoiler >}}" }}
 
 ## 関連記事・用語集
 - 関連話へのリンク：{{ official_link.url if official_link else "" }}
-- 用語集へのリンク：{{ .Site.BaseURL }}posts/{{ series_slug }}/glossary/
+- 用語集へのリンク：/posts/{{ series_slug }}/glossary/
