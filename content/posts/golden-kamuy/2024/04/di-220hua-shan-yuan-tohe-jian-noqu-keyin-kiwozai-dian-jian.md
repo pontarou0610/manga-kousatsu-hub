@@ -1,24 +1,24 @@
-﻿---
-title: "ゴールデンカムイ｜第220話｜最新話ネタバレ・感想・考察"
+---
+title: "ゴールデンカムイ｜第220話ネタバレ・感想（史実視点の補足版）"
 slug: "di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian"
 date: 2024-04-15T00:00:00Z
 series: "ゴールデンカムイ"
-chapter: "第220話"
+chapter: "第220話B"
 article_variant: "spoiler"
 tags:
-  - "歴史"
+  - "戦闘"
   - "サバイバル"
-  - "週刊誌"
+  - "史実"
 draft: false
-description: ""
 affiliate_ids:
   amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
   rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
   others: []
-disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
+disclaimer: "公開済みの公式話を基に、史実補足を交えたネタバレです。未読の方はご注意ください。"
 images:
-  - "ogp/2024/20240415_di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian.png"
+  - "ogp/2024/20240415_220-20240415.png"
 ---
+
 第220話では杉元と鶴見中尉の緊迫した読み合いが展開されます。ここから先はネタバレが含まれますのでご注意ください！
 
 > **本記事は最新話までのネタバレを含みます。**

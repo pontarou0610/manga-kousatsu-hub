@@ -1,25 +1,24 @@
 ---
-title: "ゴールデンカムイ｜第220話考察｜山田と辺見の駆け引きに潜む鍵（ネタバレなし）"
+title: "ゴールデンカムイ｜第220話考察｜山田と辺見の心理戦を読み解く（ネタバレなし）"
 slug: "di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-insight"
 date: 2024-04-15T00:00:00Z
 series: "ゴールデンカムイ"
-chapter: "第220話"
+chapter: "第220話B-考察"
 article_variant: "insight"
 tags:
   - "心理戦"
   - "ネタバレなし"
-  - "サバイバル"
-  - "歴史"
+  - "駆け引き"
 draft: false
-description: "第220話で交錯する山田・辺見の駆け引きを、心理面と戦況面から分析。物語の詳細ネタバレは避けています。"
 affiliate_ids:
   amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
   rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
   others: []
-disclaimer: "史実や設定の引用は公式情報に基づいています。核心ネタバレは含めていません。"
+disclaimer: "ネタバレなしの考察記事です。公式公開範囲の情報のみを使用しています。"
 images:
-  - "ogp/2024/20240415_di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian.png"
+  - "ogp/2024/20240415_220-20240415.png"
 ---
+
 第220話で山田と辺見が見せる“間合い”は、単なる戦闘ではなく心理の読み合い。ここでは二人の動機とリスクの取り方を整理し、どこに勝機が転がっているかを考えます（詳細な展開は伏せます）。
 
 ## それぞれの動機と制約

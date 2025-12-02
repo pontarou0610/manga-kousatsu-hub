@@ -1,24 +1,24 @@
 ---
-title: "ゴールデンカムイ｜第220話考察｜杉元と鶴見の読み合いを戦略面から整理（ネタバレなし）"
+title: "ゴールデンカムイ｜第220話考察｜杉元vs鶴見の戦略読み合い（ネタバレなし）"
 slug: "220-insight"
 date: 2024-04-15T00:00:00Z
 series: "ゴールデンカムイ"
-chapter: "第220話"
+chapter: "第220話A-考察"
 article_variant: "insight"
 tags:
-  - "心理戦"
-  - "戦略考察"
+  - "戦術"
+  - "駆け引き"
   - "ネタバレなし"
-  - "鶴見"
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
+  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
   rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
   others: []
-disclaimer: "物語の核心ネタバレは避け、公開情報ベースで戦略面を整理しています。"
+disclaimer: "ネタバレなしの考察記事です。場面説明は公式公開範囲に限定しています。"
 images:
-  - "ogp/2024/20240415_220.png"
+  - "ogp/2024/20240415_220-20240415.png"
 ---
+
 本稿は第220話の「動機」「情報戦」「リスク管理」を軸に、杉元と鶴見の読み合いを戦略的に整理します（ストーリーの細部は伏せています）。
 
 ## 戦略の三つの軸
