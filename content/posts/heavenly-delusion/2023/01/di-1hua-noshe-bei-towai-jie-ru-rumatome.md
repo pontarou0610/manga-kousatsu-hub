@@ -1,3 +1,9 @@
+---
+chapter: 第1話A
+series: 天国大魔境
+title: 天国大魔境｜第1話ネタバレ・感想・考察（壁外サバイバル序章）
+---
+
 ﻿---
 title: "天国大魔境｜第1話｜最新話ネタバレ・感想・考察"
 slug: "di-1hua-noshe-bei-towai-jie-ru-rumatome"

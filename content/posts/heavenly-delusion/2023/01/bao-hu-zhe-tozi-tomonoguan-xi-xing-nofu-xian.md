@@ -1,24 +1,25 @@
 ---
-title: "天国大魔境｜第2話｜保護者と子どもの距離が示す伏線（ネタバレあり）"
-slug: "bao-hu-zhe-tozi-tomonoguan-xi-xing-nofu-xian"
-date: 2023-01-02T00:00:00Z
-series: "天国大魔境"
-chapter: "第2話"
-article_variant: "spoiler"
-tags:
-  - "SF"
-  - "ミステリー"
-  - "サバイバル"
-draft: false
-description: "第2話の事件を時系列で追いながら、子どもたちと保護者との距離感に潜む伏線を整理。"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
   others: []
-disclaimer: "公開済みの公式情報を基に記載しています。ネタバレが含まれるのでご注意ください。"
+  rakuten: https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+article_variant: spoiler
+chapter: 第2話
+date: 2023-01-02 00:00:00+00:00
+description: 第2話の事件を時系列で追いながら、子どもたちと保護者との距離感に潜む伏線を整理。
+disclaimer: 公開済みの公式情報を基に記載しています。ネタバレが含まれるのでご注意ください。
+draft: false
 images:
-  - "ogp/2023/20230102_bao-hu-zhe-tozi-tomonoguan-xi-xing-nofu-xian.png"
+- ogp/2023/20230102_bao-hu-zhe-tozi-tomonoguan-xi-xing-nofu-xian.png
+series: 天国大魔境
+slug: bao-hu-zhe-tozi-tomonoguan-xi-xing-nofu-xian
+tags:
+- SF
+- ミステリー
+- サバイバル
+title: 天国大魔境｜第2話｜保護者と子どもの距離が示す伏線（ネタバレあり）
 ---
+
 本記事は最新話までのネタバレを含みます。第2話では、施設で暮らす子どもたちの「自立」と、大人側の「管理」がどこまで歩み寄れるかが描かれます。
 
 ## 第2話のあらすじ（要点）
