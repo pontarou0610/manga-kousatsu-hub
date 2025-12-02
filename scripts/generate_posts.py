@@ -56,7 +56,8 @@ def normalize_chapter_label(entry: Dict[str, Any], published: dt.datetime) -> st
         return f"第{match.group()}話"
     if "最新" in raw:
         return f"第{published:%Y%m%d}話"
-    return raw or f"第{published:%Y%m%d}話"
+    # fallback: use publish date to keep「第◯話」表記を維持
+    return f"第{published:%Y%m%d}話"
 
 
 def chapter_article_exists(series_slug: str, chapter: str, mode: str) -> bool:
