@@ -755,6 +755,35 @@ def _merge_reference_links(
     return merged
 
 
+def _find_prev_spoiler_post(series_slug: str, current_chapter: str) -> Optional[Dict[str, str]]:
+    """Find the previous spoiler post (by chapter number) within the same series."""
+    base_dir = CONTENT_DIR / "posts" / series_slug
+    if not base_dir.exists():
+        return None
+    current_num = _chapter_number_hint({"chapter": current_chapter})
+    if current_num is None:
+        return None
+    candidates: List[Tuple[int, Path, Dict[str, Any]]] = []
+    for md_file in base_dir.rglob("*.md"):
+        try:
+            post = frontmatter.load(md_file)
+        except Exception:
+            continue
+        meta = post.metadata or {}
+        if meta.get("article_variant") != "spoiler":
+            continue
+        num = _chapter_number_hint(meta)
+        if num is None or num >= current_num:
+            continue
+        candidates.append((num, md_file, meta))
+    if not candidates:
+        return None
+    prev_num, path, meta = max(candidates, key=lambda x: x[0])
+    rel_parts = path.relative_to(CONTENT_DIR).with_suffix("").parts
+    url = "/" + "/".join(rel_parts) + "/"
+    return {"title": meta.get("title", f"第{prev_num}話"), "url": url}
+
+
 def build_spoiler_context(
     series: Dict[str, Any],
     entry: Dict[str, Any],
@@ -800,6 +829,7 @@ def build_spoiler_context(
         "disclaimer",
         "Spoilers are based only on published info; handle with care.",
     )
+    prev_post = _find_prev_spoiler_post(series.get("slug", ""), chapter_label)
 
     return {
         "title": (payload.get("title") if payload else entry.get("title", f"{series['name']} latest spoiler")),
@@ -834,6 +864,7 @@ def build_spoiler_context(
         "hero_image": hero_image,
         "official_link": official_link,
         "spoiler_notice": "This article contains spoilers up to the latest chapter.",
+        "prev_post": prev_post,
     }
 
 def build_insight_context(

@@ -38,6 +38,10 @@ images:
 
 > **{{ spoiler_notice or "本記事は最新話までのネタバレを含みます。" }}**
 
+{% if prev_post %}
+> 前回のネタバレ： [{{ prev_post.title }}]({{ prev_post.url }})
+{% endif %}
+
 {% if hero_image %}
 ![{{ hero_image.alt }}]({{ hero_image.url }})
 <small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
