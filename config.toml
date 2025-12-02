@@ -27,9 +27,9 @@ disableHugoGeneratorInject = true
   spoilerSummary = "※ネタバレはここから下（折りたたみ内）に掲載しています。閲覧にご注意ください。"
   [params.analytics]
     ga4_id = "G-KWHDV8F93G"
-  [params.affiliate]
-    amazon_tag = "YOUR_AMAZON_TAG"
-    rakuten_params = "YOUR_RAKUTEN_PARAMS"
+[params.affiliate]
+  amazon_tag = "naoto0610-22"
+  rakuten_params = "rakuten_affiliateId=0d1b5972.6cd44226.0d1b5973.40a5c49e"
 
 [markup]
   [markup.goldmark.renderer]
