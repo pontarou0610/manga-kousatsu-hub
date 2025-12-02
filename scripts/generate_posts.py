@@ -130,8 +130,8 @@ def process_series(
         entries.append(entry)
 
     # 強制的にネタバレ記事のみを生成
-    content_modes = ["spoiler"]
-    entry_modes = ["spoiler"]
+    content_modes = ["spoiler", "insight"]
+    entry_modes = ["spoiler", "insight"]
 
     def process_entry(entry: Dict[str, Any]) -> None:
         if not entry:
