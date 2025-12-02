@@ -535,13 +535,12 @@ def _normalize_insight_payload(data: Dict[str, Any], official_links: List[Dict[s
 
 def generate_seo_title(series: Dict[str, Any], entry: Dict[str, Any], mode: str) -> str:
     series_name = series.get("name", "")
-    chapter_label = entry.get("chapter") or entry.get("title") or "最新話"
-    if mode == "spoiler":
-        title = f"{series_name}｜{chapter_label}｜最新話ネタバレ・感想・考察"
-    else:
-        topic = entry.get("title") or entry.get("summary", "").split("。")[0]
-        title = f"{series_name}｜{chapter_label}｜ネタバレ無し考察｜{topic}".strip("｜")
-    return title[:60] if title else f"{series_name} {mode}"
+    chapter_label = entry.get("chapter") or entry.get("title") or "第1話"
+    base = f"【{series_name}】 {chapter_label}の内容まとめ＆感想・考察 - ネタバレ注意"
+    hook_source = entry.get("title") or entry.get("summary", "").split("。")[0]
+    hook = hook_source.strip(" |") if hook_source else ""
+    title = f"{base}|{hook}" if hook else base
+    return title[:70] if title else f"{series_name} {mode}"
 
 
 
@@ -1196,5 +1195,7 @@ GLOSSARY_SYSTEM_PROMPT = """
 Create a manga glossary in Japanese. Add 1-3 terms (skills/places/organizations) relevant to this article.
 40-80 chars per item. Return JSON: {"term":"...","reading":"...","description":"...","reference":"..."}
 """
+
+
 
 
