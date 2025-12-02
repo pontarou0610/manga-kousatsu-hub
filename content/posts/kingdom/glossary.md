@@ -1,16 +1,16 @@
 ---
 title: "キングダム 用語集"
-date: 2025-12-01T07:52:43.952692+00:00
+date: 2025-12-02T00:12:55.610925+00:00
 series: "キングダム"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "kingdom-glossary"
 tags:
   - "用語解説"
-  - "週刊誌"
   - "歴史"
-  - "バトル"
   - "用語解説"
+  - "週刊誌"
+  - "バトル"
 draft: false
 affiliate_ids:
   amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"

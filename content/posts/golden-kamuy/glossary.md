@@ -1,16 +1,16 @@
 ---
 title: "ゴールデンカムイ 用語集"
-date: 2025-12-01T07:35:07.685737+00:00
+date: 2025-12-02T00:14:28.054657+00:00
 series: "ゴールデンカムイ"
 chapter: "用語集"
 article_variant: "glossary"
 slug: "golden-kamuy-glossary"
 tags:
   - "用語解説"
-  - "週刊誌"
-  - "サバイバル"
   - "歴史"
+  - "週刊誌"
   - "用語解説"
+  - "サバイバル"
 draft: false
 affiliate_ids:
   amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"

@@ -1,6 +1,6 @@
 ---
 title: "アオアシ 用語集"
-date: 2025-12-01T07:36:09.505608+00:00
+date: 2025-12-02T00:15:10.415257+00:00
 series: "アオアシ"
 chapter: "用語集"
 article_variant: "glossary"
