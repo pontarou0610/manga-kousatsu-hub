@@ -46,36 +46,42 @@ images: []
 <small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
 {% endif %}
 
-## 第{{ chapter_label }}のあらすじ（ざっくり）
+## 結論：第{{ chapter_label }}のポイント3つ（ネタバレあり）
 {% for point in summary_points %}
 - {{ point }}
 {% endfor %}
 
 {{ "{{< spoiler >}}" }}
-## 第{{ chapter_label }} 詳細ネタバレ（時系列で詳しく）
+## 第{{ chapter_label }}のあらすじ要約（3分でわかる）
 {{ spoiler.synopsis }}
 
-## 考察・伏線・キャラの心情変化
+## 詳細考察：キャラ・物語・テーマを深掘り
+### キャラの変化・関係性
 {% for item in spoiler.foreshadowings %}
 - {{ item }}
 {% endfor %}
 
-## 今後の展開予想（あくまで予想）
+### 世界観・設定の掘り下げ
+- （世界観や設定に関する気づきをここに追記）
+
+### 気になるセリフ・描写
+- （印象的なセリフ・演出に関する考察をここに追記）
+
+## 伏線・回収ポイントの整理
+{% for item in spoiler.foreshadowings %}
+- {{ item }}
+{% endfor %}
+
+## 今後の展開予想（原作既読の範囲内）
 {% for item in spoiler.predictions %}
 - {{ item }}
 {% endfor %}
+
+## 関連巻・グッズへのリンク
+- 第{{ chapter_label }}収録巻：{{ affiliate_ids.amazon or "（Amazonリンク未設定）" }}
+- 電子書籍：{{ series }}（Kindle / 楽天Kobo 等）
 {{ "{{< /spoiler >}}" }}
 
-## 用語集（今回追加・更新分）
-{% if glossary_updates %}
-{% for term in glossary_updates %}
-- **{{ term.term }}**{% if term.reading %}（{{ term.reading }}）{% endif %}: {{ term.description }}
-{% endfor %}
-{% else %}
-- 今回は既存用語の補足のみでした。
-{% endif %}
-
-## 参考リンク（すべて公式）
-{% for link in reference_links %}
-- [{{ link.label }}]({{ link.url }})
-{% endfor %}
+## 関連記事・用語集
+- 関連話へのリンク：{{ official_link.url if official_link else "" }}
+- 用語集へのリンク：{{ .Site.BaseURL }}posts/{{ series_slug }}/glossary/
