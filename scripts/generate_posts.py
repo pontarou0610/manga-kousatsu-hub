@@ -48,14 +48,36 @@ def fallback_path(series_slug: str, slug: str) -> Path:
     return CONTENT_DIR / "drafts" / series_slug / f"{slug}.md"
 
 
-def normalize_chapter_label(entry: Dict[str, Any], published: dt.datetime) -> str:
+def _next_chapter_number(series_slug: str) -> int:
+    """Find the next numeric chapter based on existing posts in the series."""
+    base_dir = CONTENT_DIR / "posts" / series_slug
+    max_num = 0
+    if base_dir.exists():
+        for md_file in base_dir.rglob("*.md"):
+            try:
+                post = frontmatter.load(md_file)
+            except Exception:
+                continue
+            chapter_str = str(post.metadata.get("chapter", ""))
+            match = re.search(r"\d+", chapter_str)
+            if match:
+                try:
+                    num = int(match.group())
+                    max_num = max(max_num, num)
+                except ValueError:
+                    continue
+    return max_num + 1 if max_num else 1
+
+
+def normalize_chapter_label(series: Dict[str, Any], entry: Dict[str, Any], published: dt.datetime) -> str:
     """Ensure chapter label is numeric style like '第100話' instead of '最新話'."""
     raw = (entry.get("chapter") or entry.get("title") or "").strip()
     match = re.search(r"\d+", raw)
     if match:
         return f"第{match.group()}話"
-    # 「最新話」など数字が無い場合はプレースホルダとして第1話に寄せる
-    return "第1話"
+    # 数字が無い場合は既存記事の最大話数に続く番号を振る
+    next_num = _next_chapter_number(series["slug"])
+    return f"第{next_num}話"
 
 
 def chapter_article_exists(series_slug: str, chapter: str, mode: str) -> bool:
@@ -125,7 +147,7 @@ def process_series(
             published = dt.datetime.now(dt.timezone.utc)
 
         # normalize chapter to numeric style
-        entry["chapter"] = normalize_chapter_label(entry, published)
+        entry["chapter"] = normalize_chapter_label(series, entry, published)
         chapter_label = entry["chapter"]
 
         title_for_slug = entry.get("title", f"{series['slug']}-{published:%Y%m%d}")
