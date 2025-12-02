@@ -54,10 +54,8 @@ def normalize_chapter_label(entry: Dict[str, Any], published: dt.datetime) -> st
     match = re.search(r"\d+", raw)
     if match:
         return f"第{match.group()}話"
-    if "最新" in raw:
-        return f"第{published:%Y%m%d}話"
-    # fallback: use publish date to keep「第◯話」表記を維持
-    return f"第{published:%Y%m%d}話"
+    # 「最新話」など数字が無い場合はプレースホルダとして第1話に寄せる
+    return "第1話"
 
 
 def chapter_article_exists(series_slug: str, chapter: str, mode: str) -> bool:
