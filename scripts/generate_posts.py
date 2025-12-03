@@ -69,6 +69,19 @@ def _next_chapter_number(series_slug: str) -> int:
     return max_num + 1 if max_num else 1
 
 
+def _next_available_chapter_number(series_slug: str, modes: List[str], start: Optional[int] = None) -> int:
+    """
+    Return the next chapter number that does NOT collide with existing posts
+    for any of the given modes (spoiler/insight).
+    """
+    num = start if start is not None else _next_chapter_number(series_slug)
+    while True:
+        chapter_label = f"第{num}話"
+        if not any(chapter_article_exists(series_slug, chapter_label, m) for m in modes):
+            return num
+        num += 1
+
+
 def normalize_chapter_label(series: Dict[str, Any], entry: Dict[str, Any], published: dt.datetime) -> str:
     """Ensure chapter label is numeric style like '第100話' instead of '最新話'."""
     raw = (entry.get("chapter") or entry.get("title") or "").strip()
@@ -157,7 +170,7 @@ def process_series(
         while len(entries) < limit:
             auto_entry = build_auto_chapter_entry(series, next_num)
             entries.append(auto_entry)
-            next_num += 1
+            next_num = _next_available_chapter_number(series["slug"], content_modes, start=next_num + 1)
 
     # 強制的にネタバレ記事のみを生成
     content_modes = ["spoiler", "insight"]
