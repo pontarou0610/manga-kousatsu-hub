@@ -93,5 +93,6 @@ images: []
 {% endfor %}
 {% if reference_links %}
 {% set official = official_link if official_link else reference_links[0] %}
-{{ "{{< affbox title=\"" }}{{ official.label or "公式リンク" }}{{ "\" desc=\"詳しくは公式情報をご確認ください" url=\"" }}{{ official.url }}{{ "\" >}}" }}
+{% set aff_title = official.label or "公式リンク" %}
+{{ "{{< affbox title=\"" ~ aff_title ~ "\" desc=\"詳しくは公式情報をご確認ください\" url=\"" ~ official.url ~ "\" >}}" }}
 {% endif %}
