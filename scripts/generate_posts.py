@@ -112,6 +112,28 @@ def try_generate_article(
         return None
 
 
+def build_auto_chapter_entry(series: Dict[str, Any], chapter_num: int) -> Dict[str, Any]:
+    """Create a minimal auto-generated backlog entry starting from chapter 1."""
+    now = dt.datetime.now(dt.timezone.utc)
+    chapter_label = f"第{chapter_num}話"
+    official_links = series.get("official_links", [])
+    default_link = official_links[0].get("url") if official_links and official_links[0].get("url") else ""
+    title = f"{series['name']} {chapter_label} ネタバレ・考察"
+    summary = f"{series['name']}の{chapter_label}を時系列でまとめ、重要なセリフや伏線を整理します。"
+    intro = f"{series['name']}の{chapter_label}をネタバレありで振り返り、考察と伏線整理を行います。"
+    return {
+        "id": f"{series['slug']}-auto-{chapter_num}",
+        "title": title,
+        "chapter": chapter_label,
+        "date": now.isoformat(),
+        "summary": summary,
+        "intro": intro,
+        "link": default_link,
+        "research_links": [{"label": link.get("label", "公式リンク"), "url": link.get("url", "")} for link in official_links if link.get("url")],
+        "is_backlog": True,
+    }
+
+
 def process_series(
     series: Dict[str, Any],
     processed_hashes: set[str],
@@ -128,6 +150,14 @@ def process_series(
         if not entry:
             break
         entries.append(entry)
+
+    # If backlog is empty, auto-generate sequential chapters starting from the next number.
+    if len(entries) < limit:
+        next_num = _next_chapter_number(series["slug"])
+        while len(entries) < limit:
+            auto_entry = build_auto_chapter_entry(series, next_num)
+            entries.append(auto_entry)
+            next_num += 1
 
     # 強制的にネタバレ記事のみを生成
     content_modes = ["spoiler", "insight"]
