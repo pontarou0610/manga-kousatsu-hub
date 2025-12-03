@@ -82,6 +82,19 @@ def _next_available_chapter_number(series_slug: str, modes: List[str], start: Op
         num += 1
 
 
+def _next_missing_chapter_number(series_slug: str, mode: str = "spoiler") -> int:
+    """
+    Return the smallest chapter number that does not yet have the given variant.
+    Starts at 1 to guarantee 1話から順番に埋めていける。
+    """
+    num = 1
+    while True:
+        chapter_label = f"第{num}話"
+        if not chapter_article_exists(series_slug, chapter_label, mode):
+            return num
+        num += 1
+
+
 def normalize_chapter_label(series: Dict[str, Any], entry: Dict[str, Any], published: dt.datetime) -> str:
     """Ensure chapter label is numeric style like '第100話' instead of '最新話'."""
     raw = (entry.get("chapter") or entry.get("title") or "").strip()
@@ -156,25 +169,45 @@ def process_series(
     """Generate up to `limit` articles per series (per run), plus glossary."""
     new_entries: List[str] = []
 
+    # 強制的にネタバレ記事のみを生成
+    content_modes = ["spoiler", "insight"]
+    entry_modes = ["spoiler", "insight"]
+
+    def planned_label(entry: Dict[str, Any]) -> str:
+        try:
+            published = dt.datetime.fromisoformat(entry["date"])
+        except Exception:  # noqa: BLE001
+            published = dt.datetime.now(dt.timezone.utc)
+        return normalize_chapter_label(series, entry, published)
+
+    planned_chapters: set[str] = set()
+
     # Always pull backlog entries (chapter 1 onward) up to the limit
     entries: List[Dict[str, Any]] = []
+    # まずは「まだ生成されていない最小話数」を必ず入れる
+    next_missing = _next_missing_chapter_number(series["slug"], mode="spoiler")
+    first_auto = build_auto_chapter_entry(series, next_missing)
+    planned_chapters.add(planned_label(first_auto))
+    entries.append(first_auto)
+
     while len(entries) < limit:
         entry = select_backlog_entry(series, state)
         if not entry:
             break
+        label = planned_label(entry)
+        if label in planned_chapters:
+            continue
+        planned_chapters.add(label)
         entries.append(entry)
 
     # If backlog is empty, auto-generate sequential chapters starting from the next number.
     if len(entries) < limit:
-        next_num = _next_chapter_number(series["slug"])
+        next_num = _next_available_chapter_number(series["slug"], ["spoiler"], start=next_missing + 1)
         while len(entries) < limit:
             auto_entry = build_auto_chapter_entry(series, next_num)
+            planned_chapters.add(planned_label(auto_entry))
             entries.append(auto_entry)
-            next_num = _next_available_chapter_number(series["slug"], content_modes, start=next_num + 1)
-
-    # 強制的にネタバレ記事のみを生成
-    content_modes = ["spoiler", "insight"]
-    entry_modes = ["spoiler", "insight"]
+            next_num = _next_available_chapter_number(series["slug"], ["spoiler"], start=next_num + 1)
 
     def process_entry(entry: Dict[str, Any]) -> None:
         if not entry:
