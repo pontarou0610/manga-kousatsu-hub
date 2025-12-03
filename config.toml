@@ -1,4 +1,4 @@
-baseURL = "https://pontarou0610.github.io/manga-kousatsu-hub/"
+﻿baseURL = "https://pontarou0610.github.io/manga-kousatsu-hub/"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
 title = "漫画考察ハブ"
@@ -22,7 +22,7 @@ disableHugoGeneratorInject = true
 
 [params]
   siteDescription = "人気漫画の考察をネタバレ付きでまとめるブログ。伏線整理や感想をわかりやすくお届けします。"
-  defaultDisclaimer = "公式情報のみを参照し、ネタバレは折りたたみ内に限定して扱います。"
+  defaultDisclaimer = "公開済みの公式情報を参照し、ネタバレは折りたたみ範囲に限定して扱います。"
   defaultOgImage = "ogp/default.png"
   spoilerSummary = "※ネタバレはここから下（折りたたみ内）に掲載しています。閲覧にご注意ください。"
   [params.analytics]
