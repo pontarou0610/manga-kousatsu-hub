@@ -1,40 +1,40 @@
 ---
-title: "�v���C�o�V�[�|���V�["
+title: "プライバシーポリシー"
 slug: "privacy"
-description: "�A�N�Z�X��́E�L���z�M�ECookie�E�l���̎�舵���ɂ��Ē�߂Ă��܂��B"
+description: "アクセス解析・広告配信・Cookie・個人情報の取り扱いについて定めています。"
 draft: false
 ---
 
-## ��{���j
-�{�T�C�g�́A���{�̖@�߂���ъe�L���v���b�g�t�H�[���̃|���V�[�����炵�A�K�؂Ɍl���E�A�N�Z�X������舵���܂��B
+## 基本方針
+本サイトは、日本の法令および各広告プラットフォームのポリシーを遵守し、適切に個人情報・アクセス情報を取り扱います。
 
-## ���W������
-- �A�N�Z�X��́iGoogle Analytics 4�j: �[�����E�{���y�[�W�E�؍ݎ��ԂȂǂ̃g���t�B�b�N�f�[�^�𓽖��Ŏ��W���܂��B
-- �L���z�M�iGoogle AdSense ���j: Cookie ��L��ID��p���āA�����ɉ������L����\������ꍇ������܂��B
-- �₢���킹: GitHub Issues ����ʂ��Ă��A���������������e�́A�ԐM�E�Ή��̂��߂ɂ̂ݗ��p���܂��B
+## 収集する情報
+- アクセス解析（Google Analytics 4）: 端末情報・閲覧ページ・滞在時間などのトラフィックデータを匿名で収集します。
+- 広告配信（Google AdSense 等）: Cookie や広告IDを用いて、興味に応じた広告を表示する場合があります。
+- 問い合わせ: GitHub Issues 等を通じてご連絡いただいた内容は、返信・対応のためにのみ利用します。
 
-## Cookie �ɂ���
-- �u���E�U�ݒ�� Cookie �𖳌������邱�ƂŁA�v����p�[�\�i���C�Y�L�������ۂł��܂��B
-- Cookie �𖳌������Ă��A�{�T�C�g�̎�v�R���e���c�{���Ɏx��͂���܂���B
+## Cookie について
+- ブラウザ設定で Cookie を無効化することで、計測やパーソナライズ広告を拒否できます。
+- Cookie を無効化しても、本サイトの主要コンテンツ閲覧に支障はありません。
 
-## �L���E�A�t�B���G�C�g
-- �{�T�C�g�� Amazon�A�\�V�G�C�g����ъy�V�A�t�B���G�C�g���̐��ʕ�V�^�v���O�����ɎQ�����Ă��܂��B
-- �L�������N���o�R���ď��i�w�������s��ꂽ�ꍇ�A�^�c�҂ɐ��ʕ�V���������邱�Ƃ�����܂��B
-- �L���̔z�u�̓��[�U�[�̌���j�Q���Ȃ��ꏊ�i�L�����E�T�C�h�o�[�j�Ɍ��肵�A�����L���͖��������Ă��܂��B
+## 広告・アフィリエイト
+- 本サイトは Amazonアソシエイトおよび楽天アフィリエイト等の成果報酬型プログラムに参加しています。
+- 広告リンクを経由して商品購入等が行われた場合、運営者に成果報酬が発生することがあります。
+- 広告の配置はユーザー体験を阻害しない場所（記事下・サイドバー）に限定し、自動広告は無効化しています。
 
-## �A�N�Z�X��͂̃I�v�g�A�E�g
-- Google �̃I�v�g�A�E�g�A�h�I�����𗘗p���邱�ƂŁA�v���𖳌����ł��܂��B
-- �Q�l: [Google �A�i���e�B�N�X �I�v�g�A�E�g �A�h�I��](https://tools.google.com/dlpage/gaoptout?hl=ja)
+## アクセス解析のオプトアウト
+- Google のオプトアウトアドオン等を利用することで、計測を無効化できます。
+- 参考: [Google アナリティクス オプトアウト アドオン](https://tools.google.com/dlpage/gaoptout?hl=ja)
 
-## �O�������N
-- �{�T�C�g����O���T�C�g�ւ̃����N���܂݂܂��B�����N��ł̌l���E�T�[�r�X���p�ɂ��ẮA�e�T�C�g�̃|���V�[�����m�F���������B
+## 外部リンク
+- 本サイトから外部サイトへのリンクを含みます。リンク先での個人情報・サービス利用については、各サイトのポリシーをご確認ください。
 
-## �Ɛӎ���
-- �{�T�C�g�̌f�ڏ��͐��m���������Ă��܂����A�ŐV���E���S����ۏ؂�����̂ł͂���܂���B���ȐӔC�ł����p���������B
-- �{�T�C�g�o�R�Ŕ������������E���Q�ɂ��āA�^�c�҂͐ӔC�𕉂��܂���B
+## 免責事項
+- 本サイトの掲載情報は正確性を期していますが、最新性・完全性を保証するものではありません。自己責任でご利用ください。
+- 本サイト経由で発生した損失・損害について、運営者は責任を負いません。
 
-## �|���V�[�̉���
-- �{�|���V�[�͗\���Ȃ����肳��邱�Ƃ�����܂��B�d�v�ȕύX������ꍇ�͖{�y�[�W�ō��m���܂��B
+## ポリシーの改定
+- 本ポリシーは予告なく改定されることがあります。重要な変更がある場合は本ページで告知します。
 
-## ���₢���킹
-- �v���C�o�V�[�Ɋւ��邲�����J���E�����E�폜�̂��˗��́u[���₢���킹](/contact/)�v�܂��� GitHub Issues ���炲�A�����������B
+## お問い合わせ
+- プライバシーに関するご質問や開示・訂正・削除のご依頼は「[お問い合わせ](/contact/)」または GitHub Issues からご連絡ください。

@@ -1,20 +1,20 @@
 ---
-title: "���₢���킹"
+title: "お問い合わせ"
 slug: "contact"
-description: "�L�����e�̒����˗��E�L���f�ڂ̂����k�E�����җl����̘A�������ł��B"
+description: "記事内容の訂正依頼・広告掲載のご相談・権利者様からの連絡窓口です。"
 draft: false
 ---
 
-## ���A�����@
+## ご連絡方法
 - GitHub Issues: <https://github.com/pontarou0610/manga-kousatsu-hub/issues/new>
-- �����Ɂy���₢���킹�z�Ƃ��L�ڂ��������B���e�m�F��A3�c�Ɠ��ȓ���ڈ��ɑΉ����܂��B
+- 件名に【お問い合わせ】とご記載ください。内容確認後、3営業日以内を目安に対応します。
 
-## �󂯕t������e
-- �L�����e�̒����E�폜�̂��˗�
-- �����җl����̂��A��
-- �L���f�ڂ�^�C�A�b�v�̂����k
-- �s��񍐁E���P�v�]
+## 受け付ける内容
+- 記事内容の訂正・削除のご依頼
+- 権利者様からのご連絡
+- 広告掲載やタイアップのご相談
+- 不具合報告・改善要望
 
-## �����͂̂��肢
-- �L��URL�E��i���E�b���E�Y���ӏ��𖾋L����������ƃX���[�Y�ł��B
-- �摜����p�Ɋւ��錠���җl����̂��A���ɂ͑��₩�ɑΉ��������܂��B
+## ご協力のお願い
+- 記事URL・作品名・話数・該当箇所を明記いただけるとスムーズです。
+- 画像や引用に関する権利者様からのご連絡には速やかに対応いたします。
