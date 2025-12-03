@@ -1,97 +1,97 @@
----
-title: "{{ title }}"
-slug: "{{ slug }}"
-date: {{ date }}
-series: "{{ series }}"
-chapter: "{{ chapter }}"
-article_variant: "insight"
-{% if tags %}
-tags:
-{% for tag in tags %}
-  - "{{ tag }}"
-{% endfor %}
-{% else %}
-tags: []
-{% endif %}
-draft: {{ draft | lower }}
-description: "{{ description }}"
-affiliate_ids:
-  amazon: "{{ affiliate_ids.amazon }}"
-  rakuten: "{{ affiliate_ids.rakuten }}"
-{% if affiliate_ids.others %}
-  others:
-{% for other in affiliate_ids.others %}
-    - name: "{{ other.name }}"
-      url: "{{ other.url }}"
-{% endfor %}
-{% else %}
-  others: []
-{% endif %}
-disclaimer: "{{ disclaimer }}"
-{% if images %}
-images:
-{% for image in images %}
-  - "{{ image }}"
-{% endfor %}
-{% else %}
-images: []
-{% endif %}
----
-{{ intro }}
-
-## ’…Šáƒ|ƒCƒ“ƒgiŒŸõˆÓ}ƒx[ƒXj
-{% for block in outline %}
-- **{{ block.heading }}**
-  {% for bullet in block.bullets %}
-  - {{ bullet }}
-  {% endfor %}
-{% endfor %}
-
-{% if hero_image %}
-![{{ hero_image.alt }}]({{ hero_image.url }})
-<small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
-{% endif %}
-
-## —v“_‚Ü‚Æ‚ßiƒlƒ^ƒoƒŒ–³‚µj
-{% for point in summary_points %}
-- {{ point }}
-{% endfor %}
-
-## l@ƒe[ƒ}
-{% for item in insight.themes %}
-### {{ item.title }}
-{{ item.detail }}
-{% endfor %}
-
-## ƒLƒƒƒ‰ƒNƒ^[l@
-{% for item in insight.characters %}
-- **{{ item.name }}**: {{ item.focus }}
-{% endfor %}
-
-## FAQ
-{% for item in faq %}
-- **Q. {{ item.question }}**  
-  A. {{ item.answer }}
-{% endfor %}
-
-## w“üƒŠƒ“ƒNiŒö®/’Ê”Ìj
-{% if affiliate_ids.amazon %}
-- Amazon‚Å’T‚·F{{ affiliate_ids.amazon }}
-{% endif %}
-{% if affiliate_ids.rakuten %}
-- Šy“V‚Å’T‚·F{{ affiliate_ids.rakuten }}
-{% endif %}
-{% if affiliate_ids.others %}
-{% for other in affiliate_ids.others %}
-- {{ other.name }}F{{ other.url }}
-{% endfor %}
-{% endif %}
-
-## QlƒŠƒ“ƒN
-{% for link in reference_links %}
-- [{{ link.label }}]({{ link.url }})
-{% endfor %}
-{% if reference_links %}
-{% set official = official_link if official_link else reference_links[0] %}
-{{ "{{< affbox title=\"" }}{{ official.label or "Œö®ƒŠƒ“ƒN" }}{{ "\" desc=\"Ú‚µ‚­‚ÍŒö®î•ñ‚ğ‚²Šm”F‚­‚¾‚³‚¢" url=\"" }}{{ official.url }}{{ "\" >}}" }}
+---
+title: "{{ title }}"
+slug: "{{ slug }}"
+date: {{ date }}
+series: "{{ series }}"
+chapter: "{{ chapter }}"
+article_variant: "insight"
+{% if tags %}
+tags:
+{% for tag in tags %}
+  - "{{ tag }}"
+{% endfor %}
+{% else %}
+tags: []
+{% endif %}
+draft: {{ draft | lower }}
+description: "{{ description }}"
+affiliate_ids:
+  amazon: "{{ affiliate_ids.amazon }}"
+  rakuten: "{{ affiliate_ids.rakuten }}"
+{% if affiliate_ids.others %}
+  others:
+{% for other in affiliate_ids.others %}
+    - name: "{{ other.name }}"
+      url: "{{ other.url }}"
+{% endfor %}
+{% else %}
+  others: []
+{% endif %}
+disclaimer: "{{ disclaimer }}"
+{% if images %}
+images:
+{% for image in images %}
+  - "{{ image }}"
+{% endfor %}
+{% else %}
+images: []
+{% endif %}
+---
+{{ intro }}
+
+## ç€çœ¼ãƒã‚¤ãƒ³ãƒˆï¼ˆæ¤œç´¢æ„å›³ãƒ™ãƒ¼ã‚¹ï¼‰
+{% for block in outline %}
+- **{{ block.heading }}**
+  {% for bullet in block.bullets %}
+  - {{ bullet }}
+  {% endfor %}
+{% endfor %}
+
+{% if hero_image %}
+![{{ hero_image.alt }}]({{ hero_image.url }})
+<small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
+{% endif %}
+
+## è¦ç‚¹ã¾ã¨ã‚ï¼ˆãƒã‚¿ãƒãƒ¬ç„¡ã—ï¼‰
+{% for point in summary_points %}
+- {{ point }}
+{% endfor %}
+
+## è€ƒå¯Ÿãƒ†ãƒ¼ãƒ
+{% for item in insight.themes %}
+### {{ item.title }}
+{{ item.detail }}
+{% endfor %}
+
+## ã‚­ãƒ£ãƒ©ã‚¯ã‚¿ãƒ¼è€ƒå¯Ÿ
+{% for item in insight.characters %}
+- **{{ item.name }}**: {{ item.focus }}
+{% endfor %}
+
+## FAQ
+{% for item in faq %}
+- **Q. {{ item.question }}**  
+  A. {{ item.answer }}
+{% endfor %}
+
+## è³¼å…¥ãƒªãƒ³ã‚¯ï¼ˆå…¬å¼/é€šè²©ï¼‰
+{% if affiliate_ids.amazon %}
+- Amazonã§æ¢ã™ï¼š{{ affiliate_ids.amazon }}
+{% endif %}
+{% if affiliate_ids.rakuten %}
+- æ¥½å¤©ã§æ¢ã™ï¼š{{ affiliate_ids.rakuten }}
+{% endif %}
+{% if affiliate_ids.others %}
+{% for other in affiliate_ids.others %}
+- {{ other.name }}ï¼š{{ other.url }}
+{% endfor %}
+{% endif %}
+
+## å‚è€ƒãƒªãƒ³ã‚¯
+{% for link in reference_links %}
+- [{{ link.label }}]({{ link.url }})
+{% endfor %}
+{% if reference_links %}
+{% set official = official_link if official_link else reference_links[0] %}
+{{ "{{< affbox title=\"" }}{{ official.label or "å…¬å¼ãƒªãƒ³ã‚¯" }}{{ "\" desc=\"è©³ã—ãã¯å…¬å¼æƒ…å ±ã‚’ã”ç¢ºèªãã ã•ã„" url=\"" }}{{ official.url }}{{ "\" >}}" }}
 {% endif %}
