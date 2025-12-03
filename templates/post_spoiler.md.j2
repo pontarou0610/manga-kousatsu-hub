@@ -83,6 +83,14 @@ images:
 - 電子書籍：{{ series }}（Kindle / 楽天Kobo 等）
 {{ "{{< /spoiler >}}" }}
 
+## 購入リンク（公式/通販）
+{% if affiliate_ids.amazon %}
+- Amazonでチェック：{{ affiliate_ids.amazon }}
+{% endif %}
+{% if affiliate_ids.rakuten %}
+- 楽天でチェック：{{ affiliate_ids.rakuten }}
+{% endif %}
+
 ## 関連記事・用語集
 - 関連話へのリンク：{{ official_link.url if official_link else "" }}
 - 用語集へのリンク：/posts/{{ series_slug }}/glossary/
