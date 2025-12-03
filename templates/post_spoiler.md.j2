@@ -36,10 +36,9 @@ images:
 ---
 {{ intro }}
 
-> **{{ spoiler_notice or "本記事は最新話までのネタバレを含みます。" }}**
-
+> **{{ spoiler_notice or "この先は最新話までのネタバレを含みます。" }}**
 {% if prev_post %}
-> 前回のネタバレ： [{{ prev_post.title }}]({{ prev_post.url }})
+> 前回のネタバレ: [{{ prev_post.title }}]({{ prev_post.url }})
 {% endif %}
 
 {% if hero_image %}
@@ -47,50 +46,43 @@ images:
 <small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
 {% endif %}
 
-## 結論：第{{ chapter_label }}のポイント3つ（ネタバレあり）
+## 結論：{{ chapter_label }}のポイント3つ（ネタバレあり）
 {% for point in summary_points %}
 - {{ point }}
 {% endfor %}
 
 {{ "{{< spoiler >}}" }}
-## 第{{ chapter_label }}のあらすじ要約（3分でわかる）
+## {{ chapter_label }}のあらすじ要約（3分でわかる）
 {{ spoiler.synopsis }}
 
-## 詳細考察：キャラ・物語・テーマを深掘り
-### キャラの変化・関係性
+## 伏線・気付き
 {% for item in spoiler.foreshadowings %}
 - {{ item }}
 {% endfor %}
 
-### 世界観・設定の掘り下げ
-- 作品世界の設定に関する気づきをここに追記。
-
-### 気になるセリフ・描写
-- 印象に残ったセリフや演出に関する考察をここに追記。
-
-## 伏線・回収ポイントの整理
-{% for item in spoiler.foreshadowings %}
-- {{ item }}
-{% endfor %}
-
-## 今後の展開予想（原作既読の範囲内）
+## 今後の展開予想（根拠付き）
 {% for item in spoiler.predictions %}
 - {{ item }}
 {% endfor %}
 
 ## 関連巻・グッズへのリンク
-- 第{{ chapter_label }}収録巻：{{ affiliate_ids.amazon or "Amazonリンク未設定" }}
-- 電子書籍：{{ series }}（Kindle / 楽天Kobo 等）
+- {{ chapter_label }}収録巻：{{ affiliate_ids.amazon or "Amazonリンク未設定" }}
+- 電子書籍：{{ series }} Kindle / 楽天Kobo など
 {{ "{{< /spoiler >}}" }}
 
 ## 購入リンク（公式/通販）
 {% if affiliate_ids.amazon %}
-- Amazonでチェック：{{ affiliate_ids.amazon }}
+- Amazonで探す：{{ affiliate_ids.amazon }}
 {% endif %}
 {% if affiliate_ids.rakuten %}
-- 楽天でチェック：{{ affiliate_ids.rakuten }}
+- 楽天で探す：{{ affiliate_ids.rakuten }}
+{% endif %}
+{% if affiliate_ids.others %}
+{% for other in affiliate_ids.others %}
+- {{ other.name }}：{{ other.url }}
+{% endfor %}
 {% endif %}
 
 ## 関連記事・用語集
 - 関連話へのリンク：{{ official_link.url if official_link else "" }}
-- 用語集へのリンク：/posts/{{ series_slug }}/glossary/
+- 用語集：/posts/{{ series_slug }}/glossary/
