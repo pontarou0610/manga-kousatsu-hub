@@ -63,14 +63,14 @@ images:
 - 予想: 金塊を巡る争いが激化し、敵キャラクターが登場することで、物語に緊張感が生まれる可能性が高い。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+- 第1話収録巻： [第1話収録巻](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
 - 電子書籍：ゴールデンカムイ（Kindle / 楽天Kobo 等）
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonでチェック：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
-- 楽天でチェック：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://youngjump.jp/manga/goldenkamuy/
+- 関連話へのリンク： [関連話へのリンク](https://youngjump.jp/manga/goldenkamuy/)
 - 用語集へのリンク：/posts/golden-kamuy/glossary/

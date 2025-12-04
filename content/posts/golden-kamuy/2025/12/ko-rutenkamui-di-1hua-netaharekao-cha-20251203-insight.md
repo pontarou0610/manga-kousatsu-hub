@@ -123,11 +123,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+- Amazonで探す： [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
 
 
 
@@ -144,4 +144,4 @@ images:
 
 
 
-{{< affbox title="週刊ヤングジャンプ公式" desc="詳しくは公式情報をご確認ください" url="https://youngjump.jp/manga/goldenkamuy/" >}}
+{{< affbox title="週刊ヤングジャンプ公式" desc="詳しくは公式情報をご確認ください" url="[???](https://youngjump.jp/manga/goldenkamuy/") >}}

@@ -129,16 +129,16 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+- Amazonで探す： [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
 
 
 
 
-- Amazon（小学館サンデーGX版）：https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+- Amazon（小学館サンデーGX版）： [Amazon（小学館サンデーGX版）](https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22)
 
 
 
@@ -155,4 +155,4 @@ images:
 
 
 
-{{< affbox title="月刊サンデーGX公式" desc="詳しくは公式情報をご確認ください" url="https://sundaygx.com/kusuriya/" >}}
+{{< affbox title="月刊サンデーGX公式" desc="詳しくは公式情報をご確認ください" url="[???](https://sundaygx.com/kusuriya/") >}}

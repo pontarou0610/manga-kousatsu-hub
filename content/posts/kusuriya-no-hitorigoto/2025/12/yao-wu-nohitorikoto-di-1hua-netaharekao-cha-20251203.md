@@ -65,14 +65,14 @@ images:
 - 予想: 母親との過去の出来事が明らかになるにつれて、主人公は自身のアイデンティティを見つける旅に出ることになると考えられる。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻：https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+- 第1話収録巻： [第1話収録巻](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
 - 電子書籍：薬屋のひとりごと（Kindle / 楽天Kobo 等）
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonでチェック：https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
-- 楽天でチェック：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://sundaygx.com/kusuriya/
+- 関連話へのリンク： [関連話へのリンク](https://sundaygx.com/kusuriya/)
 - 用語集へのリンク：/posts/kusuriya-no-hitorigoto/glossary/

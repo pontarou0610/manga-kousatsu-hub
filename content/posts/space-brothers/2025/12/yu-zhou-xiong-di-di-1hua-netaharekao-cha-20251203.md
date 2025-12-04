@@ -61,14 +61,14 @@ images:
 - 予想：ヒビトとの関係が今後のストーリーの中で重要な役割を果たし、兄弟の絆が試される展開が待っている。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻：https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
+- 第1話収録巻： [第1話収録巻](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 - 電子書籍：宇宙兄弟（Kindle / 楽天Kobo 等）
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonでチェック：https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
-- 楽天でチェック：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://morning.kodansha.co.jp/c/uchukyodai/
+- 関連話へのリンク： [関連話へのリンク](https://morning.kodansha.co.jp/c/uchukyodai/)
 - 用語集へのリンク：/posts/space-brothers/glossary/

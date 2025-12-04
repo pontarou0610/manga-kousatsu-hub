@@ -59,14 +59,14 @@ images:
 - 予想：謎の少女が実は主人公の過去に深く関わっている人物である可能性が高く、物語の核心に迫る展開が待ち受けている。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
+- 第1話収録巻： [第1話収録巻](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
 - 電子書籍：天国大魔境（Kindle / 楽天Kobo 等）
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonでチェック：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-- 楽天でチェック：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://afternoon.kodansha.co.jp/c/tengokudaimakyo/
+- 関連話へのリンク： [関連話へのリンク](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
 - 用語集へのリンク：/posts/heavenly-delusion/glossary/

@@ -129,16 +129,16 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
+- Amazonで探す： [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
 
 
 
 
-- Amazon（オールカラー版）：https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
+- Amazon（オールカラー版）： [Amazon（オールカラー版）](https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22)
 
 
 
@@ -155,4 +155,4 @@ images:
 
 
 
-{{< affbox title="モーニング公式サイト" desc="詳しくは公式情報をご確認ください" url="https://morning.kodansha.co.jp/c/uchukyodai/" >}}
+{{< affbox title="モーニング公式サイト" desc="詳しくは公式情報をご確認ください" url="[???](https://morning.kodansha.co.jp/c/uchukyodai/") >}}

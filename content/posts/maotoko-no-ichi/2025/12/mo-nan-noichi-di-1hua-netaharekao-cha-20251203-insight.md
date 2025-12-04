@@ -49,9 +49,9 @@ images:
   A. 第1話は緊張感中心で、直接的な描写は控えめ。ダークな雰囲気が得意かどうかで好みが分かれそうです。
 
 ## 購入リンク（公式/通販）
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
-- Amazonで検索する：https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81
+- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- Amazonで検索する： [Amazonで検索する](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81)
 
 ## 参考リンク
-- ネタバレ版（詳細あらすじ）: https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/mo-nan-noichi-di-1hua-netaharekao-cha-20251203/
-- 用語集: https://pontarou0610.github.io/manga-kousatsu-hub/posts/maotoko-no-ichi/glossary/
+- ネタバレ版（詳細あらすじ）: [ネタバレ版（詳細あらすじ）](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/mo-nan-noichi-di-1hua-netaharekao-cha-20251203/)
+- 用語集: [用語集](https://pontarou0610.github.io/manga-kousatsu-hub/posts/maotoko-no-ichi/glossary/)
