@@ -1,26 +1,26 @@
 ---
-title: "薬屋のひとりごと 第1話最新話ネタバレ・感想・考察"
-slug: "yao-wu-nohitorikoto-di-1hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:13:33.834909+00:00
-series: "薬屋のひとりごと"
-series_slug: "kusuriya-no-hitorigoto"
-chapter: "第1話"
-article_variant: "spoiler"
+title: 薬屋のひとりごと 第1話最新話ネタバレ・感想・考察
+slug: yao-wu-nohitorikoto-di-1hua-netaharekao-cha-20251203
+date: 2025-12-03 08:13:33.834909+00:00
+series: 薬屋のひとりごと
+series_slug: kusuriya-no-hitorigoto
+chapter: 第1話
+article_variant: spoiler
 tags:
-  - "歴史ミステリー"
-  - "宮廷劇"
-  - "月刊誌"
+- 歴史ミステリー
+- 宮廷劇
+- 月刊誌
 draft: false
-description: "『薬屋のひとりごと』第1話の内容を詳しくまとめました。ネタバレが含まれますので、ご注意ください！"
+description: 『薬屋のひとりごと』第1話の内容を詳しくまとめました。ネタバレが含まれますので、ご注意ください！
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E8%96%AC%E5%B1%8B%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8/
   others:
-    - name: "Amazon（小学館サンデーGX版）"
-      url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
-disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。"
+  - name: Amazon（小学館サンデーGX版）
+    url: https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。
 images:
-  - "ogp/2025/20251203_yao-wu-nohitorikoto-di-1hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_yao-wu-nohitorikoto-di-1hua-netaharekao-cha-20251203.png
 ---
 『薬屋のひとりごと』第1話の内容を詳しくまとめました。ネタバレが含まれますので、ご注意ください！
 
@@ -71,7 +71,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E8%96%AC%E5%B1%8B%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8/)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://sundaygx.com/kusuriya/)

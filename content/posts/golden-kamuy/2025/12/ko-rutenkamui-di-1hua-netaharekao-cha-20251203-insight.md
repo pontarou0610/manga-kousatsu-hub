@@ -1,58 +1,24 @@
 ---
-
-title: "ゴールデンカムイ 第1話の考察"
-
-slug: "ko-rutenkamui-di-1hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:14:39.902724+00:00
-
-series: "ゴールデンカムイ"
-
-chapter: "第1話"
-
-article_variant: "insight"
-
-
+title: ゴールデンカムイ 第1話の考察
+slug: ko-rutenkamui-di-1hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:14:39.902724+00:00
+series: ゴールデンカムイ
+chapter: 第1話
+article_variant: insight
 tags:
-
-
-  - "ネタバレ無し"
-
-
-  - "歴史"
-
-
-  - "サバイバル"
-
-
-  - "週刊誌"
-
-
-
+- ネタバレ無し
+- 歴史
+- サバイバル
+- 週刊誌
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4/
   others: []
-
-
-disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
-
-
+disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
 images:
-
-
-  - "ogp/2025/20251203_ko-rutenkamui-di-1hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_ko-rutenkamui-di-1hua-netaharekao-cha-20251203.png
 ---
 
 第1話では、ゴールデンカムイの魅力が詰まった冒険の始まりが描かれています。どんな秘密やキャラクターが待っているのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4/)
 
 
 

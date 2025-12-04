@@ -1,24 +1,24 @@
 ---
-title: "デッドマウント・デスプレイ 第1話最新話ネタバレ・感想・考察"
-slug: "tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:12:34.128866+00:00
-series: "デッドマウント・デスプレイ"
-series_slug: "dead-mount-death-play"
-chapter: "第1話"
-article_variant: "spoiler"
+title: デッドマウント・デスプレイ 第1話最新話ネタバレ・感想・考察
+slug: tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203
+date: 2025-12-03 08:12:34.128866+00:00
+series: デッドマウント・デスプレイ
+series_slug: dead-mount-death-play
+chapter: 第1話
+article_variant: spoiler
 tags:
-  - "ダークファンタジー"
-  - "バトル"
-  - "月刊誌"
+- ダークファンタジー
+- バトル
+- 月刊誌
 draft: false
-description: "『デッドマウント・デスプレイ』第1話の内容を詳しくまとめました。ネタバレがありますのでご注意ください。"
+description: 『デッドマウント・デスプレイ』第1話の内容を詳しくまとめました。ネタバレがありますのでご注意ください。
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/
   others: []
-disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
+disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
 images:
-  - "ogp/2025/20251203_tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203.png
 ---
 『デッドマウント・デスプレイ』第1話の内容を詳しくまとめました。ネタバレがありますのでご注意ください。
 
@@ -65,7 +65,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://magazine.jp.square-enix.com/yg/introduction/dead/)

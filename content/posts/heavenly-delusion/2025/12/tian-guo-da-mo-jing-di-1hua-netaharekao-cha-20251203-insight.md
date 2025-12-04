@@ -1,58 +1,24 @@
 ---
-
-title: "天国大魔境 第1話の内容まとめと考察"
-
-slug: "tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:11:26.687173+00:00
-
-series: "天国大魔境"
-
-chapter: "第1話"
-
-article_variant: "insight"
-
-
+title: 天国大魔境 第1話の内容まとめと考察
+slug: tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:11:26.687173+00:00
+series: 天国大魔境
+chapter: 第1話
+article_variant: insight
 tags:
-
-
-  - "月刊誌"
-
-
-  - "ネタバレ無し"
-
-
-  - "SF"
-
-
-  - "ミステリー"
-
-
-
+- 月刊誌
+- ネタバレ無し
+- SF
+- ミステリー
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83/
   others: []
-
-
-disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。"
-
-
+disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
 images:
-
-
-  - "ogp/2025/20251203_tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203.png
 ---
 
 「天国大魔境」第1話では、未知の世界とキャラクターたちの動機が描かれています。彼らは何を求め、どのように成長するのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83/)
 
 
 

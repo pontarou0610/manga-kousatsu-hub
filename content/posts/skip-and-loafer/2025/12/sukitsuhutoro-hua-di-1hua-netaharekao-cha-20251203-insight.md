@@ -1,58 +1,24 @@
 ---
-
-title: "スキップとローファー第1話考察"
-
-slug: "sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:12:00.196551+00:00
-
-series: "スキップとローファー"
-
-chapter: "第1話"
-
-article_variant: "insight"
-
-
+title: スキップとローファー第1話考察
+slug: sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:12:00.196551+00:00
+series: スキップとローファー
+chapter: 第1話
+article_variant: insight
 tags:
-
-
-  - "ネタバレ無し"
-
-
-  - "月刊誌"
-
-
-  - "日常"
-
-
-  - "青春"
-
-
-
+- ネタバレ無し
+- 月刊誌
+- 日常
+- 青春
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/
   others: []
-
-
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
-
-
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
 images:
-
-
-  - "ogp/2025/20251203_sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203.png
 ---
 
 第1話では、主人公たちの新しい高校生活が始まります。彼らの出会いや成長の過程をどのように描いているのか、一緒に探ってみましょう。
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/)
 
 
 

@@ -1,24 +1,24 @@
 ---
-title: "アオアシ 第1話最新話ネタバレ・感想・考察"
-slug: "aoashi-di-1hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:15:18.288556+00:00
-series: "アオアシ"
-series_slug: "aoashi"
-chapter: "第1話"
-article_variant: "spoiler"
+title: アオアシ 第1話最新話ネタバレ・感想・考察
+slug: aoashi-di-1hua-netaharekao-cha-20251203
+date: 2025-12-03 08:15:18.288556+00:00
+series: アオアシ
+series_slug: aoashi
+chapter: 第1話
+article_variant: spoiler
 tags:
-  - "サッカー"
-  - "青春"
-  - "週刊誌"
+- サッカー
+- 青春
+- 週刊誌
 draft: false
-description: "アオアシの第1話では、主人公の成長のきっかけが描かれています。これからの展開に期待が高まりますので、ネタバレにご注意ください。"
+description: アオアシの第1話では、主人公の成長のきっかけが描かれています。これからの展開に期待が高まりますので、ネタバレにご注意ください。
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7/
   others: []
-disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
+disclaimer: 実在チームとの比較は公開資料を根拠に行います。
 images:
-  - "ogp/2025/20251203_aoashi-di-1hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_aoashi-di-1hua-netaharekao-cha-20251203.png
 ---
 アオアシの第1話では、主人公の成長のきっかけが描かれています。これからの展開に期待が高まりますので、ネタバレにご注意ください。
 
@@ -65,7 +65,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7/)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://bigcomicbros.net/comics/30384/)

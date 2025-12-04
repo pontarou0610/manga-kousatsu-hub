@@ -1,24 +1,24 @@
 ---
-title: "魔男のイチ｜第1話 最新話ネタバレ・感想・考察"
-slug: "mo-nan-noichi-di-1hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:15:53.797792+00:00
-series: "魔男のイチ"
-series_slug: "maotoko-no-ichi"
-chapter: "第1話"
-article_variant: "spoiler"
+title: 魔男のイチ｜第1話 最新話ネタバレ・感想・考察
+slug: mo-nan-noichi-di-1hua-netaharekao-cha-20251203
+date: 2025-12-03 08:15:53.797792+00:00
+series: 魔男のイチ
+series_slug: maotoko-no-ichi
+chapter: 第1話
+article_variant: spoiler
 tags:
-  - "ダークファンタジー"
-  - "サスペンス"
-  - "青年誌"
+- ダークファンタジー
+- サスペンス
+- 青年誌
 draft: false
-description: "『魔男のイチ』第1話を時系列でまとめ、伏線と初期設定を整理します。"
+description: 『魔男のイチ』第1話を時系列でまとめ、伏線と初期設定を整理します。
 affiliate_ids:
-  amazon: ""
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: ''
+  rakuten: https://search.rakuten.co.jp/search/mall/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81/
   others: []
-disclaimer: "公開済み第1話のみを扱います。未読の方はご注意ください。"
+disclaimer: 公開済み第1話のみを扱います。未読の方はご注意ください。
 images:
-  - "ogp/2025/20251203_mo-nan-noichi-di-1hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_mo-nan-noichi-di-1hua-netaharekao-cha-20251203.png
 ---
 『魔男のイチ』第1話の内容を詳しく振り返り、登場人物や世界観の伏線を整理します。未読の方はネタバレにご注意ください。
 
@@ -55,7 +55,7 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81/)
 - Amazonで検索する： [Amazonで検索する](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81)
 
 ## 関連記事

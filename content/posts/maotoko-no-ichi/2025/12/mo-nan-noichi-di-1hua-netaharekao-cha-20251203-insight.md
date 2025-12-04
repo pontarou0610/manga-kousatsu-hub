@@ -1,24 +1,24 @@
 ---
-title: "魔男のイチ｜第1話の考察メモ（ネタバレ無し）"
-slug: "mo-nan-noichi-di-1hua-netaharekao-cha-20251203-insight"
-date: 2025-12-03T08:15:53.797792+00:00
-series: "魔男のイチ"
-chapter: "第1話"
-article_variant: "insight"
+title: 魔男のイチ｜第1話の考察メモ（ネタバレ無し）
+slug: mo-nan-noichi-di-1hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:15:53.797792+00:00
+series: 魔男のイチ
+chapter: 第1話
+article_variant: insight
 tags:
-  - "ネタバレ無し"
-  - "ダークファンタジー"
-  - "青年誌"
-  - "サスペンス"
+- ネタバレ無し
+- ダークファンタジー
+- 青年誌
+- サスペンス
 draft: false
-description: "第1話をネタバレ無しで読み解き、テーマ・キャラクターの動機・伏線を整理します。"
+description: 第1話をネタバレ無しで読み解き、テーマ・キャラクターの動機・伏線を整理します。
 affiliate_ids:
-  amazon: ""
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: ''
+  rakuten: https://search.rakuten.co.jp/search/mall/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81/
   others: []
-disclaimer: "公開済みの第1話の範囲で考察します。核心ネタバレは含みません。"
+disclaimer: 公開済みの第1話の範囲で考察します。核心ネタバレは含みません。
 images:
-  - "ogp/2025/20251203_mo-nan-noichi-di-1hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_mo-nan-noichi-di-1hua-netaharekao-cha-20251203.png
 ---
 第1話をネタバレ無しで整理し、テーマやキャラクターの動機を掘り下げます。人間界と魔界の境界で揺れる少年イチの「選択」が本作の軸になりそうです。
 
@@ -49,7 +49,7 @@ images:
   A. 第1話は緊張感中心で、直接的な描写は控えめ。ダークな雰囲気が得意かどうかで好みが分かれそうです。
 
 ## 購入リンク（公式/通販）
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81/)
 - Amazonで検索する： [Amazonで検索する](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81)
 
 ## 参考リンク

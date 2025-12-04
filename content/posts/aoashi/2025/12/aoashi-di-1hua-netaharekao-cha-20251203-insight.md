@@ -1,58 +1,24 @@
 ---
-
-title: "アオアシ 第1話の内容と考察"
-
-slug: "aoashi-di-1hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:15:18.288556+00:00
-
-series: "アオアシ"
-
-chapter: "第1話"
-
-article_variant: "insight"
-
-
+title: アオアシ 第1話の内容と考察
+slug: aoashi-di-1hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:15:18.288556+00:00
+series: アオアシ
+chapter: 第1話
+article_variant: insight
 tags:
-
-
-  - "ネタバレ無し"
-
-
-  - "サッカー"
-
-
-  - "週刊誌"
-
-
-  - "青春"
-
-
-
+- ネタバレ無し
+- サッカー
+- 週刊誌
+- 青春
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7/
   others: []
-
-
-disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
-
-
+disclaimer: 実在チームとの比較は公開資料を根拠に行います。
 images:
-
-
-  - "ogp/2025/20251203_aoashi-di-1hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_aoashi-di-1hua-netaharekao-cha-20251203.png
 ---
 
 第1話では、主人公の成長とサッカーへの情熱が描かれています。彼の旅の始まりにどういった意味があるのか、一緒に探ってみましょう！
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7/)
 
 
 

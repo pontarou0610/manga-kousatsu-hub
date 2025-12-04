@@ -1,24 +1,24 @@
 ---
-title: "キングダム 第1話最新話ネタバレ・感想・考察"
-slug: "kinkutamu-di-1hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:13:03.118239+00:00
-series: "キングダム"
-series_slug: "kingdom"
-chapter: "第1話"
-article_variant: "spoiler"
+title: キングダム 第1話最新話ネタバレ・感想・考察
+slug: kinkutamu-di-1hua-netaharekao-cha-20251203
+date: 2025-12-03 08:13:03.118239+00:00
+series: キングダム
+series_slug: kingdom
+chapter: 第1話
+article_variant: spoiler
 tags:
-  - "歴史"
-  - "バトル"
-  - "週刊誌"
+- 歴史
+- バトル
+- 週刊誌
 draft: false
-description: "キングダム第1話の内容を詳しくまとめました。ネタバレが含まれますので、注意してくださいね！"
+description: キングダム第1話の内容を詳しくまとめました。ネタバレが含まれますので、注意してくださいね！
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0/
   others: []
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-  - "ogp/2025/20251203_kinkutamu-di-1hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_kinkutamu-di-1hua-netaharekao-cha-20251203.png
 ---
 キングダム第1話の内容を詳しくまとめました。ネタバレが含まれますので、注意してくださいね！
 
@@ -65,7 +65,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0/)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://youngjump.jp/manga/kingdom/)

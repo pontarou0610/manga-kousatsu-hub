@@ -1,24 +1,24 @@
 ---
-title: "ゴールデンカムイ 第1話最新話ネタバレ・感想・考察"
-slug: "ko-rutenkamui-di-1hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:14:39.902724+00:00
-series: "ゴールデンカムイ"
-series_slug: "golden-kamuy"
-chapter: "第1話"
-article_variant: "spoiler"
+title: ゴールデンカムイ 第1話最新話ネタバレ・感想・考察
+slug: ko-rutenkamui-di-1hua-netaharekao-cha-20251203
+date: 2025-12-03 08:14:39.902724+00:00
+series: ゴールデンカムイ
+series_slug: golden-kamuy
+chapter: 第1話
+article_variant: spoiler
 tags:
-  - "歴史"
-  - "サバイバル"
-  - "週刊誌"
+- 歴史
+- サバイバル
+- 週刊誌
 draft: false
-description: "『ゴールデンカムイ』第1話の内容を詳しくまとめました。ネタバレを含むので、ご注意ください！"
+description: 『ゴールデンカムイ』第1話の内容を詳しくまとめました。ネタバレを含むので、ご注意ください！
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4/
   others: []
-disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
+disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
 images:
-  - "ogp/2025/20251203_ko-rutenkamui-di-1hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_ko-rutenkamui-di-1hua-netaharekao-cha-20251203.png
 ---
 『ゴールデンカムイ』第1話の内容を詳しくまとめました。ネタバレを含むので、ご注意ください！
 
@@ -69,7 +69,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4/)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://youngjump.jp/manga/goldenkamuy/)

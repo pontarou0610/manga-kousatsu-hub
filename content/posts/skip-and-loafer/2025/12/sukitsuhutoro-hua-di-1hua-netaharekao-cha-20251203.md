@@ -1,24 +1,24 @@
 ---
-title: "スキップとローファー 第1話の最新話ネタバレ・感想・考察"
-slug: "sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:12:00.196551+00:00
-series: "スキップとローファー"
-series_slug: "skip-and-loafer"
-chapter: "第1話"
-article_variant: "spoiler"
+title: スキップとローファー 第1話の最新話ネタバレ・感想・考察
+slug: sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203
+date: 2025-12-03 08:12:00.196551+00:00
+series: スキップとローファー
+series_slug: skip-and-loafer
+chapter: 第1話
+article_variant: spoiler
 tags:
-  - "青春"
-  - "日常"
-  - "月刊誌"
+- 青春
+- 日常
+- 月刊誌
 draft: false
-description: "第1話では、主人公たちの出会いや学校生活の始まりが描かれています。ネタバレが含まれますのでご注意ください！"
+description: 第1話では、主人公たちの出会いや学校生活の始まりが描かれています。ネタバレが含まれますのでご注意ください！
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/
   others: []
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
 images:
-  - "ogp/2025/20251203_sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203.png
 ---
 第1話では、主人公たちの出会いや学校生活の始まりが描かれています。ネタバレが含まれますのでご注意ください！
 
@@ -65,7 +65,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://afternoon.kodansha.co.jp/c/skiptoloafer/)

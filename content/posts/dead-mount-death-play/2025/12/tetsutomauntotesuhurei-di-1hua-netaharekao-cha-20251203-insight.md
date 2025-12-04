@@ -1,58 +1,24 @@
 ---
-
-title: "デッドマウント・デスプレイ 第1話の考察"
-
-slug: "tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:12:34.128866+00:00
-
-series: "デッドマウント・デスプレイ"
-
-chapter: "第1話"
-
-article_variant: "insight"
-
-
+title: デッドマウント・デスプレイ 第1話の考察
+slug: tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:12:34.128866+00:00
+series: デッドマウント・デスプレイ
+chapter: 第1話
+article_variant: insight
 tags:
-
-
-  - "ネタバレ無し"
-
-
-  - "ダークファンタジー"
-
-
-  - "月刊誌"
-
-
-  - "バトル"
-
-
-
+- ネタバレ無し
+- ダークファンタジー
+- 月刊誌
+- バトル
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/
   others: []
-
-
-disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
-
-
+disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
 images:
-
-
-  - "ogp/2025/20251203_tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203.png
 ---
 
 デッドマウント・デスプレイ第1話では、どのように物語が展開されるのか、キャラクターたちの動機は何なのかを探ります。
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/)
 
 
 

@@ -10,6 +10,7 @@ from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 from string import Template
 import unicodedata
+from urllib.parse import quote_plus
 
 import feedparser
 import frontmatter
@@ -323,9 +324,18 @@ def fetch_pexels_image(query: str) -> Optional[Dict[str, str]]:
     }
 
 
+def build_rakuten_search_url(series: Dict[str, Any]) -> str:
+    series_name = (series.get("name") or "").strip()
+    series_slug = (series.get("slug") or "").strip()
+    keyword = series_name or series_slug
+    if not keyword:
+        return "https://search.rakuten.co.jp/search/mall/"
+    return f"https://search.rakuten.co.jp/search/mall/{quote_plus(keyword)}/"
+
+
 def build_affiliate_urls(series: Dict[str, Any]) -> Dict[str, str]:
     amazon_asin = series.get("affiliates", {}).get("amazon", {}).get("asin", "")
-    rakuten_params = series.get("affiliates", {}).get("rakuten", {}).get("params", "YOUR_RAKUTEN_PARAMS")
+    rakuten_params_raw = series.get("affiliates", {}).get("rakuten", {}).get("params", "YOUR_RAKUTEN_PARAMS")
     amazon_tag = (
         series.get("affiliates", {}).get("amazon", {}).get("tag")
         or AMAZON_TAG
@@ -336,7 +346,13 @@ def build_affiliate_urls(series: Dict[str, Any]) -> Dict[str, str]:
         if amazon_asin and amazon_tag
         else ""
     )
-    rakuten_url = f"https://hb.afl.rakuten.co.jp/?{rakuten_params}" if rakuten_params else ""
+    rakuten_params = (rakuten_params_raw or "").strip()
+    rakuten_url = ""
+    if rakuten_params and rakuten_params != "YOUR_RAKUTEN_PARAMS":
+        rakuten_url = f"https://hb.afl.rakuten.co.jp/?{rakuten_params}"
+    else:
+        # プレースホルダーや空欄の場合はシリーズ名で楽天市場検索ページにフォールバック
+        rakuten_url = build_rakuten_search_url(series)
     return {
         "amazon": amazon_url,
         "rakuten": rakuten_url,

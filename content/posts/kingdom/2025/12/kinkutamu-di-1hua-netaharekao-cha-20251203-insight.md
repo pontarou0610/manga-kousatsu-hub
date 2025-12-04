@@ -1,58 +1,24 @@
 ---
-
-title: "キングダム 第1話の内容まとめ"
-
-slug: "kinkutamu-di-1hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:13:03.118239+00:00
-
-series: "キングダム"
-
-chapter: "第1話"
-
-article_variant: "insight"
-
-
+title: キングダム 第1話の内容まとめ
+slug: kinkutamu-di-1hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:13:03.118239+00:00
+series: キングダム
+chapter: 第1話
+article_variant: insight
 tags:
-
-
-  - "ネタバレ無し"
-
-
-  - "週刊誌"
-
-
-  - "歴史"
-
-
-  - "バトル"
-
-
-
+- ネタバレ無し
+- 週刊誌
+- 歴史
+- バトル
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0/
   others: []
-
-
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
-
-
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-
-
-  - "ogp/2025/20251203_kinkutamu-di-1hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_kinkutamu-di-1hua-netaharekao-cha-20251203.png
 ---
 
 『キングダム』第1話では、物語の舞台やキャラクターたちの背景が描かれ、彼らの動機が明らかになります。どんな冒険が待っているのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0/)
 
 
 

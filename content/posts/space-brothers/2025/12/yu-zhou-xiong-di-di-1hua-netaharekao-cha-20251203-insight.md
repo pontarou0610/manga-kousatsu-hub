@@ -1,64 +1,26 @@
 ---
-
-title: "宇宙兄弟 第1話の内容まとめ"
-
-slug: "yu-zhou-xiong-di-di-1hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:14:05.271353+00:00
-
-series: "宇宙兄弟"
-
-chapter: "第1話"
-
-article_variant: "insight"
-
-
+title: 宇宙兄弟 第1話の内容まとめ
+slug: yu-zhou-xiong-di-di-1hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:14:05.271353+00:00
+series: 宇宙兄弟
+chapter: 第1話
+article_variant: insight
 tags:
-
-
-  - "月刊誌"
-
-
-  - "ネタバレ無し"
-
-
-  - "宇宙"
-
-
-  - "ヒューマンドラマ"
-
-
-
+- 月刊誌
+- ネタバレ無し
+- 宇宙
+- ヒューマンドラマ
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
+  rakuten: https://search.rakuten.co.jp/search/mall/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F/
   others:
-
-
-    - name: "Amazon（オールカラー版）"
-
-      url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
-
-
-
-disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
-
-
+  - name: Amazon（オールカラー版）
+    url: https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
+disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
 images:
-
-
-  - "ogp/2025/20251203_yu-zhou-xiong-di-di-1hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_yu-zhou-xiong-di-di-1hua-netaharekao-cha-20251203.png
 ---
 
 第1話では、宇宙を目指す兄弟の物語が始まります。彼らの夢や葛藤は、どのように描かれているのでしょうか？
@@ -133,7 +95,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F/)
 
 
 
