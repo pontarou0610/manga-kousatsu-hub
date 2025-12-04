@@ -56,8 +56,8 @@ images:
 - **外界**: 物語の舞台となる学校の外に広がる未知の世界。子どもたちにとっては恐怖の象徴であり、物語の重要な要素となる。
 
 ## 参考リンク（公式中心）
-- [作品公式サイト](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
-- [アニメ公式サイト](https://tdm-anime.com/)
+- [作品公式サイト](? [[作品公式サイト](](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/))
+- [アニメ公式サイト](? [[アニメ公式サイト](](https://tdm-anime.com/))
 
 <p><a class="post-card__more" href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

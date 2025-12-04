@@ -44,8 +44,8 @@ title: スキップとローファー｜第42話考察B（みつみの自己認�
 - **プロジェクトリーダー**: プロジェクトリーダーは、みつみを含むメンバーに対して厳しい意見を述べることで、成長の機会を与えます。彼の存在は、みつみが自己表現を学ぶきっかけとなる重要な役割を果たします。
 
 ## 参照リンク（すべて公式）
-- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
-- [TVアニメ公式サイト](https://skip-and-loafer.com/)
+- [月刊アフタヌーン公式](? [[月刊アフタヌーン公式](](https://afternoon.kodansha.co.jp/c/skiptoloafer/))
+- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://skip-and-loafer.com/))
 
 <p><a class="post-card__more" href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

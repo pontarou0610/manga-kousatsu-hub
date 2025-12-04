@@ -43,8 +43,8 @@ images:
 - **キャラクターC**: 自分の過去から逃げるために装備を選ぶキャラクター。彼の選択は、自己否定や恐れを反映しており、物語を通じて彼がどのように自分を受け入れていくのかが大きなテーマとなっています。
 
 ## 参照リンク（すべて公式）
-- [作品公式サイト](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
-- [アニメ公式サイト](https://tdm-anime.com/)
+- [作品公式サイト](? [[作品公式サイト](](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/))
+- [アニメ公式サイト](? [[アニメ公式サイト](](https://tdm-anime.com/))
 
 <p><a class="post-card__more" href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

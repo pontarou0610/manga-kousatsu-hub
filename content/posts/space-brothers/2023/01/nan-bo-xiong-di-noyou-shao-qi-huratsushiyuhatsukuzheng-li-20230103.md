@@ -56,5 +56,5 @@ images:
 - **宇宙飛行士**: 宇宙に行くための訓練を受けた専門家で、宇宙ミッションに参加する人々。
 
 ## 参考リンク（すべて公式）
-- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
-- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
+- [モーニング公式サイト](? [[モーニング公式サイト](](https://morning.kodansha.co.jp/c/uchukyodai/))
+- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://www.ytv.co.jp/uchukyodai/))

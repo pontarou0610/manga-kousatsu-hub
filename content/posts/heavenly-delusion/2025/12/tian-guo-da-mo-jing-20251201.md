@@ -48,5 +48,5 @@ images:
 - **黒の手**: 物語に登場する謎の組織で、主人公アキラの過去に深く関わっている。
 
 ## 参考リンク（すべて公式）
-- [作品公式サイト](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
-- [アニメ公式サイト](https://tdm-anime.com/)
+- [作品公式サイト](? [[作品公式サイト](](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/))
+- [アニメ公式サイト](? [[アニメ公式サイト](](https://tdm-anime.com/))

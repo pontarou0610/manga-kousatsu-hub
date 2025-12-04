@@ -43,8 +43,8 @@ images:
 - **仲間たち**: 青井の仲間たちもまた、各々の役割を果たしながらチームの一員として成長しています。彼らは互いに支え合い、時には対立しながらも、最終的には共通の目標に向かって団結する姿が描かれています。この過程が、チームの結束を強化する要因となっています。
 
 ## 参照リンク（すべて公式）
-- [ビッグコミックス公式](https://bigcomicbros.net/comics/30384/)
-- [アニメ公式サイト](https://aoashi-pr.com/)
+- [ビッグコミックス公式](? [[ビッグコミックス公式](](https://bigcomicbros.net/comics/30384/))
+- [アニメ公式サイト](? [[アニメ公式サイト](](https://aoashi-pr.com/))
 
 <p><a class="post-card__more" href="https://bigcomicbros.net/comics/30384/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

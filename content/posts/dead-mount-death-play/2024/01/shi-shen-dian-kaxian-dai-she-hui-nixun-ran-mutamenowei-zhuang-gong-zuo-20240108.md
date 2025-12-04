@@ -48,7 +48,7 @@ images:
 - **屍神殿**: この作品に登場する重要な組織で、死者の身体を利用して計画を進める存在。
 
 ## 参考リンク（すべて公式）
-- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
-- [アニメ公式サイト](https://dmdp-anime.jp/)
-- [DMDP観測記](https://fanblog.example.com/dmdp/disguise-technique)
-- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/joker/series/deadmount/)
+- [ガンガンJOKER公式](? [[ガンガンJOKER公式](](https://magazine.jp.square-enix.com/yg/introduction/dead/))
+- [アニメ公式サイト](? [[アニメ公式サイト](](https://dmdp-anime.jp/))
+- [DMDP観測記](? [[DMDP観測記](](https://fanblog.example.com/dmdp/disguise-technique))
+- [ガンガンJOKER公式](? [[ガンガンJOKER公式](](https://magazine.jp.square-enix.com/joker/series/deadmount/))

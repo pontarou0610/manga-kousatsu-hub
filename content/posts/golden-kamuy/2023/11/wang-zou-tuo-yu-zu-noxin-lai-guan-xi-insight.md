@@ -52,8 +52,8 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/goldenkamuy/)
-- [アニメ公式サイト](https://kamuy-anime.com/)
+- [週刊ヤングジャンプ公式](? [[週刊ヤングジャンプ公式](](https://youngjump.jp/manga/goldenkamuy/))
+- [アニメ公式サイト](? [[アニメ公式サイト](](https://kamuy-anime.com/))
 
 <p><a class="post-card__more" href="https://youngjump.jp/manga/goldenkamuy/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

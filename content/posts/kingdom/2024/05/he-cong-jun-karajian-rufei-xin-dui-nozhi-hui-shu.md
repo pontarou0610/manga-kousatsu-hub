@@ -47,9 +47,9 @@ images:
 - **合従軍**: 中国戦国時代において、各国が連合して形成した軍。物語の中で重要な敵勢力となっている。
 
 ## 参考リンク（公式中心）
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/kingdom/)
-- [TVアニメ公式サイト](https://kingdom-anime.com/)
-- [考察ブログ: 合従軍編の戦術まとめ](https://fanblog.example.com/kingdom/gasshugod-analysis)
+- [週刊ヤングジャンプ公式](? [[週刊ヤングジャンプ公式](](https://youngjump.jp/manga/kingdom/))
+- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://kingdom-anime.com/))
+- [考察ブログ: 合従軍編の戦術まとめ](? [[考察ブログ: 合従軍編の戦術まとめ](](https://fanblog.example.com/kingdom/gasshugod-analysis))
 
 <p><a class="post-card__more" href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

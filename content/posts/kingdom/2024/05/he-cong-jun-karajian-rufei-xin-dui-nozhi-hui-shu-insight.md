@@ -47,8 +47,8 @@ title: キングダム｜第340話考察A（合従軍での飛信隊指揮術）
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/kingdom/)
-- [TVアニメ公式サイト](https://kingdom-anime.com/)
+- [週刊ヤングジャンプ公式](? [[週刊ヤングジャンプ公式](](https://youngjump.jp/manga/kingdom/))
+- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://kingdom-anime.com/))
 
 <p><a class="post-card__more" href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

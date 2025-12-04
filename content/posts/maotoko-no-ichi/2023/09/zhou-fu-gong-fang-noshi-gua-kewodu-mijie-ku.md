@@ -47,8 +47,8 @@ images:
 - **旧式の術式**: 古くから伝わる魔法や呪文で、特に強力な力を持つとされる。今後の展開において重要な役割を果たす可能性がある。
 
 ## 参考リンク（公式中心）
-- [魔術考察ノート](https://lore.example.com/maotoko/sigil-lab)
-- [掲示板ログ](https://bbs.example.com/thread/maotoko-ichi)
+- [魔術考察ノート](? [[魔術考察ノート](](https://lore.example.com/maotoko/sigil-lab))
+- [掲示板ログ](? [[掲示板ログ](](https://bbs.example.com/thread/maotoko-ichi))
 
 <p><a class="post-card__more" href="https://lore.example.com/maotoko/sigil-lab" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

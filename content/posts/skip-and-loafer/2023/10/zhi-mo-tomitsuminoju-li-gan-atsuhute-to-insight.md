@@ -46,8 +46,8 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
-- [TVアニメ公式サイト](https://skip-and-loafer.com/)
+- [月刊アフタヌーン公式](? [[月刊アフタヌーン公式](](https://afternoon.kodansha.co.jp/c/skiptoloafer/))
+- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://skip-and-loafer.com/))
 
 <p><a class="post-card__more" href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 

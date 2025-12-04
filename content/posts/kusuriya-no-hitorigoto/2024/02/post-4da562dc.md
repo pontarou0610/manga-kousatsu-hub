@@ -46,9 +46,9 @@ images:
 {{< /spoiler >}}
 
 ## 参考リンク（すべて公式）
-- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
-- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)
-- [薬屋の事件ファイル](https://fanblog.example.com/kusuriya/twin-case)
-- [月刊ビッグガンガン公式](https://magazine.jp.square-enix.com/biggangan/kusuriya/)
+- [月刊サンデーGX公式](? [[月刊サンデーGX公式](](https://sundaygx.com/kusuriya/))
+- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://kusuriyanohitorigoto.jp/))
+- [薬屋の事件ファイル](? [[薬屋の事件ファイル](](https://fanblog.example.com/kusuriya/twin-case))
+- [月刊ビッグガンガン公式](? [[月刊ビッグガンガン公式](](https://magazine.jp.square-enix.com/biggangan/kusuriya/))
 
 <p><a class="post-card__more" href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>

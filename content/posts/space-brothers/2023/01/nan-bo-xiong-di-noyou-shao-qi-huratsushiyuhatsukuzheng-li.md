@@ -60,8 +60,8 @@ images:
 - **宇宙飛行士**: 宇宙での活動を行うために訓練を受けた専門家。
 
 ## 参考リンク（公式中心）
-- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
-- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
+- [モーニング公式サイト](? [[モーニング公式サイト](](https://morning.kodansha.co.jp/c/uchukyodai/))
+- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://www.ytv.co.jp/uchukyodai/))
 
 <p><a class="post-card__more" href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 
