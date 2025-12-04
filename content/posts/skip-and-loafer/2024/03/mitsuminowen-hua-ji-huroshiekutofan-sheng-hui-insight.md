@@ -49,10 +49,10 @@ title: スキップとローファー｜第42話考察A（文化祭のチーム�
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [月刊アフタヌーン公式](? [[月刊アフタヌーン公式](](https://afternoon.kodansha.co.jp/c/skiptoloafer/))
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://skip-and-loafer.com/))
+- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- [TVアニメ公式サイト](https://skip-and-loafer.com/)
 
-<p><a class="post-card__more" href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
 
 - [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
 

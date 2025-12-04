@@ -104,10 +104,10 @@ images:
 ## 参考リンク
 
 
-- [作品公式サイト](? [[作品公式サイト](](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/))
+- [作品公式サイト](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
 
 
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://tdm-anime.com/))
+- [アニメ公式サイト](https://tdm-anime.com/)
 
 
 

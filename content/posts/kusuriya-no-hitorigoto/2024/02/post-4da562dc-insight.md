@@ -50,5 +50,5 @@ images:
   A. 証拠不足と政治的配慮。事実を示しつつ、決定は上層に委ねている。
 
 ## 参考リンク（すべて公式）
-- [月刊サンデーGX公式](? [[月刊サンデーGX公式](](https://sundaygx.com/kusuriya/))
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://kusuriyanohitorigoto.jp/))
+- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
+- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)

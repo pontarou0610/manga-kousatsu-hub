@@ -27,7 +27,6 @@ affiliate_ids:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
   others:
 - [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
 images:
   - "ogp/2023/20230103_nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li.png"
@@ -62,10 +61,10 @@ images:
 - **宇宙飛行士**: 宇宙での活動を行うために訓練を受けた専門家。
 
 ## 参考リンク（公式中心）
-- [モーニング公式サイト](? [[モーニング公式サイト](](https://morning.kodansha.co.jp/c/uchukyodai/))
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://www.ytv.co.jp/uchukyodai/))
+- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
+- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
 
-<p><a class="post-card__more" href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://morning.kodansha.co.jp/c/uchukyodai/)
 
 - [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 

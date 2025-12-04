@@ -49,11 +49,11 @@ images:
 - **網走監獄**: 北海道に実在した監獄で、厳しい環境と歴史的背景を持つ場所。物語の中では重要な舞台となっている。
 
 ## 参考リンク（公式中心）
-- [週刊ヤングジャンプ公式](? [[週刊ヤングジャンプ公式](](https://youngjump.jp/manga/goldenkamuy/))
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://kamuy-anime.com/))
-- [ゴールデン道しるべ](? [[ゴールデン道しるべ](](https://fanblog.example.com/goldenkamuy/aso-prison-review))
+- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/goldenkamuy/)
+- [アニメ公式サイト](https://kamuy-anime.com/)
+- [ゴールデン道しるべ](https://fanblog.example.com/goldenkamuy/aso-prison-review)
 
-<p><a class="post-card__more" href="https://youngjump.jp/manga/goldenkamuy/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://youngjump.jp/manga/goldenkamuy/)
 
 - [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
 

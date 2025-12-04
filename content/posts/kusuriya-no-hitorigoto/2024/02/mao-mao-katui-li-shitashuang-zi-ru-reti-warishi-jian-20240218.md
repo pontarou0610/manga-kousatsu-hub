@@ -54,7 +54,7 @@ images:
 - **後宮**: 皇帝や王族が住む宮殿の一部で、女性たちが生活している場所。政治的な陰謀や人間関係が複雑に絡み合う舞台となる。
 
 ## 参考リンク（すべて公式）
-- [月刊サンデーGX公式](? [[月刊サンデーGX公式](](https://sundaygx.com/kusuriya/))
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://kusuriyanohitorigoto.jp/))
-- [薬屋の事件ファイル](? [[薬屋の事件ファイル](](https://fanblog.example.com/kusuriya/twin-case))
-- [月刊ビッグガンガン公式](? [[月刊ビッグガンガン公式](](https://magazine.jp.square-enix.com/biggangan/kusuriya/))
+- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
+- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)
+- [薬屋の事件ファイル](https://fanblog.example.com/kusuriya/twin-case)
+- [月刊ビッグガンガン公式](https://magazine.jp.square-enix.com/biggangan/kusuriya/)

@@ -56,7 +56,7 @@ images:
   A. 本記事はネタバレなしの考察。詳細な展開は次回以降のネタバレ記事で扱います。
 
 ## 参考リンク（公式中心）
-- [公式サイト（作品トップ）](? [[公式サイト（作品トップ）](](https://example.com/maotoko-no-ichi))
-- [単行本情報](? [[単行本情報](](https://example.com/maotoko-no-ichi/volume1))
+- [公式サイト（作品トップ）](https://example.com/maotoko-no-ichi)
+- [単行本情報](https://example.com/maotoko-no-ichi/volume1)
 
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)

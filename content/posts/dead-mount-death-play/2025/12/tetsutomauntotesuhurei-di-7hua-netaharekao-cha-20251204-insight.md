@@ -138,10 +138,10 @@ images:
 ## 参考リンク
 
 
-- [ガンガンJOKER公式](? [[ガンガンJOKER公式](](https://magazine.jp.square-enix.com/yg/introduction/dead/))
+- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
 
 
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://dmdp-anime.jp/))
+- [アニメ公式サイト](https://dmdp-anime.jp/)
 
 
 

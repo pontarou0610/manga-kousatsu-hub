@@ -7,7 +7,6 @@ article_variant: glossary
 slug: maotoko-no-ichi-glossary
 tags:
 - 用語解説
-- 用語解説
 - ダークファンタジー
 - 青年誌
 - サスペンス
@@ -50,5 +49,4 @@ images: []
 
 ### 護符（ごふ）- 説明: 身を守るための符。結界や呪符と組み合わせて防御力を高める。
 - 参考: 第2巻
-
 

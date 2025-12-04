@@ -65,5 +65,5 @@ images:
 - [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
 
 ## 関連記事・用語集
-- 関連話へのリンク：? [関連話へのリンク：](https://sundaygx.com/kusuriya/)
+- 関連話へのリンク?[ 関連話へのリンク：](https://sundaygx.com/kusuriya/)
 - 用語集：/posts/kusuriya-no-hitorigoto/glossary/

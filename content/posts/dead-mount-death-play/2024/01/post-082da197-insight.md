@@ -33,7 +33,7 @@ images:
 デッドマウント・デスプレイのStage.70では、屍神殿が現代社会に適応するための偽装工作に焦点を当て、街の暗部を生き抜く術を探ります。
 
 ![A welder at work indoors, creating bright sparks while welding metal pipes.](https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by <a href="https://www.pexels.com/@nishantaneja" target="_blank" rel="noopener">Nishant Aneja</a> on <a href="https://www.pexels.com/photo/man-welding-3970339/" target="_blank" rel="noopener">Pexels</a></small>
+<small>Photo by [Nishant Aneja](https://www.pexels.com/@nishantaneja) on [Pexels](https://www.pexels.com/photo/man-welding-3970339/)</small>
 
 ## ポイント（ネタバレなし）
 - 屍神殿がポルカの身体を借りることで、どのように社会へ偽装し馴染もうとしたかを具体的に整理します。
@@ -54,7 +54,7 @@ images:
 - **アンダーグラウンドの仲間**: 偽装を支え、リスクを分散している重要な存在として位置付けます。
 
 ## リンク（公式のみ）
-- [ガンガンJOKER公式](? [[ガンガンJOKER公式](](https://magazine.jp.square-enix.com/yg/introduction/dead/))
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://dmdp-anime.jp/))
+- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- [アニメ公式サイト](https://dmdp-anime.jp/)
 
-<p><a class="post-card__more" href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://magazine.jp.square-enix.com/yg/introduction/dead/)

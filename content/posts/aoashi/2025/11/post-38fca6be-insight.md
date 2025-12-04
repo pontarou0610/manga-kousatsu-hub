@@ -24,7 +24,7 @@ images:
 エスペリオンの戦術を通じて、チームビルディングの重要性を探ります。選手たちの成長と連携がどのように描かれているのか、考察します。
 
 ![A welder at work indoors, creating bright sparks while welding metal pipes.](https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by <a href="https://www.pexels.com/@nishantaneja" target="_blank" rel="noopener">Nishant Aneja</a> on <a href="https://www.pexels.com/photo/man-welding-3970339/" target="_blank" rel="noopener">Pexels</a></small>
+<small>Photo by [Nishant Aneja](https://www.pexels.com/@nishantaneja) on [Pexels](https://www.pexels.com/photo/man-welding-3970339/)</small>
 
 ## 着眼ポイント（ネタバレ無し）
 - エスペリオンの戦術は、選手同士の信頼関係を築くことが基本であり、これがチームのパフォーマンス向上に寄与しています。
@@ -45,10 +45,10 @@ images:
 - **仲間たち**: 青井の仲間たちもまた、各々の役割を果たしながらチームの一員として成長しています。彼らは互いに支え合い、時には対立しながらも、最終的には共通の目標に向かって団結する姿が描かれています。この過程が、チームの結束を強化する要因となっています。
 
 ## 参照リンク（すべて公式）
-- [ビッグコミックス公式](? [[ビッグコミックス公式](](https://bigcomicbros.net/comics/30384/))
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://aoashi-pr.com/))
+- [ビッグコミックス公式](https://bigcomicbros.net/comics/30384/)
+- [アニメ公式サイト](https://aoashi-pr.com/)
 
-<p><a class="post-card__more" href="https://bigcomicbros.net/comics/30384/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://bigcomicbros.net/comics/30384/)
 
 - [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
 

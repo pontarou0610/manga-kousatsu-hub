@@ -149,10 +149,10 @@ images:
 ## 参考リンク
 
 
-- [モーニング公式サイト](? [[モーニング公式サイト](](https://morning.kodansha.co.jp/c/uchukyodai/))
+- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
 
 
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://www.ytv.co.jp/uchukyodai/))
+- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
 
 
 

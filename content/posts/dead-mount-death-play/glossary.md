@@ -8,7 +8,6 @@ article_variant: glossary
 slug: dead-mount-death-play-glossary
 tags:
 - 用語解説
-- 用語解説
 - ダークファンタジー
 - 月刊誌
 - バトル

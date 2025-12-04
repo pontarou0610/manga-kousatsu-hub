@@ -26,7 +26,7 @@ images:
 宇宙兄弟におけるJAXA選抜試験のステップは、キャリア設計にどのように応用できるのかを探ります。
 
 ![Modern interior of an art gallery in Tokyo, Japan, showcasing stunning architectural design.](https://images.pexels.com/photos/31416984/pexels-photo-31416984.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by <a href="https://www.pexels.com/@zhen-ciang-huang-2150740552" target="_blank" rel="noopener">zhen ciang huang</a> on <a href="https://www.pexels.com/photo/contemporary-architecture-in-tokyo-art-gallery-31416984/" target="_blank" rel="noopener">Pexels</a></small>
+<small>Photo by [zhen ciang huang](https://www.pexels.com/@zhen-ciang-huang-2150740552) on [Pexels](https://www.pexels.com/photo/contemporary-architecture-in-tokyo-art-gallery-31416984/)</small>
 
 ## 着眼ポイント（ネタバレ無し）
 - JAXA選抜試験の各ステップは、自己分析や目標設定の重要性を示しており、キャリア設計における基盤を形成します。

@@ -58,12 +58,12 @@ Stage.70では、屍神殿がポルカの身体を借りた後、どのように
 - **屍神殿**: 物語の主要な敵キャラクターで、死者の身体を操る能力を持つ。彼の行動は物語の中心的な要素となっている。
 
 ## 参考リンク（公式中心）
-- [ガンガンJOKER公式](? [[ガンガンJOKER公式](](https://magazine.jp.square-enix.com/yg/introduction/dead/))
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://dmdp-anime.jp/))
-- [DMDP観測記](? [[DMDP観測記](](https://fanblog.example.com/dmdp/disguise-technique))
-- [ガンガンJOKER公式](? [[ガンガンJOKER公式](](https://magazine.jp.square-enix.com/joker/series/deadmount/))
+- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- [アニメ公式サイト](https://dmdp-anime.jp/)
+- [DMDP観測記](https://fanblog.example.com/dmdp/disguise-technique)
+- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/joker/series/deadmount/)
 
-<p><a class="post-card__more" href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://magazine.jp.square-enix.com/yg/introduction/dead/)
 
 - [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
 

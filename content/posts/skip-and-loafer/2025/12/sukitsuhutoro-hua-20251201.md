@@ -48,5 +48,5 @@ images:
 - **文化祭**: 学校で行われるイベントで、生徒たちが様々な出し物を通じて自分たちのアイデアを発表する機会。
 
 ## 参考リンク（すべて公式）
-- [月刊アフタヌーン公式](? [[月刊アフタヌーン公式](](https://afternoon.kodansha.co.jp/c/skiptoloafer/))
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://skip-and-loafer.com/))
+- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- [TVアニメ公式サイト](https://skip-and-loafer.com/)

@@ -25,7 +25,7 @@ title: スキップとローファー｜第42話考察B（みつみの自己認�
 第42話では、みつみの文化祭プロジェクトを通じて、彼女が抱える葛藤と成長が描かれます。どのように彼女は自分を見つめ直すのでしょうか？
 
 ![Elegant black-winged stilt wading in calm waters with a soft reflection and warm light.](https://images.pexels.com/photos/34700105/pexels-photo-34700105.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by <a href="https://www.pexels.com/@bitnik" target="_blank" rel="noopener">Bitnik Gao</a> on <a href="https://www.pexels.com/photo/black-winged-stilt-wading-in-tranquil-waters-34700105/" target="_blank" rel="noopener">Pexels</a></small>
+<small>Photo by [Bitnik Gao](https://www.pexels.com/@bitnik) on [Pexels](https://www.pexels.com/photo/black-winged-stilt-wading-in-tranquil-waters-34700105/)</small>
 
 ## 着眼ポイント（ネタバレ無し）
 - みつみは文化祭を通じて、地方出身者としての自分のアイデンティティに向き合い、仲間との関係を再評価する姿が印象的です。
@@ -46,10 +46,10 @@ title: スキップとローファー｜第42話考察B（みつみの自己認�
 - **プロジェクトリーダー**: プロジェクトリーダーは、みつみを含むメンバーに対して厳しい意見を述べることで、成長の機会を与えます。彼の存在は、みつみが自己表現を学ぶきっかけとなる重要な役割を果たします。
 
 ## 参照リンク（すべて公式）
-- [月刊アフタヌーン公式](? [[月刊アフタヌーン公式](](https://afternoon.kodansha.co.jp/c/skiptoloafer/))
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://skip-and-loafer.com/))
+- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- [TVアニメ公式サイト](https://skip-and-loafer.com/)
 
-<p><a class="post-card__more" href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
 
 - [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
 

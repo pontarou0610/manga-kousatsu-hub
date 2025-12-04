@@ -104,10 +104,10 @@ images:
 ## 参考リンク
 
 
-- [週刊ヤングジャンプ公式](? [[週刊ヤングジャンプ公式](](https://youngjump.jp/manga/goldenkamuy/))
+- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/goldenkamuy/)
 
 
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://kamuy-anime.com/))
+- [アニメ公式サイト](https://kamuy-anime.com/)
 
 
 

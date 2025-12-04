@@ -24,7 +24,7 @@ images:
 『天国大魔境』における壁外サバイバルの基本装備は、キャラクターたちの生存戦略を示す重要な要素です。どのように彼らの選択が物語に影響するのか探ります。
 
 ![Nighttime View of Daily Yamazaki Convenience Store](https://images.pexels.com/photos/30142246/pexels-photo-30142246.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by <a href="https://www.pexels.com/@julien-2148326991" target="_blank" rel="noopener">Julien</a> on <a href="https://www.pexels.com/photo/illuminated-kyoto-convenience-store-at-night-30142246/" target="_blank" rel="noopener">Pexels</a></small>
+<small>Photo by [Julien](https://www.pexels.com/@julien-2148326991) on [Pexels](https://www.pexels.com/photo/illuminated-kyoto-convenience-store-at-night-30142246/)</small>
 
 ## 着眼ポイント（ネタバレ無し）
 - 壁外サバイバルにおいて、装備は単なる道具ではなく、キャラクターの信念や価値観を反映しています。特に、選択した装備が彼らの行動や決断にどのように影響するかが重要です。
@@ -45,10 +45,10 @@ images:
 - **キャラクターC**: 自分の過去から逃げるために装備を選ぶキャラクター。彼の選択は、自己否定や恐れを反映しており、物語を通じて彼がどのように自分を受け入れていくのかが大きなテーマとなっています。
 
 ## 参照リンク（すべて公式）
-- [作品公式サイト](? [[作品公式サイト](](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/))
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://tdm-anime.com/))
+- [作品公式サイト](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
+- [アニメ公式サイト](https://tdm-anime.com/)
 
-<p><a class="post-card__more" href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
 
 - [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
 

@@ -104,10 +104,10 @@ images:
 ## 参考リンク
 
 
-- [月刊アフタヌーン公式](? [[月刊アフタヌーン公式](](https://afternoon.kodansha.co.jp/c/skiptoloafer/))
+- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
 
 
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://skip-and-loafer.com/))
+- [TVアニメ公式サイト](https://skip-and-loafer.com/)
 
 
 

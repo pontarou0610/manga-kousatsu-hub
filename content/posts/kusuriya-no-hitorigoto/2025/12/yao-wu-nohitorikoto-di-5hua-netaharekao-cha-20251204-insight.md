@@ -111,10 +111,10 @@ images:
 ## 参考リンク
 
 
-- [月刊サンデーGX公式](? [[月刊サンデーGX公式](](https://sundaygx.com/kusuriya/))
+- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
 
 
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://kusuriyanohitorigoto.jp/))
+- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)
 
 
 

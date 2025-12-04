@@ -50,10 +50,10 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [月刊サンデーGX公式](? [[月刊サンデーGX公式](](https://sundaygx.com/kusuriya/))
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://kusuriyanohitorigoto.jp/))
+- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
+- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)
 
-<p><a class="post-card__more" href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
+- [公式サイトで詳しく読む](https://sundaygx.com/kusuriya/)
 
 - [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
 

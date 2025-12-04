@@ -104,10 +104,10 @@ images:
 ## 参考リンク
 
 
-- [ビッグコミックス公式](? [[ビッグコミックス公式](](https://bigcomicbros.net/comics/30384/))
+- [ビッグコミックス公式](https://bigcomicbros.net/comics/30384/)
 
 
-- [アニメ公式サイト](? [[アニメ公式サイト](](https://aoashi-pr.com/))
+- [アニメ公式サイト](https://aoashi-pr.com/)
 
 
 

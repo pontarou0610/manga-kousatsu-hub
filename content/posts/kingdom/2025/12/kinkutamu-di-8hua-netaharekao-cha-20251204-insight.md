@@ -138,10 +138,10 @@ images:
 ## 参考リンク
 
 
-- [週刊ヤングジャンプ公式](? [[週刊ヤングジャンプ公式](](https://youngjump.jp/manga/kingdom/))
+- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/kingdom/)
 
 
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://kingdom-anime.com/))
+- [TVアニメ公式サイト](https://kingdom-anime.com/)
 
 
 
