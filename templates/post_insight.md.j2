@@ -1,4 +1,4 @@
----
+﻿---
 title: "{{ title }}"
 slug: "{{ slug }}"
 date: {{ date }}
@@ -76,14 +76,14 @@ images: []
 
 ## 購入リンク（公式/通販）
 {% if affiliate_ids.amazon %}
-- Amazonで探す：{{ affiliate_ids.amazon }}
+- [Amazonで探す]({{ affiliate_ids.amazon }})
 {% endif %}
 {% if affiliate_ids.rakuten %}
-- 楽天で探す：{{ affiliate_ids.rakuten }}
+- [楽天で探す]({{ affiliate_ids.rakuten }})
 {% endif %}
 {% if affiliate_ids.others %}
 {% for other in affiliate_ids.others %}
-- {{ other.name }}：{{ other.url }}
+- [{{ other.name }}]({{ other.url }})
 {% endfor %}
 {% endif %}
 
@@ -96,3 +96,4 @@ images: []
 {% set aff_title = official.label or "公式リンク" %}
 {{ "{{< affbox title=\"" ~ aff_title ~ "\" desc=\"詳しくは公式情報をご確認ください\" url=\"" ~ official.url ~ "\" >}}" }}
 {% endif %}
+

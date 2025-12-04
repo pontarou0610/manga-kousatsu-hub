@@ -66,23 +66,32 @@ images:
 {% endfor %}
 
 ## 関連巻・グッズへのリンク
-- {{ chapter_label }}収録巻：{{ affiliate_ids.amazon or "Amazonリンク未設定" }}
+{% if affiliate_ids.amazon %}
+- {{ chapter_label }}収録巻：[Amazonで探す]({{ affiliate_ids.amazon }})
+{% else %}
+- {{ chapter_label }}収録巻：Amazonリンク未設定
+{% endif %}
+{% if affiliate_ids.rakuten %}
+- 電子書籍：[楽天で探す]({{ affiliate_ids.rakuten }})
+{% else %}
 - 電子書籍：{{ series }} Kindle / 楽天Kobo など
+{% endif %}
 {{ "{{< /spoiler >}}" }}
 
 ## 購入リンク（公式/通販）
 {% if affiliate_ids.amazon %}
-- Amazonで探す：{{ affiliate_ids.amazon }}
+- [Amazonで探す]({{ affiliate_ids.amazon }})
 {% endif %}
 {% if affiliate_ids.rakuten %}
-- 楽天で探す：{{ affiliate_ids.rakuten }}
+- [楽天で探す]({{ affiliate_ids.rakuten }})
 {% endif %}
 {% if affiliate_ids.others %}
 {% for other in affiliate_ids.others %}
-- {{ other.name }}：{{ other.url }}
+- [{{ other.name }}]({{ other.url }})
 {% endfor %}
 {% endif %}
 
 ## 関連記事・用語集
-- 関連話へのリンク：{{ official_link.url if official_link else "" }}
-- 用語集：/posts/{{ series_slug }}/glossary/
+- 関連記事：[ {{ series }}の記事一覧 ](/posts/{{ series_slug }}/)
+- 公式リンク：[ {{ official_link.label if official_link else "公式サイト" }} ]({{ official_link.url if official_link else "#" }})
+- 用語集：[用語集](/posts/{{ series_slug }}/glossary/)
