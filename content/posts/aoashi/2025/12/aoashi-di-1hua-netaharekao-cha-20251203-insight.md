@@ -110,4 +110,4 @@ images:
 
 
 
-{{< affbox title="ビッグコミックス公式" desc="詳しくは公式情報をご確認ください" url="[???](https://bigcomicbros.net/comics/30384/") >}}
+{{< affbox title="ビッグコミックス公式" desc="詳しくは公式情報をご確認ください" url="https://bigcomicbros.net/comics/30384/" >}}

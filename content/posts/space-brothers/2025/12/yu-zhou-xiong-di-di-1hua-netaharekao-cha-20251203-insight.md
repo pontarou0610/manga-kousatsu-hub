@@ -117,4 +117,4 @@ images:
 
 
 
-{{< affbox title="モーニング公式サイト" desc="詳しくは公式情報をご確認ください" url="[???](https://morning.kodansha.co.jp/c/uchukyodai/") >}}
+{{< affbox title="モーニング公式サイト" desc="詳しくは公式情報をご確認ください" url="https://morning.kodansha.co.jp/c/uchukyodai/" >}}

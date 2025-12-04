@@ -110,4 +110,4 @@ images:
 
 
 
-{{< affbox title="週刊ヤングジャンプ公式" desc="詳しくは公式情報をご確認ください" url="[???](https://youngjump.jp/manga/goldenkamuy/") >}}
+{{< affbox title="週刊ヤングジャンプ公式" desc="詳しくは公式情報をご確認ください" url="https://youngjump.jp/manga/goldenkamuy/" >}}

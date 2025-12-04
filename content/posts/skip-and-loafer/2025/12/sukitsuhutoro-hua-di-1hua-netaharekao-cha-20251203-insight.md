@@ -110,4 +110,4 @@ images:
 
 
 
-{{< affbox title="月刊アフタヌーン公式" desc="詳しくは公式情報をご確認ください" url="[???](https://afternoon.kodansha.co.jp/c/skiptoloafer/") >}}
+{{< affbox title="月刊アフタヌーン公式" desc="詳しくは公式情報をご確認ください" url="https://afternoon.kodansha.co.jp/c/skiptoloafer/" >}}
