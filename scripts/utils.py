@@ -47,6 +47,7 @@ OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY")
 PEXELS_API_ENDPOINT = "https://api.pexels.com/v1/search"
 AMAZON_TAG = os.getenv("AMAZON_TAG")
+RAKUTEN_PARAMS = (os.getenv("RAKUTEN_PARAMS") or "").strip()
 if OPENAI_API_KEY:
     openai.api_key = OPENAI_API_KEY
 
@@ -347,11 +348,12 @@ def build_affiliate_urls(series: Dict[str, Any]) -> Dict[str, str]:
         else ""
     )
     rakuten_params = (rakuten_params_raw or "").strip()
-    rakuten_url = ""
-    if rakuten_params and rakuten_params != "YOUR_RAKUTEN_PARAMS":
+    if not rakuten_params or rakuten_params == "YOUR_RAKUTEN_PARAMS":
+        rakuten_params = RAKUTEN_PARAMS
+    if rakuten_params:
         rakuten_url = f"https://hb.afl.rakuten.co.jp/?{rakuten_params}"
     else:
-        # プレースホルダーや空欄の場合はシリーズ名で楽天市場検索ページにフォールバック
+        # パラメータがない場合のみ検索ページへフォールバック
         rakuten_url = build_rakuten_search_url(series)
     return {
         "amazon": amazon_url,
