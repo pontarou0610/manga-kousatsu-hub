@@ -47,13 +47,8 @@ images:
 - **アリ**: アリは、異なるバックグラウンドを持ちながらも、仲間との協力を通じて成長していくキャラクターです。彼の内面的な葛藤は、文化や価値観の違いを乗り越え、共に夢を追うことの重要性を示しており、読者に多様性の尊重を促します。
 
 ## 参照リンク（すべて公式）
-- [モーニング公式サイト](? [[モーニング公式サイト](](https://morning.kodansha.co.jp/c/uchukyodai/))
-- [TVアニメ公式サイト](? [[TVアニメ公式サイト](](https://www.ytv.co.jp/uchukyodai/))
-
-<p><a class="post-card__more" href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
-
+- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
+- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
+- [公式サイトで詳しく読む](https://morning.kodansha.co.jp/c/uchukyodai/)
 - [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
-
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
-
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
