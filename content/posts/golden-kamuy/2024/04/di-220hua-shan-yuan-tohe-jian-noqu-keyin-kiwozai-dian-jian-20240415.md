@@ -1,23 +1,23 @@
 ---
-title: "ゴールデンカムイ｜第220話｜最新話ネタバレ・感想・考察"
-slug: "di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-20240415"
-date: 2024-04-15T00:00:00Z
-series: "ゴールデンカムイ"
-chapter: "第220話"
-article_variant: "spoiler"
+title: ゴールデンカムイ｜第220話｜最新話ネタバレ・感想・考察
+slug: di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-20240415
+date: 2024-04-15 00:00:00+00:00
+series: ゴールデンカムイ
+chapter: 第220話
+article_variant: spoiler
 tags:
-  - "歴史"
-  - "サバイバル"
-  - "週刊誌"
+- 歴史
+- サバイバル
+- 週刊誌
 draft: false
-description: ""
+description: ''
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
+disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
 images:
-  - "ogp/2024/20240415_di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-20240415.png"
+- ogp/2024/20240415_di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-20240415.png
 ---
 第220話では、杉元と鶴見中尉の緊迫した読み合いが描かれます。ネタバレが含まれますので、注意してくださいね！
 

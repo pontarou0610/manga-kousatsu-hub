@@ -1,58 +1,24 @@
 ---
-
-title: "天国大魔境 第5話の考察と感想"
-
-slug: "tian-guo-da-mo-jing-di-5hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T00:29:12.042366+00:00
-
-series: "天国大魔境"
-
-chapter: "第5話"
-
-article_variant: "insight"
-
-
+title: 天国大魔境 第5話の考察と感想
+slug: tian-guo-da-mo-jing-di-5hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 00:29:12.042366+00:00
+series: 天国大魔境
+chapter: 第5話
+article_variant: insight
 tags:
-
-
-  - "SF"
-
-
-  - "月刊誌"
-
-
-  - "ネタバレ無し"
-
-
-  - "ミステリー"
-
-
-
+- SF
+- 月刊誌
+- ネタバレ無し
+- ミステリー
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。"
-
-
+disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
 images:
-
-
-  - "ogp/2025/20251204_tian-guo-da-mo-jing-di-5hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_tian-guo-da-mo-jing-di-5hua-netaharekao-cha-20251204.png
 ---
 
 第5話では、キャラクターたちの内面がさらに深く掘り下げられ、彼らの選択が物語にどのような影響を与えるのか、興味深い展開が待っています。
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

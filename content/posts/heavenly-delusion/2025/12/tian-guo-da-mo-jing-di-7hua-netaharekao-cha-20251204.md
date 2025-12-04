@@ -1,24 +1,24 @@
 ---
-title: "天国大魔境 第7話最新話ネタバレ・感想・考察"
-slug: "tian-guo-da-mo-jing-di-7hua-netaharekao-cha-20251204"
-date: 2025-12-04T01:03:37.961709+00:00
-series: "天国大魔境"
-series_slug: "heavenly-delusion"
-chapter: "第7話"
-article_variant: "spoiler"
+title: 天国大魔境 第7話最新話ネタバレ・感想・考察
+slug: tian-guo-da-mo-jing-di-7hua-netaharekao-cha-20251204
+date: 2025-12-04 01:03:37.961709+00:00
+series: 天国大魔境
+series_slug: heavenly-delusion
+chapter: 第7話
+article_variant: spoiler
 tags:
-  - "SF"
-  - "ミステリー"
-  - "月刊誌"
+- SF
+- ミステリー
+- 月刊誌
 draft: false
-description: "天国大魔境の第7話をお届けします！本記事にはネタバレが含まれていますので、注意してくださいね。"
+description: 天国大魔境の第7話をお届けします！本記事にはネタバレが含まれていますので、注意してくださいね。
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83/"
+  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。"
+disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
 images:
-  - "ogp/2025/20251204_tian-guo-da-mo-jing-di-7hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_tian-guo-da-mo-jing-di-7hua-netaharekao-cha-20251204.png
 ---
 天国大魔境の第7話をお届けします！本記事にはネタバレが含まれていますので、注意してくださいね。
 
@@ -58,7 +58,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonで探す：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://afternoon.kodansha.co.jp/c/tengokudaimakyo/

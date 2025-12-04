@@ -1,58 +1,24 @@
 ---
-
-title: "魔男のイチ 第4話の考察"
-
-slug: "mo-nan-noichi-di-4hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T00:33:51.865694+00:00
-
-series: "魔男のイチ"
-
-chapter: "第4話"
-
-article_variant: "insight"
-
-
+title: 魔男のイチ 第4話の考察
+slug: mo-nan-noichi-di-4hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 00:33:51.865694+00:00
+series: 魔男のイチ
+chapter: 第4話
+article_variant: insight
 tags:
-
-
-  - "青年誌"
-
-
-  - "サスペンス"
-
-
-  - "ダークファンタジー"
-
-
-  - "ネタバレ無し"
-
-
-
+- 青年誌
+- サスペンス
+- ダークファンタジー
+- ネタバレ無し
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: ""
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: ''
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。"
-
-
+disclaimer: 公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。
 images:
-
-
-  - "ogp/2025/20251204_mo-nan-noichi-di-4hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_mo-nan-noichi-di-4hua-netaharekao-cha-20251204.png
 ---
 
 第4話では、登場人物たちの内面が深く掘り下げられ、物語の核心に迫る展開が待っています。彼らの選択はどんな結果をもたらすのでしょうか？
@@ -124,7 +90,7 @@ images:
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

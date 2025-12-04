@@ -1,22 +1,22 @@
 ---
-title: "アオアシ｜初試合｜最新話ネタバレ・感想・考察（ユース最初の一歩）"
-slug: "qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li-20230105"
-date: 2023-01-05T00:00:00Z
-series: "アオアシ"
-chapter: "初試合A"
-article_variant: "spoiler"
+title: アオアシ｜初試合｜最新話ネタバレ・感想・考察（ユース最初の一歩）
+slug: qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li-20230105
+date: 2023-01-05 00:00:00+00:00
+series: アオアシ
+chapter: 初試合A
+article_variant: spoiler
 tags:
-  - "サッカー"
-  - "青春"
-  - "ユース初陣"
+- サッカー
+- 青春
+- ユース初陣
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "公開済みの初試合エピソードを元にしたネタバレです。未読の方は注意。"
+disclaimer: 公開済みの初試合エピソードを元にしたネタバレです。未読の方は注意。
 images:
-  - "ogp/2023/20230105_qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li-20230105.png"
+- ogp/2023/20230105_qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li-20230105.png
 ---
 
 > **本記事はユース加入後の初試合（単行本収録範囲）のネタバレを含みます。未読の方はご注意ください。**
@@ -48,7 +48,7 @@ images:
 - 中村とのホットラインが確立し、得点パターンが増える。
 
 ## 関連巻・グッズへのリンク
-- 第1巻収録巻：{{ affiliate_ids.amazon or "Amazonリンク未設定" }}
+- 第1巻収録巻：[Amazon?????](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
 - 電子書籍：アオアシ（Kindle / 楽天Kobo 等）
 {{< /spoiler >}}
 

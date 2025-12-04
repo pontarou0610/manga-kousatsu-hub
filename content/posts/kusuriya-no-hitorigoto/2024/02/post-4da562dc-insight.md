@@ -1,25 +1,25 @@
 ---
-title: "薬屋のひとりごと｜第90話考察｜毒見の倫理と派閥の力学（ネタバレなし）"
-slug: "post-4da562dc-insight"
-date: 2024-02-18T00:00:00Z
-series: "薬屋のひとりごと"
-chapter: "第90話"
-article_variant: "insight"
+title: 薬屋のひとりごと｜第90話考察｜毒見の倫理と派閥の力学（ネタバレなし）
+slug: post-4da562dc-insight
+date: 2024-02-18 00:00:00+00:00
+series: 薬屋のひとりごと
+chapter: 第90話
+article_variant: insight
 tags:
-  - "宮廷劇"
-  - "ネタバレなし"
-  - "歴史ミステリー"
-  - "月刊誌"
+- 宮廷劇
+- ネタバレなし
+- 歴史ミステリー
+- 月刊誌
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-    - name: "Amazon 小学館サンデーGX版"
-      url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
-disclaimer: "医療・薬学の描写は公式情報に基づき、核心ネタバレは避けています。"
+  - name: Amazon 小学館サンデーGX版
+    url: https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+disclaimer: 医療・薬学の描写は公式情報に基づき、核心ネタバレは避けています。
 images:
-  - "ogp/2024/20240218_post-4da562dc.png"
+- ogp/2024/20240218_post-4da562dc.png
 ---
 第90話で提示された「毒見」という役目を、双子すり替え事件の周辺事情から読み解きます（ストーリー核心のネタバレは無し）。
 

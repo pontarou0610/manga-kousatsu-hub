@@ -1,23 +1,23 @@
-﻿---
-title: "キングダム｜第340話｜最新話ネタバレ・感想・考察"
-slug: "he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu"
-date: 2024-05-01T00:00:00Z
-series: "キングダム"
-chapter: "第340話"
-article_variant: "spoiler"
+---
+title: キングダム｜第340話｜最新話ネタバレ・感想・考察
+slug: he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu
+date: 2024-05-01 00:00:00+00:00
+series: キングダム
+chapter: 第340話
+article_variant: spoiler
 tags:
-  - "歴史"
-  - "バトル"
-  - "週刊誌"
+- 歴史
+- バトル
+- 週刊誌
 draft: false
-description: ""
+description: ''
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-  - "ogp/2024/20240501_he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu.png"
+- ogp/2024/20240501_he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu.png
 ---
 第340話では、合従軍戦における飛信隊の動きが描かれます。これからネタバレが含まれますので、ご注意ください！
 
@@ -57,4 +57,4 @@ images:
 
 {{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" >}}
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS" >}}
+{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}

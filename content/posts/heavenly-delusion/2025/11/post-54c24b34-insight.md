@@ -1,23 +1,23 @@
 ---
-title: "天国大魔境｜壁外サバイバルの装備考察"
-slug: "post-54c24b34-insight"
-date: 2025-11-14T07:49:20.021086+00:00
-series: "天国大魔境"
-chapter: "壁外サバイバルの基本装備をおさらい"
-article_variant: "insight"
+title: 天国大魔境｜壁外サバイバルの装備考察
+slug: post-54c24b34-insight
+date: 2025-11-14 07:49:20.021086+00:00
+series: 天国大魔境
+chapter: 壁外サバイバルの基本装備をおさらい
+article_variant: insight
 tags:
-  - "ネタバレ無し"
-  - "ミステリー"
-  - "月刊誌"
-  - "SF"
+- ネタバレ無し
+- ミステリー
+- 月刊誌
+- SF
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。"
+disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
 images:
-  - "ogp/2025/20251114_post-54c24b34.png"
+- ogp/2025/20251114_post-54c24b34.png
 ---
 『天国大魔境』における壁外サバイバルの基本装備は、キャラクターたちの生存戦略を示す重要な要素です。どのように彼らの選択が物語に影響するのか探ります。
 
@@ -52,4 +52,4 @@ images:
 
 {{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" >}}
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS" >}}
+{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}

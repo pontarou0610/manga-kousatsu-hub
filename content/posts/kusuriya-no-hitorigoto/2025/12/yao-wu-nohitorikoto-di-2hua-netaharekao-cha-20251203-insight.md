@@ -1,64 +1,26 @@
 ---
-
-title: "薬屋のひとりごと 第2話の考察"
-
-slug: "yao-wu-nohitorikoto-di-2hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:32:03.252846+00:00
-
-series: "薬屋のひとりごと"
-
-chapter: "第2話"
-
-article_variant: "insight"
-
-
+title: 薬屋のひとりごと 第2話の考察
+slug: yao-wu-nohitorikoto-di-2hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:32:03.252846+00:00
+series: 薬屋のひとりごと
+chapter: 第2話
+article_variant: insight
 tags:
-
-
-  - "宮廷劇"
-
-
-  - "歴史ミステリー"
-
-
-  - "月刊誌"
-
-
-  - "ネタバレ無し"
-
-
-
+- 宮廷劇
+- 歴史ミステリー
+- 月刊誌
+- ネタバレ無し
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-
-
-    - name: "Amazon（小学館サンデーGX版）"
-
-      url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
-
-
-
-disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。"
-
-
+  - name: Amazon（小学館サンデーGX版）
+    url: https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。
 images:
-
-
-  - "ogp/2025/20251203_yao-wu-nohitorikoto-di-2hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_yao-wu-nohitorikoto-di-2hua-netaharekao-cha-20251203.png
 ---
 
 第2話では、薬屋の主人公が新たな謎に直面します。彼女の選択がどのように物語を動かすのか、一緒に考えてみましょう！
@@ -133,7 +95,7 @@ images:
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

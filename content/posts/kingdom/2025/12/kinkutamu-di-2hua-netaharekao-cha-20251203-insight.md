@@ -1,58 +1,24 @@
 ---
-
-title: "キングダム 第2話の感想と考察"
-
-slug: "kinkutamu-di-2hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:31:33.330725+00:00
-
-series: "キングダム"
-
-chapter: "第2話"
-
-article_variant: "insight"
-
-
+title: キングダム 第2話の感想と考察
+slug: kinkutamu-di-2hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:31:33.330725+00:00
+series: キングダム
+chapter: 第2話
+article_variant: insight
 tags:
-
-
-  - "週刊誌"
-
-
-  - "バトル"
-
-
-  - "歴史"
-
-
-  - "ネタバレ無し"
-
-
-
+- 週刊誌
+- バトル
+- 歴史
+- ネタバレ無し
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
-
-
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-
-
-  - "ogp/2025/20251203_kinkutamu-di-2hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_kinkutamu-di-2hua-netaharekao-cha-20251203.png
 ---
 
 第2話では、主人公たちの成長や友情がさらに深まる様子が描かれています。彼らの選択は、どのような影響を及ぼすのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

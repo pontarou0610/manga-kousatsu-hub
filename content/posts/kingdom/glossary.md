@@ -1,22 +1,22 @@
 ---
-title: "キングダム 用語集"
-date: 2025-12-02T00:12:55.610925+00:00
-series: "キングダム"
-chapter: "用語集"
-article_variant: "glossary"
-slug: "kingdom-glossary"
+title: キングダム 用語集
+date: 2025-12-02 00:12:55.610925+00:00
+series: キングダム
+chapter: 用語集
+article_variant: glossary
+slug: kingdom-glossary
 tags:
-  - "用語解説"
-  - "歴史"
-  - "用語解説"
-  - "週刊誌"
-  - "バトル"
+- 用語解説
+- 歴史
+- 用語解説
+- 週刊誌
+- バトル
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images: []
 ---
 

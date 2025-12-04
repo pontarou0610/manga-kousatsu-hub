@@ -1,64 +1,26 @@
 ---
-
-title: "宇宙兄弟 第2話の考察と感想"
-
-slug: "yu-zhou-xiong-di-di-2hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:32:34.753379+00:00
-
-series: "宇宙兄弟"
-
-chapter: "第2話"
-
-article_variant: "insight"
-
-
+title: 宇宙兄弟 第2話の考察と感想
+slug: yu-zhou-xiong-di-di-2hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:32:34.753379+00:00
+series: 宇宙兄弟
+chapter: 第2話
+article_variant: insight
 tags:
-
-
-  - "月刊誌"
-
-
-  - "ヒューマンドラマ"
-
-
-  - "宇宙"
-
-
-  - "ネタバレ無し"
-
-
-
+- 月刊誌
+- ヒューマンドラマ
+- 宇宙
+- ネタバレ無し
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-
-
-    - name: "Amazon（オールカラー版）"
-
-      url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
-
-
-
-disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
-
-
+  - name: Amazon（オールカラー版）
+    url: https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
+disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
 images:
-
-
-  - "ogp/2025/20251203_yu-zhou-xiong-di-di-2hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_yu-zhou-xiong-di-di-2hua-netaharekao-cha-20251203.png
 ---
 
 第2話では、兄弟の絆や夢に向かう姿勢が描かれています。彼らの成長と挑戦がどのように進展するのか、興味深いですね。
@@ -133,7 +95,7 @@ images:
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

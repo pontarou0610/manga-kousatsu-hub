@@ -1,58 +1,24 @@
 ---
-
-title: "スキップとローファー第5話の考察"
-
-slug: "sukitsuhutoro-hua-di-5hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T00:51:27.082634+00:00
-
-series: "スキップとローファー"
-
-chapter: "第5話"
-
-article_variant: "insight"
-
-
+title: スキップとローファー第5話の考察
+slug: sukitsuhutoro-hua-di-5hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 00:51:27.082634+00:00
+series: スキップとローファー
+chapter: 第5話
+article_variant: insight
 tags:
-
-
-  - "青春"
-
-
-  - "ネタバレ無し"
-
-
-  - "日常"
-
-
-  - "月刊誌"
-
-
-
+- 青春
+- ネタバレ無し
+- 日常
+- 月刊誌
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/"
-
-
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
-
-
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
 images:
-
-
-  - "ogp/2025/20251204_sukitsuhutoro-hua-di-5hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_sukitsuhutoro-hua-di-5hua-netaharekao-cha-20251204.png
 ---
 
 第5話では、キャラクターたちの成長や人間関係が深まる瞬間が描かれています。この話から何を学べるのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

@@ -1,26 +1,26 @@
 ---
-title: "薬屋のひとりごと｜第105話の考察"
-slug: "ren-shi-tomao-mao-noju-li-kasuo-matsutagan-wei-shi-jian-insight"
-date: 2023-09-12T00:00:00Z
-series: "薬屋のひとりごと"
-chapter: "第105話"
-article_variant: "insight"
+title: 薬屋のひとりごと｜第105話の考察
+slug: ren-shi-tomao-mao-noju-li-kasuo-matsutagan-wei-shi-jian-insight
+date: 2023-09-12 00:00:00+00:00
+series: 薬屋のひとりごと
+chapter: 第105話
+article_variant: insight
 tags:
-  - "月刊誌"
-  - "宮廷劇"
-  - "ネタバレ無し"
-  - "歴史ミステリー"
+- 月刊誌
+- 宮廷劇
+- ネタバレ無し
+- 歴史ミステリー
 draft: false
-description: ""
+description: ''
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-    - name: "Amazon（小学館サンデーGX版）"
-      url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
-disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。"
+  - name: Amazon（小学館サンデーGX版）
+    url: https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。
 images:
-  - "ogp/2023/20230912_ren-shi-tomao-mao-noju-li-kasuo-matsutagan-wei-shi-jian.png"
+- ogp/2023/20230912_ren-shi-tomao-mao-noju-li-kasuo-matsutagan-wei-shi-jian.png
 ---
 第105話では、壬氏が猫猫に甘味を差し入れたことで、二人の距離がどう縮まったのかを考察してみるよ。信頼関係の変化に注目だね。
 
@@ -57,4 +57,4 @@ images:
 
 {{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22" >}}
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS" >}}
+{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}

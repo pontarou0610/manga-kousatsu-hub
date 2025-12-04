@@ -1,24 +1,24 @@
 ---
-title: "魔男のイチ 第4話最新話ネタバレ・感想・考察"
-slug: "mo-nan-noichi-di-4hua-netaharekao-cha-20251204"
-date: 2025-12-04T00:33:51.865694+00:00
-series: "魔男のイチ"
-series_slug: "maotoko-no-ichi"
-chapter: "第4話"
-article_variant: "spoiler"
+title: 魔男のイチ 第4話最新話ネタバレ・感想・考察
+slug: mo-nan-noichi-di-4hua-netaharekao-cha-20251204
+date: 2025-12-04 00:33:51.865694+00:00
+series: 魔男のイチ
+series_slug: maotoko-no-ichi
+chapter: 第4話
+article_variant: spoiler
 tags:
-  - "ダークファンタジー"
-  - "サスペンス"
-  - "青年誌"
+- ダークファンタジー
+- サスペンス
+- 青年誌
 draft: false
-description: "第4話では、物語が新たな展開を迎えます。ネタバレが含まれていますので、ご注意ください！"
+description: 第4話では、物語が新たな展開を迎えます。ネタバレが含まれていますので、ご注意ください！
 affiliate_ids:
-  amazon: ""
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: ''
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。"
+disclaimer: 公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。
 images:
-  - "ogp/2025/20251204_mo-nan-noichi-di-4hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_mo-nan-noichi-di-4hua-netaharekao-cha-20251204.png
 ---
 第4話では、物語が新たな展開を迎えます。ネタバレが含まれていますので、ご注意ください！
 
@@ -50,12 +50,12 @@ images:
 - 予想2: 仲間たちとの絆が深まることで、次の戦闘ではチームワークが強化され、敵に対抗できるようになるだろう。
 
 ## 関連巻・グッズへのリンク
-- 第4話収録巻：Amazonリンク未設定
+- 第4話収録巻：[???????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 - 電子書籍：魔男のイチ Kindle / 楽天Kobo など
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 関連記事・用語集
 - 関連話へのリンク：

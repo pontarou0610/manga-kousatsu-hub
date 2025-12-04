@@ -1,23 +1,23 @@
 ---
-title: "アオアシ｜連携マップを攻撃目線で分解（ネタバレあり）"
-slug: "esuheriontenochi-munei-guan-xi-tu-20230106"
-date: 2023-01-06T00:00:00Z
-series: "アオアシ"
-chapter: "連携マップA"
-article_variant: "spoiler"
+title: アオアシ｜連携マップを攻撃目線で分解（ネタバレあり）
+slug: esuheriontenochi-munei-guan-xi-tu-20230106
+date: 2023-01-06 00:00:00+00:00
+series: アオアシ
+chapter: 連携マップA
+article_variant: spoiler
 tags:
-  - "サッカー"
-  - "青春"
-  - "連携"
+- サッカー
+- 青春
+- 連携
 draft: false
-description: "エスペリオンの連携マップを攻撃目線で分解し、崩しのパターンと距離感を整理するネタバレ記事。"
+description: エスペリオンの連携マップを攻撃目線で分解し、崩しのパターンと距離感を整理するネタバレ記事。
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "公開済みの序盤エピソードを基にしたネタバレです。未読の方はご注意ください。"
+disclaimer: 公開済みの序盤エピソードを基にしたネタバレです。未読の方はご注意ください。
 images:
-  - "ogp/2023/20230106_esuheriontenochi-munei-guan-xi-tu-20230106.png"
+- ogp/2023/20230106_esuheriontenochi-munei-guan-xi-tu-20230106.png
 ---
 
 > **本記事はユース序盤の連携マップ（単行本収録範囲）のネタバレを含みます。攻撃目線での整理です。**
@@ -49,7 +49,7 @@ images:
 - 中村の決定力が連携強化で伸び、得点ランキング上位を狙える。
 
 ## 関連巻・グッズへのリンク
-- 第1巻収録巻：{{ affiliate_ids.amazon or "Amazonリンク未設定" }}
+- 第1巻収録巻：[Amazon?????](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
 - 電子書籍：アオアシ（Kindle / 楽天Kobo 等）
 {{< /spoiler >}}
 

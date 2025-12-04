@@ -1,26 +1,26 @@
 ---
-title: "薬屋のひとりごと 第5話最新話ネタバレ・感想・考察"
-slug: "yao-wu-nohitorikoto-di-5hua-netaharekao-cha-20251204"
-date: 2025-12-04T00:53:28.033828+00:00
-series: "薬屋のひとりごと"
-series_slug: "kusuriya-no-hitorigoto"
-chapter: "第5話"
-article_variant: "spoiler"
+title: 薬屋のひとりごと 第5話最新話ネタバレ・感想・考察
+slug: yao-wu-nohitorikoto-di-5hua-netaharekao-cha-20251204
+date: 2025-12-04 00:53:28.033828+00:00
+series: 薬屋のひとりごと
+series_slug: kusuriya-no-hitorigoto
+chapter: 第5話
+article_variant: spoiler
 tags:
-  - "歴史ミステリー"
-  - "宮廷劇"
-  - "月刊誌"
+- 歴史ミステリー
+- 宮廷劇
+- 月刊誌
 draft: false
-description: "第5話では、薬屋の主人公が新たな謎に挑む姿が描かれています。ネタバレを含むのでご注意ください！"
+description: 第5話では、薬屋の主人公が新たな謎に挑む姿が描かれています。ネタバレを含むのでご注意ください！
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22"
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E8%96%AC%E5%B1%8B%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8/"
+  amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-    - name: "Amazon（小学館サンデーGX版）"
-      url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
-disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。"
+  - name: Amazon（小学館サンデーGX版）
+    url: https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。
 images:
-  - "ogp/2025/20251204_yao-wu-nohitorikoto-di-5hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_yao-wu-nohitorikoto-di-5hua-netaharekao-cha-20251204.png
 ---
 第5話では、薬屋の主人公が新たな謎に挑む姿が描かれています。ネタバレを含むのでご注意ください！
 
@@ -59,7 +59,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonで探す：https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E8%96%AC%E5%B1%8B%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 - Amazon（小学館サンデーGX版）：https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
 
 ## 関連記事・用語集

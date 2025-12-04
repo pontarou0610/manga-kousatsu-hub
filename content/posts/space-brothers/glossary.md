@@ -1,22 +1,22 @@
 ---
-title: "宇宙兄弟 用語集"
-date: 2025-12-02T00:14:00.149727+00:00
-series: "宇宙兄弟"
-chapter: "用語集"
-article_variant: "glossary"
-slug: "space-brothers-glossary"
+title: 宇宙兄弟 用語集
+date: 2025-12-02 00:14:00.149727+00:00
+series: 宇宙兄弟
+chapter: 用語集
+article_variant: glossary
+slug: space-brothers-glossary
 tags:
-  - "用語解説"
-  - "宇宙"
-  - "月刊誌"
-  - "用語解説"
-  - "ヒューマンドラマ"
+- 用語解説
+- 宇宙
+- 月刊誌
+- 用語解説
+- ヒューマンドラマ
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
+disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
 images: []
 ---
 

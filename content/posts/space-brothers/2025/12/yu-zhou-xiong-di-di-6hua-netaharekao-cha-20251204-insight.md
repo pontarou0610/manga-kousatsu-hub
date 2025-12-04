@@ -1,64 +1,26 @@
 ---
-
-title: "宇宙兄弟 第6話の考察と感想"
-
-slug: "yu-zhou-xiong-di-di-6hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T01:06:43.342185+00:00
-
-series: "宇宙兄弟"
-
-chapter: "第6話"
-
-article_variant: "insight"
-
-
+title: 宇宙兄弟 第6話の考察と感想
+slug: yu-zhou-xiong-di-di-6hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 01:06:43.342185+00:00
+series: 宇宙兄弟
+chapter: 第6話
+article_variant: insight
 tags:
-
-
-  - "宇宙"
-
-
-  - "ヒューマンドラマ"
-
-
-  - "月刊誌"
-
-
-  - "ネタバレ無し"
-
-
-
+- 宇宙
+- ヒューマンドラマ
+- 月刊誌
+- ネタバレ無し
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
-
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F/"
-
-
+  amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-
-
-    - name: "Amazon（オールカラー版）"
-
-      url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
-
-
-
-disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
-
-
+  - name: Amazon（オールカラー版）
+    url: https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
+disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
 images:
-
-
-  - "ogp/2025/20251204_yu-zhou-xiong-di-di-6hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_yu-zhou-xiong-di-di-6hua-netaharekao-cha-20251204.png
 ---
 
 第6話では、宇宙兄弟のキャラクターたちがどのように成長し、互いに影響を与え合うのかが描かれています。彼らの挑戦と夢について考えてみましょう。
@@ -133,7 +95,7 @@ images:
 
 
 
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

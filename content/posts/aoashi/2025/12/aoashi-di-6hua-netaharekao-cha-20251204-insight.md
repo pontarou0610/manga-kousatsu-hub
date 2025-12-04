@@ -1,58 +1,24 @@
 ---
-
-title: "アオアシ第6話の考察と感想"
-
-slug: "aoashi-di-6hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T01:07:53.025132+00:00
-
-series: "アオアシ"
-
-chapter: "第6話"
-
-article_variant: "insight"
-
-
+title: アオアシ第6話の考察と感想
+slug: aoashi-di-6hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 01:07:53.025132+00:00
+series: アオアシ
+chapter: 第6話
+article_variant: insight
 tags:
-
-
-  - "ネタバレ無し"
-
-
-  - "青春"
-
-
-  - "週刊誌"
-
-
-  - "サッカー"
-
-
-
+- ネタバレ無し
+- 青春
+- 週刊誌
+- サッカー
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7/"
-
-
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
-
-
+disclaimer: 実在チームとの比較は公開資料を根拠に行います。
 images:
-
-
-  - "ogp/2025/20251204_aoashi-di-6hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_aoashi-di-6hua-netaharekao-cha-20251204.png
 ---
 
 アオアシ第6話では、キャラクターたちの成長とサッカーへの情熱が深く描かれています。次の展開はどうなるのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

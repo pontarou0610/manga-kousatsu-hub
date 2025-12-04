@@ -1,22 +1,22 @@
 ---
-title: "ゴールデンカムイ｜第220話考察｜山田と辺見の心理戦を読み解く（ネタバレなし）"
-slug: "di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-insight"
-date: 2024-04-15T00:00:00Z
-series: "ゴールデンカムイ"
-chapter: "第220話B-考察"
-article_variant: "insight"
+title: ゴールデンカムイ｜第220話考察｜山田と辺見の心理戦を読み解く（ネタバレなし）
+slug: di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-insight
+date: 2024-04-15 00:00:00+00:00
+series: ゴールデンカムイ
+chapter: 第220話B-考察
+article_variant: insight
 tags:
-  - "心理戦"
-  - "ネタバレなし"
-  - "駆け引き"
+- 心理戦
+- ネタバレなし
+- 駆け引き
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "ネタバレなしの考察記事です。公式公開範囲の情報のみを使用しています。"
+disclaimer: ネタバレなしの考察記事です。公式公開範囲の情報のみを使用しています。
 images:
-  - "ogp/2024/20240415_220-20240415.png"
+- ogp/2024/20240415_220-20240415.png
 ---
 
 第220話で山田と辺見が見せる“間合い”は、単なる戦闘ではなく心理の読み合い。ここでは二人の動機とリスクの取り方を整理し、どこに勝機が転がっているかを考えます（詳細な展開は伏せます）。

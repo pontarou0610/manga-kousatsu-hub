@@ -1,24 +1,24 @@
 ---
-title: "キングダム｜第340話｜飛信隊の指揮術"
-slug: "he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu-20240501-insight"
-date: 2024-05-01T00:00:00Z
-series: "キングダム"
-chapter: "第340話"
-article_variant: "insight"
+title: キングダム｜第340話｜飛信隊の指揮術
+slug: he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu-20240501-insight
+date: 2024-05-01 00:00:00+00:00
+series: キングダム
+chapter: 第340話
+article_variant: insight
 tags:
-  - "バトル"
-  - "ネタバレ無し"
-  - "週刊誌"
-  - "歴史"
+- バトル
+- ネタバレ無し
+- 週刊誌
+- 歴史
 draft: false
-description: ""
+description: ''
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-  - "ogp/2024/20240501_he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu-20240501.png"
+- ogp/2024/20240501_he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu-20240501.png
 ---
 第340話では、合従軍との戦いでの飛信隊の指揮術に焦点を当てています。彼らの戦略がどのように機能したのか、一緒に考えてみましょう。
 

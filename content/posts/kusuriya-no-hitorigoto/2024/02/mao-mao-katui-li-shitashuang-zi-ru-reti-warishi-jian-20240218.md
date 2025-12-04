@@ -1,25 +1,25 @@
 ---
-title: "薬屋のひとりごと｜第90話｜最新話ネタバレ・感想・考察"
-slug: "mao-mao-katui-li-shitashuang-zi-ru-reti-warishi-jian-20240218"
-date: 2024-02-18T00:00:00Z
-series: "薬屋のひとりごと"
-chapter: "第90話"
-article_variant: "spoiler"
+title: 薬屋のひとりごと｜第90話｜最新話ネタバレ・感想・考察
+slug: mao-mao-katui-li-shitashuang-zi-ru-reti-warishi-jian-20240218
+date: 2024-02-18 00:00:00+00:00
+series: 薬屋のひとりごと
+chapter: 第90話
+article_variant: spoiler
 tags:
-  - "歴史ミステリー"
-  - "宮廷劇"
-  - "月刊誌"
+- 歴史ミステリー
+- 宮廷劇
+- 月刊誌
 draft: false
-description: ""
+description: ''
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-    - name: "Amazon（小学館サンデーGX版）"
-      url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
-disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。"
+  - name: Amazon（小学館サンデーGX版）
+    url: https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。
 images:
-  - "ogp/2024/20240218_mao-mao-katui-li-shitashuang-zi-ru-reti-warishi-jian-20240218.png"
+- ogp/2024/20240218_mao-mao-katui-li-shitashuang-zi-ru-reti-warishi-jian-20240218.png
 ---
 第90話では、後宮での双子入れ替わり事件の真相が明らかになります。これからネタバレが含まれますので、ご注意ください。
 

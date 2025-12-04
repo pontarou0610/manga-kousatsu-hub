@@ -1,24 +1,24 @@
 ---
-title: "アオアシ 第3話最新話ネタバレ・感想・考察"
-slug: "aoashi-di-3hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:45:04.085265+00:00
-series: "アオアシ"
-series_slug: "aoashi"
-chapter: "第3話"
-article_variant: "spoiler"
+title: アオアシ 第3話最新話ネタバレ・感想・考察
+slug: aoashi-di-3hua-netaharekao-cha-20251203
+date: 2025-12-03 08:45:04.085265+00:00
+series: アオアシ
+series_slug: aoashi
+chapter: 第3話
+article_variant: spoiler
 tags:
-  - "サッカー"
-  - "青春"
-  - "週刊誌"
+- サッカー
+- 青春
+- 週刊誌
 draft: false
-description: "アオアシの第3話が公開されました！今回は物語の進展があり、キャラクターの心情も深く描かれています。ネタバレが含まれますのでご注意ください。"
+description: アオアシの第3話が公開されました！今回は物語の進展があり、キャラクターの心情も深く描かれています。ネタバレが含まれますのでご注意ください。
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
+disclaimer: 実在チームとの比較は公開資料を根拠に行います。
 images:
-  - "ogp/2025/20251203_aoashi-di-3hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_aoashi-di-3hua-netaharekao-cha-20251203.png
 ---
 アオアシの第3話が公開されました！今回は物語の進展があり、キャラクターの心情も深く描かれています。ネタバレが含まれますのでご注意ください。
 
@@ -55,7 +55,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonで探す：https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://bigcomicbros.net/comics/30384/

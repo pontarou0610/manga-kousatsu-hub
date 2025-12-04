@@ -1,58 +1,24 @@
 ---
-
-title: "キングダム 第5話の内容と考察"
-
-slug: "kinkutamu-di-5hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T00:52:52.275472+00:00
-
-series: "キングダム"
-
-chapter: "第5話"
-
-article_variant: "insight"
-
-
+title: キングダム 第5話の内容と考察
+slug: kinkutamu-di-5hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 00:52:52.275472+00:00
+series: キングダム
+chapter: 第5話
+article_variant: insight
 tags:
-
-
-  - "歴史"
-
-
-  - "バトル"
-
-
-  - "ネタバレ無し"
-
-
-  - "週刊誌"
-
-
-
+- 歴史
+- バトル
+- ネタバレ無し
+- 週刊誌
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0/"
-
-
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
-
-
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-
-
-  - "ogp/2025/20251204_kinkutamu-di-5hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_kinkutamu-di-5hua-netaharekao-cha-20251204.png
 ---
 
 第5話では、キャラクターたちの成長と葛藤が描かれ、物語の核心に迫る重要な瞬間が展開されます。次はどんな展開が待っているのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

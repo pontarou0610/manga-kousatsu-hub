@@ -1,25 +1,25 @@
 ---
-title: "宇宙兄弟｜幼少期回想｜最新話ネタバレ・感想・考察"
-slug: "nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li-20230103"
-date: 2023-01-03T00:00:00Z
-series: "宇宙兄弟"
-chapter: "幼少期回想"
-article_variant: "spoiler"
+title: 宇宙兄弟｜幼少期回想｜最新話ネタバレ・感想・考察
+slug: nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li-20230103
+date: 2023-01-03 00:00:00+00:00
+series: 宇宙兄弟
+chapter: 幼少期回想
+article_variant: spoiler
 tags:
-  - "宇宙"
-  - "ヒューマンドラマ"
-  - "月刊誌"
+- 宇宙
+- ヒューマンドラマ
+- 月刊誌
 draft: false
-description: ""
+description: ''
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-    - name: "Amazon（オールカラー版）"
-      url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
-disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
+  - name: Amazon（オールカラー版）
+    url: https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
+disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
 images:
-  - "ogp/2023/20230103_nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li-20230103.png"
+- ogp/2023/20230103_nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li-20230103.png
 ---
 最新話『幼少期回想』では、六太と日々人の幼少期を振り返るエピソードが展開されます。ネタバレが含まれますので、ご注意ください！
 

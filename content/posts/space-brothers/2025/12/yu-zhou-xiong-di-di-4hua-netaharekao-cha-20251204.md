@@ -1,26 +1,26 @@
 ---
-title: "宇宙兄弟 第4話最新話ネタバレ・感想・考察"
-slug: "yu-zhou-xiong-di-di-4hua-netaharekao-cha-20251204"
-date: 2025-12-04T00:32:04.627346+00:00
-series: "宇宙兄弟"
-series_slug: "space-brothers"
-chapter: "第4話"
-article_variant: "spoiler"
+title: 宇宙兄弟 第4話最新話ネタバレ・感想・考察
+slug: yu-zhou-xiong-di-di-4hua-netaharekao-cha-20251204
+date: 2025-12-04 00:32:04.627346+00:00
+series: 宇宙兄弟
+series_slug: space-brothers
+chapter: 第4話
+article_variant: spoiler
 tags:
-  - "宇宙"
-  - "ヒューマンドラマ"
-  - "月刊誌"
+- 宇宙
+- ヒューマンドラマ
+- 月刊誌
 draft: false
-description: "第4話では、兄弟の絆と夢に向かう姿が描かれます。ネタバレが含まれますので、注意してくださいね。"
+description: 第4話では、兄弟の絆と夢に向かう姿が描かれます。ネタバレが含まれますので、注意してくださいね。
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-    - name: "Amazon（オールカラー版）"
-      url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
-disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
+  - name: Amazon（オールカラー版）
+    url: https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
+disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
 images:
-  - "ogp/2025/20251204_yu-zhou-xiong-di-di-4hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_yu-zhou-xiong-di-di-4hua-netaharekao-cha-20251204.png
 ---
 第4話では、兄弟の絆と夢に向かう姿が描かれます。ネタバレが含まれますので、注意してくださいね。
 
@@ -53,7 +53,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonで探す：https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 - Amazon（オールカラー版）：https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
 
 ## 関連記事・用語集

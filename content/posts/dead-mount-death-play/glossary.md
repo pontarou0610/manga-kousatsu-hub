@@ -1,22 +1,22 @@
 ---
-title: "デッドマウント・デスプレイ 用語集"
-date: 2025-12-02T00:12:42.537079+00:00
-series: "デッドマウント・デスプレイ"
-chapter: "用語集"
-article_variant: "glossary"
-slug: "dead-mount-death-play-glossary"
+title: デッドマウント・デスプレイ 用語集
+date: 2025-12-02 00:12:42.537079+00:00
+series: デッドマウント・デスプレイ
+chapter: 用語集
+article_variant: glossary
+slug: dead-mount-death-play-glossary
 tags:
-  - "用語解説"
-  - "用語解説"
-  - "ダークファンタジー"
-  - "月刊誌"
-  - "バトル"
+- 用語解説
+- 用語解説
+- ダークファンタジー
+- 月刊誌
+- バトル
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
+disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
 images: []
 ---
 

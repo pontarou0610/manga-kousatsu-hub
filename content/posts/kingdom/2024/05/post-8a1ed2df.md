@@ -1,22 +1,22 @@
 ---
-title: "キングダム｜第340話｜合従軍から見る飛信隊の指揮術（ネタバレあり）"
-slug: "post-8a1ed2df"
-date: 2024-05-01T00:00:00Z
-series: "キングダム"
-chapter: "第340話"
-article_variant: "spoiler"
+title: キングダム｜第340話｜合従軍から見る飛信隊の指揮術（ネタバレあり）
+slug: post-8a1ed2df
+date: 2024-05-01 00:00:00+00:00
+series: キングダム
+chapter: 第340話
+article_variant: spoiler
 tags:
-  - "合従軍"
-  - "飛信隊"
-  - "キングダム最新話"
+- 合従軍
+- 飛信隊
+- キングダム最新話
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "公式に公開された範囲の内容をもとに記載しています。ネタバレが含まれるのでご注意ください。"
+disclaimer: 公式に公開された範囲の内容をもとに記載しています。ネタバレが含まれるのでご注意ください。
 images:
-  - "ogp/2024/20240501_post-8a1ed2df.png"
+- ogp/2024/20240501_post-8a1ed2df.png
 ---
 本記事は最新話までのネタバレを含みます。第340話で飛信隊が慶舎の読みをどう外し、攻守を切り替えたかを整理します。
 

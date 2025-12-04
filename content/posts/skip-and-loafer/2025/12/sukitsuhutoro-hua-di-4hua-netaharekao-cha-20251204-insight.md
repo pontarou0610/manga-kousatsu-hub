@@ -1,58 +1,24 @@
 ---
-
-title: "スキップとローファー 第4話の考察"
-
-slug: "sukitsuhutoro-hua-di-4hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T00:29:45.452132+00:00
-
-series: "スキップとローファー"
-
-chapter: "第4話"
-
-article_variant: "insight"
-
-
+title: スキップとローファー 第4話の考察
+slug: sukitsuhutoro-hua-di-4hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 00:29:45.452132+00:00
+series: スキップとローファー
+chapter: 第4話
+article_variant: insight
 tags:
-
-
-  - "青春"
-
-
-  - "ネタバレ無し"
-
-
-  - "日常"
-
-
-  - "月刊誌"
-
-
-
+- 青春
+- ネタバレ無し
+- 日常
+- 月刊誌
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
-
-
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
 images:
-
-
-  - "ogp/2025/20251204_sukitsuhutoro-hua-di-4hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_sukitsuhutoro-hua-di-4hua-netaharekao-cha-20251204.png
 ---
 
 第4話では、キャラクターたちの成長と友情の絆が深まる様子が描かれています。彼らの決断や行動がどのように物語を進めるのか、一緒に考えてみましょう！
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

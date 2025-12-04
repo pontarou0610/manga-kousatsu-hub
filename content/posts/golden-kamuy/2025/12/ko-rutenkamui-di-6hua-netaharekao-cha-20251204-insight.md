@@ -1,58 +1,24 @@
 ---
-
-title: "ゴールデンカムイ 第6話の考察"
-
-slug: "ko-rutenkamui-di-6hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T01:07:20.011582+00:00
-
-series: "ゴールデンカムイ"
-
-chapter: "第6話"
-
-article_variant: "insight"
-
-
+title: ゴールデンカムイ 第6話の考察
+slug: ko-rutenkamui-di-6hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 01:07:20.011582+00:00
+series: ゴールデンカムイ
+chapter: 第6話
+article_variant: insight
 tags:
-
-
-  - "サバイバル"
-
-
-  - "週刊誌"
-
-
-  - "ネタバレ無し"
-
-
-  - "歴史"
-
-
-
+- サバイバル
+- 週刊誌
+- ネタバレ無し
+- 歴史
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4/"
-
-
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
-
-
+disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
 images:
-
-
-  - "ogp/2025/20251204_ko-rutenkamui-di-6hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_ko-rutenkamui-di-6hua-netaharekao-cha-20251204.png
 ---
 
 第6話では、キャラクターたちの内面がより深く掘り下げられ、物語の核心に迫ります。彼らの動機や葛藤はどう展開するのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

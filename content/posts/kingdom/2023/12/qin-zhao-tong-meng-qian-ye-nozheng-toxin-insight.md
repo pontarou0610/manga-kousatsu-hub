@@ -1,24 +1,24 @@
 ---
-title: "キングダム｜第499話｜政と信の同盟"
-slug: "qin-zhao-tong-meng-qian-ye-nozheng-toxin-insight"
-date: 2023-12-10T00:00:00Z
-series: "キングダム"
-chapter: "第499話"
-article_variant: "insight"
+title: キングダム｜第499話｜政と信の同盟
+slug: qin-zhao-tong-meng-qian-ye-nozheng-toxin-insight
+date: 2023-12-10 00:00:00+00:00
+series: キングダム
+chapter: 第499話
+article_variant: insight
 tags:
-  - "週刊誌"
-  - "バトル"
-  - "歴史"
-  - "ネタバレ無し"
+- 週刊誌
+- バトル
+- 歴史
+- ネタバレ無し
 draft: false
-description: ""
+description: ''
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-  - "ogp/2023/20231210_qin-zhao-tong-meng-qian-ye-nozheng-toxin.png"
+- ogp/2023/20231210_qin-zhao-tong-meng-qian-ye-nozheng-toxin.png
 ---
 第499話では、政と信が趙との同盟を考える中で、それぞれの立場や心情がどう影響するのかを探ります。果たして、彼らの選択はどのような未来をもたらすのか？
 
@@ -61,4 +61,4 @@ images:
 
 {{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" >}}
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS" >}}
+{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}

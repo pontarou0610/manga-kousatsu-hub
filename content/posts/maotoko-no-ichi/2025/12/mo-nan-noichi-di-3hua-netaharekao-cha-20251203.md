@@ -1,24 +1,24 @@
 ---
-title: "魔男のイチ 第3話最新話ネタバレ・感想・考察"
-slug: "mo-nan-noichi-di-3hua-netaharekao-cha-20251203"
-date: 2025-12-03T08:45:37.530235+00:00
-series: "魔男のイチ"
-series_slug: "maotoko-no-ichi"
-chapter: "第3話"
-article_variant: "spoiler"
+title: 魔男のイチ 第3話最新話ネタバレ・感想・考察
+slug: mo-nan-noichi-di-3hua-netaharekao-cha-20251203
+date: 2025-12-03 08:45:37.530235+00:00
+series: 魔男のイチ
+series_slug: maotoko-no-ichi
+chapter: 第3話
+article_variant: spoiler
 tags:
-  - "ダークファンタジー"
-  - "サスペンス"
-  - "青年誌"
+- ダークファンタジー
+- サスペンス
+- 青年誌
 draft: false
-description: "魔男のイチ第3話の内容をまとめました。物語が進む中での重要な展開やキャラクターの心情を掘り下げていきますので、ネタバレにご注意ください！"
+description: 魔男のイチ第3話の内容をまとめました。物語が進む中での重要な展開やキャラクターの心情を掘り下げていきますので、ネタバレにご注意ください！
 affiliate_ids:
-  amazon: ""
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: ''
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。"
+disclaimer: 公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。
 images:
-  - "ogp/2025/20251203_mo-nan-noichi-di-3hua-netaharekao-cha-20251203.png"
+- ogp/2025/20251203_mo-nan-noichi-di-3hua-netaharekao-cha-20251203.png
 ---
 魔男のイチ第3話の内容をまとめました。物語が進む中での重要な展開やキャラクターの心情を掘り下げていきますので、ネタバレにご注意ください！
 
@@ -46,12 +46,12 @@ images:
 - ダークモンスターの正体が明らかになり、イチの過去との関連が示されることで、物語がより深まると予想する。
 
 ## 関連巻・グッズへのリンク
-- 第3話収録巻：Amazonリンク未設定
+- 第3話収録巻：[???????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 - 電子書籍：魔男のイチ Kindle / 楽天Kobo など
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 関連記事・用語集
 - 関連話へのリンク：

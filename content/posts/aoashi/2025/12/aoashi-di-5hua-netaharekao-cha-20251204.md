@@ -1,24 +1,24 @@
 ---
-title: "アオアシ 第5話最新話ネタバレ・感想・考察"
-slug: "aoashi-di-5hua-netaharekao-cha-20251204"
-date: 2025-12-04T00:55:27.243366+00:00
-series: "アオアシ"
-series_slug: "aoashi"
-chapter: "第5話"
-article_variant: "spoiler"
+title: アオアシ 第5話最新話ネタバレ・感想・考察
+slug: aoashi-di-5hua-netaharekao-cha-20251204
+date: 2025-12-04 00:55:27.243366+00:00
+series: アオアシ
+series_slug: aoashi
+chapter: 第5話
+article_variant: spoiler
 tags:
-  - "サッカー"
-  - "青春"
-  - "週刊誌"
+- サッカー
+- 青春
+- 週刊誌
 draft: false
-description: "アオアシの第5話が公開されました！今回は物語が大きく動く重要なエピソードです。ネタバレにご注意ください！"
+description: アオアシの第5話が公開されました！今回は物語が大きく動く重要なエピソードです。ネタバレにご注意ください！
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7/"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
+disclaimer: 実在チームとの比較は公開資料を根拠に行います。
 images:
-  - "ogp/2025/20251204_aoashi-di-5hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_aoashi-di-5hua-netaharekao-cha-20251204.png
 ---
 アオアシの第5話が公開されました！今回は物語が大きく動く重要なエピソードです。ネタバレにご注意ください！
 
@@ -51,7 +51,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonで探す：https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B7/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://bigcomicbros.net/comics/30384/

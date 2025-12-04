@@ -1,23 +1,23 @@
 ---
-title: "アオアシの戦術とチームビルディング"
-slug: "post-38fca6be-insight"
-date: 2025-11-14T07:53:04.494432+00:00
-series: "アオアシ"
-chapter: "エスペリオンの戦術から学ぶチームビルディング"
-article_variant: "insight"
+title: アオアシの戦術とチームビルディング
+slug: post-38fca6be-insight
+date: 2025-11-14 07:53:04.494432+00:00
+series: アオアシ
+chapter: エスペリオンの戦術から学ぶチームビルディング
+article_variant: insight
 tags:
-  - "サッカー"
-  - "週刊誌"
-  - "ネタバレ無し"
-  - "青春"
+- サッカー
+- 週刊誌
+- ネタバレ無し
+- 青春
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
+disclaimer: 実在チームとの比較は公開資料を根拠に行います。
 images:
-  - "ogp/2025/20251114_post-38fca6be.png"
+- ogp/2025/20251114_post-38fca6be.png
 ---
 エスペリオンの戦術を通じて、チームビルディングの重要性を探ります。選手たちの成長と連携がどのように描かれているのか、考察します。
 
@@ -52,4 +52,4 @@ images:
 
 {{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22" >}}
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS" >}}
+{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}

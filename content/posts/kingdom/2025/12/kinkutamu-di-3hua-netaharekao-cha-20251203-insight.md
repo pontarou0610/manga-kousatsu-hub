@@ -1,58 +1,24 @@
 ---
-
-title: "キングダム 第3話の内容と考察"
-
-slug: "kinkutamu-di-3hua-netaharekao-cha-20251203-insight"
-
-date: 2025-12-03T08:43:04.387618+00:00
-
-series: "キングダム"
-
-chapter: "第3話"
-
-article_variant: "insight"
-
-
+title: キングダム 第3話の内容と考察
+slug: kinkutamu-di-3hua-netaharekao-cha-20251203-insight
+date: 2025-12-03 08:43:04.387618+00:00
+series: キングダム
+chapter: 第3話
+article_variant: insight
 tags:
-
-
-  - "バトル"
-
-
-  - "ネタバレ無し"
-
-
-  - "週刊誌"
-
-
-  - "歴史"
-
-
-
+- バトル
+- ネタバレ無し
+- 週刊誌
+- 歴史
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
-
-
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-
-
-  - "ogp/2025/20251203_kinkutamu-di-3hua-netaharekao-cha-20251203.png"
-
-
-
+- ogp/2025/20251203_kinkutamu-di-3hua-netaharekao-cha-20251203.png
 ---
 
 第3話では、キャラクターたちの成長が描かれ、彼らの決意が試される瞬間が訪れます。次はどんな展開が待っているのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

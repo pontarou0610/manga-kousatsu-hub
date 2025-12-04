@@ -1,24 +1,24 @@
 ---
-title: "スキップとローファー 第4話最新話ネタバレ・感想・考察"
-slug: "sukitsuhutoro-hua-di-4hua-netaharekao-cha-20251204"
-date: 2025-12-04T00:29:45.452132+00:00
-series: "スキップとローファー"
-series_slug: "skip-and-loafer"
-chapter: "第4話"
-article_variant: "spoiler"
+title: スキップとローファー 第4話最新話ネタバレ・感想・考察
+slug: sukitsuhutoro-hua-di-4hua-netaharekao-cha-20251204
+date: 2025-12-04 00:29:45.452132+00:00
+series: スキップとローファー
+series_slug: skip-and-loafer
+chapter: 第4話
+article_variant: spoiler
 tags:
-  - "青春"
-  - "日常"
-  - "月刊誌"
+- 青春
+- 日常
+- 月刊誌
 draft: false
-description: "第4話では、主人公たちの新たな試練と成長が描かれています。ネタバレがありますのでご注意ください！"
+description: 第4話では、主人公たちの新たな試練と成長が描かれています。ネタバレがありますのでご注意ください！
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
 images:
-  - "ogp/2025/20251204_sukitsuhutoro-hua-di-4hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_sukitsuhutoro-hua-di-4hua-netaharekao-cha-20251204.png
 ---
 第4話では、主人公たちの新たな試練と成長が描かれています。ネタバレがありますのでご注意ください！
 
@@ -54,7 +54,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonで探す：https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://afternoon.kodansha.co.jp/c/skiptoloafer/

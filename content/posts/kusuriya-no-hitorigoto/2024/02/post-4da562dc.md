@@ -1,24 +1,24 @@
-﻿---
-title: "薬屋のひとりごと｜第90話｜双子入れ替わり事件の全容（ネタバレあり）"
-slug: "post-4da562dc"
-date: 2024-02-18T00:00:00Z
-series: "薬屋のひとりごと"
-chapter: "第90話"
-article_variant: "spoiler"
+---
+title: 薬屋のひとりごと｜第90話｜双子入れ替わり事件の全容（ネタバレあり）
+slug: post-4da562dc
+date: 2024-02-18 00:00:00+00:00
+series: 薬屋のひとりごと
+chapter: 第90話
+article_variant: spoiler
 tags:
-  - "歴史ミステリー"
-  - "後宮"
-  - "毒見"
+- 歴史ミステリー
+- 後宮
+- 毒見
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others:
-    - name: "Amazon 小学館サンデーGX版"
-      url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
-disclaimer: "公式設定と公開話に基づき記載。ネタバレは折りたたみ内に限定します。"
+  - name: Amazon 小学館サンデーGX版
+    url: https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+disclaimer: 公式設定と公開話に基づき記載。ネタバレは折りたたみ内に限定します。
 images:
-  - "ogp/2024/20240218_post-4da562dc.png"
+- ogp/2024/20240218_post-4da562dc.png
 ---
 第90話では、猫猫が後宮での双子入れ替わり事件を解明する様子が描かれます。
 

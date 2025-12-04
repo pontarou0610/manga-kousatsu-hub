@@ -1,58 +1,24 @@
 ---
-
-title: "デッドマウント・デスプレイ 第6話の考察"
-
-slug: "tetsutomauntotesuhurei-di-6hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T01:04:55.912620+00:00
-
-series: "デッドマウント・デスプレイ"
-
-chapter: "第6話"
-
-article_variant: "insight"
-
-
+title: デッドマウント・デスプレイ 第6話の考察
+slug: tetsutomauntotesuhurei-di-6hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 01:04:55.912620+00:00
+series: デッドマウント・デスプレイ
+chapter: 第6話
+article_variant: insight
 tags:
-
-
-  - "ダークファンタジー"
-
-
-  - "バトル"
-
-
-  - "月刊誌"
-
-
-  - "ネタバレ無し"
-
-
-
+- ダークファンタジー
+- バトル
+- 月刊誌
+- ネタバレ無し
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
-
-  rakuten: "https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/"
-
-
+  amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
-
-
+disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
 images:
-
-
-  - "ogp/2025/20251204_tetsutomauntotesuhurei-di-6hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_tetsutomauntotesuhurei-di-6hua-netaharekao-cha-20251204.png
 ---
 
 第6話では、キャラクターたちの内面がさらに深掘りされ、物語の核心に迫る重要な展開が待っています。次は何が起こるのでしょうか？
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 

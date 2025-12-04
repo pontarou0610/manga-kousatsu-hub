@@ -1,22 +1,22 @@
 ---
-title: "ゴールデンカムイ｜第220話ネタバレ・感想（史実視点の補足版）"
-slug: "di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian"
-date: 2024-04-15T00:00:00Z
-series: "ゴールデンカムイ"
-chapter: "第220話B"
-article_variant: "spoiler"
+title: ゴールデンカムイ｜第220話ネタバレ・感想（史実視点の補足版）
+slug: di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian
+date: 2024-04-15 00:00:00+00:00
+series: ゴールデンカムイ
+chapter: 第220話B
+article_variant: spoiler
 tags:
-  - "戦闘"
-  - "サバイバル"
-  - "史実"
+- 戦闘
+- サバイバル
+- 史実
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "公開済みの公式話を基に、史実補足を交えたネタバレです。未読の方はご注意ください。"
+disclaimer: 公開済みの公式話を基に、史実補足を交えたネタバレです。未読の方はご注意ください。
 images:
-  - "ogp/2024/20240415_220-20240415.png"
+- ogp/2024/20240415_220-20240415.png
 ---
 
 第220話では杉元と鶴見中尉の緊迫した読み合いが展開されます。ここから先はネタバレが含まれますのでご注意ください！
@@ -57,4 +57,4 @@ images:
 
 {{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22" >}}
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS" >}}
+{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}

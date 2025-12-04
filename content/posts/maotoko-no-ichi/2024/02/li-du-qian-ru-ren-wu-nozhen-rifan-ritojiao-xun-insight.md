@@ -1,24 +1,24 @@
 ---
-title: "魔男のイチ｜第18話｜潜入任務で揺れた信頼と教訓（ネタバレなし考察）"
-slug: "maotoko-no-ichi-18-insight-rewrite"
-date: 2024-02-14T00:00:00Z
-series: "魔男のイチ"
-chapter: "第18話"
-article_variant: "insight"
+title: 魔男のイチ｜第18話｜潜入任務で揺れた信頼と教訓（ネタバレなし考察）
+slug: maotoko-no-ichi-18-insight-rewrite
+date: 2024-02-14 00:00:00+00:00
+series: 魔男のイチ
+chapter: 第18話
+article_variant: insight
 tags:
-  - "サスペンス"
-  - "ネタバレ無し"
-  - "青年誌"
-  - "ダークファンタジー"
+- サスペンス
+- ネタバレ無し
+- 青年誌
+- ダークファンタジー
 draft: false
-description: "潜入任務で試されたイチの信頼と成長をネタバレなしで振り返る考察。"
+description: 潜入任務で試されたイチの信頼と成長をネタバレなしで振り返る考察。
 affiliate_ids:
-  amazon: ""
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
+  amazon: ''
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-disclaimer: "公式設定資料と単行本の公開情報のみを参照し、推測は控えめにしています。この記事ではネタバレは扱いません。"
+disclaimer: 公式設定資料と単行本の公開情報のみを参照し、推測は控えめにしています。この記事ではネタバレは扱いません。
 images:
-  - "ogp/2024/20240214_maotoko-no-ichi-18-insight.png"
+- ogp/2024/20240214_maotoko-no-ichi-18-insight.png
 ---
 第18話では、イチが裏都での潜入任務を通じて、自分の立場と仲間との信頼を試されます。ネタバレなしで、任務の意味やキャラクターの心情を振り返ります。
 
@@ -57,4 +57,4 @@ images:
 - [公式サイト（作品トップ）](https://example.com/maotoko-no-ichi)
 - [単行本情報](https://example.com/maotoko-no-ichi/volume1)
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS" >}}
+{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}

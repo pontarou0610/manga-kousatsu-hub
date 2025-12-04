@@ -1,58 +1,24 @@
 ---
-
-title: "キングダム第4話の内容まとめと考察"
-
-slug: "kinkutamu-di-4hua-netaharekao-cha-20251204-insight"
-
-date: 2025-12-04T00:30:48.604663+00:00
-
-series: "キングダム"
-
-chapter: "第4話"
-
-article_variant: "insight"
-
-
+title: キングダム第4話の内容まとめと考察
+slug: kinkutamu-di-4hua-netaharekao-cha-20251204-insight
+date: 2025-12-04 00:30:48.604663+00:00
+series: キングダム
+chapter: 第4話
+article_variant: insight
 tags:
-
-
-  - "週刊誌"
-
-
-  - "歴史"
-
-
-  - "バトル"
-
-
-  - "ネタバレ無し"
-
-
-
+- 週刊誌
+- 歴史
+- バトル
+- ネタバレ無し
 draft: false
-
-description: ""
-
+description: ''
 affiliate_ids:
-
-  amazon: "https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22"
-
-  rakuten: "https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS"
-
-
+  amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
-
-
-disclaimer: "史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。"
-
-
+disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images:
-
-
-  - "ogp/2025/20251204_kinkutamu-di-4hua-netaharekao-cha-20251204.png"
-
-
-
+- ogp/2025/20251204_kinkutamu-di-4hua-netaharekao-cha-20251204.png
 ---
 
 第4話では、キャラクターたちの決意が試される瞬間が描かれています。彼らの行動がどのように物語に影響を与えるのか、考えてみましょう。
@@ -127,7 +93,7 @@ images:
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/?YOUR_RAKUTEN_PARAMS
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 
