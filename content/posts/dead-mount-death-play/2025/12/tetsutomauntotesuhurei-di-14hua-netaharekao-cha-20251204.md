@@ -45,14 +45,14 @@ images:
 - 予想2: 新たな敵との対決が物語の中心となり、仲間たちの協力が必要不可欠になる展開が見込まれる。彼らの絆が深まることで、より強力なチームとして成長するだろう。
 
 ## 関連巻・グッズへのリンク
-- 第14話収録巻：https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
+- 第14話収録巻：<https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22>
 - 電子書籍：デッドマウント・デスプレイ Kindle / 楽天Kobo など
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- Amazonで探す：<https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22>
+- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://magazine.jp.square-enix.com/yg/introduction/dead/
+- 関連話へのリンク：<https://magazine.jp.square-enix.com/yg/introduction/dead/>
 - 用語集：/posts/dead-mount-death-play/glossary/

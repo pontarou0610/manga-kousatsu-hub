@@ -50,14 +50,14 @@ images:
 - 予想：アシリパが金塊の秘密を解き明かすことで、彼女の成長が物語の中心的なテーマとなるだろう。
 
 ## 関連巻・グッズへのリンク
-- 第13話収録巻：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+- 第13話収録巻：<https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>
 - 電子書籍：ゴールデンカムイ Kindle / 楽天Kobo など
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- Amazonで探す：<https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>
+- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://youngjump.jp/manga/goldenkamuy/
+- 関連話へのリンク：<https://youngjump.jp/manga/goldenkamuy/>
 - 用語集：/posts/golden-kamuy/glossary/

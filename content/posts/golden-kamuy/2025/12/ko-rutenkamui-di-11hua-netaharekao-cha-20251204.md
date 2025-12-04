@@ -45,14 +45,14 @@ images:
 - 予想: 今後、アイヌの文化が物語の中心テーマとして扱われ、杉元がその理解を深めることで成長する展開が期待できる。
 
 ## 関連巻・グッズへのリンク
-- 第11話収録巻：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
+- 第11話収録巻：<https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>
 - 電子書籍：ゴールデンカムイ Kindle / 楽天Kobo など
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- Amazonで探す：<https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>
+- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://youngjump.jp/manga/goldenkamuy/
+- 関連話へのリンク：<https://youngjump.jp/manga/goldenkamuy/>
 - 用語集：/posts/golden-kamuy/glossary/
