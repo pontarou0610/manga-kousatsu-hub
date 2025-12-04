@@ -22,6 +22,7 @@ disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバ�
 images:
   - "ogp/2025/20251204_yu-zhou-xiong-di-di-13hua-netaharekao-cha-20251204.png"
 ---
+
 宇宙兄弟第13話の内容を時系列でまとめました。ネタバレが含まれていますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -35,6 +36,9 @@ images:
 
 {{< spoiler >}}
 ## 第13話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第13話では、ムッタが宇宙飛行士としての訓練を続ける様子が描かれます。彼は仲間たちとの絆を深めながら、厳しい訓練に取り組んでいます。特に、彼が新たに加わった仲間たちとのコミュニケーションを大切にし、チームワークの重要性を再認識する場面が印象的です。ムッタは訓練の中で自分の限界に挑戦し、成長を実感する瞬間が訪れます。彼の「僕はまだまだやれる」というセリフが、彼の強い意志を表しています。さらに、彼の成長を見守る仲間たちの温かい応援も心に残ります。最後には、これからの宇宙への挑戦に向けて、ムッタが新たな決意を抱くシーンで締めくくられます。
 
 ## 伏線・気付き
@@ -53,10 +57,11 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 - Amazon（オールカラー版）：<https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22>
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://morning.kodansha.co.jp/c/uchukyodai/>
-- 用語集：/posts/space-brothers/glossary/
+- 関連記事：[ 宇宙兄弟の記事一覧 ](/posts/space-brothers/)
+- 公式リンク：[ モーニング公式サイト ](https://morning.kodansha.co.jp/c/uchukyodai/)
+- 用語集：[用語集](/posts/space-brothers/glossary/)

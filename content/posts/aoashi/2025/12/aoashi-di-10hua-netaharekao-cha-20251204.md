@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第10話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第10話では、アシトが新しいトレーニングに挑む場面から始まります。彼は、技術向上のために特訓を受けることを決意し、仲間たちと共に奮闘します。特に、彼の成長を見守るコーチの言葉が印象的で、「お前の努力が未来を変える」と励まされます。アシトはその言葉に感銘を受け、さらに努力を重ねる決意を固めます。 
 
 その後、仲間との絆が試されるシーンが展開され、アシトはチームのために自分を犠牲にする覚悟を見せます。「みんなのために、俺が頑張る！」というセリフが彼の強い意志を表現しています。このエピソードでは、アシトの成長だけでなく、仲間との信頼関係も深まっていく様子が描かれています。
@@ -61,5 +64,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://bigcomicbros.net/comics/30384/>
-- 用語集：/posts/aoashi/glossary/
+- 関連記事：[ アオアシの記事一覧 ](/posts/aoashi/)
+- 公式リンク：[ ビッグコミックス公式 ](https://bigcomicbros.net/comics/30384/)
+- 用語集：[用語集](/posts/aoashi/glossary/)

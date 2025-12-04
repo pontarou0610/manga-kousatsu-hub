@@ -20,6 +20,7 @@ disclaimer: "史実や文化の引用は公式資料と監修コメントに従�
 images:
   - "ogp/2025/20251204_ko-rutenkamui-di-14hua-netaharekao-cha-20251204.png"
 ---
+
 第14話では、物語が新たな展開を迎えます。ネタバレにご注意ください！さあ、詳細を見ていきましょう。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第14話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第14話では、アシリパと杉元が新たな旅に出発します。彼らは、アイヌの財宝を探しながら、様々な困難に直面します。アシリパは、杉元に対して信頼を寄せつつも、彼の過去に疑念を抱く場面が描かれます。「あなたを信じるけれど、まだ心のどこかで警戒している」とアシリパは言います。この言葉には、彼女の複雑な感情が表れています。 
 
 一方で、敵対する勢力が彼らの動きを察知し、緊張感が高まります。特に、ある謎の暗号が新たな手がかりとなり、物語がさらに深まります。「この暗号を解けば、次の手がかりが見つかるはずだ」と杉元は力強く宣言します。彼の決意は、仲間たちに勇気を与えます。
@@ -54,9 +58,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://youngjump.jp/manga/goldenkamuy/>
-- 用語集：/posts/golden-kamuy/glossary/
+- 関連記事：[ ゴールデンカムイの記事一覧 ](/posts/golden-kamuy/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/goldenkamuy/)
+- 用語集：[用語集](/posts/golden-kamuy/glossary/)

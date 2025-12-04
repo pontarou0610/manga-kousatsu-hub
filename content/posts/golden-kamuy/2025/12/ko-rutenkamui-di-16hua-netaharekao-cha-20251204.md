@@ -33,6 +33,9 @@ images:
 
 {{< spoiler >}}
 ## 第16話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第16話では、アシリパと杉元が新たな手がかりを求めて旅を続ける場面から始まります。彼らは、アイヌの隠された財宝を探し続けており、その道中で様々な危険に直面します。特に、敵対勢力との接触が描かれ、緊迫した状況が続きます。アシリパは杉元に対して強い信頼を寄せており、彼女の成長が感じられるシーンが多く見受けられます。敵との対峙では、杉元がその戦闘能力を発揮し、アシリパを守るために全力を尽くします。
 
 また、重要なキャラクターの過去が明らかになることで、物語の深みが増します。特に、アシリパの家族にまつわる秘密が少しずつ明らかになり、彼女の動機がより強く描かれます。「私たちの歴史を知ることが、未来への道を開くの」とアシリパが語るシーンは、彼女の決意を象徴しています。最後には、次なる冒険の舞台が示唆され、物語は新たな展開を迎える予感を感じさせます。
@@ -48,14 +51,15 @@ images:
 - 予想：杉元とアシリパが新たな敵に直面することで、彼らの絆が試される場面が描かれる可能性が高い。特に、戦闘を通じて互いの信頼が深まる展開が期待される。
 
 ## 関連巻・グッズへのリンク
-- 第16話収録巻：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
-- 電子書籍：ゴールデンカムイ Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://youngjump.jp/manga/goldenkamuy/
-- 用語集：/posts/golden-kamuy/glossary/
+- 関連記事：[ ゴールデンカムイの記事一覧 ](/posts/golden-kamuy/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/goldenkamuy/)
+- 用語集：[用語集](/posts/golden-kamuy/glossary/)

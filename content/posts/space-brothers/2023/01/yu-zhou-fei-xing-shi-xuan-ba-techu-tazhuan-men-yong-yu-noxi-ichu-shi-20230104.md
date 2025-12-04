@@ -65,5 +65,6 @@ images:
 {{< /spoiler >}}
 
 ## 関連記事・用語集
-- 関連話へのリンク：{{ official_link.url if official_link else "" }}
-- 用語集へのリンク：/posts/space-brothers/glossary/
+- 関連記事：[ 宇宙兄弟の記事一覧 ](/posts/宇宙兄弟/)
+- 公式リンク：公式情報は準備中です
+- 用語集：[用語集](/posts/宇宙兄弟/glossary/)

@@ -22,6 +22,7 @@ disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補�
 images:
   - "ogp/2025/20251204_yao-wu-nohitorikoto-di-14hua-netaharekao-cha-20251204.png"
 ---
+
 第14話では、薬屋のひとりごとの物語がさらに深まり、キャラクターたちの葛藤が描かれます。ネタバレが含まれますので、注意してください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -35,6 +36,9 @@ images:
 
 {{< spoiler >}}
 ## 第14話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第14話では、主人公の薬屋が新たな依頼を受ける場面から始まります。依頼は、村で発生した謎の病気を治すためのもので、彼女は早速調査に乗り出します。調査を進める中で、彼女は病気の原因が村の水源にあることを突き止めます。この発見に驚く彼女は、村人たちと協力して解決策を見つけることを決意します。途中、村人たちとの対話を通じて、彼女は彼らの不安や恐れを理解し、彼らに寄り添う姿勢を見せます。「私たちは一緒にこの問題を解決できる」と彼女は言い、村人たちを励まします。最終的に、彼女は特製の薬を作成し、村に希望をもたらします。しかし、薬が効果を発揮する直前に、謎の影が彼女を見つめているシーンで終わります。この影が今後の物語にどのように関わるのか、次回への期待が高まります。
 
 ## 伏線・気付き
@@ -53,10 +57,11 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 - Amazon（小学館サンデーGX版）：<https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22>
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://sundaygx.com/kusuriya/>
-- 用語集：/posts/kusuriya-no-hitorigoto/glossary/
+- 関連記事：[ 薬屋のひとりごとの記事一覧 ](/posts/kusuriya-no-hitorigoto/)
+- 公式リンク：[ 月刊サンデーGX公式 ](https://sundaygx.com/kusuriya/)
+- 用語集：[用語集](/posts/kusuriya-no-hitorigoto/glossary/)

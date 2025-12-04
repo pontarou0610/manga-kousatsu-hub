@@ -32,6 +32,9 @@ images:
 
 {{< spoiler >}}
 ## 第1話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第1話では、主人公の青年が目を覚ますと、見知らぬ場所にいることに気づく。彼は、自分がどこにいるのか全く分からないが、周囲の景色は美しいがどこか不気味な印象を与える。彼が歩き出すと、奇妙な生物や風景に遭遇し、彼の心には好奇心と恐怖が交錯する。彼は、最初に出会った仲間である少女と共に、この世界の秘密を探ることを決意する。彼女は、「ここは天国大魔境だ」と語り、主人公はその言葉に驚きを隠せない。物語が進むにつれて、彼らは他の仲間と出会い、各々が抱える過去や目的が少しずつ明らかになる。特に、主人公の内面の葛藤が描写され、彼はこの新しい世界で自分の存在意義を見つけようと奮闘する。また、時折挿入される謎めいたセリフや暗示が、今後の展開に大きな影響を与えることを予感させる。最後に、彼らが直面する大きな危機の影がちらつき、緊張感が高まる。彼は「この世界には何かが隠されている」と感じ、次の冒険へと心を決める。
 
 ## 伏線・気付き
@@ -45,14 +48,15 @@ images:
 - 予想2: 物語が進むにつれて、仲間の一人が裏切り者であることが明らかになる可能性が高い。これにより、物語に緊張感が生まれ、主人公たちの絆が試されることになるだろう。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-- 電子書籍：天国大魔境 Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://afternoon.kodansha.co.jp/c/tengokudaimakyo/
-- 用語集：/posts/heavenly-delusion/glossary/
+- 関連記事：[ 天国大魔境の記事一覧 ](/posts/heavenly-delusion/)
+- 公式リンク：[ 作品公式サイト ](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
+- 用語集：[用語集](/posts/heavenly-delusion/glossary/)

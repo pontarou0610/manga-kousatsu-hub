@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第10話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第10話では、ミカが文化祭の準備に追われながらも、自分の進路について悩む様子が描かれます。彼女は、友人のアヤと一緒に準備を進めているが、アヤが他の友人たちと親密になっていくことに嫉妬を感じ始めます。特に、アヤがクラスメイトのリョウと仲良くしている姿を見て、ミカは不安を抱くようになります。ミカは『私ももっと頑張らなきゃ』と心に決め、文化祭でのパフォーマンスを成功させるために努力します。
 
 一方、アヤはミカの気持ちに気づかず、彼女を支えようとしますが、ミカの心の壁は高く、なかなか打ち解けられません。その中で、ミカは『友達を失いたくない』という思いと『自分の道を見つけたい』という思いの間で揺れ動く様子が描かれます。最終的に、彼女は自分の気持ちをアヤに打ち明ける決意を固め、二人の友情がより深まることを予感させるシーンで締めくくられます。彼女の成長が感じられる重要な回です。
@@ -59,5 +62,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://afternoon.kodansha.co.jp/c/skiptoloafer/>
-- 用語集：/posts/skip-and-loafer/glossary/
+- 関連記事：[ スキップとローファーの記事一覧 ](/posts/skip-and-loafer/)
+- 公式リンク：[ 月刊アフタヌーン公式 ](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- 用語集：[用語集](/posts/skip-and-loafer/glossary/)

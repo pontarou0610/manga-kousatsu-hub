@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第11話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第11話は、主人公たちが新たな仲間であるアキラを迎え入れるところから始まります。アキラは独自の能力を持っており、彼の過去にまつわる謎が徐々に明らかになっていきます。彼の加入により、チームは戦力が向上しますが、それに伴い敵との戦闘も激化します。特に、アキラの能力が敵に狙われることになり、彼を守るための戦いが繰り広げられます。主人公の心情としては、仲間を守るために全力を尽くす決意が感じられ、彼らの絆が深まる様子が描かれています。終盤では、過去の出来事が明らかになり、アキラの家族との関係や、彼が背負う運命が浮き彫りになります。これにより、物語全体のテーマである「運命」と「選択」が再度強調されます。
 
 ## 伏線・気付き
@@ -56,5 +59,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://afternoon.kodansha.co.jp/c/tengokudaimakyo/>
-- 用語集：/posts/heavenly-delusion/glossary/
+- 関連記事：[ 天国大魔境の記事一覧 ](/posts/heavenly-delusion/)
+- 公式リンク：[ 作品公式サイト ](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
+- 用語集：[用語集](/posts/heavenly-delusion/glossary/)

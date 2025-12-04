@@ -55,6 +55,7 @@ images:
 
 ---
 
+
 第11話では、キャラクターたちの成長や戦略が描かれ、物語の深層が見えてきます。次の展開に期待が高まる内容です！
 
 
@@ -123,11 +124,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：<https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22>)
 
 
 
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 
 
@@ -144,4 +145,4 @@ images:
 
 
 
-{{< affbox title="週刊ヤングジャンプ公式" desc="詳しくは公式情報をご確認ください" url="https://youngjump.jp/manga/kingdom/" >}}
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

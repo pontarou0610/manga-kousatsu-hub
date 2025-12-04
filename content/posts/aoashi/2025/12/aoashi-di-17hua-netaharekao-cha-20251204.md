@@ -20,6 +20,8 @@ disclaimer: "実在チームとの比較は公開資料を根拠に行います�
 images:
   - "ogp/2025/20251204_aoashi-di-17hua-netaharekao-cha-20251204.png"
 ---
+
+
 アオアシの第17話が公開されました！今回は重要な展開が盛りだくさんですので、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第17話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第17話では、アシトが新たな練習メニューを通じてチームメイトとの連携を深める姿が描かれます。彼は特に、パスを受けるタイミングを意識し、仲間とのコミュニケーションを重視します。「お前たちとなら、もっと高みを目指せる」と語るアシトの言葉は、彼の成長を象徴しています。しかし、試合中に予期せぬトラブルが発生し、アシトは冷静さを失わずにプレーし続けます。「みんなのために、絶対に勝つ！」という決意が彼を支えます。試合後、アシトは自分の成長を実感し、「次はもっと周りを見てプレーする」と新たな目標を設定します。彼の成長が今後の試合にどう影響するのか、期待が高まります。
 
 ## 伏線・気付き
@@ -46,14 +51,15 @@ images:
 - アシトの成長に伴い、他のチームメイトも刺激を受け、全体的なパフォーマンス向上が見込まれる。特に、彼のリーダーシップが試される場面が増えると考えられる。
 
 ## 関連巻・グッズへのリンク
-- 第17話収録巻：https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
-- 電子書籍：アオアシ Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://bigcomicbros.net/comics/30384/
-- 用語集：/posts/aoashi/glossary/
+- 関連記事：[ アオアシの記事一覧 ](/posts/aoashi/)
+- 公式リンク：[ ビッグコミックス公式 ](https://bigcomicbros.net/comics/30384/)
+- 用語集：[用語集](/posts/aoashi/glossary/)

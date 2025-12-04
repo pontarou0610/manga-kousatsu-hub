@@ -20,6 +20,7 @@ disclaimer: "史実や文化の引用は公式資料と監修コメントに従�
 images:
   - "ogp/2025/20251204_ko-rutenkamui-di-12hua-netaharekao-cha-20251204.png"
 ---
+
 第12話では、物語が新たな局面を迎えます。ネタバレが含まれるので、注意してお読みください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第12話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第12話では、アシリパと杉元が新たな敵、恐ろしい狩人たちに遭遇します。彼らは自身の過去に直面しながら、互いの絆を深めていきます。特に、アシリパの父についての話が重要なポイントです。杉元はアシリパを守るために必死になり、彼女の力強さに感銘を受けます。「俺はお前を絶対に守る」という杉元の言葉が印象的です。戦闘シーンでは、アシリパの弓術が光り、杉元との連携が見事に決まります。しかし、敵の狩人たちも手強く、次第に状況は厳しくなります。最後には、アシリパが「私たちは一緒に生き残る」と宣言し、二人の決意が固まります。
 
 ## 伏線・気付き
@@ -51,9 +55,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://youngjump.jp/manga/goldenkamuy/>
-- 用語集：/posts/golden-kamuy/glossary/
+- 関連記事：[ ゴールデンカムイの記事一覧 ](/posts/golden-kamuy/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/goldenkamuy/)
+- 用語集：[用語集](/posts/golden-kamuy/glossary/)

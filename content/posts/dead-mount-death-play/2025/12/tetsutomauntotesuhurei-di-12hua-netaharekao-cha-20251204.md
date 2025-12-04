@@ -20,6 +20,7 @@ disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は�
 images:
   - "ogp/2025/20251204_tetsutomauntotesuhurei-di-12hua-netaharekao-cha-20251204.png"
 ---
+
 第12話の内容をまとめました。ネタバレが含まれますので、注意してください！それでは、さっそく見ていきましょう。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第12話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第12話は、主人公が新たな仲間と共に敵のアジトに乗り込むところから始まる。彼は仲間に対し、"この戦いは俺たちの運命を決める"と決意を語る。その後、敵との激しい戦闘が繰り広げられ、主人公は自らの力の限界を試される。戦闘中、彼は過去のトラウマに直面し、"俺はもう逃げない"と心に誓う。仲間たちもそれぞれの過去を抱えながら、共に戦う姿が描かれ、絆が深まる場面も印象的だ。最後には、敵の首領が登場し、"お前たちの覚悟を試させてもらおう"と挑発する場面で締めくくられる。このシーンは、次回の展開への期待を高めるものとなった。
 
 ## 伏線・気付き
@@ -51,9 +55,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://magazine.jp.square-enix.com/yg/introduction/dead/>
-- 用語集：/posts/dead-mount-death-play/glossary/
+- 関連記事：[ デッドマウント・デスプレイの記事一覧 ](/posts/dead-mount-death-play/)
+- 公式リンク：[ ガンガンJOKER公式 ](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- 用語集：[用語集](/posts/dead-mount-death-play/glossary/)

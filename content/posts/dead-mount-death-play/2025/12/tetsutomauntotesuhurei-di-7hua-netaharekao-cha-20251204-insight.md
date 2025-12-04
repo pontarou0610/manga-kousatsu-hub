@@ -146,4 +146,4 @@ images:
 
 
 
-{{< affbox title="ガンガンJOKER公式" desc="詳しくは公式情報をご確認ください" url="https://magazine.jp.square-enix.com/yg/introduction/dead/" >}}
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

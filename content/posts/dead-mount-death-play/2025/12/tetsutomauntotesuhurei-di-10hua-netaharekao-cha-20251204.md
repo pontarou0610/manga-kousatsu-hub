@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第10話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第10話では、主人公の新たな敵である「死神」が登場し、緊迫した戦闘シーンが繰り広げられます。主人公は、仲間たちと共に「死神」に立ち向かう決意を固めます。「ここで終わらせるわけにはいかない！」という主人公のセリフが印象的です。敵との戦闘中に、過去の因縁が明らかになり、主人公は「お前があの時の…」と驚愕します。この瞬間、視聴者はキャラクターの成長と変化を感じ取ることができます。戦闘の最中、仲間の一人が重傷を負い、主人公は「俺が守る！」と叫び、仲間たちの絆が試される場面が描かれます。最後には、次回への引きが仕掛けられ、主人公が新たな力に目覚める兆しが見えます。
 
 ## 伏線・気付き
@@ -57,5 +60,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://magazine.jp.square-enix.com/yg/introduction/dead/>
-- 用語集：/posts/dead-mount-death-play/glossary/
+- 関連記事：[ デッドマウント・デスプレイの記事一覧 ](/posts/dead-mount-death-play/)
+- 公式リンク：[ ガンガンJOKER公式 ](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- 用語集：[用語集](/posts/dead-mount-death-play/glossary/)

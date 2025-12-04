@@ -49,4 +49,4 @@ images:
 - [週刊ヤングジャンプ公式](https://youngjump.jp/manga/goldenkamuy/)
 - [アニメ公式サイト](https://kamuy-anime.com/)
 
-{{< affbox title="週刊ヤングジャンプ公式" desc="公式情報はこちら" url="https://youngjump.jp/manga/goldenkamuy/" >}}
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

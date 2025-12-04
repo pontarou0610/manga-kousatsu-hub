@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第2話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第2話は、薬屋の主人公が新しい薬の調合に挑むシーンから始まります。彼女は、様々な材料を使って独自の薬を作り出し、その過程で自分の技術と知識を試されることになります。「この薬が成功すれば、村の人々を救えるかもしれない」と彼女は心の中で思いながら、真剣な表情を見せます。
 
 その後、謎の客が薬屋を訪れます。この客は、普段とは異なる雰囲気を持っており、主人公は緊張感を覚えます。「あなたの薬は本当に効果があるのか？」と問いかける客に、主人公は「私の薬には自信があります」と答えます。このやり取りから、主人公の強い意志と自信が感じられます。
@@ -54,15 +57,15 @@ images:
 - 予想：謎の客との関係が今後のストーリーの鍵となり、彼との対立や協力が展開される可能性が高いです。
 
 ## 関連巻・グッズへのリンク
-- 第2話収録巻：https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
-- 電子書籍：薬屋のひとりごと Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
-- Amazon（小学館サンデーGX版）：https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://sundaygx.com/kusuriya/
-- 用語集：/posts/kusuriya-no-hitorigoto/glossary/
+- 関連記事：[ 薬屋のひとりごとの記事一覧 ](/posts/kusuriya-no-hitorigoto/)
+- 公式リンク：[ 月刊サンデーGX公式 ](https://sundaygx.com/kusuriya/)
+- 用語集：[用語集](/posts/kusuriya-no-hitorigoto/glossary/)

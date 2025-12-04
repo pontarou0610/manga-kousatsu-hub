@@ -32,6 +32,9 @@ images:
 
 {{< spoiler >}}
 ## 第1話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第1話は、主人公・信の幼少期から始まります。信は貧しい農民の家に生まれ、王になることを夢見ている少年です。彼は剣士としての修行を重ね、仲間たちと共に成長していきます。最初のシーンでは、信が自分の夢を語り、周囲の人々からの反応が描かれます。特に彼の親友である「リョウ」との会話が印象的で、信の情熱が伝わってきます。次第に信は戦の準備を進め、仲間たちとの絆が深まる中で、彼の決意が固まっていく様子が描写されます。最後には、信が自らの運命を受け入れる姿が強調され、物語の核心に迫る伏線が張られます。
 
 ## 伏線・気付き
@@ -45,14 +48,15 @@ images:
 - 予想：信とリョウの友情が試される瞬間が訪れ、彼らの関係が物語の重要なポイントになると考えられる。特に、戦争の中での選択が彼らの運命を大きく左右するかもしれない。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻：https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
-- 電子書籍：キングダム Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://youngjump.jp/manga/kingdom/
-- 用語集：/posts/kingdom/glossary/
+- 関連記事：[ キングダムの記事一覧 ](/posts/kingdom/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/kingdom/)
+- 用語集：[用語集](/posts/kingdom/glossary/)

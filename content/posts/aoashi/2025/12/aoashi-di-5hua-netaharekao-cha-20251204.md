@@ -34,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第5話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 アシトは練習で先輩から厳しい指摘を受け、自分の弱点と真剣に向き合うことになる。「負けない、絶対に成長する」と決意を口にし、反復練習に打ち込み始める。ケンジら仲間も刺激を受け、チームの結束が強まっていく。
 
 終盤では次戦に向けた作戦会議が開かれ、ポジショニングや守備の連動が確認される。アシトは「みんなで勝つために全力を尽くそう」とチームを鼓舞し、士気を高めた。
@@ -57,5 +60,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：[公式サイト](https://bigcomicbros.net/comics/30384/)
-- 用語集へのリンク：[/posts/aoashi/glossary/](/posts/aoashi/glossary/)
+- 関連記事：[ アオアシの記事一覧 ](/posts/aoashi/)
+- 公式リンク：[ ビッグコミックス公式 ](https://bigcomicbros.net/comics/30384/)
+- 用語集：[用語集](/posts/aoashi/glossary/)

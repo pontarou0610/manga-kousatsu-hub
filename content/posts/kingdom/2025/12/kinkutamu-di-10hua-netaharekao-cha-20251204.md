@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第10話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第10話では、信が仲間たちと共に新たな戦略を練る場面から始まります。彼らはこの戦争で勝つために、様々な情報を集め、作戦を立てる必要があることを痛感しています。信は「全ては勝利のために」と言い、仲間たちに意気込みを伝えます。この時、彼の表情には決意が見えます。
 
 その後、敵軍との接触があり、緊迫した状況が展開されます。敵軍の動きに敏感になり、信たちは彼らの策略に巻き込まれそうになります。信は「俺たちが負けるわけにはいかない！」と叫び、仲間たちを鼓舞します。この場面では、信のリーダーシップが際立ち、仲間たちとの絆が深まっていく様子が描かれています。
@@ -63,5 +66,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://youngjump.jp/manga/kingdom/>
-- 用語集：/posts/kingdom/glossary/
+- 関連記事：[ キングダムの記事一覧 ](/posts/kingdom/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/kingdom/)
+- 用語集：[用語集](/posts/kingdom/glossary/)

@@ -33,6 +33,9 @@ images:
 
 {{< spoiler >}}
 ## 第15話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第15話では、主人公が新たな敵である謎の組織と直面するところから物語が始まります。主人公は冷静に状況を分析し、彼の仲間たちを守るために戦う決意を固めます。敵のリーダーは彼を挑発し、過去のトラウマを刺激する言葉を投げかけます。「お前は何も変わっていない、ただの逃げ者だ」と。これに対し、主人公は「違う、俺は変わった。今は自分のために戦う」と強い意志を見せます。物語が進むにつれて、主人公の過去が徐々に明らかになり、彼の成長と葛藤が描かれます。仲間たちの支えもあり、彼は新たな力を発揮し、敵に立ち向かう姿が印象的です。最終的には壮絶な戦闘が繰り広げられ、主人公は敵を圧倒することに成功しますが、戦闘の後には新たな謎が浮かび上がります。次回に向けての期待感が高まるエピソードでした。
 
 ## 伏線・気付き
@@ -45,14 +48,15 @@ images:
 - 予想：仲間の裏切りが明らかになることで、主人公は新たな仲間を求める旅に出る可能性が高い。この展開は、彼の人間関係をより複雑にするだろう。
 
 ## 関連巻・グッズへのリンク
-- 第15話収録巻：https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
-- 電子書籍：デッドマウント・デスプレイ Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://magazine.jp.square-enix.com/yg/introduction/dead/
-- 用語集：/posts/dead-mount-death-play/glossary/
+- 関連記事：[ デッドマウント・デスプレイの記事一覧 ](/posts/dead-mount-death-play/)
+- 公式リンク：[ ガンガンJOKER公式 ](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- 用語集：[用語集](/posts/dead-mount-death-play/glossary/)

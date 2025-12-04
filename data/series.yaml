@@ -316,12 +316,14 @@
     official_note: "公式情報に基づき、推測は推測と明記する。"
 
 - name: "魔男のイチ"
-  slug: "maotoko-no-ichi"
+  slug: "madan-no-ichi"
   rss: ""
   release_day: "2025-01-27"
   manual: false
   auto_publish: true
-  official_links: []
+  official_links:
+    - label: "公式サイト"
+      url: "https://www.shonenjump.com/j/rensai/madannoichi.html"
   tags:
     - "ダークファンタジー"
     - "サスペンス"

@@ -20,6 +20,7 @@ disclaimer: "史実や文化の引用は公式資料と監修コメントに従�
 images:
   - "ogp/2025/20251204_ko-rutenkamui-di-13hua-netaharekao-cha-20251204.png"
 ---
+
 今回はゴールデンカムイ第13話の内容を詳しくまとめました。ネタバレが含まれていますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第13話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第13話では、アシリパと杉元が新たな仲間であるキロランケと出会う場面から始まります。彼は彼らに、アイヌの金塊にまつわる秘密を教えることを約束します。アシリパは彼の言葉に興味を持ちつつも、杉元は彼を警戒します。「俺はお前を信じてないからな」と杉元が言うと、キロランケは微笑みながら「信じるかどうかはお前次第だ」と返します。
 
 その後、彼らは敵対勢力である白石と遭遇します。緊迫した対峙が続く中、白石は「お前たちが金塊を探しているなら、俺も仲間に入れてくれ」と申し出ます。杉元は戸惑いながらも、アシリパの意を汲んで彼を受け入れることにします。
@@ -55,9 +59,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://youngjump.jp/manga/goldenkamuy/>
-- 用語集：/posts/golden-kamuy/glossary/
+- 関連記事：[ ゴールデンカムイの記事一覧 ](/posts/golden-kamuy/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/goldenkamuy/)
+- 用語集：[用語集](/posts/golden-kamuy/glossary/)

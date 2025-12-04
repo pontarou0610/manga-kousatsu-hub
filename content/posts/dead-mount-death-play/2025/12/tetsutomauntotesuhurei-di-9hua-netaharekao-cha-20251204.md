@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第9話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第9話では、主人公の山田が新たな敵、暗黒の魔術師と対峙するシーンから物語が始まる。彼はその強大な力に圧倒されながらも、仲間たちの支えを受けて立ち向かう決意を固める。「俺は負けない。仲間がいるから！」と叫ぶ山田の姿は、彼の成長を象徴している。
 
 その後、回想シーンが挿入され、山田の過去が描かれる。彼が幼少期に経験した辛い出来事が明らかになり、彼の現在の行動に深い意味を持たせる。「あの時の自分を取り戻すために、俺は戦う」と心の中で決意する。
@@ -63,5 +66,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://magazine.jp.square-enix.com/yg/introduction/dead/>
-- 用語集：/posts/dead-mount-death-play/glossary/
+- 関連記事：[ デッドマウント・デスプレイの記事一覧 ](/posts/dead-mount-death-play/)
+- 公式リンク：[ ガンガンJOKER公式 ](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- 用語集：[用語集](/posts/dead-mount-death-play/glossary/)

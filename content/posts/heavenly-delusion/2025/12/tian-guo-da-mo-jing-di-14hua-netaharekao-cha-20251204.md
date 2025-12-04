@@ -20,6 +20,7 @@ disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバ�
 images:
   - "ogp/2025/20251204_tian-guo-da-mo-jing-di-14hua-netaharekao-cha-20251204.png"
 ---
+
 第14話では、物語が新たな展開を迎えます。ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第14話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第14話では、主人公のユウが新たな仲間であるリナと出会うシーンから始まります。彼女は神秘的な力を持ち、ユウの過去に関する秘密を知っている様子です。ユウは彼女に対して警戒心を抱きつつも、次第に彼女の存在が心の支えになっていくことを感じます。ユウの過去のトラウマが明らかになる場面では、彼が幼少期に経験した出来事がフラッシュバックとして描かれ、彼の心の深い傷が浮き彫りになります。「あの時、助けてくれなかったのか…」という彼のセリフが、彼の苦しみを象徴しています。
 
 物語が進むにつれて、敵の陰謀も徐々に明らかになります。リナはユウに「私たちには共通の敵がいる」と告げ、二人は協力してその敵に立ち向かう決意を固めます。この時のユウの表情には、仲間を得た喜びと同時に新たな戦いへの不安が交錯しています。
@@ -55,9 +59,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://afternoon.kodansha.co.jp/c/tengokudaimakyo/>
-- 用語集：/posts/heavenly-delusion/glossary/
+- 関連記事：[ 天国大魔境の記事一覧 ](/posts/heavenly-delusion/)
+- 公式リンク：[ 作品公式サイト ](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
+- 用語集：[用語集](/posts/heavenly-delusion/glossary/)

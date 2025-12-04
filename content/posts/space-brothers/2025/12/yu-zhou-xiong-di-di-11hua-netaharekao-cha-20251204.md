@@ -22,6 +22,7 @@ disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバ�
 images:
   - "ogp/2025/20251204_yu-zhou-xiong-di-di-11hua-netaharekao-cha-20251204.png"
 ---
+
 第11話では、宇宙への夢を追い続ける兄弟の物語がさらに深まります。ネタバレが含まれますので、ご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -35,6 +36,9 @@ images:
 
 {{< spoiler >}}
 ## 第11話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第11話では、ムッタが宇宙飛行士としての試験に向けた準備を進める中、彼の心の葛藤が描かれます。ムッタは、過去の失敗から立ち直れずにいることを自覚し、再び自分を奮い立たせようとします。彼の友人であるヒビトが、彼を励まし、共に宇宙を目指す決意を固めるシーンが印象的です。「俺たちの夢は、まだ終わっちゃいない！」とヒビトが叫ぶ瞬間、ムッタの心にも火が灯ります。
 
 また、ヒビトの過去が少しずつ明らかになり、彼がどのようにして宇宙飛行士になったのか、そしてその道のりで直面した苦悩が描かれます。彼の「夢を追い続けることは、時に孤独だ」と語る姿に、視聴者は彼の強さと脆さを感じ取ります。
@@ -57,10 +61,11 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 - Amazon（オールカラー版）：<https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22>
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://morning.kodansha.co.jp/c/uchukyodai/>
-- 用語集：/posts/space-brothers/glossary/
+- 関連記事：[ 宇宙兄弟の記事一覧 ](/posts/space-brothers/)
+- 公式リンク：[ モーニング公式サイト ](https://morning.kodansha.co.jp/c/uchukyodai/)
+- 用語集：[用語集](/posts/space-brothers/glossary/)

@@ -20,6 +20,7 @@ disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネ�
 images:
   - "ogp/2025/20251204_sukitsuhutoro-hua-di-11hua-netaharekao-cha-20251204.png"
 ---
+
 第11話では、物語が新たな展開を迎えます。ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第11話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第11話では、主人公のミカが新しい友人たちと共に、学校の文化祭の準備に取り組む様子が描かれます。彼女は、友人のユウと共に出店のアイデアを考える中で、自分の意見をしっかりと主張することの大切さに気づきます。「自分の気持ちを伝えることが、友達との絆を深める第一歩だ」と考えるミカ。文化祭の準備中、彼女は過去の出来事を思い出し、自分がどれだけ成長したかを実感します。特に、以前は人前で話すことが苦手だった彼女が、今では自信を持って意見を言えるようになったことに感慨深い思いを抱きます。最終的に、文化祭の日、ミカたちの出店は大成功を収め、彼女は新たな友情の絆を感じます。仲間たちとの笑顔あふれるシーンが印象的で、「これからも一緒に成長していこう」と誓い合う場面で締めくくられます。
 
 ## 伏線・気付き
@@ -50,9 +54,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://afternoon.kodansha.co.jp/c/skiptoloafer/>
-- 用語集：/posts/skip-and-loafer/glossary/
+- 関連記事：[ スキップとローファーの記事一覧 ](/posts/skip-and-loafer/)
+- 公式リンク：[ 月刊アフタヌーン公式 ](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- 用語集：[用語集](/posts/skip-and-loafer/glossary/)

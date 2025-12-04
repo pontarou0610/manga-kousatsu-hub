@@ -33,6 +33,9 @@ images:
 
 {{< spoiler >}}
 ## 第16話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第16話では、信が新たな戦略を考える場面から始まります。彼は仲間たちと共に、敵軍の動きを分析し、次の一手を模索します。信の心の中には、仲間を守りたいという強い思いが芽生えており、その姿勢が彼を成長させています。彼は、「仲間を守るためには、時には冷酷に決断しなければならない」と自らに言い聞かせます。
 
 その後、敵軍との接触があり、緊張感が高まります。信は、敵の指揮官に対しても冷静に対処し、仲間たちを鼓舞します。「俺たちには負ける理由なんてない！」と叫ぶ信の声は、仲間たちに勇気を与えます。
@@ -50,14 +53,15 @@ images:
 - 予想：信の成長を見守る仲間たちが、彼の戦略に従い、次第に自らもリーダーシップを発揮するようになると予想される。
 
 ## 関連巻・グッズへのリンク
-- 第16話収録巻：https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
-- 電子書籍：キングダム Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://youngjump.jp/manga/kingdom/
-- 用語集：/posts/kingdom/glossary/
+- 関連記事：[ キングダムの記事一覧 ](/posts/kingdom/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/kingdom/)
+- 用語集：[用語集](/posts/kingdom/glossary/)

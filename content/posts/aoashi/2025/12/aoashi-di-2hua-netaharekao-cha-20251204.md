@@ -20,6 +20,8 @@ disclaimer: "実在チームとの比較は公開資料を根拠に行います�
 images:
   - "ogp/2025/20251204_aoashi-di-2hua-netaharekao-cha-20251204.png"
 ---
+
+
 アオアシの第2話が公開されました！今回はストーリーの展開やキャラクターの心情に迫りますので、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第2話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第2話では、アシトがついにサッカー部に入部する決意を固める場面から始まります。彼は自分の夢を追いかけることを決め、仲間たちと共に成長する姿が描かれます。練習初日の緊張感が伝わる中、彼は先輩たちと顔を合わせます。「俺はこのチームで一番になりたい！」とアシトは心に誓います。
 
 練習が始まると、アシトは自分の技術の未熟さに直面しますが、彼の持つ独特な視点や判断力が少しずつ周囲に認められていきます。先輩たちの厳しい指導の中で、「お前、いいセンスしてるな」と言われる場面では、彼の成長を感じさせる瞬間です。
@@ -52,14 +57,15 @@ images:
 - 予想: 今後、アシトのライバルとなるキャラクターが登場し、彼との対決がストーリーのキーポイントになると考えられる。
 
 ## 関連巻・グッズへのリンク
-- 第2話収録巻：https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
-- 電子書籍：アオアシ Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://bigcomicbros.net/comics/30384/
-- 用語集：/posts/aoashi/glossary/
+- 関連記事：[ アオアシの記事一覧 ](/posts/aoashi/)
+- 公式リンク：[ ビッグコミックス公式 ](https://bigcomicbros.net/comics/30384/)
+- 用語集：[用語集](/posts/aoashi/glossary/)

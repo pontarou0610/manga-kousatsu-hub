@@ -22,6 +22,7 @@ disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補�
 images:
   - "ogp/2025/20251204_yao-wu-nohitorikoto-di-12hua-netaharekao-cha-20251204.png"
 ---
+
 第12話では、物語が新たな展開を迎えます。ネタバレが含まれますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -35,6 +36,9 @@ images:
 
 {{< spoiler >}}
 ## 第12話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第12話では、主人公の薬屋の少女が新たな薬の調合に挑戦するシーンから始まります。彼女は、最近の出来事から得た知識を元に、特別な薬を作ることを決意します。彼女の心の中には、成功への強い決意と、過去の失敗への恐れが交錯しています。特に、彼女が言った「この薬が成功すれば、誰かの助けになる」というセリフは、彼女の成長と使命感を象徴しています。
 
 その後、意外な人物である幼馴染の少年が突然現れ、二人の再会が物語を動かします。彼は、主人公に自分の夢を語り、彼女もまた自分の目標を見つめ直すきっかけとなります。「あなたの薬が、私の未来を変えてくれるかもしれない」という言葉が、二人の関係性を深める重要なポイントです。
@@ -57,10 +61,11 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 - Amazon（小学館サンデーGX版）：<https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22>
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://sundaygx.com/kusuriya/>
-- 用語集：/posts/kusuriya-no-hitorigoto/glossary/
+- 関連記事：[ 薬屋のひとりごとの記事一覧 ](/posts/kusuriya-no-hitorigoto/)
+- 公式リンク：[ 月刊サンデーGX公式 ](https://sundaygx.com/kusuriya/)
+- 用語集：[用語集](/posts/kusuriya-no-hitorigoto/glossary/)

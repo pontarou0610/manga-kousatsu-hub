@@ -34,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第1話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第1話は、薬屋の少女・薬子が日常の仕事をこなしながら、様々な客と接する様子から始まります。薬子は、薬の知識が豊富で、客の症状に応じた適切な薬を選び出す能力を持っています。ある日、彼女の元に一人の貴族が訪れ、珍しい病気の治療を依頼します。薬子はその依頼に対し、冷静に状況を分析し、必要な薬草を調達するために行動を開始します。この過程で、彼女の薬に対する情熱や、薬草の知識がどれほど重要であるかが強調されます。
 
 また、薬子の背後にある過去や、彼女が薬屋を営む理由もほのめかされます。彼女は、家族を失った経験から、薬の力で人々を助けたいと願っているのです。第1話の終わりには、次の大きな事件が起こる予感を感じさせるような暗示があり、物語がどのように進展するかに期待を寄せさせます。
@@ -49,15 +52,15 @@ images:
 - 貴族の依頼が引き金となり、薬子が大きな事件に巻き込まれる可能性が高いと考えられる。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻：https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
-- 電子書籍：薬屋のひとりごと Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
-- Amazon（小学館サンデーGX版）：https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
+- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://sundaygx.com/kusuriya/
-- 用語集：/posts/kusuriya-no-hitorigoto/glossary/
+- 関連記事：[ 薬屋のひとりごとの記事一覧 ](/posts/kusuriya-no-hitorigoto/)
+- 公式リンク：[ 月刊サンデーGX公式 ](https://sundaygx.com/kusuriya/)
+- 用語集：[用語集](/posts/kusuriya-no-hitorigoto/glossary/)

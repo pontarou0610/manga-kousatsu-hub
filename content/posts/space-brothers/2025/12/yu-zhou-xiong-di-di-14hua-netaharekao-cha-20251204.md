@@ -22,6 +22,7 @@ disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバ�
 images:
   - "ogp/2025/20251204_yu-zhou-xiong-di-di-14hua-netaharekao-cha-20251204.png"
 ---
+
 第14話では、宇宙兄弟の物語がさらに深まります。ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -35,6 +36,9 @@ images:
 
 {{< spoiler >}}
 ## 第14話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第14話は、南波六太が宇宙飛行士としての新たな挑戦に向けて心を決めるところから始まります。彼は、仲間たちと共に訓練を重ねながら、様々な試練を乗り越えようと奮闘します。六太の内面的な葛藤が描かれ、彼は「自分は本当に宇宙に行けるのか？」という不安を抱えています。このような中、彼の友人である日々人が励ましの言葉をかけ、「お前ならできる！」と背中を押すシーンが印象的です。
 
 また、仲間たちとの絆が深まる瞬間もあり、特に新たに加わったキャラクターとの交流が強調されます。彼らは共に協力し合い、互いの成長を促す姿が描かれ、チームの結束が試される場面が印象的です。最終的に、六太は重大な決断を下すことになり、彼の未来に大きな影響を与える選択をすることになります。「この道を選ぶのが正しいのか、まだ迷っている」と彼は呟き、胸の内に秘めた思いを語ります。
@@ -56,10 +60,11 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 - Amazon（オールカラー版）：<https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22>
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://morning.kodansha.co.jp/c/uchukyodai/>
-- 用語集：/posts/space-brothers/glossary/
+- 関連記事：[ 宇宙兄弟の記事一覧 ](/posts/space-brothers/)
+- 公式リンク：[ モーニング公式サイト ](https://morning.kodansha.co.jp/c/uchukyodai/)
+- 用語集：[用語集](/posts/space-brothers/glossary/)

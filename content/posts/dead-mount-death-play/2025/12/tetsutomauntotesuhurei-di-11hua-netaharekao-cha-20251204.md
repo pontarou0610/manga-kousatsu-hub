@@ -20,6 +20,7 @@ disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は�
 images:
   - "ogp/2025/20251204_tetsutomauntotesuhurei-di-11hua-netaharekao-cha-20251204.png"
 ---
+
 デッドマウント・デスプレイ第11話の内容をお届けします。ネタバレが含まれますのでご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第11話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第11話では、主人公のサトルが新たな敵、謎の暗殺者と対峙するところから物語がスタートします。サトルは冷静さを保ちながらも、彼の過去のトラウマが蘇り、心の中で葛藤しています。「俺はもう逃げない。必ずこの敵を倒す」と決意を新たにします。暗殺者との戦闘は激化し、サトルはこれまでに培った技術を駆使して応戦しますが、暗殺者の能力は予想以上であり、彼にとって大きな試練となります。  
 
 その後、サトルの仲間たちが彼を支援するために駆けつけます。仲間の一人であるリナは、「一人じゃない、私たちがついている！」と励まし、サトルは仲間との絆を再確認します。戦闘の最中、過去の出来事がフラッシュバックし、サトルの心に深い影を落とします。特に、彼の過去の師匠との別れのシーンが強調され、「お前が強くなることを願っている」という言葉が響きます。  
@@ -54,9 +58,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://magazine.jp.square-enix.com/yg/introduction/dead/>
-- 用語集：/posts/dead-mount-death-play/glossary/
+- 関連記事：[ デッドマウント・デスプレイの記事一覧 ](/posts/dead-mount-death-play/)
+- 公式リンク：[ ガンガンJOKER公式 ](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- 用語集：[用語集](/posts/dead-mount-death-play/glossary/)

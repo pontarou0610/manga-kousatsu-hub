@@ -55,6 +55,7 @@ images:
 
 ---
 
+
 第16話では、キャラクターたちの内面や関係性が深く掘り下げられます。一体、彼らはどのように成長していくのでしょうか？
 
 
@@ -123,11 +124,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22))
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D))
 
 
 
@@ -144,4 +145,4 @@ images:
 
 
 
-{{< affbox title="作品公式サイト" desc="詳しくは公式情報をご確認ください" url="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" >}}
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

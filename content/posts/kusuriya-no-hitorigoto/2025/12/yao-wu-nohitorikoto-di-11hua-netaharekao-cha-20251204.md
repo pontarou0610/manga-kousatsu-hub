@@ -22,6 +22,7 @@ disclaimer: "医療・薬学の描写は公式情報に限定し、推測は補�
 images:
   - "ogp/2025/20251204_yao-wu-nohitorikoto-di-11hua-netaharekao-cha-20251204.png"
 ---
+
 第11話の内容をお届けします！ネタバレが含まれますので、注意してくださいね。さあ、物語の展開を見ていきましょう！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -35,6 +36,9 @@ images:
 
 {{< spoiler >}}
 ## 第11話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第11話では、薬屋の主人である主人公が新たな依頼を受けるところから始まります。依頼の内容は、王宮での毒殺事件に関与する薬の調査でした。主人公は、依頼を受けるにあたり、少し不安を感じつつも、自分の能力を試すチャンスだと心を決めます。彼女の内心の葛藤が描かれ、成長を感じさせます。
 
 王宮に到着した主人公は、そこで出会った貴族たちとのやり取りを通じて、彼女の知識と洞察力が試されます。特に、ある貴族の言葉が気にかかり、彼女はその裏に隠された意図を探ろうとします。「真実はいつも一つ、でもそれを見つけるのは難しい」と彼女は自らに言い聞かせます。
@@ -59,10 +63,11 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 - Amazon（小学館サンデーGX版）：<https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22>
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://sundaygx.com/kusuriya/>
-- 用語集：/posts/kusuriya-no-hitorigoto/glossary/
+- 関連記事：[ 薬屋のひとりごとの記事一覧 ](/posts/kusuriya-no-hitorigoto/)
+- 公式リンク：[ 月刊サンデーGX公式 ](https://sundaygx.com/kusuriya/)
+- 用語集：[用語集](/posts/kusuriya-no-hitorigoto/glossary/)

@@ -54,6 +54,5 @@ images: []
 - 参考: 第2巻
 
 
-{{< affbox title="月刊サンデーGX公式" desc="公式情報はこちら" url="https://sundaygx.com/kusuriya/" >}}
-
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}
 - [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)

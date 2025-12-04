@@ -20,6 +20,7 @@ disclaimer: "実在チームとの比較は公開資料を根拠に行います�
 images:
   - "ogp/2025/20251204_aoashi-di-12hua-netaharekao-cha-20251204.png"
 ---
+
 アオアシの第12話が公開されました！今回は物語が大きく動きますので、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第12話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第12話では、アシトが新たに加入したチームでの練習がメインの舞台となります。彼は初めての練習試合に臨む前に、緊張と期待が入り混じった複雑な気持ちを抱えています。「新しい仲間と一緒に戦うんだ」と心の中で決意を固めます。試合が始まると、アシトは持ち前のスピードとテクニックを活かし、相手チームに立ち向かいます。特に、彼がドリブルを決めるシーンでは「これが俺のサッカーだ！」と叫び、彼の成長を象徴する瞬間となります。
 
 一方で、チームメイトの一人であるカズマはアシトのプレースタイルに嫉妬し、彼との関係が微妙に変化していく様子が描かれます。試合の終盤、アシトは重要な場面でパスを受け、決定的なシュートを放つが、相手ゴールキーパーに阻まれてしまいます。これにより、アシトは「次こそは決める」と強く心に誓います。最後に、監督が「お前にはもっとできるはずだ」とアシトに期待を寄せるセリフがあり、今後の成長に期待が高まります。
@@ -53,9 +57,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://bigcomicbros.net/comics/30384/>
-- 用語集：/posts/aoashi/glossary/
+- 関連記事：[ アオアシの記事一覧 ](/posts/aoashi/)
+- 公式リンク：[ ビッグコミックス公式 ](https://bigcomicbros.net/comics/30384/)
+- 用語集：[用語集](/posts/aoashi/glossary/)

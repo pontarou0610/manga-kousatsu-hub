@@ -112,4 +112,4 @@ images:
 
 
 
-{{< affbox title="作品公式サイト" desc="詳しくは公式情報をご確認ください" url="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" >}}
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

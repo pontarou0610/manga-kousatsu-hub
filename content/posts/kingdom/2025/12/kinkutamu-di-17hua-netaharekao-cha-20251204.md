@@ -33,6 +33,9 @@ images:
 
 {{< spoiler >}}
 ## 第17話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第17話では、信が仲間たちと共に戦場での新たな戦略を練る場面から始まります。彼は、敵の動きに敏感になり、仲間たちに指示を出しながら、戦の流れを変えようと奮闘します。信の熱意が仲間たちに伝わり、彼らもまた信じる力を強めていきます。特に、彼の言葉「勝利は自分たちの手の中にある」というセリフは、仲間たちの心を奮い立たせ、戦意を高める重要な瞬間となります。 
 
 一方で、敵軍の動きも描かれ、彼らの策略が明らかになる中、信たちはそれにどう立ち向かうかを考え続けます。特に、敵の指揮官が信の存在を警戒している様子が描かれ、信が戦場での影響力を増していることが強調されます。 
@@ -50,14 +53,15 @@ images:
 - 予想: 敵軍の指揮官との直接対決が近づいているため、信が彼との対話を通じて新たな成長を遂げる展開が予想される。
 
 ## 関連巻・グッズへのリンク
-- 第17話収録巻：https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
-- 電子書籍：キングダム Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://youngjump.jp/manga/kingdom/
-- 用語集：/posts/kingdom/glossary/
+- 関連記事：[ キングダムの記事一覧 ](/posts/kingdom/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/kingdom/)
+- 用語集：[用語集](/posts/kingdom/glossary/)

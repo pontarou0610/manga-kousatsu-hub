@@ -49,4 +49,4 @@ images:
 - [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
 - [アニメ公式サイト](https://dmdp-anime.jp/)
 
-{{< affbox title="ガンガンJOKER公式" desc="公式情報はこちら" url="https://magazine.jp.square-enix.com/yg/introduction/dead/" >}}
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

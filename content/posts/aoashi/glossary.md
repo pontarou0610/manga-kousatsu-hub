@@ -54,6 +54,5 @@ images: []
 - 参考: 第2巻
 
 
-{{< affbox title="ビッグコミックス公式" desc="公式情報はこちら" url="https://bigcomicbros.net/comics/30384/" >}}
-
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}
 - [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)

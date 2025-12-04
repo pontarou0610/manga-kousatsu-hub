@@ -49,4 +49,4 @@ images:
 - [週刊ヤングジャンプ公式](https://youngjump.jp/manga/kingdom/)
 - [TVアニメ公式サイト](https://kingdom-anime.com/)
 
-{{< affbox title="週刊ヤングジャンプ公式" desc="公式情報はこちら" url="https://youngjump.jp/manga/kingdom/" >}}
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

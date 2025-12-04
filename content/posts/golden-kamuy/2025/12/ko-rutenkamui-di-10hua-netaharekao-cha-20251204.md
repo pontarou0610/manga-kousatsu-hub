@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第10話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第10話では、アシリパと杉元がアイヌの隠された金の情報を追い続ける中、彼らは新たな敵、敵対する部隊に遭遇します。アシリパは、自分の祖父の教えを思い出し、金のありかを示す手がかりを見つけ出します。杉元は、彼女の強さに感心しつつも、彼女を守るために全力を尽くす決意を新たにします。敵との接触が増えてきたことで、緊張感が高まる中、杉元は「この金は俺たちの未来を変えるためのものだ」と語ります。アシリパは「私たちの歴史も変わるかもしれない」と応じ、彼女の覚悟を示します。彼らの絆が試される場面では、互いの信頼が深まる様子が描かれ、観客は二人の成長を感じ取ることができます。
 
 ## 伏線・気付き
@@ -57,5 +60,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://youngjump.jp/manga/goldenkamuy/>
-- 用語集：/posts/golden-kamuy/glossary/
+- 関連記事：[ ゴールデンカムイの記事一覧 ](/posts/golden-kamuy/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/goldenkamuy/)
+- 用語集：[用語集](/posts/golden-kamuy/glossary/)

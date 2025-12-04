@@ -53,6 +53,5 @@ images: []
 - 参考: 第2巻
 
 
-{{< affbox title="ガンガンJOKER公式" desc="公式情報はこちら" url="https://magazine.jp.square-enix.com/yg/introduction/dead/" >}}
-
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}
 - [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)

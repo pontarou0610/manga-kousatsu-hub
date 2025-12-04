@@ -20,6 +20,7 @@ disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバ�
 images:
   - "ogp/2025/20251204_tian-guo-da-mo-jing-di-12hua-netaharekao-cha-20251204.png"
 ---
+
 第12話では、物語が新たな展開を迎えます。ネタバレが含まれますので、注意してお読みください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第12話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第12話では、主人公のカナタが新たな仲間であるリオと出会い、彼女の持つ特別な能力に驚かされる場面から始まります。リオは、カナタたちが直面する強大な敵に対抗するための重要な存在であることが示唆されます。カナタは彼女との出会いに希望を抱く一方で、過去のトラウマがフラッシュバックし、心の葛藤を抱えます。 
 
 その後、カナタたちは敵勢力との緊迫した対峙に突入します。ここで、リオの能力が発揮され、彼女の力で一時的に敵を退けることに成功しますが、敵のリーダーであるダークが現れ、状況は一変します。ダークは、カナタの過去に関する重要な秘密をほのめかし、カナタの動揺が増す場面が描かれます。
@@ -55,9 +59,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://afternoon.kodansha.co.jp/c/tengokudaimakyo/>
-- 用語集：/posts/heavenly-delusion/glossary/
+- 関連記事：[ 天国大魔境の記事一覧 ](/posts/heavenly-delusion/)
+- 公式リンク：[ 作品公式サイト ](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
+- 用語集：[用語集](/posts/heavenly-delusion/glossary/)

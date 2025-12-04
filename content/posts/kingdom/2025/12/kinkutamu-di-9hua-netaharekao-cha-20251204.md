@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第9話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第9話は、信が新たな戦術を考案するシーンから始まります。彼は仲間たちと共に、敵軍の動きを分析し、どのように戦うかを議論します。信の決意が強く感じられ、彼は自分たちの力を信じている様子が描かれています。次に、敵軍との接触が迫り、緊張感が高まります。信は仲間たちに、恐れずに戦うように励まし、彼らの絆が深まる瞬間が見られます。この過程で、友情や裏切りのテーマが強調され、特にある仲間が信の信頼を裏切る暗示が見え隠れします。最後には、戦闘が始まり、信が敵の指揮官と対峙するシーンで終わります。彼の心の中には、勝利への強い思いと仲間を守る決意が宿っています。
 
 ## 伏線・気付き
@@ -57,5 +60,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://youngjump.jp/manga/kingdom/>
-- 用語集：/posts/kingdom/glossary/
+- 関連記事：[ キングダムの記事一覧 ](/posts/kingdom/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/kingdom/)
+- 用語集：[用語集](/posts/kingdom/glossary/)

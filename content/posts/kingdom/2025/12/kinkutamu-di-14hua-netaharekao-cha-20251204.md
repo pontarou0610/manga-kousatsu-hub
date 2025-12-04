@@ -20,6 +20,7 @@ disclaimer: "史実との対比は公式コメントを参照し、ネタバレ�
 images:
   - "ogp/2025/20251204_kinkutamu-di-14hua-netaharekao-cha-20251204.png"
 ---
+
 今回はキングダム第14話の内容を詳しくまとめました。ネタバレが含まれますので、注意してくださいね。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第14話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第14話では、信が彼の仲間たちと共に新たな戦略を練るシーンから始まります。信は、これまでの経験を活かし、敵軍の動きを読み取る力を高めていきます。「勝利は準備から生まれる」と彼は仲間に語り、士気を高めようとします。すると、敵軍の動向が明らかになり、接触が迫る中で緊張感が高まります。信は「ここで逃げるわけにはいかない」と決意を新たにし、仲間たちを鼓舞します。次に、重要なキャラクターである王騎が登場し、信に対して「お前の成長を見守っている」と言い残します。この言葉は信にとって大きな励みとなり、彼の心に火を灯します。物語は、信の成長と仲間たちとの絆を深める様子を描きつつ、戦の緊迫感を強調します。最後には、信が敵軍との接触を果たし、戦いが始まる予感が漂います。
 
 ## 伏線・気付き
@@ -51,9 +55,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://youngjump.jp/manga/kingdom/>
-- 用語集：/posts/kingdom/glossary/
+- 関連記事：[ キングダムの記事一覧 ](/posts/kingdom/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/kingdom/)
+- 用語集：[用語集](/posts/kingdom/glossary/)

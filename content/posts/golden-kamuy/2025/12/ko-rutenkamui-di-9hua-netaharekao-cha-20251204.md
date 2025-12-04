@@ -35,6 +35,9 @@ images:
 
 {{< spoiler >}}
 ## 第9話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第9話では、アシリパと杉元が一緒に行動し、新たな仲間を探す旅を続ける様子が描かれています。彼らは、アイヌの文化や伝承を学びながら、様々な試練に直面します。途中、彼らは敵対勢力との接触を果たし、緊迫した状況に置かれることになります。この接触を通じて、杉元は自らの過去と向き合い、アシリパの存在がどれほど大切かを再認識します。特に、アシリパが「私たちは仲間だ」と言った瞬間、杉元の心に何かが響き渡るのです。それが彼をさらに強くするきっかけとなるでしょう。物語の核心に迫る情報も明らかになり、次の展開への期待が高まります。
 
 ## 伏線・気付き
@@ -57,5 +60,6 @@ images:
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://youngjump.jp/manga/goldenkamuy/>
-- 用語集：/posts/golden-kamuy/glossary/
+- 関連記事：[ ゴールデンカムイの記事一覧 ](/posts/golden-kamuy/)
+- 公式リンク：[ 週刊ヤングジャンプ公式 ](https://youngjump.jp/manga/goldenkamuy/)
+- 用語集：[用語集](/posts/golden-kamuy/glossary/)

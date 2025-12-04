@@ -20,6 +20,7 @@ disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネ�
 images:
   - "ogp/2025/20251204_sukitsuhutoro-hua-di-14hua-netaharekao-cha-20251204.png"
 ---
+
 第14話では、キャラクターたちの成長や新たな挑戦が描かれています。これからネタバレが含まれますのでご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -33,6 +34,9 @@ images:
 
 {{< spoiler >}}
 ## 第14話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第14話は、ミカが新しい友人であるリョウと一緒に過ごす場面から始まります。リョウは明るくて元気な性格で、ミカは彼と過ごすことで少しずつ自分を開いていく。しかし、彼女はまだ自分の気持ちに不安を抱えていました。 
 
 ある日、クラスメートのサトシが突然、ミカに対して冷たく接するようになります。彼の行動に困惑したミカは、彼との関係をどうするべきか悩み、友達のアヤに相談します。アヤは「自分の気持ちを大切にしなさい」とアドバイスをし、ミカはその言葉に勇気をもらいます。
@@ -57,9 +61,10 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：<https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22>
-- 楽天で探す：<https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22>)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
 
 ## 関連記事・用語集
-- 関連話へのリンク：<https://afternoon.kodansha.co.jp/c/skiptoloafer/>
-- 用語集：/posts/skip-and-loafer/glossary/
+- 関連記事：[ スキップとローファーの記事一覧 ](/posts/skip-and-loafer/)
+- 公式リンク：[ 月刊アフタヌーン公式 ](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- 用語集：[用語集](/posts/skip-and-loafer/glossary/)

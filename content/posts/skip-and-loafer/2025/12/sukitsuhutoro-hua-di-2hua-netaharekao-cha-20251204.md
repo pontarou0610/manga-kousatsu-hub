@@ -33,6 +33,9 @@ images:
 
 {{< spoiler >}}
 ## 第2話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第2話では、主人公のミカが新しい高校生活をスタートさせる様子が描かれます。彼女は緊張しながらも、新しいクラスメートたちと初めての対面を果たします。特に、同じクラスのユウとサクラとの出会いが印象的で、ミカは彼らの個性的な性格に引き込まれていきます。「この学校、楽しくなりそう！」と心の中で感じるミカ。 
 
 また、学校行事の準備が進む中、ミカはユウとサクラと共に手を組み、クラスの代表として活動することになります。彼女のリーダーシップが試される場面もあり、少しの不安を抱えながらも「みんなで頑張ろう！」と意気込む姿が描かれています。 
@@ -52,14 +55,15 @@ images:
 - 予想: リナの疑念が解消される過程で、ミカとリナの関係が再構築され、より強い友情が築かれる可能性がある。
 
 ## 関連巻・グッズへのリンク
-- 第2話収録巻：https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
-- 電子書籍：スキップとローファー Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://afternoon.kodansha.co.jp/c/skiptoloafer/
-- 用語集：/posts/skip-and-loafer/glossary/
+- 関連記事：[ スキップとローファーの記事一覧 ](/posts/skip-and-loafer/)
+- 公式リンク：[ 月刊アフタヌーン公式 ](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- 用語集：[用語集](/posts/skip-and-loafer/glossary/)

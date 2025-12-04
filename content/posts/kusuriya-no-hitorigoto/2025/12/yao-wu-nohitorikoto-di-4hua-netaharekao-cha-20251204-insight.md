@@ -119,4 +119,4 @@ images:
 
 
 
-{{< affbox title="月刊サンデーGX公式" desc="詳しくは公式情報をご確認ください" url="https://sundaygx.com/kusuriya/" >}}
+{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

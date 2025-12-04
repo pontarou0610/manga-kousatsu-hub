@@ -33,6 +33,9 @@ images:
 
 {{< spoiler >}}
 ## 第18話のあらすじ要約（3分でわかる）
+
+物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
+場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
 第18話では、主人公たちが新たな敵に直面し、戦闘が繰り広げられる。敵のリーダーである「黒の魔女」が登場し、彼女の強力な魔法に圧倒される場面が印象的だ。主人公の「タケル」は、仲間を守るために自らの限界を超えようと奮闘し、その姿に感動を覚える。特に、「お前たちを絶対に守る」という決意のセリフが心に響く。さらに、過去の出来事がフラッシュバックし、タケルの家族との別れが描かれ、彼の内面的な葛藤も浮き彫りになる。この回では、タケルの成長と仲間たちの絆が強調され、彼らがどのように協力して困難を乗り越えるのかが見どころだ。最後には、黒の魔女が次回の展開に向けた不穏なセリフを残し、緊張感を持たせる終わり方となっている。
 
 ## 伏線・気付き
@@ -46,14 +49,15 @@ images:
 - 予想：仲間の一人が裏切り者になる展開が考えられる。彼らの絆が試されることで、物語にさらなる深みが加わるだろう。
 
 ## 関連巻・グッズへのリンク
-- 第18話収録巻：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-- 電子書籍：天国大魔境 Kindle / 楽天Kobo など
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
-- 関連話へのリンク：https://afternoon.kodansha.co.jp/c/tengokudaimakyo/
-- 用語集：/posts/heavenly-delusion/glossary/
+- 関連記事：[ 天国大魔境の記事一覧 ](/posts/heavenly-delusion/)
+- 公式リンク：[ 作品公式サイト ](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
+- 用語集：[用語集](/posts/heavenly-delusion/glossary/)
