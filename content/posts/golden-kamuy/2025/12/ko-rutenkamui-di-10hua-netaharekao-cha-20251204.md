@@ -48,13 +48,13 @@ images:
 - 予想：アシリパと杉元の関係が試練を迎えることで、最終的には彼らが協力して敵を打破する展開になるのではないか。彼らの絆が物語のクライマックスに繋がる可能性が高い。
 
 ## 関連巻・グッズへのリンク
-- [Amazon???](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
-- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- [Amazon???](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
-- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://youngjump.jp/manga/goldenkamuy/

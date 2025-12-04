@@ -57,8 +57,8 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
-- Amazonで検索する： [Amazonで検索する](? [Amazonで検索する： [Amazonで検索する](](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81))
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- Amazonで検索する： [Amazonで探す](? [Amazonで探す](](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81))
 
 ## 関連記事
 - ネタバレ無しの考察版: [ネタバレ無しの考察版](? [ネタバレ無しの考察版: [ネタバレ無しの考察版](](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/mo-nan-noichi-di-1hua-netaharekao-cha-20251203-insight/))

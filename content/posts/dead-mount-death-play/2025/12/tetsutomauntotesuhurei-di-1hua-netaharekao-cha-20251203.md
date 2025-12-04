@@ -45,10 +45,10 @@ images:
 - 主人公が選ぶ道が彼自身の運命を大きく変える可能性を感じさせる。
 
 ### 世界観・設定の掘り下げ
-- 作品世界の設定に関する気づきをここに????????????????。
+- 作品世界の設定に関する気づきをここに整理しました。
 
 ### 気になるセリフ・描写
-- 印象に残ったセリフや演出に関する考察をここに????????????????。
+- 印象に残ったセリフや演出に関する考察をここにまとめました。
 
 ## 伏線・回収ポイントの整理
 - 主人公の過去に秘密があることが示唆されている。
@@ -61,13 +61,13 @@ images:
 - 予想2: 謎のキャラクターとの関係が深まるにつれ、彼の能力の真実が明らかになり、主人公がその力を使うことで新たな危機が訪れることになるだろう。
 
 ## 関連巻・グッズへのリンク
-- [Amazon???](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
-- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- [Amazon???](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
-- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](? [関連話へのリンク： [関連話へのリンク](](https://magazine.jp.square-enix.com/yg/introduction/dead/))

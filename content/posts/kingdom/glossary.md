@@ -56,4 +56,4 @@ images: []
 
 {{< affbox title="週刊ヤングジャンプ公式" desc="公式情報はこちら" url="https://youngjump.jp/manga/kingdom/" >}}
 
-- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)

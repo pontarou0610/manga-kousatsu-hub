@@ -1192,7 +1192,7 @@ def build_suggest_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     Build a fallback entry using Google suggest keywords.
     Use spoiler mode to ensure we still output story content when sources are empty.
     """
-    base_query = f"{series.get('name','')} ??? ????"
+    base_query = f"{series.get('name','')} ネタバレ 最新話"
     suggestions = fetch_google_suggestions(base_query)
     if not suggestions:
         suggestions = fetch_google_suggestions(series.get("name", ""))
@@ -1209,7 +1209,7 @@ def build_suggest_entry(series: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "link": primary_link.get("url", ""),
         "summary": topic,
         "chapter": topic,
-        "intro": f"{series['name']}?????????{topic}??????????????????",
+        "intro": f"{series['name']}のトピックとして「{topic}」に関する最新情報をまとめます。",
         "date": now.isoformat(),
         "force_modes": ["spoiler"],
         "is_fallback": True,

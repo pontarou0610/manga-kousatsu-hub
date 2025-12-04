@@ -56,4 +56,4 @@ images: []
 
 {{< affbox title="月刊サンデーGX公式" desc="公式情報はこちら" url="https://sundaygx.com/kusuriya/" >}}
 
-- [Amazon???](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)

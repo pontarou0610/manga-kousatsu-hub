@@ -56,4 +56,4 @@ images: []
 
 {{< affbox title="ガンガンJOKER公式" desc="公式情報はこちら" url="https://magazine.jp.square-enix.com/yg/introduction/dead/" >}}
 
-- [Amazon???](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)

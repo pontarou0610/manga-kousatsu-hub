@@ -56,4 +56,4 @@ images: []
 
 {{< affbox title="モーニング公式サイト" desc="公式情報はこちら" url="https://morning.kodansha.co.jp/c/uchukyodai/" >}}
 
-- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)

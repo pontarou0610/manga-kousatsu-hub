@@ -56,4 +56,4 @@ images: []
 
 {{< affbox title="月刊アフタヌーン公式" desc="公式情報はこちら" url="https://afternoon.kodansha.co.jp/c/skiptoloafer/" >}}
 
-- [Amazon???](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)

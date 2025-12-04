@@ -59,4 +59,4 @@ images: []
 
 {{< affbox title="作品公式サイト" desc="公式情報はこちら" url="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" >}}
 
-- [Amazon???](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
