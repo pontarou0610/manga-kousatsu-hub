@@ -14,7 +14,7 @@ draft: false
 description: ''
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
-  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/
+  rakuten: https://search.rakuten.co.jp/search/mall/
   others: []
 disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
 images:
@@ -93,7 +93,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/)
 
 
 

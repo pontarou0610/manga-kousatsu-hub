@@ -14,7 +14,7 @@ draft: false
 description: 『魔男のイチ』第1話を時系列でまとめ、伏線と初期設定を整理します。
 affiliate_ids:
   amazon: ''
-  rakuten: https://search.rakuten.co.jp/search/mall/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81/
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
 disclaimer: 公開済み第1話のみを扱います。未読の方はご注意ください。
 images:
@@ -55,7 +55,7 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81/)
+- 楽天で探す： [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 - Amazonで検索する： [Amazonで検索する](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81)
 
 ## 関連記事

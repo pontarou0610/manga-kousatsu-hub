@@ -14,7 +14,7 @@ draft: false
 description: ''
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
-  rakuten: https://search.rakuten.co.jp/search/mall/%E8%96%AC%E5%B1%8B%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8/
+  rakuten: https://search.rakuten.co.jp/search/mall/
   others:
   - name: Amazon（小学館サンデーGX版）
     url: https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22
@@ -95,7 +95,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E8%96%AC%E5%B1%8B%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8/)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/)
 
 
 

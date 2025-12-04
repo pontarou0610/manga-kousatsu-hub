@@ -14,7 +14,7 @@ draft: false
 description: 『ゴールデンカムイ』第1話の内容を詳しくまとめました。ネタバレを含むので、ご注意ください！
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
-  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4/
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
 disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
 images:
@@ -69,7 +69,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%AB%E3%83%A0%E3%82%A4/)
+- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://youngjump.jp/manga/goldenkamuy/)

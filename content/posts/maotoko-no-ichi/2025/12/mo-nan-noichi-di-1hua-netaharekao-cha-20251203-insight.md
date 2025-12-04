@@ -14,7 +14,7 @@ draft: false
 description: 第1話をネタバレ無しで読み解き、テーマ・キャラクターの動機・伏線を整理します。
 affiliate_ids:
   amazon: ''
-  rakuten: https://search.rakuten.co.jp/search/mall/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81/
+  rakuten: https://search.rakuten.co.jp/search/mall/
   others: []
 disclaimer: 公開済みの第1話の範囲で考察します。核心ネタバレは含みません。
 images:
@@ -49,7 +49,7 @@ images:
   A. 第1話は緊張感中心で、直接的な描写は控えめ。ダークな雰囲気が得意かどうかで好みが分かれそうです。
 
 ## 購入リンク（公式/通販）
-- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81/)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/)
 - Amazonで検索する： [Amazonで検索する](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81)
 
 ## 参考リンク

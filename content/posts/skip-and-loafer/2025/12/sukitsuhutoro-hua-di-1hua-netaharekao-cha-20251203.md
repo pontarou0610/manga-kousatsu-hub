@@ -14,7 +14,7 @@ draft: false
 description: 第1話では、主人公たちの出会いや学校生活の始まりが描かれています。ネタバレが含まれますのでご注意ください！
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
-  rakuten: https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
 disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
 images:
@@ -65,7 +65,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97%E3%81%A8%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC/)
+- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://afternoon.kodansha.co.jp/c/skiptoloafer/)

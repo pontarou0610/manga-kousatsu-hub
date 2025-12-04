@@ -26,7 +26,7 @@
     amazon:
       asin: "B07FCHN6XQ"
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others: []
     priority:
       - "Amazon"
@@ -65,7 +65,7 @@
     amazon:
       asin: "B07MT9BQFX"
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others: []
     priority:
       - "Rakuten"
@@ -104,7 +104,7 @@
     amazon:
       asin: "B07BSZLR4X"
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others: []
     priority:
       - "Amazon"
@@ -143,7 +143,7 @@
     amazon:
       asin: "B009LHBVQ0"
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others: []
     priority:
       - "Amazon"
@@ -182,7 +182,7 @@
     amazon:
       asin: "B0757MTWDV"
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others:
       - name: "Amazon（小学館サンデーGX版）"
         url: "https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22"
@@ -223,7 +223,7 @@
     amazon:
       asin: "B009KWUFNG"
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others:
       - name: "Amazon（オールカラー版）"
         url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
@@ -264,7 +264,7 @@
     amazon:
       asin: "B00T3XVB9E"
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others: []
     priority:
       - "Amazon"
@@ -303,7 +303,7 @@
     amazon:
       asin: "B00Z6HQWYU"
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others: []
     priority:
       - "Amazon"
@@ -338,7 +338,7 @@
     amazon:
       asin: ""
     rakuten:
-      params: "YOUR_RAKUTEN_PARAMS"
+      params: "ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
     others: []
     priority:
       - "Amazon"

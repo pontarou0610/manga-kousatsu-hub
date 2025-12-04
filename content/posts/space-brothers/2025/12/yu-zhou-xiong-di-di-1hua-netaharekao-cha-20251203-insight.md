@@ -14,7 +14,7 @@ draft: false
 description: ''
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
-  rakuten: https://search.rakuten.co.jp/search/mall/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F/
+  rakuten: https://search.rakuten.co.jp/search/mall/
   others:
   - name: Amazon（オールカラー版）
     url: https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
@@ -95,7 +95,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E5%AE%87%E5%AE%99%E5%85%84%E5%BC%9F/)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/)
 
 
 

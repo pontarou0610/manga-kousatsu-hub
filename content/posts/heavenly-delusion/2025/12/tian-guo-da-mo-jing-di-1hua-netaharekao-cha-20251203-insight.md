@@ -14,7 +14,7 @@ draft: false
 description: ''
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-  rakuten: https://search.rakuten.co.jp/search/mall/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83/
+  rakuten: https://search.rakuten.co.jp/search/mall/
   others: []
 disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
 images:
@@ -93,7 +93,7 @@ images:
 
 
 
-- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83/)
+- 楽天で探す： [楽天で探す](https://search.rakuten.co.jp/search/mall/)
 
 
 

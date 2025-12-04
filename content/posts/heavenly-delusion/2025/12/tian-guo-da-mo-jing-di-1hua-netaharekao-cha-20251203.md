@@ -14,7 +14,7 @@ draft: false
 description: 『天国大魔境』第1話の内容を詳しくまとめました。ネタバレが含まれていますので、ご注意ください！
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-  rakuten: https://search.rakuten.co.jp/search/mall/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83/
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
 disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
 images:
@@ -65,7 +65,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83/)
+- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)

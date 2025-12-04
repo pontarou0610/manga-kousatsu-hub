@@ -326,9 +326,10 @@ def fetch_pexels_image(query: str) -> Optional[Dict[str, str]]:
 
 
 def build_rakuten_search_url(series: Dict[str, Any]) -> str:
-    series_name = (series.get("name") or "").strip()
     series_slug = (series.get("slug") or "").strip()
-    keyword = series_name or series_slug
+    series_name = (series.get("name") or "").strip()
+    # 優先的にスラッグ（ASCII）を使い、文字化けを防ぐ
+    keyword = series_slug or series_name
     if not keyword:
         return "https://search.rakuten.co.jp/search/mall/"
     return f"https://search.rakuten.co.jp/search/mall/{quote_plus(keyword)}/"
@@ -350,8 +351,20 @@ def build_affiliate_urls(series: Dict[str, Any]) -> Dict[str, str]:
     rakuten_params = (rakuten_params_raw or "").strip()
     if not rakuten_params or rakuten_params == "YOUR_RAKUTEN_PARAMS":
         rakuten_params = RAKUTEN_PARAMS
+
+    rakuten_url = ""
     if rakuten_params:
-        rakuten_url = f"https://hb.afl.rakuten.co.jp/?{rakuten_params}"
+        # {pc} プレースホルダがあればシリーズ検索URLをエンコードして差し込む
+        search_url = build_rakuten_search_url(series)
+        encoded_search_url = quote_plus(search_url)
+        processed_params = rakuten_params.replace("{pc}", encoded_search_url)
+
+        if processed_params.startswith("http"):
+            rakuten_url = processed_params
+        elif processed_params.startswith(("ichiba/", "navi/", "rgc/")):
+            rakuten_url = f"https://hb.afl.rakuten.co.jp/{processed_params}"
+        else:
+            rakuten_url = f"https://hb.afl.rakuten.co.jp/?{processed_params}"
     else:
         # パラメータがない場合のみ検索ページへフォールバック
         rakuten_url = build_rakuten_search_url(series)

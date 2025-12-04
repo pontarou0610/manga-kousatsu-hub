@@ -14,7 +14,7 @@ draft: false
 description: 『デッドマウント・デスプレイ』第1話の内容を詳しくまとめました。ネタバレがありますのでご注意ください。
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
-  rakuten: https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
 disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
 images:
@@ -65,7 +65,7 @@ images:
 
 ## 購入リンク（公式/通販）
 - Amazonでチェック： [Amazonでチェック](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
-- 楽天でチェック： [楽天でチェック](https://search.rakuten.co.jp/search/mall/%E3%83%87%E3%83%83%E3%83%89%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E3%83%BB%E3%83%87%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4/)
+- 楽天でチェック： [楽天でチェック](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](https://magazine.jp.square-enix.com/yg/introduction/dead/)
