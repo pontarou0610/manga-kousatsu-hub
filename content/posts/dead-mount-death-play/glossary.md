@@ -1,4 +1,5 @@
 ---
+
 title: デッドマウント・デスプレイ 用語集
 date: 2025-12-02 00:12:42.537079+00:00
 series: デッドマウント・デスプレイ
@@ -19,6 +20,7 @@ affiliate_ids:
 disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
 images: []
 ---
+
 
 デッドマウント・デスプレイに登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
@@ -54,4 +56,4 @@ images: []
 
 {{< affbox title="ガンガンJOKER公式" desc="公式情報はこちら" url="https://magazine.jp.square-enix.com/yg/introduction/dead/" >}}
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)

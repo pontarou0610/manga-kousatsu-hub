@@ -1,4 +1,5 @@
 ---
+
 title: ゴールデンカムイ 第2話最新話ネタバレ・感想・考察
 slug: ko-rutenkamui-di-2hua-netaharekao-cha-20251203
 date: 2025-12-03 08:33:09.265367+00:00
@@ -20,6 +21,7 @@ disclaimer: 史実や文化の引用は公式資料と監修コメントに従�
 images:
 - ogp/2025/20251203_ko-rutenkamui-di-2hua-netaharekao-cha-20251203.png
 ---
+
 『ゴールデンカムイ』第2話の内容を時系列でまとめました。ネタバレが含まれますのでご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -62,13 +64,13 @@ images:
 - 予想：アシリパの家族の秘密が明らかになることで、彼女の成長と物語の進行が加速する可能性がある。彼女の家族の過去が、金塊の謎と絡む展開が期待される。
 
 ## 関連巻・グッズへのリンク
-- 第第2話収録巻：? [第第2話収録巻：](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
-- 電子書籍：ゴールデンカムイ（Kindle / 楽天Kobo 等）
+- [Amazon???](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonでチェック：? [Amazonでチェック：](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
-- 楽天でチェック：? [楽天でチェック：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazon???](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：? [関連話へのリンク：](https://youngjump.jp/manga/goldenkamuy/)

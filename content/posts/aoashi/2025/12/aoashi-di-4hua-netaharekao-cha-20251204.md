@@ -1,4 +1,5 @@
 ---
+
 title: アオアシ 第4話最新話ネタバレ・感想・考察
 slug: aoashi-di-4hua-netaharekao-cha-20251204
 date: 2025-12-04 00:33:17.511534+00:00
@@ -20,6 +21,7 @@ disclaimer: 実在チームとの比較は公開資料を根拠に行います�
 images:
 - ogp/2025/20251204_aoashi-di-4hua-netaharekao-cha-20251204.png
 ---
+
 アオアシの第4話の内容をまとめました。ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -46,13 +48,13 @@ images:
 - 予想：次回の公式戦では、アシトが自分の能力を最大限に発揮し、チームを勝利に導く重要な場面が描かれる可能性が高い。
 
 ## 関連巻・グッズへのリンク
-- 第4話収録巻：? [第4話収録巻：](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
-- 電子書籍：アオアシ Kindle / 楽天Kobo など
+- [Amazon???](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazon???](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：? [関連話へのリンク：](https://bigcomicbros.net/comics/30384/)

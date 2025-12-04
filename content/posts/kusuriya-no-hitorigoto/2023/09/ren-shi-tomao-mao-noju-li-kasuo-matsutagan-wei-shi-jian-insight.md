@@ -1,4 +1,5 @@
 ---
+
 title: 薬屋のひとりごと｜第105話の考察
 slug: ren-shi-tomao-mao-noju-li-kasuo-matsutagan-wei-shi-jian-insight
 date: 2023-09-12 00:00:00+00:00
@@ -22,6 +23,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2023/20230912_ren-shi-tomao-mao-noju-li-kasuo-matsutagan-wei-shi-jian.png
 ---
+
 第105話では、壬氏が猫猫に甘味を差し入れたことで、二人の距離がどう縮まったのかを考察してみるよ。信頼関係の変化に注目だね。
 
 ## 記事のアウトライン（検索意図ベース）
@@ -53,8 +55,8 @@ images:
 
 <p><a class="post-card__more" href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 
-<p><a class="post-card__more post-card__more--amazon" href="https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22" target="_blank" rel="sponsored noopener">Amazonでチェックする</a></p>
+- [Amazon???](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
 
-{{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)

@@ -1,4 +1,5 @@
 ---
+
 chapter: 選抜用語A
 series: 宇宙兄弟
 title: 宇宙兄弟｜選抜専門用語まとめ（保存版ネタバレ）
@@ -6,6 +7,7 @@ affiliate_ids:
   rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
 ---
+
 
 ﻿---
 title: "宇宙兄弟｜選抜試験の専門用語まとめ（保存版）"
@@ -21,11 +23,11 @@ tags:
 draft: false
 description: "一次・二次選抜で頻出する専門用語と背景を整理した保存版のネタバレ記事。"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
   others:
     - name: "オールカラー版"
-      url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 disclaimer: "公式に公開済みの選抜試験描写をもとに用語を整理しています。ネタバレを含みます。"
 images:
   - "ogp/2023/20230104_yu-zhou-fei-xing-shi-xuan-ba-techu-tazhuan-men-yong-yu-noxi-ichu-shi-20230104.png"
@@ -58,8 +60,8 @@ images:
 - クルーレジリエンスが、長期ミッション編で大きなテーマとして再登場する。
 
 ## 関連巻・グッズへのリンク
-- 選抜編収録巻：[Amazon?????](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
-- 電子書籍：宇宙兄弟（Kindle / 楽天Kobo 等）
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 関連記事・用語集

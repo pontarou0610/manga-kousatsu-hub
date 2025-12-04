@@ -1,5 +1,6 @@
 ---
 
+
 title: "宇宙兄弟 第7話の考察と感想"
 
 slug: "yu-zhou-xiong-di-di-7hua-netaharekao-cha-20251204-insight"
@@ -60,6 +61,7 @@ images:
 
 
 ---
+
 
 第7話では、宇宙への夢を追う兄弟の絆が試される瞬間が描かれます。彼らの成長や選択がどのように物語に影響を与えるのか、興味深いですね。
 
@@ -129,16 +131,16 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 
 
 
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 
 
 
-- Amazon（オールカラー版）：? [Amazon（オールカラー版）：](https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22)
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 
 
 

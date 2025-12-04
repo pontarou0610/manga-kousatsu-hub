@@ -1,4 +1,5 @@
 ---
+
 title: キングダム 第3話最新話ネタバレ・感想・考察
 slug: kinkutamu-di-3hua-netaharekao-cha-20251203
 date: 2025-12-03 08:43:04.387618+00:00
@@ -20,6 +21,7 @@ disclaimer: 史実との対比は公式コメントを参照し、ネタバレ�
 images:
 - ogp/2025/20251203_kinkutamu-di-3hua-netaharekao-cha-20251203.png
 ---
+
 キングダムの第3話が公開されました！今回は物語がさらに進展し、重要なキャラクターたちの心情が描かれています。ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -46,13 +48,13 @@ images:
 - 予想：破義のキャラクターアークが今後のストーリーにおいて重要な転機を迎える可能性が高い。彼の絆が試される瞬間が訪れるだろう。
 
 ## 関連巻・グッズへのリンク
-- 第3話収録巻：? [第3話収録巻：](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
-- 電子書籍：キングダム Kindle / 楽天Kobo など
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：? [関連話へのリンク：](https://youngjump.jp/manga/kingdom/)

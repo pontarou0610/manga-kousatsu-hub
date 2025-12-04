@@ -1,4 +1,5 @@
 ---
+
 title: キングダム 第5話最新話ネタバレ・感想・考察
 slug: kinkutamu-di-5hua-netaharekao-cha-20251204
 date: 2025-12-04 00:52:52.275472+00:00
@@ -20,6 +21,7 @@ disclaimer: 史実との対比は公式コメントを参照し、ネタバレ�
 images:
 - ogp/2025/20251204_kinkutamu-di-5hua-netaharekao-cha-20251204.png
 ---
+
 第5話では、戦の激しさが増し、キャラクターたちの成長が描かれます。ネタバレが含まれるので注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -50,13 +52,13 @@ images:
 - 予想: 敵軍の司令官との直接対決が近い将来に訪れ、信が彼の過去を乗り越える機会が与えられると考えられる。
 
 ## 関連巻・グッズへのリンク
-- 第5話収録巻：? [第5話収録巻：](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
-- 電子書籍：キングダム Kindle / 楽天Kobo など
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：? [関連話へのリンク：](https://youngjump.jp/manga/kingdom/)

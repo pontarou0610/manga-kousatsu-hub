@@ -1,4 +1,5 @@
 ---
+
 title: "スキップとローファー 第10話最新話ネタバレ・感想・考察"
 slug: "sukitsuhutoro-hua-di-10hua-netaharekao-cha-20251204"
 date: 2025-12-04T02:22:22.216793+00:00
@@ -20,6 +21,7 @@ disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネ�
 images:
   - "ogp/2025/20251204_sukitsuhutoro-hua-di-10hua-netaharekao-cha-20251204.png"
 ---
+
 第10話では、キャラクターたちの心の葛藤が描かれています。ネタバレが含まれますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -48,13 +50,13 @@ images:
 - アヤとの友情が試練を経て、より強固なものになると考えられる。お互いの気持ちを理解し合うことで、二人の絆が深まる展開が期待できる。
 
 ## 関連巻・グッズへのリンク
-- 第10話収録巻：https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
-- 電子書籍：スキップとローファー Kindle / 楽天Kobo など
+- [Amazon???](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazon???](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://afternoon.kodansha.co.jp/c/skiptoloafer/

@@ -1,4 +1,5 @@
 ---
+
 title: "アオアシ 第9話最新話ネタバレ・感想・考察"
 slug: "aoashi-di-9hua-netaharekao-cha-20251204"
 date: 2025-12-04T02:12:52.826549+00:00
@@ -20,6 +21,7 @@ disclaimer: "実在チームとの比較は公開資料を根拠に行います�
 images:
   - "ogp/2025/20251204_aoashi-di-9hua-netaharekao-cha-20251204.png"
 ---
+
 アオアシの第9話がついに公開されました！この章では重要な展開が盛りだくさんですので、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -50,13 +52,13 @@ images:
 - 予想：高橋が青志の影響を受けて自分自身も成長する場面が描かれ、二人の絆が深まる展開が期待できる。
 
 ## 関連巻・グッズへのリンク
-- 第9話収録巻：https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
-- 電子書籍：アオアシ Kindle / 楽天Kobo など
+- [Amazon???](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- [Amazon???](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://bigcomicbros.net/comics/30384/

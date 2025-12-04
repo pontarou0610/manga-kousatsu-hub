@@ -1,4 +1,5 @@
 ---
+
 title: キングダム 用語集
 date: 2025-12-02 00:12:55.610925+00:00
 series: キングダム
@@ -19,6 +20,7 @@ affiliate_ids:
 disclaimer: 史実との対比は公式コメントを参照し、ネタバレは折りたたみ内で扱います。
 images: []
 ---
+
 
 キングダムに登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
@@ -54,4 +56,4 @@ images: []
 
 {{< affbox title="週刊ヤングジャンプ公式" desc="公式情報はこちら" url="https://youngjump.jp/manga/kingdom/" >}}
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)

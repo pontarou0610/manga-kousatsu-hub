@@ -1,4 +1,5 @@
 ---
+
 title: アオアシ第6話の考察と感想
 slug: aoashi-di-6hua-netaharekao-cha-20251204-insight
 date: 2025-12-04 01:07:53.025132+00:00
@@ -20,6 +21,7 @@ disclaimer: 実在チームとの比較は公開資料を根拠に行います�
 images:
 - ogp/2025/20251204_aoashi-di-6hua-netaharekao-cha-20251204.png
 ---
+
 
 アオアシ第6話では、キャラクターたちの成長とサッカーへの情熱が深く描かれています。次の展開はどうなるのでしょうか？
 
@@ -89,11 +91,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [Amazon???](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
 
 
 
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 
 

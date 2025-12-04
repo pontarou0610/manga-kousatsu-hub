@@ -1,4 +1,5 @@
 ---
+
 title: 天国大魔境 第1話最新話ネタバレ・感想・考察
 slug: tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203
 date: 2025-12-03 08:11:26.687173+00:00
@@ -20,6 +21,7 @@ disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバ�
 images:
 - ogp/2025/20251203_tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203.png
 ---
+
 『天国大魔境』第1話の内容を詳しくまとめました。ネタバレが含まれていますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -59,13 +61,13 @@ images:
 - 予想：謎の少女が実は主人公の過去に深く関わっている人物である可能性が高く、物語の核心に迫る展開が待ち受けている。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻： [第1話収録巻](? [第1話収録巻： [第1話収録巻](](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22))
-- 電子書籍：天国大魔境（Kindle / 楽天Kobo 等）
+- [Amazon???](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonでチェック： [Amazonでチェック](? [Amazonでチェック： [Amazonでチェック](](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22))
-- 楽天でチェック： [楽天でチェック](? [楽天でチェック： [楽天でチェック](](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D))
+- [Amazon???](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](? [関連話へのリンク： [関連話へのリンク](](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/))

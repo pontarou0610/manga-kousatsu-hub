@@ -1,4 +1,5 @@
 ---
+
 title: デッドマウント・デスプレイ 第1話最新話ネタバレ・感想・考察
 slug: tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203
 date: 2025-12-03 08:12:34.128866+00:00
@@ -20,6 +21,7 @@ disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は�
 images:
 - ogp/2025/20251203_tetsutomauntotesuhurei-di-1hua-netaharekao-cha-20251203.png
 ---
+
 『デッドマウント・デスプレイ』第1話の内容を詳しくまとめました。ネタバレがありますのでご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -59,13 +61,13 @@ images:
 - 予想2: 謎のキャラクターとの関係が深まるにつれ、彼の能力の真実が明らかになり、主人公がその力を使うことで新たな危機が訪れることになるだろう。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻： [第1話収録巻](? [第1話収録巻： [第1話収録巻](](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22))
-- 電子書籍：デッドマウント・デスプレイ（Kindle / 楽天Kobo 等）
+- [Amazon???](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonでチェック： [Amazonでチェック](? [Amazonでチェック： [Amazonでチェック](](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22))
-- 楽天でチェック： [楽天でチェック](? [楽天でチェック： [楽天でチェック](](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D))
+- [Amazon???](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](? [関連話へのリンク： [関連話へのリンク](](https://magazine.jp.square-enix.com/yg/introduction/dead/))

@@ -1,4 +1,5 @@
 ---
+
 title: ゴールデンカムイ 第3話最新話ネタバレ・感想・考察
 slug: ko-rutenkamui-di-3hua-netaharekao-cha-20251203
 date: 2025-12-03 08:44:34.592286+00:00
@@ -20,6 +21,7 @@ disclaimer: 史実や文化の引用は公式資料と監修コメントに従�
 images:
 - ogp/2025/20251203_ko-rutenkamui-di-3hua-netaharekao-cha-20251203.png
 ---
+
 「ゴールデンカムイ」第3話の内容をまとめました。ネタバレが含まれていますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -49,13 +51,13 @@ images:
 - 予想：アシリパのアイヌ文化に関する知識が、今後の戦闘やサバイバルに役立つ形で活かされる展開が期待される。
 
 ## 関連巻・グッズへのリンク
-- 第3話収録巻：? [第3話収録巻：](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
-- 電子書籍：ゴールデンカムイ Kindle / 楽天Kobo など
+- [Amazon???](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazon???](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：? [関連話へのリンク：](https://youngjump.jp/manga/goldenkamuy/)

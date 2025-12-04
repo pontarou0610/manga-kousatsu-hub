@@ -1,4 +1,5 @@
 ---
+
 title: スキップとローファー 用語集
 date: 2025-12-02 00:12:19.142726+00:00
 series: スキップとローファー
@@ -19,6 +20,7 @@ affiliate_ids:
 disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
 images: []
 ---
+
 
 スキップとローファーに登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
@@ -54,4 +56,4 @@ images: []
 
 {{< affbox title="月刊アフタヌーン公式" desc="公式情報はこちら" url="https://afternoon.kodansha.co.jp/c/skiptoloafer/" >}}
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)

@@ -1,4 +1,5 @@
 ---
+
 title: ゴールデンカムイ 第1話の考察
 slug: ko-rutenkamui-di-1hua-netaharekao-cha-20251203-insight
 date: 2025-12-03 08:14:39.902724+00:00
@@ -20,6 +21,7 @@ disclaimer: 史実や文化の引用は公式資料と監修コメントに従�
 images:
 - ogp/2025/20251203_ko-rutenkamui-di-1hua-netaharekao-cha-20251203.png
 ---
+
 
 第1話では、ゴールデンカムイの魅力が詰まった冒険の始まりが描かれています。どんな秘密やキャラクターが待っているのでしょうか？
 
@@ -89,11 +91,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す： [Amazonで探す](? [Amazonで探す： [Amazonで探す](](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22))
+- [Amazon???](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
 
 
 
-- 楽天で探す： [楽天で探す](? [楽天で探す： [楽天で探す](](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D))
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 
 

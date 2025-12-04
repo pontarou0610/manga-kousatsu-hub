@@ -1,4 +1,5 @@
 ---
+
 title: アオアシ｜初試合を守備目線で総復習（ネタバレあり）
 slug: qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li
 date: 2023-01-05 00:00:00+00:00
@@ -19,6 +20,7 @@ disclaimer: 公開済みの初試合描写を基にした守備寄りのネタ�
 images:
 - ogp/2023/20230105_qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li.png
 ---
+
 
 > **本記事はユース初試合（単行本収録範囲）のネタバレを含みます。守備目線での振り返りです。**
 
@@ -51,8 +53,8 @@ images:
 - 中村との縦のホットラインが、守備起点のショートカウンターで活きる。
 
 ## 関連巻・グッズへのリンク
-- 第1巻収録巻：[Amazon?????](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
-- 電子書籍：アオアシ（Kindle / 楽天Kobo 等）
+- [Amazon???](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 関連記事・用語集

@@ -1,4 +1,5 @@
 ---
+
 title: "スキップとローファー 第8話最新話ネタバレ・感想・考察"
 slug: "sukitsuhutoro-hua-di-8hua-netaharekao-cha-20251204"
 date: 2025-12-04T01:48:29.662966+00:00
@@ -20,6 +21,7 @@ disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネ�
 images:
   - "ogp/2025/20251204_sukitsuhutoro-hua-di-8hua-netaharekao-cha-20251204.png"
 ---
+
 第8話では新たな展開が待ち受けています。ネタバレが含まれていますので、注意してお読みください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -46,13 +48,13 @@ images:
 - 予想：あかりとみつきの友情が深まることで、彼女たちが共に困難を乗り越える展開が待っているかもしれない。特に、あかりの成長がみつきにも影響を与えると予想される。
 
 ## 関連巻・グッズへのリンク
-- 第8話収録巻：? [第8話収録巻：](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
-- 電子書籍：スキップとローファー Kindle / 楽天Kobo など
+- [Amazon???](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazon???](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク：? [関連話へのリンク：](https://afternoon.kodansha.co.jp/c/skiptoloafer/)

@@ -1,4 +1,5 @@
 ---
+
 title: 宇宙兄弟 用語集
 date: 2025-12-02 00:14:00.149727+00:00
 series: 宇宙兄弟
@@ -19,6 +20,7 @@ affiliate_ids:
 disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
 images: []
 ---
+
 
 宇宙兄弟に登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
@@ -54,4 +56,4 @@ images: []
 
 {{< affbox title="モーニング公式サイト" desc="公式情報はこちら" url="https://morning.kodansha.co.jp/c/uchukyodai/" >}}
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)

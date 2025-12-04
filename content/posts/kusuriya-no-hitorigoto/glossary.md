@@ -1,4 +1,5 @@
 ---
+
 title: 薬屋のひとりごと 用語集
 date: 2025-12-02 00:13:17.246223+00:00
 series: 薬屋のひとりごと
@@ -19,6 +20,7 @@ affiliate_ids:
 disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補足の範囲に留めます。
 images: []
 ---
+
 
 薬屋のひとりごとに登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
@@ -54,4 +56,4 @@ images: []
 
 {{< affbox title="月刊サンデーGX公式" desc="公式情報はこちら" url="https://sundaygx.com/kusuriya/" >}}
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)

@@ -1,4 +1,5 @@
 ---
+
 title: 魔男のイチ｜第12話｜最新話ネタバレ・感想・考察
 slug: zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku
 date: 2023-09-02 00:00:00+00:00
@@ -19,6 +20,7 @@ disclaimer: 公式設定資料と単行本の公開情報のみを参照し、�
 images:
 - ogp/2023/20230902_zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku.png
 ---
+
 第12話では、呪符工房での爆発事件からイチが持ち込んだ旧式の術式について考察します。ネタバレが含まれますので、注意してくださいね！
 
 > **本記事は最新話までのネタバレを含みます。**
@@ -54,4 +56,4 @@ images:
 
 
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)

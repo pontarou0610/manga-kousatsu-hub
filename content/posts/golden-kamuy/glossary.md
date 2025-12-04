@@ -1,4 +1,5 @@
 ---
+
 title: ゴールデンカムイ 用語集
 date: 2025-12-02 00:14:28.054657+00:00
 series: ゴールデンカムイ
@@ -19,6 +20,7 @@ affiliate_ids:
 disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
 images: []
 ---
+
 
 ゴールデンカムイに登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
@@ -54,4 +56,4 @@ images: []
 
 {{< affbox title="週刊ヤングジャンプ公式" desc="公式情報はこちら" url="https://youngjump.jp/manga/goldenkamuy/" >}}
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)

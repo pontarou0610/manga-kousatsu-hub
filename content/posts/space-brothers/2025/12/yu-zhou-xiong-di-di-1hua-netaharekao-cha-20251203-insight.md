@@ -1,4 +1,5 @@
 ---
+
 title: 宇宙兄弟 第1話の内容まとめ
 slug: yu-zhou-xiong-di-di-1hua-netaharekao-cha-20251203-insight
 date: 2025-12-03 08:14:05.271353+00:00
@@ -22,6 +23,7 @@ disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバ�
 images:
 - ogp/2025/20251203_yu-zhou-xiong-di-di-1hua-netaharekao-cha-20251203.png
 ---
+
 
 第1話では、宇宙を目指す兄弟の物語が始まります。彼らの夢や葛藤は、どのように描かれているのでしょうか？
 
@@ -91,16 +93,16 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す： [Amazonで探す](? [Amazonで探す： [Amazonで探す](](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22))
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 
 
 
-- 楽天で探す： [楽天で探す](? [楽天で探す： [楽天で探す](](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D))
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 
 
 
-- Amazon（オールカラー版）： [Amazon（オールカラー版）](? [Amazon（オールカラー版）： [Amazon（オールカラー版）](](https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22))
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
 
 
 

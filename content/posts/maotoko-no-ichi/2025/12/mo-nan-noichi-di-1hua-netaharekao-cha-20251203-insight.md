@@ -1,4 +1,5 @@
 ---
+
 title: 魔男のイチ｜第1話の考察メモ（ネタバレ無し）
 slug: mo-nan-noichi-di-1hua-netaharekao-cha-20251203-insight
 date: 2025-12-03 08:15:53.797792+00:00
@@ -20,6 +21,7 @@ disclaimer: 公開済みの第1話の範囲で考察します。核心ネタバ�
 images:
 - ogp/2025/20251203_mo-nan-noichi-di-1hua-netaharekao-cha-20251203.png
 ---
+
 第1話をネタバレ無しで整理し、テーマやキャラクターの動機を掘り下げます。人間界と魔界の境界で揺れる少年イチの「選択」が本作の軸になりそうです。
 
 ## 着眼ポイント（検索意図ベース）
@@ -49,7 +51,7 @@ images:
   A. 第1話は緊張感中心で、直接的な描写は控えめ。ダークな雰囲気が得意かどうかで好みが分かれそうです。
 
 ## 購入リンク（公式/通販）
-- 楽天で探す： [楽天で探す](? [楽天で探す： [楽天で探す](](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D))
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmaotoko-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 - Amazonで検索する： [Amazonで検索する](? [Amazonで検索する： [Amazonで検索する](](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81))
 
 ## 参考リンク

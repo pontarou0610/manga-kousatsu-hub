@@ -1,4 +1,5 @@
 ---
+
 title: アオアシ 用語集
 date: 2025-12-02 00:15:10.415257+00:00
 series: アオアシ
@@ -19,6 +20,7 @@ affiliate_ids:
 disclaimer: 実在チームとの比較は公開資料を根拠に行います。
 images: []
 ---
+
 
 アオアシに登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
@@ -54,4 +56,4 @@ images: []
 
 {{< affbox title="ビッグコミックス公式" desc="公式情報はこちら" url="https://bigcomicbros.net/comics/30384/" >}}
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)

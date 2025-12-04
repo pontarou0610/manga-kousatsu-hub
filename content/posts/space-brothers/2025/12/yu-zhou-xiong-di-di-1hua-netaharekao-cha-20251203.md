@@ -1,4 +1,5 @@
 ---
+
 title: 宇宙兄弟 第1話最新話ネタバレ・感想・考察
 slug: yu-zhou-xiong-di-di-1hua-netaharekao-cha-20251203
 date: 2025-12-03 08:14:05.271353+00:00
@@ -22,6 +23,7 @@ disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバ�
 images:
 - ogp/2025/20251203_yu-zhou-xiong-di-di-1hua-netaharekao-cha-20251203.png
 ---
+
 今回は「宇宙兄弟」の第1話を振り返ります。ネタバレが含まれますので、ご注意ください。さあ、物語の始まりを一緒に見ていきましょう！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -61,13 +63,13 @@ images:
 - 予想：ヒビトとの関係が今後のストーリーの中で重要な役割を果たし、兄弟の絆が試される展開が待っている。
 
 ## 関連巻・グッズへのリンク
-- 第1話収録巻： [第1話収録巻](? [第1話収録巻： [第1話収録巻](](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22))
-- 電子書籍：宇宙兄弟（Kindle / 楽天Kobo 等）
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonでチェック： [Amazonでチェック](? [Amazonでチェック： [Amazonでチェック](](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22))
-- 楽天でチェック： [楽天でチェック](? [楽天でチェック： [楽天でチェック](](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D))
+- [Amazon???](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 ## 関連記事・用語集
 - 関連話へのリンク： [関連話へのリンク](? [関連話へのリンク： [関連話へのリンク](](https://morning.kodansha.co.jp/c/uchukyodai/))

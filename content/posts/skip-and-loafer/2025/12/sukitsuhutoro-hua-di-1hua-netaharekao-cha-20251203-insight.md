@@ -1,4 +1,5 @@
 ---
+
 title: スキップとローファー第1話考察
 slug: sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203-insight
 date: 2025-12-03 08:12:00.196551+00:00
@@ -20,6 +21,7 @@ disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネ�
 images:
 - ogp/2025/20251203_sukitsuhutoro-hua-di-1hua-netaharekao-cha-20251203.png
 ---
+
 
 第1話では、主人公たちの新しい高校生活が始まります。彼らの出会いや成長の過程をどのように描いているのか、一緒に探ってみましょう。
 
@@ -89,11 +91,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す： [Amazonで探す](? [Amazonで探す： [Amazonで探す](](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22))
+- [Amazon???](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
 
 
 
-- 楽天で探す： [楽天で探す](? [楽天で探す： [楽天で探す](](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D))
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 
 

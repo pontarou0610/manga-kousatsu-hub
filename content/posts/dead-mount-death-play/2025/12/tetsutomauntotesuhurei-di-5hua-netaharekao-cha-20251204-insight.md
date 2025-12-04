@@ -1,4 +1,5 @@
 ---
+
 title: デッドマウント・デスプレイ 第5話の考察
 slug: tetsutomauntotesuhurei-di-5hua-netaharekao-cha-20251204-insight
 date: 2025-12-04 00:52:13.505960+00:00
@@ -20,6 +21,7 @@ disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は�
 images:
 - ogp/2025/20251204_tetsutomauntotesuhurei-di-5hua-netaharekao-cha-20251204.png
 ---
+
 
 第5話では、登場人物たちの複雑な感情と動機が明らかになり、物語がさらに深まります。次はどんな展開が待っているのでしょうか？
 
@@ -89,11 +91,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- [Amazon???](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
 
 
 
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 
 
 

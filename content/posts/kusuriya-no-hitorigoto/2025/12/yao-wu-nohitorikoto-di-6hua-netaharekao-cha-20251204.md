@@ -1,4 +1,5 @@
 ---
+
 title: 薬屋のひとりごと 第6話最新話ネタバレ・感想・考察
 slug: yao-wu-nohitorikoto-di-6hua-netaharekao-cha-20251204
 date: 2025-12-04 01:06:08.496587+00:00
@@ -22,6 +23,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2025/20251204_yao-wu-nohitorikoto-di-6hua-netaharekao-cha-20251204.png
 ---
+
 第6話では新たな展開が待ち受けています。ネタバレが含まれていますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
@@ -50,14 +52,14 @@ images:
 - 予想：新しい薬が村の人々に良い影響を与える一方で、何らかのトラブルを引き起こす展開が待っているかもしれない。
 
 ## 関連巻・グッズへのリンク
-- 第6話収録巻：? [第6話収録巻：](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
-- 電子書籍：薬屋のひとりごと Kindle / 楽天Kobo など
+- [Amazon???](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：? [Amazonで探す：](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
-- 楽天で探す：? [楽天で探す：](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
-- Amazon（小学館サンデーGX版）：? [Amazon（小学館サンデーGX版）：](https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22)
+- [Amazon???](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- [Amazon???](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
 
 ## 関連記事・用語集
 - 関連話へのリンク：? [関連話へのリンク：](https://sundaygx.com/kusuriya/)

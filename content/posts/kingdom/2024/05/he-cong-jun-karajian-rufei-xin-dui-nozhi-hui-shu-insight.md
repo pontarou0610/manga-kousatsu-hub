@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
   others: []
@@ -20,6 +21,7 @@ tags:
 - バトル
 title: キングダム｜第340話考察A（合従軍での飛信隊指揮術）
 ---
+
 
 合従軍との激闘を経て、飛信隊の指揮術がどのように進化したのかを考えてみたいと思います。戦術の切り替えが鍵ですね。
 
@@ -52,8 +54,8 @@ title: キングダム｜第340話考察A（合従軍での飛信隊指揮術）
 
 <p><a class="post-card__more" href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 
-<p><a class="post-card__more post-card__more--amazon" href="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" target="_blank" rel="sponsored noopener">Amazonでチェックする</a></p>
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
 
-{{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)

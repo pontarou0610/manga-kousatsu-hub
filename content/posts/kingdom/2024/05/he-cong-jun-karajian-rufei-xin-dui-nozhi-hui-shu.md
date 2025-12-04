@@ -1,4 +1,5 @@
 ---
+
 title: キングダム｜第340話｜最新話ネタバレ・感想・考察
 slug: he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu
 date: 2024-05-01 00:00:00+00:00
@@ -19,6 +20,7 @@ disclaimer: 史実との対比は公式コメントを参照し、ネタバレ�
 images:
 - ogp/2024/20240501_he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu.png
 ---
+
 第340話では、合従軍戦における飛信隊の動きが描かれます。これからネタバレが含まれますので、ご注意ください！
 
 > **本記事は最新話までのネタバレを含みます。**
@@ -53,8 +55,8 @@ images:
 
 <p><a class="post-card__more" href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">公式サイトで詳しく読む</a></p>
 
-<p><a class="post-card__more post-card__more--amazon" href="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" target="_blank" rel="sponsored noopener">Amazonでチェックする</a></p>
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
 
-{{< affbox title="最新巻をAmazonで探す" desc="紙／Kindle版をまとめてチェック" url="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
 
-{{< affbox title="最新巻をRakutenで探す" desc="楽天ポイント還元あり" url="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" >}}
+- [?????](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)

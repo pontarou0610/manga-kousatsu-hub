@@ -1,4 +1,5 @@
 ---
+
 title: 天国大魔境 用語集
 date: 2025-12-02 00:11:50.868406+00:00
 series: 天国大魔境
@@ -19,6 +20,7 @@ affiliate_ids:
 disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
 images: []
 ---
+
 
 天国大魔境に登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
@@ -57,4 +59,4 @@ images: []
 
 {{< affbox title="作品公式サイト" desc="公式情報はこちら" url="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" >}}
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" >}}
+- [Amazon???](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
