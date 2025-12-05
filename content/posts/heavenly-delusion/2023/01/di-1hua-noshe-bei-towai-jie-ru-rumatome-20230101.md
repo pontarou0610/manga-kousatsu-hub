@@ -21,17 +21,23 @@ tags:
   - "謎"
   - "初潜入"
 draft: false
-description: "第1話を別視点で整理。壁内の初潜入で見えた規律と違和感にフォーカスしたネタバレ記事。"
+description: "第1話を別視点で整理。
+壁内の初潜入で見えた規律と違和感にフォーカスしたネタバレ記事。
+"
 affiliate_ids:
 - [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
   others: []
-disclaimer: "公開済みの第1話を基にしたネタバレです。未読の方はご注意ください。"
+disclaimer: "公開済みの第1話を基にしたネタバレです。
+未読の方はご注意ください。
+"
 images:
   - "ogp/2023/20230101_di-1hua-noshe-bei-towai-jie-ru-rumatome.png"
 ---
 
-> **本記事は第1話のネタバレを含みます。壁内の規律と違和感を中心に別視点で整理しています。**
+> **本記事は第1話のネタバレを含みます。
+壁内の規律と違和感を中心に別視点で整理しています。
+**
 
 ## 結論：第1話Bのポイント3つ（ネタバレあり）
 - 壁内の規律が子どもたちの行動を縛り、逆に違和感を際立たせる。
@@ -40,9 +46,12 @@ images:
 
 {{< spoiler >}}
 ## 第1話Bあらすじ要約（別視点）
-壁内の教育施設で、規律に従う子どもたちと監視の目が描かれる。タラオの無邪気な質問やトキオの好奇心が、禁止事項の多さとの対比で違和感を増幅。マルとキルコが外から接近し、壁外の苛酷さと壁内の静けさのギャップが提示される。
+壁内の教育施設で、規律に従う子どもたちと監視の目が描かれる。
+タラオの無邪気な質問やトキオの好奇心が、禁止事項の多さとの対比で違和感を増幅。
+マルとキルコが外から接近し、壁外の苛酷さと壁内の静けさのギャップが提示される。
 
-規律を破った子どもへの処置や、隠された部屋の存在が示唆され、読者は「何を隠しているのか？」という疑問を持つ。キルコの「外の世界を知らないままでいいのか？」という問いかけが、トキオたちの将来を暗示する。
+規律を破った子どもへの処置や、隠された部屋の存在が示唆され、読者は「何を隠しているのか？」という疑問を持つ。
+キルコの「外の世界を知らないままでいいのか？」という問いかけが、トキオたちの将来を暗示する。
 
 ## 詳細考察：キャラ・設定
 - **トキオ**: 素直な好奇心と従順さの両面が描かれ、後の反発の芽を示唆。

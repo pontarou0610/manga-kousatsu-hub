@@ -26,7 +26,8 @@ affiliate_ids:
 - [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
 - [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
   others: []
-disclaimer: "用語は公式ガイドラインに従い、推測は根拠を添えて記載します。"
+disclaimer: "用語は公式ガイドラインに従い、推測は根拠を添えて記載します。
+"
 images:
   - "ogp/2024/20240108_post-082da197.png"
 ---
@@ -42,11 +43,14 @@ images:
 
 ## テーマ・視点
 ### 偽装工作の狙い
-屍神殿がポルカの身体を使った偽装では、周囲の媒体や人々の目を欺くための複合的な手段が取られています。魔術的な手口以外にも、行動パターンの矯正や情報の非対称性を利用し、周囲の人間を徐々に慣らしていくプロセスが読み取れます。
+屍神殿がポルカの身体を使った偽装では、周囲の媒体や人々の目を欺くための複合的な手段が取られています。
+魔術的な手口以外にも、行動パターンの矯正や情報の非対称性を利用し、周囲の人間を徐々に慣らしていくプロセスが読み取れます。
 ### アンダーグラウンドの繋がり
-偽装後に軸となるのが、アンダーグラウンド勢力との接点です。屍神殿がどのようにして情報網にアクセスし、協力者を得たかを整理し、敵対勢力をどう交わすかに注目します。
+偽装後に軸となるのが、アンダーグラウンド勢力との接点です。
+屍神殿がどのようにして情報網にアクセスし、協力者を得たかを整理し、敵対勢力をどう交わすかに注目します。
 ### リスクと倫理
-偽装工作は短期的な問題解決であると同時に、新たなリスクも招きます。魔術の痕跡や他者の反発、正体露見の危険などを列挙し、それらにどう備えるかを考察します。
+偽装工作は短期的な問題解決であると同時に、新たなリスクも招きます。
+魔術の痕跡や他者の反発、正体露見の危険などを列挙し、それらにどう備えるかを考察します。
 
 ## キャラクター注目
 - **ポルカ**: 屍神殿の偽装を成立させる鍵であり、本人の意思と宿主としてのリスクが交錯します。
