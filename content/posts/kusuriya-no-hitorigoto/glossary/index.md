@@ -1,6 +1,6 @@
 ---
 title: "薬屋のひとりごと 用語集"
-date: 2025-12-09T08:07:33+09:00
+date: 2025-12-09T08:14:16+09:00
 series: "薬屋のひとりごと"
 chapter: "用語集"
 article_variant: "glossary"
