@@ -25,7 +25,7 @@ title: 魔男のイチ 第7話最新話ネタバレ・感想・考察
 ネタバレを含む内容なので、注意してお読みください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [魔男のイチ 第6話最新話ネタバレ・感想・考察](/posts/madan-no-ichi/2025/12/madan-no-ichi-di-6hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [魔男のイチ 第6話最新話ネタバレ・感想・考察](/posts/2025/12/madan-no-ichi-di-6hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第7話のポイント3つ（ネタバレあり）

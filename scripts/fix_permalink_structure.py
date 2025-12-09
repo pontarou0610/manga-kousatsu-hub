@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Comprehensive fix for all links in madan-no-ichi articles
-- Fixes series list links
-- Fixes previous article links
-- Fixes glossary links
+Fix permalink structure in all madan-no-ichi article links
+Hugo permalink: /posts/:year/:month/:slug/
+Wrong: /posts/madan-no-ichi/2025/12/slug/
+Correct: /posts/2025/12/slug/
 """
 
 import re
@@ -13,9 +13,9 @@ ROOT_DIR = Path(__file__).parent.parent
 MADAN_DIR = ROOT_DIR / "content" / "posts" / "madan-no-ichi"
 
 
-def fix_all_links():
-    """Fix all broken links in madan-no-ichi articles."""
-    print(">> Starting comprehensive link fix...")
+def fix_permalink_structure():
+    """Fix all links to use correct permalink structure."""
+    print(">> Fixing permalink structure in all links...")
     
     md_files = list(MADAN_DIR.rglob("*.md"))
     modified_count = 0
@@ -27,19 +27,20 @@ def fix_all_links():
             
             original_content = content
             
-            # Fix 1: Series list link - should point to series page, not posts directory
-            # Wrong: /posts/madan-no-ichi/
-            # Correct: /series/madan-no-ichi/ or just the tag/category page
+            # Fix: Remove 'madan-no-ichi' from the path
+            # Wrong: /posts/madan-no-ichi/2025/12/slug/
+            # Correct: /posts/2025/12/slug/
             content = re.sub(
-                r'\[([^\]]*記事一覧[^\]]*)\]\(/posts/madan-no-ichi/\)',
-                r'[\1](/tags/madan-no-ichi/)',
+                r'/posts/madan-no-ichi/(\d{4}/\d{2}/[^)]+)',
+                r'/posts/\1',
                 content
             )
             
-            # Fix 2: Glossary link - ensure it's correct
+            # Also fix any remaining /posts/madan-no-ichi/ references (without year/month)
+            # This should now point to tags page
             content = re.sub(
-                r'\[用語集\]\(/posts/madan-no-ichi/glossary/\)',
-                r'[用語集](/posts/madan-no-ichi/glossary/)',
+                r'\]\(/posts/madan-no-ichi/\)',
+                r'](/tags/madan-no-ichi/)',
                 content
             )
             
@@ -58,4 +59,4 @@ def fix_all_links():
 
 
 if __name__ == "__main__":
-    fix_all_links()
+    fix_permalink_structure()

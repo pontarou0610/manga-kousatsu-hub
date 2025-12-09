@@ -25,7 +25,7 @@ title: 魔男のイチ 第9話最新話ネタバレ・感想・考察
 ネタバレが含まれるので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [魔男のイチ 第8話最新話ネタバレ・感想・考察](/posts/madan-no-ichi/2025/12/madan-no-ichi-di-8hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [魔男のイチ 第8話最新話ネタバレ・感想・考察](/posts/2025/12/madan-no-ichi-di-8hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第9話のポイント3つ（ネタバレあり）
