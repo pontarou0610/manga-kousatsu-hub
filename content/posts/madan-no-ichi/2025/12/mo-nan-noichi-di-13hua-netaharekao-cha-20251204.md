@@ -25,7 +25,7 @@ title: 魔男のイチ 第13話最新話ネタバレ・感想・考察
 ネタバレが含まれますので、注意してお読みください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [魔男のイチ｜第12話｜最新話ネタバレ・感想・考察](/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku/)
+> 前回のネタバレ: [魔男のイチ 第12話最新話ネタバレ・感想・考察](/posts/2025/12/madan-no-ichi-di-12hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第13話のポイント3つ（ネタバレあり）
