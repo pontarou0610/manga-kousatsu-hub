@@ -25,7 +25,7 @@ title: 魔男のイチ 第5話最新話ネタバレ・感想・考察
 ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [魔男のイチ 第4話最新話ネタバレ・感想・考察](/posts/maotoko-no-ichi/2025/12/madan-no-ichi-di-4hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [魔男のイチ 第4話最新話ネタバレ・感想・考察](/posts/madan-no-ichi/2025/12/madan-no-ichi-di-4hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第5話のポイント3つ（ネタバレあり）

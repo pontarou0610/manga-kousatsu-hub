@@ -25,7 +25,7 @@ title: 魔男のイチ 第3話最新話ネタバレ・感想・考察
 物語が進む中での重要な展開やキャラクターの心情を掘り下げていきますので、ネタバレにご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [魔男のイチ 第2話最新話ネタバレ・感想・考察](/posts/maotoko-no-ichi/2025/12/madan-no-ichi-di-2hua-netaharekao-cha-20251203/)
+> 前回のネタバレ: [魔男のイチ 第2話最新話ネタバレ・感想・考察](/posts/madan-no-ichi/2025/12/madan-no-ichi-di-2hua-netaharekao-cha-20251203/)
 
 
 ## 結論：第3話のポイント3つ（ネタバレあり）

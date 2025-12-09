@@ -68,5 +68,5 @@ images:
 
 ## 参考リンク
 - ネタバレ版（詳細あらすじ）: [ネタバレ版（詳細あらすじ）](? [ネタバレ版（詳細あらすじ）: [ネタバレ版（詳細あらすじ）](](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203/))
-- 用語集: [用語集](? [用語集: [用語集](](：[用語集](https://pontarou0610.github.io/manga-kousatsu-hub/posts/maotoko-no-ichi/glossary/)))
+- 用語集: [用語集](/posts/madan-no-ichi/glossary/)
 
