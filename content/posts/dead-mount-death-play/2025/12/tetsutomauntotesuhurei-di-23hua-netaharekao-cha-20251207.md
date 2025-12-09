@@ -1,25 +1,28 @@
 ---
-title: "デッドマウント・デスプレイ 第23話最新話ネタバレ・感想・考察"
-slug: "tetsutomauntotesuhurei-di-23hua-netaharekao-cha-20251207"
-date: 2025-12-07T00:51:50.286522+00:00
-series: "デッドマウント・デスプレイ"
-series_slug: "dead-mount-death-play"
-chapter: "第23話"
-article_variant: "spoiler"
-tags:
-  - "ダークファンタジー"
-  - "バトル"
-  - "月刊誌"
-draft: false
-description: "デッドマウント・デスプレイ第23話の内容をお届けします。ネタバレが含まれていますので、注意してくださいね！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
   others: []
-disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第23話
+date: 2025-12-07 00:51:50.286522+00:00
+description: 'デッドマウント・デスプレイ第23話の内容をお届けします。
+
+  ネタバレが含まれていますので、注意してくださいね！'
+disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
+draft: false
 images:
-  - "ogp/2025/20251207_tetsutomauntotesuhurei-di-23hua-netaharekao-cha-20251207.png"
+- ogp/2025/20251207_tetsutomauntotesuhurei-di-23hua-netaharekao-cha-20251207.png
+series: デッドマウント・デスプレイ
+series_slug: dead-mount-death-play
+slug: tetsutomauntotesuhurei-di-23hua-netaharekao-cha-20251207
+tags:
+- ダークファンタジー
+- バトル
+- 月刊誌
+title: デッドマウント・デスプレイ 第23話最新話ネタバレ・感想・考察
 ---
+
 デッドマウント・デスプレイ第23話の内容をお届けします。ネタバレが含まれていますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**

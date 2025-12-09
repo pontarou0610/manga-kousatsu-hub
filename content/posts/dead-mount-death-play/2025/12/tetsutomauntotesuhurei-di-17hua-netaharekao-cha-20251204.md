@@ -1,25 +1,30 @@
 ---
-title: "デッドマウント・デスプレイ 第17話最新話ネタバレ・感想・考察"
-slug: "tetsutomauntotesuhurei-di-17hua-netaharekao-cha-20251204"
-date: 2025-12-04T05:08:36.633710+00:00
-series: "デッドマウント・デスプレイ"
-series_slug: "dead-mount-death-play"
-chapter: "第17話"
-article_variant: "spoiler"
-tags:
-  - "ダークファンタジー"
-  - "バトル"
-  - "月刊誌"
-draft: false
-description: "デッドマウント・デスプレイの第17話が公開されました。ネタバレが含まれますので、ご注意ください。さっそく内容を振り返りましょう！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
   others: []
-disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第17話
+date: 2025-12-04 05:08:36.633710+00:00
+description: 'デッドマウント・デスプレイの第17話が公開されました。
+
+  ネタバレが含まれますので、ご注意ください。
+
+  さっそく内容を振り返りましょう！'
+disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
+draft: false
 images:
-  - "ogp/2025/20251204_tetsutomauntotesuhurei-di-17hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_tetsutomauntotesuhurei-di-17hua-netaharekao-cha-20251204.png
+series: デッドマウント・デスプレイ
+series_slug: dead-mount-death-play
+slug: tetsutomauntotesuhurei-di-17hua-netaharekao-cha-20251204
+tags:
+- ダークファンタジー
+- バトル
+- 月刊誌
+title: デッドマウント・デスプレイ 第17話最新話ネタバレ・感想・考察
 ---
+
 デッドマウント・デスプレイの第17話が公開されました。
 ネタバレが含まれますので、ご注意ください。
 さっそく内容を振り返りましょう！

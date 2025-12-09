@@ -1,25 +1,28 @@
 ---
-title: "魔男のイチ 第6話最新話ネタバレ・感想・考察"
-slug: "mo-nan-noichi-di-6hua-netaharekao-cha-20251207"
-date: 2025-12-07T00:55:08.476701+00:00
-series: "魔男のイチ"
-series_slug: "madan-no-ichi"
-chapter: "第6話"
-article_variant: "spoiler"
-tags:
-  - "ダークファンタジー"
-  - "サスペンス"
-  - "青年誌"
-draft: false
-description: "第6話では、イチと仲間たちの新たな冒険が描かれます。ネタバレが含まれていますので、ご注意ください！"
 affiliate_ids:
-  amazon: ""
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmadan-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: ''
   others: []
-disclaimer: "公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmadan-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第6話
+date: 2025-12-07 00:55:08.476701+00:00
+description: '第6話では、イチと仲間たちの新たな冒険が描かれます。
+
+  ネタバレが含まれていますので、ご注意ください！'
+disclaimer: 公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。
+draft: false
 images:
-  - "ogp/2025/20251207_mo-nan-noichi-di-6hua-netaharekao-cha-20251207.png"
+- ogp/2025/20251207_mo-nan-noichi-di-6hua-netaharekao-cha-20251207.png
+series: 魔男のイチ
+series_slug: madan-no-ichi
+slug: mo-nan-noichi-di-6hua-netaharekao-cha-20251207
+tags:
+- ダークファンタジー
+- サスペンス
+- 青年誌
+title: 魔男のイチ 第6話最新話ネタバレ・感想・考察
 ---
+
 第6話では、イチと仲間たちの新たな冒険が描かれます。ネタバレが含まれていますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**

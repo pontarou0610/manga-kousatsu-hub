@@ -91,7 +91,12 @@ def generate_spoiler_content(series: Dict[str, Any], chapter: str) -> Optional[D
     """Generate spoiler content using OpenAI."""
     system_prompt = f"""あなたは「{series['name']}」の考察記事を書く専門家です。
 {series.get('defaults', {}).get('tone', '落ち着いた敬体で、根拠を示しつつ丁寧にまとめる。')}
-{series.get('defaults', {}).get('prohibited', '誹謗中傷や憶測だけの断定、暴力的・過激な表現は避ける。')}"""
+{series.get('defaults', {}).get('prohibited', '誹謗中傷や憶測だけの断定、暴力的・過激な表現は避ける。')}
+
+【重要な文章作成ルール】
+- 句点（。）の後は必ず改行してください
+- 1文を短く簡潔にまとめ、読みやすさを最優先してください
+- 長い文章は避け、適切な長さで区切ってください"""
 
     prompt = f"""「{series['name']}」の{chapter}について、ネタバレありの考察記事を作成してください。
 
@@ -101,11 +106,13 @@ def generate_spoiler_content(series: Dict[str, Any], chapter: str) -> Optional[D
   "intro": "導入文（ネタバレなし、200文字程度）",
   "summary_points": ["ポイント1", "ポイント2", "ポイント3"],
   "spoiler": {{
-    "synopsis": "あらすじ要約（300文字程度）",
-    "foreshadowings": ["伏線1", "伏線2", "伏線3"],
-    "predictions": ["予想1（根拠付き）", "予想2（根拠付き）"]
+    "synopsis": "あらすじ要約（300文字程度、句点の後は改行）",
+    "foreshadowings": ["伏線1（句点の後は改行）", "伏線2（句点の後は改行）", "伏線3（句点の後は改行）"],
+    "predictions": ["予想1（根拠付き、句点の後は改行）", "予想2（根拠付き、句点の後は改行）"]
   }}
-}}"""
+}}
+
+※すべてのテキストフィールドで、句点（。）の後は必ず改行（\n）を入れてください。"""
 
     return generate_content_with_openai(
         prompt=prompt,
@@ -118,7 +125,12 @@ def generate_insight_content(series: Dict[str, Any], topic: str) -> Optional[Dic
     """Generate insight content (no spoilers) using OpenAI."""
     system_prompt = f"""あなたは「{series['name']}」の考察記事を書く専門家です。
 ネタバレを避け、テーマに沿った分析を提供してください。
-{series.get('defaults', {}).get('tone', '落ち着いた敬体で、根拠を示しつつ丁寧にまとめる。')}"""
+{series.get('defaults', {}).get('tone', '落ち着いた敬体で、根拠を示しつつ丁寧にまとめる。')}
+
+【重要な文章作成ルール】
+- 句点（。）の後は必ず改行してください
+- 1文を短く簡潔にまとめ、読みやすさを最優先してください
+- 長い文章は避け、適切な長さで区切ってください"""
 
     prompt = f"""「{series['name']}」について、以下のテーマでネタバレなしの考察記事を作成してください：
 テーマ: {topic}
@@ -126,25 +138,27 @@ def generate_insight_content(series: Dict[str, Any], topic: str) -> Optional[Dic
 以下のJSON形式で出力してください：
 {{
   "title": "記事タイトル",
-  "intro": "導入文（200文字程度）",
-  "summary_points": ["ポイント1", "ポイント2", "ポイント3"],
+  "intro": "導入文（200文字程度、句点の後は改行）",
+  "summary_points": ["ポイント1（句点の後は改行）", "ポイント2（句点の後は改行）", "ポイント3（句点の後は改行）"],
   "insight": {{
     "themes": [
-      {{"title": "テーマ1", "detail": "詳細説明"}},
-      {{"title": "テーマ2", "detail": "詳細説明"}}
+      {{"title": "テーマ1", "detail": "詳細説明（句点の後は改行）"}},
+      {{"title": "テーマ2", "detail": "詳細説明（句点の後は改行）"}}
     ],
     "characters": [
-      {{"name": "キャラクター名", "focus": "着眼点"}}
+      {{"name": "キャラクター名", "focus": "着眼点（句点の後は改行）"}}
     ]
   }},
   "outline": [
-    {{"heading": "見出し1", "bullets": ["項目1", "項目2"]}}
+    {{"heading": "見出し1", "bullets": ["項目1（句点の後は改行）", "項目2（句点の後は改行）"]}}
   ],
   "faq": [
-    {{"question": "質問1", "answer": "回答1"}},
-    {{"question": "質問2", "answer": "回答2"}}
+    {{"question": "質問1", "answer": "回答1（句点の後は改行）"}},
+    {{"question": "質問2", "answer": "回答2（句点の後は改行）"}}
   ]
-}}"""
+}}
+
+※すべてのテキストフィールドで、句点（。）の後は必ず改行（\n）を入れてください。"""
 
     return generate_content_with_openai(
         prompt=prompt,

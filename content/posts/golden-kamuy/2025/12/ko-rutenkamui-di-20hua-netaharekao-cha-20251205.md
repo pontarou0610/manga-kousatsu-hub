@@ -1,25 +1,30 @@
 ---
-title: "ゴールデンカムイ 第20話最新話ネタバレ・感想・考察"
-slug: "ko-rutenkamui-di-20hua-netaharekao-cha-20251205"
-date: 2025-12-05T00:49:10.129716+00:00
-series: "ゴールデンカムイ"
-series_slug: "golden-kamuy"
-chapter: "第20話"
-article_variant: "spoiler"
-tags:
-  - "歴史"
-  - "サバイバル"
-  - "週刊誌"
-draft: false
-description: "第20話では、物語がさらに深まります。ネタバレが含まれるのでご注意ください。さあ、一緒に内容を振り返りましょう！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
   others: []
-disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第20話
+date: 2025-12-05 00:49:10.129716+00:00
+description: '第20話では、物語がさらに深まります。
+
+  ネタバレが含まれるのでご注意ください。
+
+  さあ、一緒に内容を振り返りましょう！'
+disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
+draft: false
 images:
-  - "ogp/2025/20251205_ko-rutenkamui-di-20hua-netaharekao-cha-20251205.png"
+- ogp/2025/20251205_ko-rutenkamui-di-20hua-netaharekao-cha-20251205.png
+series: ゴールデンカムイ
+series_slug: golden-kamuy
+slug: ko-rutenkamui-di-20hua-netaharekao-cha-20251205
+tags:
+- 歴史
+- サバイバル
+- 週刊誌
+title: ゴールデンカムイ 第20話最新話ネタバレ・感想・考察
 ---
+
 第20話では、物語がさらに深まります。
 ネタバレが含まれるのでご注意ください。
 さあ、一緒に内容を振り返りましょう！

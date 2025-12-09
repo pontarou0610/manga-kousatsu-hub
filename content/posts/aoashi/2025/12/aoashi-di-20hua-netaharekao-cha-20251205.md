@@ -1,25 +1,28 @@
 ---
-title: "アオアシ 第20話最新話ネタバレ・感想・考察"
-slug: "aoashi-di-20hua-netaharekao-cha-20251205"
-date: 2025-12-05T00:49:47.561252+00:00
-series: "アオアシ"
-series_slug: "aoashi"
-chapter: "第20話"
-article_variant: "spoiler"
-tags:
-  - "サッカー"
-  - "青春"
-  - "週刊誌"
-draft: false
-description: "アオアシの第20話の内容をまとめました。ネタバレが含まれていますので、ご注意ください！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
   others: []
-disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第20話
+date: 2025-12-05 00:49:47.561252+00:00
+description: 'アオアシの第20話の内容をまとめました。
+
+  ネタバレが含まれていますので、ご注意ください！'
+disclaimer: 実在チームとの比較は公開資料を根拠に行います。
+draft: false
 images:
-  - "ogp/2025/20251205_aoashi-di-20hua-netaharekao-cha-20251205.png"
+- ogp/2025/20251205_aoashi-di-20hua-netaharekao-cha-20251205.png
+series: アオアシ
+series_slug: aoashi
+slug: aoashi-di-20hua-netaharekao-cha-20251205
+tags:
+- サッカー
+- 青春
+- 週刊誌
+title: アオアシ 第20話最新話ネタバレ・感想・考察
 ---
+
 アオアシの第20話の内容をまとめました。
 ネタバレが含まれていますので、ご注意ください！
 

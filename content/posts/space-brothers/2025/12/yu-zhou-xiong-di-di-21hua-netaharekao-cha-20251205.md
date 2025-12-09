@@ -1,27 +1,30 @@
 ---
-title: "宇宙兄弟 第21話最新話ネタバレ・感想・考察"
-slug: "yu-zhou-xiong-di-di-21hua-netaharekao-cha-20251205"
-date: 2025-12-05T03:23:43.167197+00:00
-series: "宇宙兄弟"
-series_slug: "space-brothers"
-chapter: "第21話"
-article_variant: "spoiler"
-tags:
-  - "宇宙"
-  - "ヒューマンドラマ"
-  - "月刊誌"
-draft: false
-description: "第21話では、宇宙兄弟の新たな挑戦が描かれています。ネタバレが含まれますので、注意してくださいね！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
   others:
-    - name: "Amazon（オールカラー版）"
-      url: "https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22"
-disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
+  - name: Amazon（オールカラー版）
+    url: https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第21話
+date: 2025-12-05 03:23:43.167197+00:00
+description: '第21話では、宇宙兄弟の新たな挑戦が描かれています。
+
+  ネタバレが含まれますので、注意してくださいね！'
+disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
+draft: false
 images:
-  - "ogp/2025/20251205_yu-zhou-xiong-di-di-21hua-netaharekao-cha-20251205.png"
+- ogp/2025/20251205_yu-zhou-xiong-di-di-21hua-netaharekao-cha-20251205.png
+series: 宇宙兄弟
+series_slug: space-brothers
+slug: yu-zhou-xiong-di-di-21hua-netaharekao-cha-20251205
+tags:
+- 宇宙
+- ヒューマンドラマ
+- 月刊誌
+title: 宇宙兄弟 第21話最新話ネタバレ・感想・考察
 ---
+
 第21話では、宇宙兄弟の新たな挑戦が描かれています。ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**

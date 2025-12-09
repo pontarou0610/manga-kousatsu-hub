@@ -1,25 +1,28 @@
 ---
-title: "デッドマウント・デスプレイ 第20話最新話ネタバレ・感想・考察"
-slug: "tetsutomauntotesuhurei-di-20hua-netaharekao-cha-20251205"
-date: 2025-12-05T00:46:41.147847+00:00
-series: "デッドマウント・デスプレイ"
-series_slug: "dead-mount-death-play"
-chapter: "第20話"
-article_variant: "spoiler"
-tags:
-  - "ダークファンタジー"
-  - "バトル"
-  - "月刊誌"
-draft: false
-description: "デッドマウント・デスプレイの第20話の内容をまとめました。ネタバレがありますので、注意してくださいね！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
   others: []
-disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第20話
+date: 2025-12-05 00:46:41.147847+00:00
+description: 'デッドマウント・デスプレイの第20話の内容をまとめました。
+
+  ネタバレがありますので、注意してくださいね！'
+disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。
+draft: false
 images:
-  - "ogp/2025/20251205_tetsutomauntotesuhurei-di-20hua-netaharekao-cha-20251205.png"
+- ogp/2025/20251205_tetsutomauntotesuhurei-di-20hua-netaharekao-cha-20251205.png
+series: デッドマウント・デスプレイ
+series_slug: dead-mount-death-play
+slug: tetsutomauntotesuhurei-di-20hua-netaharekao-cha-20251205
+tags:
+- ダークファンタジー
+- バトル
+- 月刊誌
+title: デッドマウント・デスプレイ 第20話最新話ネタバレ・感想・考察
 ---
+
 デッドマウント・デスプレイの第20話の内容をまとめました。
 ネタバレがありますので、注意してくださいね！
 

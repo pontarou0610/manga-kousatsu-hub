@@ -1,24 +1,26 @@
 ---
-title: "スキップとローファー 第14話最新話ネタバレ・感想・考察"
-slug: "sukitsuhutoro-hua-di-14hua-netaharekao-cha-20251204"
-date: 2025-12-04T03:12:34.800500+00:00
-series: "スキップとローファー"
-series_slug: "skip-and-loafer"
-chapter: "第14話"
-article_variant: "spoiler"
-tags:
-  - "青春"
-  - "日常"
-  - "月刊誌"
-draft: false
-description: "第14話では、キャラクターたちの成長や新たな挑戦が描かれています。これからネタバレが含まれますのでご注意ください！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
   others: []
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第14話
+date: 2025-12-04 03:12:34.800500+00:00
+description: '第14話では、キャラクターたちの成長や新たな挑戦が描かれています。
+
+  これからネタバレが含まれますのでご注意ください！'
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
+draft: false
 images:
-  - "ogp/2025/20251204_sukitsuhutoro-hua-di-14hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_sukitsuhutoro-hua-di-14hua-netaharekao-cha-20251204.png
+series: スキップとローファー
+series_slug: skip-and-loafer
+slug: sukitsuhutoro-hua-di-14hua-netaharekao-cha-20251204
+tags:
+- 青春
+- 日常
+- 月刊誌
+title: スキップとローファー 第14話最新話ネタバレ・感想・考察
 ---
 
 第14話では、キャラクターたちの成長や新たな挑戦が描かれています。

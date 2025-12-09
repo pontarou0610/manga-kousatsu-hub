@@ -1,25 +1,26 @@
 ---
-
-title: "天国大魔境 第10話最新話ネタバレ・感想・考察"
-slug: "tian-guo-da-mo-jing-di-10hua-netaharekao-cha-20251204"
-date: 2025-12-04T02:08:44.044178+00:00
-series: "天国大魔境"
-series_slug: "heavenly-delusion"
-chapter: "第10話"
-article_variant: "spoiler"
-tags:
-  - "SF"
-  - "ミステリー"
-  - "月刊誌"
-draft: false
-description: "第10話では、物語が新たな展開を迎えます。ネタバレを含む内容ですので、注意してください！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
   others: []
-disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第10話
+date: 2025-12-04 02:08:44.044178+00:00
+description: '第10話では、物語が新たな展開を迎えます。
+
+  ネタバレを含む内容ですので、注意してください！'
+disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
+draft: false
 images:
-  - "ogp/2025/20251204_tian-guo-da-mo-jing-di-10hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_tian-guo-da-mo-jing-di-10hua-netaharekao-cha-20251204.png
+series: 天国大魔境
+series_slug: heavenly-delusion
+slug: tian-guo-da-mo-jing-di-10hua-netaharekao-cha-20251204
+tags:
+- SF
+- ミステリー
+- 月刊誌
+title: 天国大魔境 第10話最新話ネタバレ・感想・考察
 ---
 
 第10話では、物語が新たな展開を迎えます。

@@ -1,24 +1,26 @@
 ---
-title: "ゴールデンカムイ 第12話最新話ネタバレ・感想・考察"
-slug: "ko-rutenkamui-di-12hua-netaharekao-cha-20251204"
-date: 2025-12-04T02:50:19.312210+00:00
-series: "ゴールデンカムイ"
-series_slug: "golden-kamuy"
-chapter: "第12話"
-article_variant: "spoiler"
-tags:
-  - "歴史"
-  - "サバイバル"
-  - "週刊誌"
-draft: false
-description: "第12話では、物語が新たな局面を迎えます。ネタバレが含まれるので、注意してお読みください！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
   others: []
-disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第12話
+date: 2025-12-04 02:50:19.312210+00:00
+description: '第12話では、物語が新たな局面を迎えます。
+
+  ネタバレが含まれるので、注意してお読みください！'
+disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
+draft: false
 images:
-  - "ogp/2025/20251204_ko-rutenkamui-di-12hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_ko-rutenkamui-di-12hua-netaharekao-cha-20251204.png
+series: ゴールデンカムイ
+series_slug: golden-kamuy
+slug: ko-rutenkamui-di-12hua-netaharekao-cha-20251204
+tags:
+- 歴史
+- サバイバル
+- 週刊誌
+title: ゴールデンカムイ 第12話最新話ネタバレ・感想・考察
 ---
 
 第12話では、物語が新たな局面を迎えます。

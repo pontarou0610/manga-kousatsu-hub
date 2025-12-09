@@ -1,25 +1,28 @@
 ---
-title: "ゴールデンカムイ 第24話最新話ネタバレ・感想・考察"
-slug: "ko-rutenkamui-di-24hua-netaharekao-cha-20251208"
-date: 2025-12-08T00:48:44.639075+00:00
-series: "ゴールデンカムイ"
-series_slug: "golden-kamuy"
-chapter: "第24話"
-article_variant: "spoiler"
-tags:
-  - "歴史"
-  - "サバイバル"
-  - "週刊誌"
-draft: false
-description: "第24話では、物語が新たな展開を迎えます。ネタバレが含まれていますので、ご注意ください！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
   others: []
-disclaimer: "史実や文化の引用は公式資料と監修コメントに従います。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第24話
+date: 2025-12-08 00:48:44.639075+00:00
+description: '第24話では、物語が新たな展開を迎えます。
+
+  ネタバレが含まれていますので、ご注意ください！'
+disclaimer: 史実や文化の引用は公式資料と監修コメントに従います。
+draft: false
 images:
-  - "ogp/2025/20251208_ko-rutenkamui-di-24hua-netaharekao-cha-20251208.png"
+- ogp/2025/20251208_ko-rutenkamui-di-24hua-netaharekao-cha-20251208.png
+series: ゴールデンカムイ
+series_slug: golden-kamuy
+slug: ko-rutenkamui-di-24hua-netaharekao-cha-20251208
+tags:
+- 歴史
+- サバイバル
+- 週刊誌
+title: ゴールデンカムイ 第24話最新話ネタバレ・感想・考察
 ---
+
 第24話では、物語が新たな展開を迎えます。ネタバレが含まれていますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**

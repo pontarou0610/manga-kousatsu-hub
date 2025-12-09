@@ -1,25 +1,28 @@
 ---
-title: "天国大魔境 第21話最新話ネタバレ・感想・考察"
-slug: "tian-guo-da-mo-jing-di-21hua-netaharekao-cha-20251206"
-date: 2025-12-06T00:42:52.576987+00:00
-series: "天国大魔境"
-series_slug: "heavenly-delusion"
-chapter: "第21話"
-article_variant: "spoiler"
-tags:
-  - "SF"
-  - "ミステリー"
-  - "月刊誌"
-draft: false
-description: "今回は『天国大魔境』第21話の内容をお届けします。ネタバレが含まれますのでご注意ください！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
   others: []
-disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第21話
+date: 2025-12-06 00:42:52.576987+00:00
+description: '今回は『天国大魔境』第21話の内容をお届けします。
+
+  ネタバレが含まれますのでご注意ください！'
+disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
+draft: false
 images:
-  - "ogp/2025/20251206_tian-guo-da-mo-jing-di-21hua-netaharekao-cha-20251206.png"
+- ogp/2025/20251206_tian-guo-da-mo-jing-di-21hua-netaharekao-cha-20251206.png
+series: 天国大魔境
+series_slug: heavenly-delusion
+slug: tian-guo-da-mo-jing-di-21hua-netaharekao-cha-20251206
+tags:
+- SF
+- ミステリー
+- 月刊誌
+title: 天国大魔境 第21話最新話ネタバレ・感想・考察
 ---
+
 今回は『天国大魔境』第21話の内容をお届けします。ネタバレが含まれますのでご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**

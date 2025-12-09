@@ -1,26 +1,25 @@
 ---
-title: "魔男のイチ 第16話最新話ネタバレ・感想・考察"
-slug: "madan-no-ichi-di-16hua-netaharekao-cha-20251204"
-date: 2025-12-04T04:54:45.796748+00:00
-series: "魔男のイチ"
-series_slug: "madan-no-ichi"
-chapter: "第16話"
-article_variant: "spoiler"
-tags:
-  - "ダークファンタジー"
-  - "サスペンス"
-  - "青年誌"
-draft: false
-description: "第16話では、イチの新たな試練が描かれています。 ネタバレが含まれますので、注意してお読みください！"
 affiliate_ids:
-  amazon: ""
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: ''
   others: []
-disclaimer: "公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。 "
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第16話
+date: 2025-12-04 04:54:45.796748+00:00
+description: "第16話では、イチの新たな試練が描かれています。\n ネタバレが含まれますので、注意してお読みください！"
+disclaimer: '公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。 '
+draft: false
 images:
-  - "ogp/2025/20251204_madan-no-ichi-di-16hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_madan-no-ichi-di-16hua-netaharekao-cha-20251204.png
+series: 魔男のイチ
+series_slug: madan-no-ichi
+slug: madan-no-ichi-di-16hua-netaharekao-cha-20251204
+tags:
+- ダークファンタジー
+- サスペンス
+- 青年誌
+title: 魔男のイチ 第16話最新話ネタバレ・感想・考察
 ---
-
 
 第16話では、イチの新たな試練が描かれています。
 ネタバレが含まれますので、注意してお読みください！

@@ -1,24 +1,26 @@
 ---
-title: "アオアシ 第1話 最新話ネタバレ・感想・考察"
-slug: "aoashi-di-1hua-netaharekao-cha-20251204"
-date: 2025-12-04T05:25:12.882250+00:00
-series: "アオアシ"
-series_slug: "aoashi"
-chapter: "第1話"
-article_variant: "spoiler"
-tags:
-  - "サッカー"
-  - "青春"
-  - "週刊ビッグコミックスピリッツ"
-draft: false
-description: "『アオアシ』第1話のネタバレと感想・考察。サッカーに情熱を注ぐ少年アシトの物語がここから始まる。"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
   others: []
-disclaimer: "実在チームとの比較や公式コメントを根拠に行います。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第1話
+date: 2025-12-04 05:25:12.882250+00:00
+description: '『アオアシ』第1話のネタバレと感想・考察。
+
+  サッカーに情熱を注ぐ少年アシトの物語がここから始まる。'
+disclaimer: 実在チームとの比較や公式コメントを根拠に行います。
+draft: false
 images:
-  - "ogp/2025/20251204_aoashi-di-1hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_aoashi-di-1hua-netaharekao-cha-20251204.png
+series: アオアシ
+series_slug: aoashi
+slug: aoashi-di-1hua-netaharekao-cha-20251204
+tags:
+- サッカー
+- 青春
+- 週刊ビッグコミックスピリッツ
+title: アオアシ 第1話 最新話ネタバレ・感想・考察
 ---
 
 『アオアシ』第1話のネタバレと感想・考察です。

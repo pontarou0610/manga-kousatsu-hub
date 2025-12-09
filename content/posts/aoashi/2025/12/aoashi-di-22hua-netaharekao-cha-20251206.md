@@ -1,25 +1,28 @@
 ---
-title: "アオアシ 第22話最新話ネタバレ・感想・考察"
-slug: "aoashi-di-22hua-netaharekao-cha-20251206"
-date: 2025-12-06T00:46:45.879336+00:00
-series: "アオアシ"
-series_slug: "aoashi"
-chapter: "第22話"
-article_variant: "spoiler"
-tags:
-  - "サッカー"
-  - "青春"
-  - "週刊誌"
-draft: false
-description: "アオアシの第22話の内容を時系列でまとめました。ネタバレが含まれるのでご注意ください！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
   others: []
-disclaimer: "実在チームとの比較は公開資料を根拠に行います。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第22話
+date: 2025-12-06 00:46:45.879336+00:00
+description: 'アオアシの第22話の内容を時系列でまとめました。
+
+  ネタバレが含まれるのでご注意ください！'
+disclaimer: 実在チームとの比較は公開資料を根拠に行います。
+draft: false
 images:
-  - "ogp/2025/20251206_aoashi-di-22hua-netaharekao-cha-20251206.png"
+- ogp/2025/20251206_aoashi-di-22hua-netaharekao-cha-20251206.png
+series: アオアシ
+series_slug: aoashi
+slug: aoashi-di-22hua-netaharekao-cha-20251206
+tags:
+- サッカー
+- 青春
+- 週刊誌
+title: アオアシ 第22話最新話ネタバレ・感想・考察
 ---
+
 アオアシの第22話の内容を時系列でまとめました。ネタバレが含まれるのでご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**

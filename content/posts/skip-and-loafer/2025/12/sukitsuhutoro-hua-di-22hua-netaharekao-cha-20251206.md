@@ -1,25 +1,30 @@
 ---
-title: "スキップとローファー 第22話最新話ネタバレ・感想・考察"
-slug: "sukitsuhutoro-hua-di-22hua-netaharekao-cha-20251206"
-date: 2025-12-06T00:43:28.352998+00:00
-series: "スキップとローファー"
-series_slug: "skip-and-loafer"
-chapter: "第22話"
-article_variant: "spoiler"
-tags:
-  - "青春"
-  - "日常"
-  - "月刊誌"
-draft: false
-description: "第22話の内容をお届けします。ネタバレが含まれますので、ご注意ください。友達との関係や成長が描かれる素敵なエピソードです。"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
   others: []
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第22話
+date: 2025-12-06 00:43:28.352998+00:00
+description: '第22話の内容をお届けします。
+
+  ネタバレが含まれますので、ご注意ください。
+
+  友達との関係や成長が描かれる素敵なエピソードです。'
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
+draft: false
 images:
-  - "ogp/2025/20251206_sukitsuhutoro-hua-di-22hua-netaharekao-cha-20251206.png"
+- ogp/2025/20251206_sukitsuhutoro-hua-di-22hua-netaharekao-cha-20251206.png
+series: スキップとローファー
+series_slug: skip-and-loafer
+slug: sukitsuhutoro-hua-di-22hua-netaharekao-cha-20251206
+tags:
+- 青春
+- 日常
+- 月刊誌
+title: スキップとローファー 第22話最新話ネタバレ・感想・考察
 ---
+
 第22話の内容をお届けします。ネタバレが含まれますので、ご注意ください。友達との関係や成長が描かれる素敵なエピソードです。
 
 > **This article contains spoilers up to the latest chapter.**

@@ -1,25 +1,28 @@
 ---
-title: "魔男のイチ 第4話最新話ネタバレ・感想・考察"
-slug: "mo-nan-noichi-di-4hua-netaharekao-cha-20251205"
-date: 2025-12-05T03:25:26.523977+00:00
-series: "魔男のイチ"
-series_slug: "madan-no-ichi"
-chapter: "第4話"
-article_variant: "spoiler"
-tags:
-  - "ダークファンタジー"
-  - "サスペンス"
-  - "青年誌"
-draft: false
-description: "『魔男のイチ』第4話の内容をまとめました。ネタバレが含まれていますので、注意してくださいね！"
 affiliate_ids:
-  amazon: ""
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmadan-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: ''
   others: []
-disclaimer: "公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmadan-no-ichi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第4話
+date: 2025-12-05 03:25:26.523977+00:00
+description: '『魔男のイチ』第4話の内容をまとめました。
+
+  ネタバレが含まれていますので、注意してくださいね！'
+disclaimer: 公式設定資料と単行本の公開情報のみを参照し、推測には根拠を添えます。
+draft: false
 images:
-  - "ogp/2025/20251205_mo-nan-noichi-di-4hua-netaharekao-cha-20251205.png"
+- ogp/2025/20251205_mo-nan-noichi-di-4hua-netaharekao-cha-20251205.png
+series: 魔男のイチ
+series_slug: madan-no-ichi
+slug: mo-nan-noichi-di-4hua-netaharekao-cha-20251205
+tags:
+- ダークファンタジー
+- サスペンス
+- 青年誌
+title: 魔男のイチ 第4話最新話ネタバレ・感想・考察
 ---
+
 『魔男のイチ』第4話の内容をまとめました。ネタバレが含まれていますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**

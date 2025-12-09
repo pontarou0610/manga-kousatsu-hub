@@ -1,24 +1,26 @@
 ---
-title: "スキップとローファー 第12話最新話ネタバレ・感想・考察"
-slug: "sukitsuhutoro-hua-di-12hua-netaharekao-cha-20251204"
-date: 2025-12-04T02:47:27.502220+00:00
-series: "スキップとローファー"
-series_slug: "skip-and-loafer"
-chapter: "第12話"
-article_variant: "spoiler"
-tags:
-  - "青春"
-  - "日常"
-  - "月刊誌"
-draft: false
-description: "第12話の内容をまとめました。ネタバレが含まれていますので、注意してくださいね！"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22
   others: []
-disclaimer: "学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。"
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+article_variant: spoiler
+chapter: 第12話
+date: 2025-12-04 02:47:27.502220+00:00
+description: '第12話の内容をまとめました。
+
+  ネタバレが含まれていますので、注意してくださいね！'
+disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネタバレはトグル内のみ。
+draft: false
 images:
-  - "ogp/2025/20251204_sukitsuhutoro-hua-di-12hua-netaharekao-cha-20251204.png"
+- ogp/2025/20251204_sukitsuhutoro-hua-di-12hua-netaharekao-cha-20251204.png
+series: スキップとローファー
+series_slug: skip-and-loafer
+slug: sukitsuhutoro-hua-di-12hua-netaharekao-cha-20251204
+tags:
+- 青春
+- 日常
+- 月刊誌
+title: スキップとローファー 第12話最新話ネタバレ・感想・考察
 ---
 
 第12話の内容をまとめました。
