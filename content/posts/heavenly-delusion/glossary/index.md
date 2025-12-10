@@ -1,6 +1,6 @@
 ---
 title: "天国大魔境 用語集"
-date: 2025-12-10T00:09:04+09:00
+date: 2025-12-10T00:46:34+09:00
 series: "天国大魔境"
 chapter: "用語集"
 article_variant: "glossary"
