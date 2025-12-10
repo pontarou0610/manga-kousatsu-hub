@@ -21,6 +21,7 @@ images: []
 ---
 
 
+
 デッドマウント・デスプレイに登場する用語・組織・人物を公式情報から抜粋し、初見読者でも追いやすいように整理しました。
 
 
@@ -63,4 +64,4 @@ images: []
 
 
 {{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}
-- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>

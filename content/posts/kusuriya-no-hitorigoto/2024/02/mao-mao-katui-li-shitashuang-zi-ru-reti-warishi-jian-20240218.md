@@ -21,6 +21,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2024/20240218_mao-mao-katui-li-shitashuang-zi-ru-reti-warishi-jian-20240218.png
 ---
+
 第90話では、後宮での双子入れ替わり事件の真相が明らかになります。
 これからネタバレが含まれますので、ご注意ください。
 
@@ -66,7 +67,7 @@ images:
 政治的な陰謀や人間関係が複雑に絡み合う舞台となる。
 
 ## 参考リンク（すべて公式）
-- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
-- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)
-- [薬屋の事件ファイル](https://fanblog.example.com/kusuriya/twin-case)
-- [月刊ビッグガンガン公式](https://magazine.jp.square-enix.com/biggangan/kusuriya/)
+- <a href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener">月刊サンデーGX公式</a>
+- <a href="https://kusuriyanohitorigoto.jp/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
+- <a href="https://fanblog.example.com/kusuriya/twin-case" target="_blank" rel="noopener">薬屋の事件ファイル</a>
+- <a href="https://magazine.jp.square-enix.com/biggangan/kusuriya/" target="_blank" rel="noopener">月刊ビッグガンガン公式</a>

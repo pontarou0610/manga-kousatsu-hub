@@ -21,6 +21,7 @@ disclaimer: 医療・薬学の描写は公式情報に基づき、核心ネタ�
 images:
 - ogp/2024/20240218_post-4da562dc.png
 ---
+
 第90話で提示された「毒見」という役目を、双子すり替え事件の周辺事情から読み解きます（ストーリー核心のネタバレは無し）。
 
 ## 着眼ポイント（ネタバレなし）
@@ -61,5 +62,5 @@ images:
 事実を示しつつ、決定は上層に委ねている。
 
 ## 参考リンク（すべて公式）
-- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
-- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)
+- <a href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener">月刊サンデーGX公式</a>
+- <a href="https://kusuriyanohitorigoto.jp/" target="_blank" rel="noopener">TVアニメ公式サイト</a>

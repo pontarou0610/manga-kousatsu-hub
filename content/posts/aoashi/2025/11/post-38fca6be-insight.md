@@ -21,11 +21,12 @@ images:
 - ogp/2025/20251114_post-38fca6be.png
 ---
 
+
 エスペリオンの戦術を通じて、チームビルディングの重要性を探ります。
 選手たちの成長と連携がどのように描かれているのか、考察します。
 
-![A welder at work indoors, creating bright sparks while welding metal pipes.](https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by [Nishant Aneja](https://www.pexels.com/@nishantaneja) on [Pexels](https://www.pexels.com/photo/man-welding-3970339/)</small>
+!<a href="https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" target="_blank" rel="noopener">A welder at work indoors, creating bright sparks while welding metal pipes.</a>
+<small>Photo by <a href="https://www.pexels.com/@nishantaneja" target="_blank" rel="noopener">Nishant Aneja</a> on <a href="https://www.pexels.com/photo/man-welding-3970339/" target="_blank" rel="noopener">Pexels</a></small>
 
 ## 着眼ポイント（ネタバレ無し）
 - エスペリオンの戦術は、選手同士の信頼関係を築くことが基本であり、これがチームのパフォーマンス向上に寄与しています。
@@ -58,13 +59,13 @@ images:
 この過程が、チームの結束を強化する要因となっています。
 
 ## 参照リンク（すべて公式）
-- [ビッグコミックス公式](https://bigcomicbros.net/comics/30384/)
-- [アニメ公式サイト](https://aoashi-pr.com/)
+- <a href="https://bigcomicbros.net/comics/30384/" target="_blank" rel="noopener">ビッグコミックス公式</a>
+- <a href="https://aoashi-pr.com/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
-- [公式サイトで詳しく読む](https://bigcomicbros.net/comics/30384/)
+- <a href="https://bigcomicbros.net/comics/30384/" target="_blank" rel="noopener">公式サイトで詳しく読む</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Faoashi%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>

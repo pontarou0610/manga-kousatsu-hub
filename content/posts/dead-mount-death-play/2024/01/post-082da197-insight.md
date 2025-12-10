@@ -9,6 +9,7 @@ affiliate_ids:
 ---
 
 
+
 ﻿---
 title: "デッドマウント・デスプレイ｜Stage.70｜屍神殿の偽装工作を読み解く（ネタバレなし）"
 slug: "post-082da197-insight"
@@ -23,8 +24,8 @@ tags:
   - "考察"
 draft: false
 affiliate_ids:
-- [Amazonで探す](https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22)
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
   others: []
 disclaimer: "用語は公式ガイドラインに従い、推測は根拠を添えて記載します。
 "
@@ -33,8 +34,8 @@ images:
 ---
 デッドマウント・デスプレイのStage.70では、屍神殿が現代社会に適応するための偽装工作に焦点を当て、街の暗部を生き抜く術を探ります。
 
-![A welder at work indoors, creating bright sparks while welding metal pipes.](https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by [Nishant Aneja](https://www.pexels.com/@nishantaneja) on [Pexels](https://www.pexels.com/photo/man-welding-3970339/)</small>
+!<a href="https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" target="_blank" rel="noopener">A welder at work indoors, creating bright sparks while welding metal pipes.</a>
+<small>Photo by <a href="https://www.pexels.com/@nishantaneja" target="_blank" rel="noopener">Nishant Aneja</a> on <a href="https://www.pexels.com/photo/man-welding-3970339/" target="_blank" rel="noopener">Pexels</a></small>
 
 ## ポイント（ネタバレなし）
 - 屍神殿がポルカの身体を借りることで、どのように社会へ偽装し馴染もうとしたかを具体的に整理します。
@@ -58,7 +59,7 @@ images:
 - **アンダーグラウンドの仲間**: 偽装を支え、リスクを分散している重要な存在として位置付けます。
 
 ## リンク（公式のみ）
-- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
-- [アニメ公式サイト](https://dmdp-anime.jp/)
+- <a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">ガンガンJOKER公式</a>
+- <a href="https://dmdp-anime.jp/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
-- [公式サイトで詳しく読む](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- <a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">公式サイトで詳しく読む</a>

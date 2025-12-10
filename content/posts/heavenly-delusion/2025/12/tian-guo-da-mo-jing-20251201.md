@@ -19,6 +19,7 @@ disclaimer: 壁内外の設定・用語は公式資料を参照し、ネタバ�
 images:
 - ogp/2025/20251201_tian-guo-da-mo-jing-20251201.png
 ---
+
 最新章「天国大魔境」では、物語が新たな展開を迎えます。
 ネタバレが含まれていますので、ご注意ください！
 
@@ -63,5 +64,5 @@ images:
 - **黒の手**: 物語に登場する謎の組織で、主人公アキラの過去に深く関わっている。
 
 ## 参考リンク（すべて公式）
-- [作品公式サイト](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
-- [アニメ公式サイト](https://tdm-anime.com/)
+- <a href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">作品公式サイト</a>
+- <a href="https://tdm-anime.com/" target="_blank" rel="noopener">アニメ公式サイト</a>

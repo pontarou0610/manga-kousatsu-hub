@@ -55,6 +55,7 @@ images:
 
 ---
 
+
 第18話では、アオアシの成長と仲間との絆が深まる瞬間が描かれています。
 次の展開が気になりますね！
 
@@ -152,10 +153,10 @@ images:
 ## 参考リンク
 
 
-- [ビッグコミックス公式](https://bigcomicbros.net/comics/30384/)
+- <a href="https://bigcomicbros.net/comics/30384/" target="_blank" rel="noopener">ビッグコミックス公式</a>
 
 
-- [アニメ公式サイト](https://aoashi-pr.com/)
+- <a href="https://aoashi-pr.com/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
 
 

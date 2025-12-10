@@ -19,6 +19,7 @@ disclaimer: 史実や文化の引用は公式資料と監修コメントに従�
 images:
 - ogp/2024/20240415_di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-20240415.png
 ---
+
 第220話では、杉元と鶴見中尉の緊迫した読み合いが描かれます。
 ネタバレが含まれますので、注意してくださいね！
 
@@ -59,6 +60,6 @@ images:
 物語の重要な舞台となっており、様々なキャラクターの運命が交差する場所。
 
 ## 参考リンク（すべて公式）
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/goldenkamuy/)
-- [アニメ公式サイト](https://kamuy-anime.com/)
-- [ゴールデン道しるべ](https://fanblog.example.com/goldenkamuy/aso-prison-review)
+- <a href="https://youngjump.jp/manga/goldenkamuy/" target="_blank" rel="noopener">週刊ヤングジャンプ公式</a>
+- <a href="https://kamuy-anime.com/" target="_blank" rel="noopener">アニメ公式サイト</a>
+- <a href="https://fanblog.example.com/goldenkamuy/aso-prison-review" target="_blank" rel="noopener">ゴールデン道しるべ</a>

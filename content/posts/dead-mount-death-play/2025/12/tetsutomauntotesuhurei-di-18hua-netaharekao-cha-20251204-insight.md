@@ -55,6 +55,7 @@ images:
 
 ---
 
+
 第18話では、キャラクターたちの新たな選択が物語をどう動かすのか、興味深い展開が待っています。
 次はどんな運命が待ち受けるのでしょうか？
 
@@ -142,10 +143,10 @@ images:
 ## 参考リンク
 
 
-- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
+- <a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">ガンガンJOKER公式</a>
 
 
-- [アニメ公式サイト](https://dmdp-anime.jp/)
+- <a href="https://dmdp-anime.jp/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
 
 

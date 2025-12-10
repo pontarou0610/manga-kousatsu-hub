@@ -62,6 +62,7 @@ images:
 ---
 
 
+
 第14話では、宇宙への夢を追う兄弟の姿が描かれ、彼らの成長と友情が試される瞬間が訪れます。
 果たして、次の展開はどうなるのか？
 
@@ -143,11 +144,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>)
+- <a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>" target="_blank" rel="noopener">Amazonで探す</a>
 
 
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>" target="_blank" rel="noopener">楽天で探す</a>
 
 
 
@@ -161,10 +162,10 @@ images:
 ## 参考リンク
 
 
-- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
+- <a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">モーニング公式サイト</a>
 
 
-- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
+- <a href="https://www.ytv.co.jp/uchukyodai/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 
 

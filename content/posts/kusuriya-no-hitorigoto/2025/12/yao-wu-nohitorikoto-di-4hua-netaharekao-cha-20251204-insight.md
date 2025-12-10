@@ -25,6 +25,7 @@ images:
 ---
 
 
+
 第4話では、薬屋の主人公が新たな謎に挑む様子が描かれています。
 彼女の成長と周囲の反応がどう変わるのか、気になりますね！
 
@@ -104,16 +105,16 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
 
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
 
 
 
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
 
 
@@ -122,10 +123,10 @@ images:
 ## 参考リンク
 
 
-- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
+- <a href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener">月刊サンデーGX公式</a>
 
 
-- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)
+- <a href="https://kusuriyanohitorigoto.jp/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 
 

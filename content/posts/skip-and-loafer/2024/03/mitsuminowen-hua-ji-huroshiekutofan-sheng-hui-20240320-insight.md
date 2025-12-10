@@ -20,6 +20,7 @@ disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネ�
 images:
 - ogp/2024/20240320_mitsuminowen-hua-ji-huroshiekutofan-sheng-hui-20240320.png
 ---
+
 第42話では、みつみの文化祭プロジェクトを振り返りながら彼女の内面の葛藤を探ります。
 彼女はどのように成長したのでしょうか？
 
@@ -54,7 +55,7 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
-- [TVアニメ公式サイト](https://skip-and-loafer.com/)
+- <a href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">月刊アフタヌーン公式</a>
+- <a href="https://skip-and-loafer.com/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 {{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

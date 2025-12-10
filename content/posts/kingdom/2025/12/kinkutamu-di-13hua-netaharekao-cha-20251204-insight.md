@@ -56,6 +56,7 @@ images:
 ---
 
 
+
 第13話では、戦の緊迫感が高まり、キャラクターたちの内面が深く描かれます。
 彼らの選択がどのように物語に影響するのか、一緒に考えてみましょう。
 
@@ -135,11 +136,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22>)
+- <a href="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22>" target="_blank" rel="noopener">Amazonで探す</a>
 
 
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>" target="_blank" rel="noopener">楽天で探す</a>
 
 
 
@@ -148,10 +149,10 @@ images:
 ## 参考リンク
 
 
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/kingdom/)
+- <a href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">週刊ヤングジャンプ公式</a>
 
 
-- [TVアニメ公式サイト](https://kingdom-anime.com/)
+- <a href="https://kingdom-anime.com/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 
 

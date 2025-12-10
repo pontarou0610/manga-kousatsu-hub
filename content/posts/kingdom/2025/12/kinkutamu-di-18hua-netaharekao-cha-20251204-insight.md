@@ -55,6 +55,7 @@ images:
 
 ---
 
+
 第18話では、キャラクターたちの成長や葛藤が描かれています。
 彼らの選択がどのように物語に影響を与えるのか、気になりますね。
 
@@ -147,10 +148,10 @@ images:
 ## 参考リンク
 
 
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/kingdom/)
+- <a href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">週刊ヤングジャンプ公式</a>
 
 
-- [TVアニメ公式サイト](https://kingdom-anime.com/)
+- <a href="https://kingdom-anime.com/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 
 

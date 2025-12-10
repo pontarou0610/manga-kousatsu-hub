@@ -20,6 +20,7 @@ disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は�
 images:
 - ogp/2023/20230830_si-nai-shan-jia-tohai-lou-luo-noyin-yuan-20230830.png
 ---
+
 第82話では、四乃山家と骸楼羅の複雑な関係が深掘りされます。
 彼らの因縁はどのように物語に影響を与えるのでしょうか？
 
@@ -57,7 +58,7 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
-- [アニメ公式サイト](https://dmdp-anime.jp/)
+- <a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">ガンガンJOKER公式</a>
+- <a href="https://dmdp-anime.jp/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
 {{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

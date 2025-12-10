@@ -23,6 +23,7 @@ images:
 ---
 
 
+
 第7話では、キャラクターたちの内面的な葛藤が深まる場面が描かれています。
 彼らの選択がどのように物語に影響を与えるのか、気になりませんか？
 
@@ -101,11 +102,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
 
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
 
 
 
@@ -114,10 +115,10 @@ images:
 ## 参考リンク
 
 
-- [作品公式サイト](https://afternoon.kodansha.co.jp/c/tengokudaimakyo/)
+- <a href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">作品公式サイト</a>
 
 
-- [アニメ公式サイト](https://tdm-anime.com/)
+- <a href="https://tdm-anime.com/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
 
 

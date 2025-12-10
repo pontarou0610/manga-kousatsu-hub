@@ -25,6 +25,7 @@ tags:
 title: 薬屋のひとりごと 第10話 最新話ネタバレ・感想・考察
 ---
 
+
 第10話では、薬屋の主人公が新たな謎に挑む姿が描かれます。
 ネタバレが含まれるので、ご注意ください。
 
@@ -68,16 +69,16 @@ title: 薬屋のひとりごと 第10話 最新話ネタバレ・感想・考察
 - 過去の師匠筋が再登場し、猫猫の推理を裏付ける形で事件解決に関わる可能性が高い。
 
 ## 関連巻・グッズへのリンク
-- 第10話収録巻：[Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
+- 第10話収録巻：<a href="https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 - 電子書籍：薬屋のひとりごと（Kindle / 楽天Kobo 等）
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- [Amazonで探す](https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22)
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
-- [Amazonで探す](https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkusuriya-no-hitorigoto%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
+- <a href="https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
 ## 関連記事・用語集
 - 関連記事：[ 薬屋のひとりごとの記事一覧 ](/posts/kusuriya-no-hitorigoto/)
-- 公式リンク：[ 月刊サンデーGX公式 ](https://sundaygx.com/kusuriya/)
+- 公式リンク：<a href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener"> 月刊サンデーGX公式 </a>
 - 用語集：[用語集](/posts/kusuriya-no-hitorigoto/glossary/)

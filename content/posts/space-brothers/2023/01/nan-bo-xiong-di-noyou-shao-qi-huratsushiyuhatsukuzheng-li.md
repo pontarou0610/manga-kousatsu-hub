@@ -9,6 +9,7 @@ affiliate_ids:
 ---
 
 
+
 ﻿---
 title: "宇宙兄弟｜幼少期回想｜最新話ネタバレ・感想・考察"
 slug: "nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li"
@@ -23,10 +24,10 @@ tags:
 draft: false
 description: ""
 affiliate_ids:
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
   others:
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 disclaimer: "宇宙計画や技術用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。
 "
 images:
@@ -70,13 +71,13 @@ images:
 - **宇宙飛行士**: 宇宙での活動を行うために訓練を受けた専門家。
 
 ## 参考リンク（公式中心）
-- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
-- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
+- <a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">モーニング公式サイト</a>
+- <a href="https://www.ytv.co.jp/uchukyodai/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
-- [公式サイトで詳しく読む](https://morning.kodansha.co.jp/c/uchukyodai/)
+- <a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">公式サイトで詳しく読む</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>

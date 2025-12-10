@@ -19,6 +19,7 @@ disclaimer: 学校生活の描写は公式発表の範囲内に限定し、ネ�
 images:
 - ogp/2025/20251201_sukitsuhutoro-hua-20251201.png
 ---
+
 最新話のスキップとローファーが公開されました！今回の章では、キャラクターたちの成長が描かれています。
 ネタバレが含まれますので、ご注意ください。
 
@@ -60,5 +61,5 @@ images:
 - **文化祭**: 学校で行われるイベントで、生徒たちが様々な出し物を通じて自分たちのアイデアを発表する機会。
 
 ## 参考リンク（すべて公式）
-- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
-- [TVアニメ公式サイト](https://skip-and-loafer.com/)
+- <a href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">月刊アフタヌーン公式</a>
+- <a href="https://skip-and-loafer.com/" target="_blank" rel="noopener">TVアニメ公式サイト</a>

@@ -19,6 +19,7 @@ disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は�
 images:
 - ogp/2024/20240108_shi-shen-dian-kaxian-dai-she-hui-nixun-ran-mutamenowei-zhuang-gong-zuo-20240108.png
 ---
+
 第70話では、屍神殿がポルカの身体を借りた直後の身元偽装について詳しく描かれています。
 ネタバレが含まれていますので、ご注意ください！
 
@@ -60,7 +61,7 @@ images:
 - **屍神殿**: この作品に登場する重要な組織で、死者の身体を利用して計画を進める存在。
 
 ## 参考リンク（すべて公式）
-- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
-- [アニメ公式サイト](https://dmdp-anime.jp/)
-- [DMDP観測記](https://fanblog.example.com/dmdp/disguise-technique)
-- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/joker/series/deadmount/)
+- <a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">ガンガンJOKER公式</a>
+- <a href="https://dmdp-anime.jp/" target="_blank" rel="noopener">アニメ公式サイト</a>
+- <a href="https://fanblog.example.com/dmdp/disguise-technique" target="_blank" rel="noopener">DMDP観測記</a>
+- <a href="https://magazine.jp.square-enix.com/joker/series/deadmount/" target="_blank" rel="noopener">ガンガンJOKER公式</a>

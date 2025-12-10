@@ -21,6 +21,7 @@ disclaimer: 宇宙計画や技術用語は公式資料を参照し、ネタバ�
 images:
 - ogp/2023/20230103_nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li-20230103.png
 ---
+
 最新話『幼少期回想』では、六太と日々人の幼少期を振り返るエピソードが展開されます。
 ネタバレが含まれますので、ご注意ください！
 
@@ -66,5 +67,5 @@ images:
 - **宇宙飛行士**: 宇宙に行くための訓練を受けた専門家で、宇宙ミッションに参加する人々。
 
 ## 参考リンク（すべて公式）
-- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
-- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
+- <a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">モーニング公式サイト</a>
+- <a href="https://www.ytv.co.jp/uchukyodai/" target="_blank" rel="noopener">TVアニメ公式サイト</a>

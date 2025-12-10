@@ -55,6 +55,7 @@ images:
 
 ---
 
+
 第18話では、キャラクターたちの思惑が交錯し、物語が新たな展開を見せます。
 彼らの動機や感情の深層を探ってみましょう。
 
@@ -149,10 +150,10 @@ images:
 ## 参考リンク
 
 
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/goldenkamuy/)
+- <a href="https://youngjump.jp/manga/goldenkamuy/" target="_blank" rel="noopener">週刊ヤングジャンプ公式</a>
 
 
-- [アニメ公式サイト](https://kamuy-anime.com/)
+- <a href="https://kamuy-anime.com/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
 
 

@@ -23,6 +23,7 @@ tags:
 title: スキップとローファー 第13話最新話ネタバレ・感想・考察
 ---
 
+
 第13話では、キャラクターたちの成長と新たな展開が描かれます。
 ネタバレが含まれますのでご注意ください！
 
@@ -70,10 +71,10 @@ title: スキップとローファー 第13話最新話ネタバレ・感想・�
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22>)
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>)
+- <a href="https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22>" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>" target="_blank" rel="noopener">楽天で探す</a>
 
 ## 関連記事・用語集
 - 関連記事：[ スキップとローファーの記事一覧 ](/posts/skip-and-loafer/)
-- 公式リンク：[ 月刊アフタヌーン公式 ](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- 公式リンク：<a href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener"> 月刊アフタヌーン公式 </a>
 - 用語集：[用語集](/posts/skip-and-loafer/glossary/)

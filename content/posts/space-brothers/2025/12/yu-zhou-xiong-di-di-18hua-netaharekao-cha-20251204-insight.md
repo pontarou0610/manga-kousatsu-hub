@@ -61,6 +61,7 @@ images:
 
 ---
 
+
 第18話では、宇宙への夢と人間関係がどのように絡み合っていくのかが描かれます。
 果たして彼らはどのように成長していくのでしょうか？
 
@@ -157,10 +158,10 @@ images:
 ## 参考リンク
 
 
-- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
+- <a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">モーニング公式サイト</a>
 
 
-- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
+- <a href="https://www.ytv.co.jp/uchukyodai/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 
 

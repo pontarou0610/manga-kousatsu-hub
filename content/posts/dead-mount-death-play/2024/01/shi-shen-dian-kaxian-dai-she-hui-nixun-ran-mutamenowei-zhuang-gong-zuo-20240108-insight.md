@@ -20,6 +20,7 @@ disclaimer: 術式・勢力図は公式ガイドラインに従い、推測は�
 images:
 - ogp/2024/20240108_shi-shen-dian-kaxian-dai-she-hui-nixun-ran-mutamenowei-zhuang-gong-zuo-20240108.png
 ---
+
 第70話では、屍神殿が現代社会にどのように馴染もうとしているのか、その偽装工作の手口を探ります。
 果たして彼らの狙いとは？
 
@@ -56,7 +57,7 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [ガンガンJOKER公式](https://magazine.jp.square-enix.com/yg/introduction/dead/)
-- [アニメ公式サイト](https://dmdp-anime.jp/)
+- <a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">ガンガンJOKER公式</a>
+- <a href="https://dmdp-anime.jp/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
 {{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

@@ -55,6 +55,7 @@ images:
 
 ---
 
+
 第18話では、キャラクターたちの成長と新たな挑戦が描かれています。
 彼らの選択がどのように物語を進めるのか、一緒に探ってみましょう！
 
@@ -147,10 +148,10 @@ images:
 ## 参考リンク
 
 
-- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- <a href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">月刊アフタヌーン公式</a>
 
 
-- [TVアニメ公式サイト](https://skip-and-loafer.com/)
+- <a href="https://skip-and-loafer.com/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 
 

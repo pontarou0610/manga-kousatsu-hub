@@ -20,6 +20,7 @@ disclaimer: 史実や文化の引用は公式資料と監修コメントに従�
 images:
 - ogp/2024/20240415_di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-20240415.png
 ---
+
 第220話では、杉元と鶴見の間で繰り広げられる心理戦に焦点を当てています。
 果たして、彼らの駆け引きはどのように進展するのでしょうか？
 
@@ -55,7 +56,7 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/goldenkamuy/)
-- [アニメ公式サイト](https://kamuy-anime.com/)
+- <a href="https://youngjump.jp/manga/goldenkamuy/" target="_blank" rel="noopener">週刊ヤングジャンプ公式</a>
+- <a href="https://kamuy-anime.com/" target="_blank" rel="noopener">アニメ公式サイト</a>
 
 {{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}

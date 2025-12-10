@@ -61,6 +61,7 @@ images:
 
 ---
 
+
 第18話では、薬屋のひとりごとの魅力がさらに深まります。
 キャラクターたちの動機やテーマに迫り、次の展開を考察してみましょう。
 
@@ -155,10 +156,10 @@ images:
 ## 参考リンク
 
 
-- [月刊サンデーGX公式](https://sundaygx.com/kusuriya/)
+- <a href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener">月刊サンデーGX公式</a>
 
 
-- [TVアニメ公式サイト](https://kusuriyanohitorigoto.jp/)
+- <a href="https://kusuriyanohitorigoto.jp/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 
 

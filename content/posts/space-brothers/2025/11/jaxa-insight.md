@@ -23,10 +23,11 @@ images:
 - ogp/2025/20251114_jaxa.png
 ---
 
+
 宇宙兄弟におけるJAXA選抜試験のステップは、キャリア設計にどのように応用できるのかを探ります。
 
-![Modern interior of an art gallery in Tokyo, Japan, showcasing stunning architectural design.](https://images.pexels.com/photos/31416984/pexels-photo-31416984.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by [zhen ciang huang](https://www.pexels.com/@zhen-ciang-huang-2150740552) on [Pexels](https://www.pexels.com/photo/contemporary-architecture-in-tokyo-art-gallery-31416984/)</small>
+!<a href="https://images.pexels.com/photos/31416984/pexels-photo-31416984.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" target="_blank" rel="noopener">Modern interior of an art gallery in Tokyo, Japan, showcasing stunning architectural design.</a>
+<small>Photo by <a href="https://www.pexels.com/@zhen-ciang-huang-2150740552" target="_blank" rel="noopener">zhen ciang huang</a> on <a href="https://www.pexels.com/photo/contemporary-architecture-in-tokyo-art-gallery-31416984/" target="_blank" rel="noopener">Pexels</a></small>
 
 ## 着眼ポイント（ネタバレ無し）
 - JAXA選抜試験の各ステップは、自己分析や目標設定の重要性を示しており、キャリア設計における基盤を形成します。
@@ -56,8 +57,8 @@ JAXA選抜試験のステップは、単なる試験ではなく、夢を実現�
 彼の内面的な葛藤は、文化や価値観の違いを乗り越え、共に夢を追うことの重要性を示しており、読者に多様性の尊重を促します。
 
 ## 参照リンク（すべて公式）
-- [モーニング公式サイト](https://morning.kodansha.co.jp/c/uchukyodai/)
-- [TVアニメ公式サイト](https://www.ytv.co.jp/uchukyodai/)
-- [公式サイトで詳しく読む](https://morning.kodansha.co.jp/c/uchukyodai/)
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">モーニング公式サイト</a>
+- <a href="https://www.ytv.co.jp/uchukyodai/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
+- <a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener">公式サイトで詳しく読む</a>
+- <a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>

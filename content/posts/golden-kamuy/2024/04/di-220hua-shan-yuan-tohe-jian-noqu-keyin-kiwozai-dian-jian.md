@@ -21,6 +21,7 @@ images:
 ---
 
 
+
 第220話では杉元と鶴見中尉の緊迫した読み合いが展開されます。
 ここから先はネタバレが含まれますのでご注意ください！
 
@@ -57,14 +58,14 @@ images:
 物語の中では重要な舞台となっている。
 
 ## 参考リンク（公式中心）
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/goldenkamuy/)
-- [アニメ公式サイト](https://kamuy-anime.com/)
-- [ゴールデン道しるべ](https://fanblog.example.com/goldenkamuy/aso-prison-review)
+- <a href="https://youngjump.jp/manga/goldenkamuy/" target="_blank" rel="noopener">週刊ヤングジャンプ公式</a>
+- <a href="https://kamuy-anime.com/" target="_blank" rel="noopener">アニメ公式サイト</a>
+- <a href="https://fanblog.example.com/goldenkamuy/aso-prison-review" target="_blank" rel="noopener">ゴールデン道しるべ</a>
 
-- [公式サイトで詳しく読む](https://youngjump.jp/manga/goldenkamuy/)
+- <a href="https://youngjump.jp/manga/goldenkamuy/" target="_blank" rel="noopener">公式サイトで詳しく読む</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fgolden-kamuy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>

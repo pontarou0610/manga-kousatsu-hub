@@ -22,6 +22,7 @@ images:
 - ogp/2023/20231210_qin-zhao-tong-meng-qian-ye-nozheng-toxin.png
 ---
 
+
 第499話では、政と信が趙との同盟を考える中で、それぞれの立場や心情がどう影響するのかを探ります。
 果たして、彼らの選択はどのような未来をもたらすのか？
 
@@ -62,13 +63,13 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/kingdom/)
-- [TVアニメ公式サイト](https://kingdom-anime.com/)
+- <a href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">週刊ヤングジャンプ公式</a>
+- <a href="https://kingdom-anime.com/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
-- [公式サイトで詳しく読む](https://youngjump.jp/manga/kingdom/)
+- <a href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">公式サイトで詳しく読む</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fkingdom%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>

@@ -25,6 +25,7 @@ tags:
 title: 宇宙兄弟 第20話最新話ネタバレ・感想・考察
 ---
 
+
 第20話では、宇宙飛行士たちの訓練が進む中、彼らの絆が深まっていく様子が描かれています。
 ネタバレが含まれていますので、注意してくださいね！
 
@@ -59,16 +60,16 @@ title: 宇宙兄弟 第20話最新話ネタバレ・感想・考察
 - 仲間との衝突が、彼らのチームワークを強化するきっかけとなる可能性が高いと予想。
 
 ## 関連巻・グッズへのリンク
-- 第20話収録巻：[Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
-- 電子書籍：[楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- 第20話収録巻：<a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- 電子書籍：<a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- [Amazonで探す](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
-- [Amazon（オールカラー版）](https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
+- <a href="https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22" target="_blank" rel="noopener">Amazon（オールカラー版）</a>
 
 ## 関連記事・用語集
 - 関連記事：[ 宇宙兄弟の記事一覧 ](/posts/space-brothers/)
-- 公式リンク：[ モーニング公式サイト ](https://morning.kodansha.co.jp/c/uchukyodai/)
+- 公式リンク：<a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener"> モーニング公式サイト </a>
 - 用語集：[用語集](/posts/space-brothers/glossary/)

@@ -22,11 +22,12 @@ title: スキップとローファー｜第42話考察B（みつみの自己認�
 ---
 
 
+
 第42話では、みつみの文化祭プロジェクトを通じて、彼女が抱える葛藤と成長が描かれます。
 どのように彼女は自分を見つめ直すのでしょうか？
 
-![Elegant black-winged stilt wading in calm waters with a soft reflection and warm light.](https://images.pexels.com/photos/34700105/pexels-photo-34700105.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
-<small>Photo by [Bitnik Gao](https://www.pexels.com/@bitnik) on [Pexels](https://www.pexels.com/photo/black-winged-stilt-wading-in-tranquil-waters-34700105/)</small>
+!<a href="https://images.pexels.com/photos/34700105/pexels-photo-34700105.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" target="_blank" rel="noopener">Elegant black-winged stilt wading in calm waters with a soft reflection and warm light.</a>
+<small>Photo by <a href="https://www.pexels.com/@bitnik" target="_blank" rel="noopener">Bitnik Gao</a> on <a href="https://www.pexels.com/photo/black-winged-stilt-wading-in-tranquil-waters-34700105/" target="_blank" rel="noopener">Pexels</a></small>
 
 ## 着眼ポイント（ネタバレ無し）
 - みつみは文化祭を通じて、地方出身者としての自分のアイデンティティに向き合い、仲間との関係を再評価する姿が印象的です。
@@ -53,13 +54,13 @@ title: スキップとローファー｜第42話考察B（みつみの自己認�
 彼の存在は、みつみが自己表現を学ぶきっかけとなる重要な役割を果たします。
 
 ## 参照リンク（すべて公式）
-- [月刊アフタヌーン公式](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
-- [TVアニメ公式サイト](https://skip-and-loafer.com/)
+- <a href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">月刊アフタヌーン公式</a>
+- <a href="https://skip-and-loafer.com/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
-- [公式サイトで詳しく読む](https://afternoon.kodansha.co.jp/c/skiptoloafer/)
+- <a href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener">公式サイトで詳しく読む</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [Amazonで探す](https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22)
+- <a href="https://www.amazon.co.jp/dp/B07MT9BQFX?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
-- [楽天で探す](https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D)
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fskip-and-loafer%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>

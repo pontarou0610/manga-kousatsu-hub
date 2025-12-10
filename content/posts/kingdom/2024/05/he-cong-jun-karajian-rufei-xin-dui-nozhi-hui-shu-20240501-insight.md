@@ -20,6 +20,7 @@ disclaimer: 史実との対比は公式コメントを参照し、ネタバレ�
 images:
 - ogp/2024/20240501_he-cong-jun-karajian-rufei-xin-dui-nozhi-hui-shu-20240501.png
 ---
+
 第340話では、合従軍との戦いでの飛信隊の指揮術に焦点を当てています。
 彼らの戦略がどのように機能したのか、一緒に考えてみましょう。
 
@@ -56,7 +57,7 @@ images:
 ## FAQ
 
 ## 参考リンク（すべて公式）
-- [週刊ヤングジャンプ公式](https://youngjump.jp/manga/kingdom/)
-- [TVアニメ公式サイト](https://kingdom-anime.com/)
+- <a href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener">週刊ヤングジャンプ公式</a>
+- <a href="https://kingdom-anime.com/" target="_blank" rel="noopener">TVアニメ公式サイト</a>
 
 {{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}
