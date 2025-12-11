@@ -283,6 +283,15 @@
 &lt;li>黒幕の正体が徐々に明らかになる重要な展開。&lt;/li>
 &lt;li>仲間たちとの絆がさらに強まる感動的な場面が描かれる。&lt;/li>
 &lt;/ul>
+&lt;h2 id="用語メモ自動抽出用">用語メモ（自動抽出用）&lt;/h2>
+&lt;ul>
+&lt;li>&lt;span class="term" data-term="イチ" data-reading="いち" data-first="第12話">イチ (いち)&lt;/span>
+&lt;/li>
+&lt;li>&lt;span class="term" data-term="師匠" data-reading="ししょう" data-first="第12話">師匠 (ししょう)&lt;/span>
+&lt;/li>
+&lt;li>&lt;span class="term" data-term="呪符工房" data-reading="じゅふこうぼう" data-first="第12話">呪符工房 (じゅふこうぼう)&lt;/span>
+&lt;/li>
+&lt;/ul>
 &lt;details class="spoiler">
  &lt;summary>※ネタバレを開く&lt;/summary>
  &lt;div class="spoiler__body">
@@ -312,6 +321,13 @@
 &lt;li>イチと仲間たちが新たな敵に直面する。&lt;/li>
 &lt;li>過去の出来事が明らかになり、キャラクターたちの感情が揺れ動く。&lt;/li>
 &lt;li>最終的な決戦への布石が打たれる。&lt;/li>
+&lt;/ul>
+&lt;h2 id="用語メモ自動抽出用">用語メモ（自動抽出用）&lt;/h2>
+&lt;ul>
+&lt;li>&lt;span class="term" data-term="カナ" data-reading="かな" data-first="第11話">カナ (かな)&lt;/span>
+&lt;/li>
+&lt;li>&lt;span class="term" data-term="黒幕" data-reading="くろまく" data-first="第11話">黒幕 (くろまく)&lt;/span>
+&lt;/li>
 &lt;/ul>
 &lt;details class="spoiler">
  &lt;summary>※ネタバレを開く&lt;/summary>
@@ -619,6 +635,15 @@
 &lt;li>友人リオと出会い、彼の「特別さ」を肯定する言葉がイチの行動を変える。&lt;/li>
 &lt;li>終盤でイチが力の制御に成功し、「使命」を自覚する兆しを見せる。&lt;/li>
 &lt;/ul>
+&lt;h2 id="用語メモ自動抽出用">用語メモ（自動抽出用）&lt;/h2>
+&lt;ul>
+&lt;li>&lt;span class="term" data-term="イチ" data-reading="いち" data-first="第1話">イチ (いち)&lt;/span>
+&lt;/li>
+&lt;li>&lt;span class="term" data-term="リオ" data-reading="りお" data-first="第1話">リオ (りお)&lt;/span>
+&lt;/li>
+&lt;li>&lt;span class="term" data-term="瘴気" data-reading="しょうき" data-first="第1話">瘴気 (しょうき)&lt;/span>
+&lt;/li>
+&lt;/ul>
 &lt;details class="spoiler">
  &lt;summary>※ネタバレを開く&lt;/summary>
  &lt;div class="spoiler__body">
@@ -674,53 +699,37 @@ A. 第1話は緊張感中心で、直接的な描写は控えめ。
 &lt;/ul>
 &lt;h2 id="購入リンク公式通販">購入リンク（公式/通販）&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す&lt;/a>&lt;/li>
-&lt;li>Amazonで検索する： [Amazonで探す](? &lt;a href="%5D(https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81)">Amazonで探す&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&amp;link_type=picttext&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す&lt;/a>&lt;/li>
+&lt;li>Amazonで検索する： [Amazonで探す]( &lt;a href="%5D(https://www.amazon.co.jp/sfield-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81)">Amazonで探す&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="参考リンク">参考リンク&lt;/h2>
 &lt;ul>
-&lt;li>ネタバレ版（詳細あらすじ）: [ネタバレ版（詳細あらすじ）](? [ネタバレ版（詳細あらすじ）: &lt;a href="%5D(https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203/)">ネタバレ版（詳細あらすじ）&lt;/a>&lt;/li>
+&lt;li>ネタバレ版（詳細あらすじ）: [ネタバレ版（詳細あらすじ）]( [ネタバレ版（詳細あらすじ）: &lt;a href="%5D(https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203/)">ネタバレ版（詳細あらすじ）&lt;/a>&lt;/li>
 &lt;li>用語集: &lt;a href="https://pontarou0610.github.io/manga-kousatsu-hub/posts/madan-no-ichi/glossary/">用語集&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>魔男のイチ 第12話最新話ネタバレ・感想・考察</title><link>https://pontarou0610.github.io/manga-kousatsu-hub/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku-20230902/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><guid>https://pontarou0610.github.io/manga-kousatsu-hub/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku-20230902/</guid><description>&lt;p>第12話では、呪符工房での爆発事件を受けて、イチが旧式の術式を持ち込む様子が描かれます。
-ネタバレが含まれますので、ご注意ください。&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;strong>This article contains spoilers up to the latest chapter.&lt;/strong>&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="結論第12話のポイント3つネタバレあり">結論：第12話のポイント3つ（ネタバレあり）&lt;/h2>
-&lt;ul>
-&lt;li>呪符工房での爆発事件が発生し、混乱が広がる。&lt;/li>
-&lt;li>イチが旧式の術式を駆使して敵対勢力の狙いを探る。&lt;/li>
-&lt;li>次の備えとして新たな戦略が提示される。&lt;/li>
 &lt;/ul>
-&lt;details class="spoiler">
- &lt;summary>※ネタバレを開く&lt;/summary>
- &lt;div class="spoiler__body">
- &lt;h2 id="第12話のあらすじ要約3分でわかる">第12話のあらすじ要約（3分でわかる）&lt;/h2>
-&lt;p>第12話の冒頭、呪符工房での爆発事件が描かれ、工房内は混乱に包まれている。
-イチはこの事態を受けて、急いで旧式の術式を取り出す。
-彼は「この術式があれば、敵の動きを読み解けるかもしれない」と心の中で決意する。
-工房内での緊迫した雰囲気の中、彼は仲間たちに状況を説明し、敵対勢力の狙いを整理する。
-「彼らは我々の術式を奪おうとしている」と語るイチの表情には、決意と焦りが見え隠れする。&lt;/p></description></item><item><title>魔男のイチ｜第12話｜最新話ネタバレ・感想・考察</title><link>https://pontarou0610.github.io/manga-kousatsu-hub/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><guid>https://pontarou0610.github.io/manga-kousatsu-hub/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku/</guid><description>&lt;p>第12話では、呪符工房での爆発事件からイチが持ち込んだ旧式の術式について考察します。
+&lt;h2 id="heading">????&lt;/h2>
+&lt;h2 id="heading-1">???????????&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;??&amp;quot; first=&amp;quot;?1?&amp;quot; &amp;gt;}??????????????????????????{&amp;lt; /term &amp;gt;}&lt;/p></description></item><item><title>魔男のイチ 第12話最新話ネタバレ・感想・考察</title><link>https://pontarou0610.github.io/manga-kousatsu-hub/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku-20230902/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><guid>https://pontarou0610.github.io/manga-kousatsu-hub/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku-20230902/</guid><description>&lt;h2 id="heading">???????????&lt;/h2>
+&lt;ul>
+&lt;li>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;??&amp;quot; first=&amp;quot;?1?&amp;quot; &amp;gt;}??????????????????????????{&amp;lt; /term &amp;gt;}&lt;/li>
+&lt;li>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;??&amp;quot; first=&amp;quot;?1?&amp;quot; &amp;gt;}????????????????????????{&amp;lt; /term &amp;gt;}&lt;/li>
+&lt;li>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;????&amp;quot; first=&amp;quot;?1?&amp;quot; &amp;gt;}???????????????????????{&amp;lt; /term &amp;gt;}&lt;/li>
+&lt;li>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;????&amp;quot; first=&amp;quot;?12?&amp;quot; &amp;gt;}?????????????????????????????{&amp;lt; /term &amp;gt;}&lt;/li>
+&lt;/ul>
+&lt;p>第12話では、&lt;span class="term" data-term="呪符工房" data-reading="じゅふこうぼう" data-first="第12話">呪符工房 (じゅふこうぼう)&lt;/span>
+での爆発事件を受けて、&lt;span class="term" data-term="イチ" data-reading="いち" data-first="第12話">イチ (いち)&lt;/span>
+が旧式の術式を持ち込む様子が描かれます。
+ネタバレが含まれますので、ご注意ください。&lt;/p></description></item><item><title>魔男のイチ｜第12話｜最新話ネタバレ・感想・考察</title><link>https://pontarou0610.github.io/manga-kousatsu-hub/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku/</link><pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate><guid>https://pontarou0610.github.io/manga-kousatsu-hub/posts/2023/09/zhou-fu-gong-fang-noshi-gua-kewodu-mijie-ku/</guid><description>&lt;h2 id="heading">???????????&lt;/h2>
+&lt;ul>
+&lt;li>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;??&amp;quot; first=&amp;quot;?1?&amp;quot; &amp;gt;}??????????????????????????{&amp;lt; /term &amp;gt;}&lt;/li>
+&lt;li>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;??&amp;quot; first=&amp;quot;?1?&amp;quot; &amp;gt;}????????????????????????{&amp;lt; /term &amp;gt;}&lt;/li>
+&lt;li>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;????&amp;quot; first=&amp;quot;?1?&amp;quot; &amp;gt;}???????????????????????{&amp;lt; /term &amp;gt;}&lt;/li>
+&lt;li>{&amp;lt; term name=&amp;quot;??&amp;quot; reading=&amp;quot;????&amp;quot; first=&amp;quot;?12?&amp;quot; &amp;gt;}?????????????????????????????{&amp;lt; /term &amp;gt;}&lt;/li>
+&lt;/ul>
+&lt;p>第12話では、呪符工房での爆発事件からイチが持ち込んだ旧式の術式について考察します。
 ネタバレが含まれますので、注意してくださいね！&lt;/p>
 &lt;blockquote>
 &lt;p>**本記事は最新話までのネタバレを含みます。
-**&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="第12話のあらすじざっくり概要">第12話のあらすじ（ざっくり概要）&lt;/h2>
-&lt;ul>
-&lt;li>呪符工房での爆発事件が発生する。&lt;/li>
-&lt;li>イチが旧式の術式を分析し、敵対勢力の狙いを整理する。&lt;/li>
-&lt;li>次の備えを提案し、仲間たちと共に行動を開始する。&lt;/li>
-&lt;/ul>
-&lt;details class="spoiler">
- &lt;summary>※ネタバレを開く&lt;/summary>
- &lt;div class="spoiler__body">
- &lt;h2 id="第12話-詳細ネタバレ時系列で詳しく">第12話 詳細ネタバレ（時系列で詳しく）&lt;/h2>
-&lt;p>第12話は呪符工房での爆発事件から始まります。
-イチはその混乱の中で、旧式の術式が敵対勢力によって狙われていることに気づきます。
-彼は仲間たちと共に、爆発の原因を突き止めるために奔走します。
-イチは旧式の術式の詳細を分析し、その力がいかに強力であるかを説明します。
-彼は「これは単なる偶然ではない、敵が狙っている」と仲間に伝え、緊張感が高まります。
-次に、イチは敵の目的を考察し、彼らが旧式の術式を利用することで何を得ようとしているのかを推測します。
-仲間たちもそれに賛同し、皆で次の備えを考える中で、イチは「私たちがこの術式を守る必要がある」と力強く宣言します。
-最終的に、仲間たちは一致団結し、次の行動に移る決意を固めます。&lt;/p></description></item></channel></rss>
+**&lt;/p></description></item></channel></rss>
