@@ -1,6 +1,6 @@
 ---
 title: "スキップとローファー 用語集"
-date: 2025-12-10T08:15:36+09:00
+date: 2025-12-11T00:23:13+09:00
 series: "スキップとローファー"
 chapter: "用語集"
 article_variant: "glossary"
