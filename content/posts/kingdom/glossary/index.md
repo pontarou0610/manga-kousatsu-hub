@@ -1,6 +1,6 @@
 ---
 title: "キングダム 用語集"
-date: 2025-12-11T00:23:13+09:00
+date: 2025-12-11T00:47:13+09:00
 series: "キングダム"
 chapter: "用語集"
 article_variant: "glossary"

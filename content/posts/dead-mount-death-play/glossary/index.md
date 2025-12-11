@@ -1,6 +1,6 @@
 ---
 title: "デッドマウント・デスプレイ 用語集"
-date: 2025-12-11T00:23:13+09:00
+date: 2025-12-11T00:47:13+09:00
 series: "デッドマウント・デスプレイ"
 chapter: "用語集"
 article_variant: "glossary"
