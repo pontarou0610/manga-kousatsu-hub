@@ -15,8 +15,8 @@ description: "第19話では、物語が新たな展開を迎えます。
 ネタバレに注意しながら、詳細をお楽しみください。
 "
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22"
+  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
   others: []
 disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。
 "
@@ -64,14 +64,29 @@ images:
 - 予想: 敵のリーダーがユウの過去を利用しようとすることで、ユウの心の葛藤が深まる展開が予想される。
 
 ## 関連巻・グッズへのリンク
-- 第19話収録巻：https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
+- 第19話収録巻：https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22
 - 電子書籍：天国大魔境 Kindle / 楽天Kobo など
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- <a href="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
+- <a href="https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://afternoon.kodansha.co.jp/c/tengokudaimakyo/
 - 用語集：/posts/heavenly-delusion/glossary/
+
+## ????
+
+## ???????????
+- {< term name="??" reading="????" first="?1?" >}????????????????????{< /term >}
+- {< term name="??" reading="????" first="?1?" >}?????????????????????{< /term >}
+- {< term name="??" reading="??" first="?1?" >}???????????????????????{< /term >}
+- {< term name="???" reading="???" first="?1?" >}??????????????????????{< /term >}
+
+- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-19hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">tian-guo-da-mo-jing-di-19hua-netaharekao-cha-20251204-insight</a>
+- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-19hua-netaharekao-cha-20251205-insight" target="_blank" rel="noopener">tian-guo-da-mo-jing-di-19hua-netaharekao-cha-20251205-insight</a>
+
+## ?????
+- ????TOP?<a href="/posts/heavenly-delusion/" target="_blank" rel="noopener">??????</a>
+- ????<a href="/posts/heavenly-delusion/glossary/" target="_blank" rel="noopener">???</a>

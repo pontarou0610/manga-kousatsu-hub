@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
   others: []
@@ -21,8 +22,9 @@ tags:
 - サバイバル
 - 週刊誌
 title: ゴールデンカムイ 第24話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 第24話では、物語が新たな展開を迎えます。ネタバレが含まれていますので、ご注意ください！
 

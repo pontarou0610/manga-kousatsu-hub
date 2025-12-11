@@ -1,6 +1,8 @@
 ---
 
+
 title: 薬屋のひとりごと 第5話の考察
+noindex: true
 slug: yao-wu-nohitorikoto-di-5hua-netaharekao-cha-20251204-insight
 date: 2025-12-04 00:53:28.033828+00:00
 series: 薬屋のひとりごと
@@ -23,8 +25,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2025/20251204_yao-wu-nohitorikoto-di-5hua-netaharekao-cha-20251204.png
 ---
-
-
+**?????????????????????????**
 
 第5話では、薬屋の主人公が新たな謎に挑む姿が描かれます。
 彼女の決断がどのように物語を動かすのか、興味深い展開が待っています。

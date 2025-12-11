@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
   others:
@@ -23,8 +24,9 @@ tags:
 - ヒューマンドラマ
 - 月刊誌
 title: 宇宙兄弟 第2話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 宇宙兄弟の第2話では、物語がさらに深まります。
 ネタバレに注意しながら内容を振り返りましょう！

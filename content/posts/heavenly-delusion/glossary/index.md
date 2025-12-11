@@ -16,12 +16,19 @@ tags:
   
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22"
+  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
   others: []
 disclaimer: "壁内外の設定・用語は公式資料を参照し、ネタバレは折りたたみ内に限定します。"
 images: []
 ---
+
+## ???????????
+- {< term name="??" reading="????" first="?1?" >}????????????????????{< /term >}
+- {< term name="??" reading="????" first="?1?" >}?????????????????????{< /term >}
+- {< term name="??" reading="??" first="?1?" >}???????????????????????{< /term >}
+- {< term name="???" reading="???" first="?1?" >}??????????????????????{< /term >}
+
 
 天国大魔境に登場する重要な用語をまとめました。
 
@@ -77,4 +84,4 @@ images: []
 
 
 
-{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" >}}
+{{< affbox title="Amazonで関連巻を探す" desc="まとめ買い・Kindle版はこちら" url="https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22" >}}

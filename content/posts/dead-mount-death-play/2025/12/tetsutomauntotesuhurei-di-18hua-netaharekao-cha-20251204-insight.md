@@ -35,9 +35,9 @@ description: ""
 
 affiliate_ids:
 
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
+  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22"
 
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
 
 
   others: []
@@ -130,11 +130,11 @@ images:
 ## 購入リンク（公式/通販）
 
 
-- Amazonで探す：https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
+- Amazonで探す：https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22
 
 
 
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 
 
@@ -152,3 +152,18 @@ images:
 
 
 {{< affbox title="ガンガンJOKER公式" desc="詳しくは公式情報をご確認ください" url="https://magazine.jp.square-enix.com/yg/introduction/dead/" >}}
+
+## ????
+
+## ???????????
+- {< term name="???" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
+- {< term name="????" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
+- {< term name="????????" reading="??? ????" first="?82?" >}??????????????????????????{< /term >}
+- {< term name="???" reading="????? ?" first="?82?" >}????????????????????????????{< /term >}
+
+- ????<a href="//posts\dead-mount-death-play\2025\12\tetsutomauntotesuhurei-di-17hua-netaharekao-cha-20251204" target="_blank" rel="noopener">デッドマウント・デスプレイ 第17話最新話ネタバレ・感想・考察</a>
+- ????<a href="//posts\dead-mount-death-play\2025\12\tetsutomauntotesuhurei-di-18hua-netaharekao-cha-20251204" target="_blank" rel="noopener">デッドマウント・デスプレイ 第18話最新話ネタバレ・感想・考察</a>
+
+## ?????
+- ????TOP?<a href="/posts/dead-mount-death-play/" target="_blank" rel="noopener">??????</a>
+- ????<a href="/posts/dead-mount-death-play/glossary/" target="_blank" rel="noopener">???</a>

@@ -1,5 +1,7 @@
 ---
+
 title: 薬屋のひとりごと 第5話ネタバレ・感想・考察
+noindex: true
 slug: yao-wu-nohitorikoto-di-5hua-netaharekao-cha-20251204
 date: '2025-12-04 00:53:28.033828+00:00'
 series: 薬屋のひとりごと
@@ -20,7 +22,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2025/20251204_yao-wu-nohitorikoto-di-5hua-netaharekao-cha-20251204.png
 ---
-
+**?????????????????????????**
 
 『薬屋のひとりごと』第5話のネタバレと感想・考察です。
 ネタバレを含みますのでご注意ください。

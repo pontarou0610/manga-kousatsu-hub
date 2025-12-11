@@ -1,41 +1,33 @@
-terms:
-  - term: "天国"
-    reading: "てんごく"
-    description: "壁の内側で語られる理想郷。高度な設備と教育が提供されるが、その実態は謎に包まれている。"
-    reference: "公式サイト／第1巻"
-  - term: "魔境"
-    reading: "まきょう"
-    description: "壁の外に広がる荒廃した世界。異形と呼ばれる生命体が徘徊し、生存者は拠点ごとに暮らしている。"
-    reference: "第1巻"
-  - term: "異形"
-    reading: "いぎょう"
-    description: "人類とは異なる構造を持つ存在。発生条件も姿も不明で、作中の主要な脅威となる。"
-    reference: "アニメ第3話"
-  - term: "マル"
-    reading: "まる"
-    description: "外の世界を旅する少年。壁の天国へ連れていくよう依頼を受け、キルコとともに行動する。"
-    reference: "作品公式サイト"
-  - term: "キルコ"
-    reading: "きるこ"
-    description: "銃と電撃棒を扱う少女。過去の事件を抱えつつ、マルの護衛として天国を目指す。"
-    reference: "作品公式サイト"
-  - term: "高原学園"
-    reading: "こうげんがくえん"
-    description: "子どもたちが暮らす施設の総称。外界から隔絶され、独自の規律で運営される。"
-    reference: "第1巻"
-  - term: "武器庫"
-    reading: "ぶきこ"
-    description: "学園内に隠された武装庫。緊急時に備えた設備で、外部の脅威に対応する。"
-    reference: "第2巻"
-  - term: "天使の像"
-    reading: "てんしのぞう"
-    description: "学園に置かれた謎のオブジェ。意味不明の碑文が刻まれており伏線とされる。"
-    reference: "第1巻"
-  - term: "外界探索班"
-    reading: "がいかいたんさくはん"
-    description: "外の世界を調査するために編成された班。危険生物の情報収集を担う。"
-    reference: "第2巻"
-  - term: "非常警報"
-    reading: "ひじょうけいほう"
-    description: "施設が外敵に襲われた際に発動する警報。避難経路や閉鎖区画が一斉に変わる。"
-    reference: "第1巻"
+items:
+- term: アオイ
+  reading: あおい
+  desc: 特殊な能力を持つ少女。過去が敵の目的と絡む
+  first_appear: 第22話
+- term: キルコ
+  reading: きるこ
+  desc: 電撃武器を操る護衛役。マルと行動をともにする
+  first_appear: 第1話
+- term: マル
+  reading: まる
+  desc: 外界を旅する少年。天国への案内を依頼されている
+  first_appear: 第1話
+- term: ユウ
+  reading: ゆう
+  desc: 主人公の一人。仲間を守る使命感と自分の役割の間で葛藤する
+  first_appear: 第22話
+- term: 名も無き剣士
+  reading: なもなきけんし
+  desc: 主人公たちに力を貸す新たな仲間。過去に秘密を抱えている
+  first_appear: 第20話
+- term: 天国
+  reading: てんごく
+  desc: 壁内の安全な施設で子どもたちが暮らす場所
+  first_appear: 第1話
+- term: 異形
+  reading: いぎょう
+  desc: 壁外に出没する正体不明の存在。魔境の脅威
+  first_appear: 第1話
+- term: 魔境
+  reading: まきょう
+  desc: 壁外の荒廃した世界。異形が徘徊する危険地帯
+  first_appear: 第1話

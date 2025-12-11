@@ -13,8 +13,8 @@ tags:
 draft: false
 description: "天国大魔境 第22話のネタバレと感想です。物語の核心に迫る展開が描かれるため、閲覧の際はご注意ください。"
 affiliate_ids:
-  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22
-  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+  amazon: https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
   others: []
 disclaimer: "壁内外の設定や用語は公式資料を参照し、ネタバレは折りたたみ内で扱います。"
 images:
@@ -31,6 +31,11 @@ images:
 - 主人公たちが新たな仲間アオイと合流し、彼女の過去に触れる。
 - 敵の正体が徐々に明らかになり、緊張感が高まる。
 - ユウが使命と仲間を守る思いの間で葛藤する。
+
+## 用語メモ（自動抽出用）
+- {{< term name="ユウ" reading="ゆう" first="第22話" >}}主人公の一人。仲間を守る使命感と自分の役割の間で葛藤する{{< /term >}}
+- {{< term name="アオイ" reading="あおい" first="第22話" >}}特殊な能力を持つ少女。過去が敵の目的と絡む{{< /term >}}
+- {{< term name="異形" reading="いぎょう" first="第1話" >}}壁外に出没する正体不明の存在。魔境の脅威{{< /term >}}
 
 {{< spoiler >}}
 ## 第22話のあらすじ要約（時系列）
@@ -51,10 +56,25 @@ images:
 {{< /spoiler >}}
 
 ## 購入リンク（主要通販）
-- <a href="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
+- <a href="https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
 
 ## 関連記事・用語集
 - 関連記事：[天国大魔境の記事一覧](/posts/heavenly-delusion/)
 - 公式リンク：<a href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">作品公式サイト</a>
 - 用語集：[用語集](/posts/heavenly-delusion/glossary/)
+
+## ????
+
+## ???????????
+- {< term name="??" reading="????" first="?1?" >}????????????????????{< /term >}
+- {< term name="??" reading="????" first="?1?" >}?????????????????????{< /term >}
+- {< term name="??" reading="??" first="?1?" >}???????????????????????{< /term >}
+- {< term name="???" reading="???" first="?1?" >}??????????????????????{< /term >}
+
+- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-22hua-netaharekao-cha-20251207-insight" target="_blank" rel="noopener">tian-guo-da-mo-jing-di-22hua-netaharekao-cha-20251207-insight</a>
+- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-23hua-netaharekao-cha-20251208-insight" target="_blank" rel="noopener">tian-guo-da-mo-jing-di-23hua-netaharekao-cha-20251208-insight</a>
+
+## ?????
+- ????TOP?<a href="/posts/heavenly-delusion/" target="_blank" rel="noopener">??????</a>
+- ????<a href="/posts/heavenly-delusion/glossary/" target="_blank" rel="noopener">???</a>

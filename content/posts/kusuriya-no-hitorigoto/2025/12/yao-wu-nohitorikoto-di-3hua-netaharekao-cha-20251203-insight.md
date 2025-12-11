@@ -1,6 +1,8 @@
 ---
 
+
 title: 薬屋のひとりごと 第3話の考察
+noindex: true
 slug: yao-wu-nohitorikoto-di-3hua-netaharekao-cha-20251203-insight
 date: 2025-12-03 08:43:34.833704+00:00
 series: 薬屋のひとりごと
@@ -23,8 +25,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2025/20251203_yao-wu-nohitorikoto-di-3hua-netaharekao-cha-20251203.png
 ---
-
-
+**?????????????????????????**
 
 第3話では、薬屋の主人公が新たな謎に直面します。
 彼女の選択がどのように物語を動かすのか、一緒に探ってみましょう。

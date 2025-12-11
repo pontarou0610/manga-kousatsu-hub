@@ -1,6 +1,8 @@
 ---
 
+
 title: 薬屋のひとりごと 第1話の考察
+noindex: true
 slug: yao-wu-nohitorikoto-di-1hua-netaharekao-cha-20251203-insight
 date: 2025-12-03 08:13:33.834909+00:00
 series: 薬屋のひとりごと
@@ -23,8 +25,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2025/20251203_yao-wu-nohitorikoto-di-1hua-netaharekao-cha-20251203.png
 ---
-
-
+**?????????????????????????**
 
 薬屋のひとりごとの第1話では、主人公の薬屋がどのようにして周囲と関わり、彼女の特技がどのように活かされるのかを探ります。
 彼女の成長を見逃すな！

@@ -1,8 +1,8 @@
 ---
 affiliate_ids:
-  amazon: ''
+  amazon: https://www.amazon.co.jp/sk=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81&tag=naoto0610-22
   others: []
-  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+  rakuten: https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 article_variant: spoiler
 chapter: 第12話
 date: 2025-12-04 02:45:00.000000+00:00
@@ -33,6 +33,11 @@ title: 魔男のイチ 第12話最新話ネタバレ・感想・考察
 - イチの過去が明らかになり、彼の動機が深まる。
 - 黒幕の正体が徐々に明らかになる重要な展開。
 - 仲間たちとの絆がさらに強まる感動的な場面が描かれる。
+
+## 用語メモ（自動抽出用）
+- {{< term name="イチ" reading="いち" first="第12話" >}}本作の主人公。旧式の術式に通じる若い術者{{< /term >}}
+- {{< term name="師匠" reading="ししょう" first="第12話" >}}イチに術式の在り方を教えた人物。過去の因縁が物語の核になる{{< /term >}}
+- {{< term name="呪符工房" reading="じゅふこうぼう" first="第12話" >}}呪符を製造・保管する施設。爆発事件の舞台{{< /term >}}
 
 {{< spoiler >}}
 ## 第12話のあらすじ要約（3分でわかる）
@@ -75,9 +80,24 @@ title: 魔男のイチ 第12話最新話ネタバレ・感想・考察
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>" target="_blank" rel="noopener">楽天で探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>" target="_blank" rel="noopener">楽天で探す</a>
 
 ## 関連記事・用語集
 - 関連記事：[ 魔男のイチの記事一覧 ](/tags/madan-no-ichi/)
 - 公式リンク：<a href="https://www.shonenjump.com/j/rensai/madannoichi.html" target="_blank" rel="noopener"> 公式サイト </a>
 - 用語集：[用語集](/posts/madan-no-ichi/glossary/)
+
+## ????
+
+## ???????????
+- {< term name="??" reading="??" first="?1?" >}??????????????????????????{< /term >}
+- {< term name="??" reading="??" first="?1?" >}????????????????????????{< /term >}
+- {< term name="??" reading="????" first="?1?" >}???????????????????????{< /term >}
+- {< term name="??" reading="????" first="?12?" >}?????????????????????????????{< /term >}
+
+- ????<a href="//posts\madan-no-ichi\2025\12\mo-nan-noichi-di-11hua-netaharekao-cha-20251204" target="_blank" rel="noopener">魔男のイチ 第11話最新話ネタバレ・感想・考察</a>
+- ????<a href="//posts\madan-no-ichi\2025\12\mo-nan-noichi-di-13hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">魔男のイチ 第13話の考察</a>
+
+## ?????
+- ????TOP?<a href="/posts/madan-no-ichi/" target="_blank" rel="noopener">??????</a>
+- ????<a href="/posts/madan-no-ichi/glossary/" target="_blank" rel="noopener">???</a>

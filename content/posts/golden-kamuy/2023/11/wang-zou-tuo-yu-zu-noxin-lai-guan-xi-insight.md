@@ -1,6 +1,8 @@
 ---
 
+
 title: ゴールデンカムイ｜第198話｜信頼関係の変遷
+noindex: true
 slug: wang-zou-tuo-yu-zu-noxin-lai-guan-xi-insight
 date: 2023-11-05 00:00:00+00:00
 series: ゴールデンカムイ
@@ -21,7 +23,7 @@ disclaimer: 史実や文化の引用は公式資料と監修コメントに従�
 images:
 - ogp/2023/20231105_wang-zou-tuo-yu-zu-noxin-lai-guan-xi.png
 ---
-
+**?????????????????????????**
 
 第198話では、網走脱獄組の信頼関係がどのように築かれてきたのかを振り返ります。
 彼らの絆が物語にどう影響しているのか、考えてみましょう。

@@ -1,6 +1,8 @@
 ---
 
+
 title: アオアシ｜初試合｜最新話ネタバレ・感想・考察（ユース最初の一歩）
+noindex: true
 slug: qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li-20230105
 date: 2023-01-05 00:00:00+00:00
 series: アオアシ
@@ -19,8 +21,7 @@ disclaimer: 公開済みの初試合エピソードを元にしたネタバレ�
 images:
 - ogp/2023/20230105_qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li-20230105.png
 ---
-
-
+**?????????????????????????**
 
 > **本記事はユース加入後の初試合（単行本収録範囲）のネタバレを含みます。
 未読の方はご注意ください。

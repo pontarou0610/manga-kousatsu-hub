@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
   others: []
@@ -21,8 +22,9 @@ tags:
 - 青春
 - 週刊誌
 title: アオアシ 第10話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 アオアシの第10話では、物語が新たな展開を迎えます。
 ネタバレが含まれますので、ご注意ください。

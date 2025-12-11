@@ -1,0 +1,8 @@
+{{- $name := .Get "name" -}}
+{{- if not $name }}{{ errorf "term shortcode requires name param" }}{{ end -}}
+{{- $reading := .Get "reading" -}}
+{{- $first := .Get "first" -}}
+{{- $label := $name -}}
+{{- if $reading }}{{ $label = printf "%s (%s)" $name $reading }}{{ end -}}
+{{- $desc := .Inner -}}
+<span class="term" data-term="{{ $name }}"{{ if $reading }} data-reading="{{ $reading }}"{{ end }}{{ if $first }} data-first="{{ $first }}"{{ end }}>{{ $label }}</span>

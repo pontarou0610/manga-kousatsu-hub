@@ -1,37 +1,29 @@
-terms:
-  - term: "イチ"
-    reading: "いち"
-    description: "裏都で生きる主人公。呪符や潜入術に長け、家族と仲間を守るため奔走する。"
-    reference: "第1巻"
-  - term: "裏都"
-    reading: "うらと"
-    description: "呪具や闇商売が行き交う地下都市。複数勢力が暗躍する舞台となる。"
-    reference: "第1巻"
-  - term: "呪符工房"
-    reading: "じゅふこうぼう"
-    description: "呪符を製作・調整する施設。イチが潜入する危険な現場でもある。"
-    reference: "第2巻"
-  - term: "篆刻師"
-    reading: "てんこくし"
-    description: "呪符に刻印を施す専門職。物語の鍵を握る技能を持つキャラクターが属する。"
-    reference: "第3巻"
-  - term: "結界"
-    reading: "けっかい"
-    description: "特定の空間を封じたり守ったりする術式。戦闘や潜入で多用される。"
-    reference: "第2巻"
-  - term: "呪符"
-    reading: "じゅふ"
-    description: "霊力を込めた紙札。攻防や封印に使われ、物語の戦闘で重要な役割を持つ。"
-    reference: "第1巻"
-  - term: "裏商人"
-    reading: "うらしょうにん"
-    description: "地下都市で違法な取引を行う商人たち。情報や呪具の流通を握る。"
-    reference: "第1巻"
-  - term: "潜入任務"
-    reading: "せんにゅうにんむ"
-    description: "敵対勢力に紛れ込み情報を得る任務。イチが得意とする。"
-    reference: "第2巻"
-  - term: "護符"
-    reading: "ごふ"
-    description: "身を守るための符。結界や呪符と組み合わせて防御力を高める。"
-    reference: "第2巻"
+items:
+- term: イチ
+  reading: いち
+  desc: 本作の主人公。旧式の術式に通じる若い術者
+  first_appear: 第12話
+- term: カナ
+  reading: かな
+  desc: かつての仲間から敵となった人物。冷酷な判断でイチたちを追い詰める
+  first_appear: 第11話
+- term: リオ
+  reading: りお
+  desc: イチの友人。彼の特別さを肯定し、行動を後押しする
+  first_appear: 第1話
+- term: 呪符工房
+  reading: じゅふこうぼう
+  desc: 呪符を製造する工房で、旧式の術式も保管されている施設
+  first_appear: 第12話
+- term: 師匠
+  reading: ししょう
+  desc: イチに術式の在り方を教えた人物。過去の因縁が物語の核になる
+  first_appear: 第12話
+- term: 瘴気
+  reading: しょうき
+  desc: イチの感情高ぶりで周囲に放たれる負のエネルギー
+  first_appear: 第1話
+- term: 黒幕
+  reading: くろまく
+  desc: 背後で事件を操る存在。正体が物語の鍵となる
+  first_appear: 第11話

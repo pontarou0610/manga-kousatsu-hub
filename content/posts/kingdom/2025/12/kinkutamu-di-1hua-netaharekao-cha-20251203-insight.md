@@ -1,6 +1,8 @@
 ---
 
+
 title: キングダム 第1話の内容まとめ
+noindex: true
 slug: kinkutamu-di-1hua-netaharekao-cha-20251203-insight
 date: 2025-12-03 08:13:03.118239+00:00
 series: キングダム
@@ -21,8 +23,7 @@ disclaimer: 史実との対比は公式コメントを参照し、ネタバレ�
 images:
 - ogp/2025/20251203_kinkutamu-di-1hua-netaharekao-cha-20251203.png
 ---
-
-
+**?????????????????????????**
 
 『キングダム』第1話では、物語の舞台やキャラクターたちの背景が描かれ、彼らの動機が明らかになります。
 どんな冒険が待っているのでしょうか？

@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
   others:
@@ -23,8 +24,9 @@ tags:
 - ヒューマンドラマ
 - 月刊誌
 title: 宇宙兄弟 第24話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 第24話では、宇宙飛行士たちの訓練や心の葛藤が描かれます。ネタバレが含まれますのでご注意ください！
 

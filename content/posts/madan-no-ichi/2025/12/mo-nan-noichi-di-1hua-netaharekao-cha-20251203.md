@@ -14,8 +14,8 @@ tags:
 draft: false
 description: 『魔男のイチ』第1話を時系列でまとめ、伏線と初期設定を整理します。
 affiliate_ids:
-  amazon: ''
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/sk=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81&tag=naoto0610-22
+  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
   others: []
 disclaimer: "公開済み第1話のみを扱います。 未読の方はご注意ください。"
 images:
@@ -33,6 +33,11 @@ images:
 - 魔界生まれの少年イチが人間界に引き取られ、日常と異形の力の板挟みになる導入。
 - 友人リオと出会い、彼の「特別さ」を肯定する言葉がイチの行動を変える。
 - 終盤でイチが力の制御に成功し、「使命」を自覚する兆しを見せる。
+
+## 用語メモ（自動抽出用）
+- {{< term name="イチ" reading="いち" first="第1話" >}}魔界に生まれ、人間界で暮らす少年。内に異質な力を宿す{{< /term >}}
+- {{< term name="リオ" reading="りお" first="第1話" >}}イチの友人。彼の特別さを肯定し、行動を後押しする{{< /term >}}
+- {{< term name="瘴気" reading="しょうき" first="第1話" >}}イチの感情高ぶりで周囲に放たれる負のエネルギー{{< /term >}}
 
 {{< spoiler >}}
 ## 第1話あらすじ（詳細）
@@ -72,17 +77,29 @@ images:
 瘴気耐性の伏線が示唆。
 
 ## 関連リンク
-- ネタバレ無しの考察版: [ネタバレ無しの考察版](? [ネタバレ無しの考察版: [ネタバレ無しの考察版](](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203-insight/))
+- ネタバレ無しの考察版: [ネタバレ無しの考察版]( [ネタバレ無しの考察版: [ネタバレ無しの考察版](](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203-insight/))
 - 用語集: [用語集](/posts/madan-no-ichi/glossary/)
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
-- Amazonで検索する： [Amazonで探す](? [Amazonで探す](](https://www.amazon.co.jp/s?field-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81))
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
+- Amazonで検索する： [Amazonで探す]( [Amazonで探す](](https://www.amazon.co.jp/sfield-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81))
 
 ## 関連記事
-- ネタバレ無しの考察版: [ネタバレ無しの考察版](? [ネタバレ無しの考察版: [ネタバレ無しの考察版](](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203-insight/))
+- ネタバレ無しの考察版: [ネタバレ無しの考察版]( [ネタバレ無しの考察版: [ネタバレ無しの考察版](](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203-insight/))
 - 用語集: [用語集](/posts/madan-no-ichi/glossary/)
 
+## ????
 
+## ???????????
+- {< term name="??" reading="??" first="?1?" >}??????????????????????????{< /term >}
+- {< term name="??" reading="??" first="?1?" >}????????????????????????{< /term >}
+- {< term name="??" reading="????" first="?1?" >}???????????????????????{< /term >}
+- {< term name="??" reading="????" first="?12?" >}?????????????????????????????{< /term >}
 
+- ????<a href="//posts\madan-no-ichi\2025\12\mo-nan-noichi-di-1hua-netaharekao-cha-20251203-insight" target="_blank" rel="noopener">魔男のイチ｜第1話の考察メモ（ネタバレ無し）</a>
+- ????<a href="//posts\madan-no-ichi\2025\12\mo-nan-noichi-di-2hua-netaharekao-cha-20251203-insight" target="_blank" rel="noopener">mo-nan-noichi-di-2hua-netaharekao-cha-20251203-insight</a>
+
+## ?????
+- ????TOP?<a href="/posts/madan-no-ichi/" target="_blank" rel="noopener">??????</a>
+- ????<a href="/posts/madan-no-ichi/glossary/" target="_blank" rel="noopener">???</a>

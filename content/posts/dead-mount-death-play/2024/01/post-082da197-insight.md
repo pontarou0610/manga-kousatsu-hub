@@ -4,9 +4,16 @@ chapter: Stage.70考察
 series: デッドマウント・デスプレイ
 title: デッドマウント・デスプレイ｜Stage.70考察（屍神殿の戦略と日常）
 affiliate_ids:
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
-  amazon: https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
+  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22
 ---
+
+## ???????????
+- {< term name="???" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
+- {< term name="????" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
+- {< term name="????????" reading="??? ????" first="?82?" >}??????????????????????????{< /term >}
+- {< term name="???" reading="????? ?" first="?82?" >}????????????????????????????{< /term >}
+
 
 
 
@@ -24,8 +31,8 @@ tags:
   - "考察"
 draft: false
 affiliate_ids:
-- <a href="https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
+- <a href="https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
+- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
   others: []
 disclaimer: "用語は公式ガイドラインに従い、推測は根拠を添えて記載します。
 "
@@ -34,7 +41,7 @@ images:
 ---
 デッドマウント・デスプレイのStage.70では、屍神殿が現代社会に適応するための偽装工作に焦点を当て、街の暗部を生き抜く術を探ります。
 
-!<a href="https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" target="_blank" rel="noopener">A welder at work indoors, creating bright sparks while welding metal pipes.</a>
+!<a href="https://images.pexels.com/photos/3970339/pexels-photo-3970339.jpegauto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" target="_blank" rel="noopener">A welder at work indoors, creating bright sparks while welding metal pipes.</a>
 <small>Photo by <a href="https://www.pexels.com/@nishantaneja" target="_blank" rel="noopener">Nishant Aneja</a> on <a href="https://www.pexels.com/photo/man-welding-3970339/" target="_blank" rel="noopener">Pexels</a></small>
 
 ## ポイント（ネタバレなし）

@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
   others:
@@ -22,7 +23,9 @@ tags:
 - JAXA選抜
 - キャリア
 title: 宇宙兄弟｜一次選抜の流れと専門試験のポイント（ネタバレ抑えめ）
+noindex: true
 ---
+**?????????????????????????**
 
 本稿は一次選抜の「試験項目と狙い」を俯瞰し、ムッタが示した強みをキャリア視点で整理します（物語の核心ネタバレは割愛）。
 

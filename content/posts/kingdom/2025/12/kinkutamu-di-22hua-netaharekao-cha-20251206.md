@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
   others: []
@@ -21,8 +22,9 @@ tags:
 - バトル
 - 週刊誌
 title: キングダム 第22話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 キングダムの第22話の内容をお届けします。ネタバレが含まれますので、注意してご覧ください。
 

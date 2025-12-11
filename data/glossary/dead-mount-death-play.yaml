@@ -1,37 +1,17 @@
-terms:
-  - term: "屍神殿"
-    reading: "しかんでん"
-    description: "異世界で恐れられた死霊術師。現代に転生し、ポルカとして生活している。"
-    reference: "第1巻"
-  - term: "ポルカ"
-    reading: "ぽるか"
-    description: "屍神殿が転生した現代の少年。死霊術を用いて都市で暗躍する。"
-    reference: "第1巻"
-  - term: "災厄竜"
-    reading: "さいやくりゅう"
-    description: "屍神殿と戦った巨大な竜。魔力の塊で、周囲に甚大な被害を与える。"
-    reference: "第2巻"
-  - term: "怪異"
-    reading: "かいい"
-    description: "現代に出現する超常的存在。屍神殿の死霊術と関係するケースもある。"
-    reference: "第2巻"
-  - term: "異世界"
-    reading: "いせかい"
-    description: "屍神殿がもともといた世界。魔術と剣が存在するファンタジー的環境。"
-    reference: "第1巻"
-  - term: "転生"
-    reading: "てんせい"
-    description: "屍神殿が現代へ移動した現象。肉体と魂の転移を伴い、記憶を保持している。"
-    reference: "第1巻"
-  - term: "死霊術"
-    reading: "しりょうじゅつ"
-    description: "屍神殿が操る魔術。死者や魂を操り、戦闘や情報収集に利用する。"
-    reference: "第1巻"
-  - term: "黒幕"
-    reading: "くろまく"
-    description: "現代で暗躍する謎の人物。ポルカを狙う組織を背後から操っている可能性がある。"
-    reference: "第2巻"
-  - term: "現代組"
-    reading: "げんだいぐみ"
-    description: "ポルカ周辺の現代キャラクター達を指す便宜的な呼称。刑事や殺し屋などが含まれる。"
-    reference: "第2巻"
+items:
+- term: ポルカ・シノミヤ
+  reading: ぽるか しのみや
+  desc: 四乃山家の少年として生まれ変わった屍神殿の新たな肉体
+  first_appear: 第82話
+- term: 四乃山家
+  reading: しのやまけ
+  desc: 新宿に影響力を持つ資産家一族。内部の権力争いが物語を揺らす
+  first_appear: 第82話
+- term: 屍神殿
+  reading: しかんでん
+  desc: 異世界から転生した死霊術師。現世で暗躍しつつ真の目的を探る
+  first_appear: 第82話
+- term: 骸楼羅
+  reading: むくろばこ ら
+  desc: 四乃山家と因縁を持つ殺し屋。過去の事件が現在の対立を生む
+  first_appear: 第82話

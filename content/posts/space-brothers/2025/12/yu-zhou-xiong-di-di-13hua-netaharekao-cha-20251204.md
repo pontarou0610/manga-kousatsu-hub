@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
   others:
@@ -23,8 +24,9 @@ tags:
 - ヒューマンドラマ
 - 月刊誌
 title: 宇宙兄弟 第13話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 宇宙兄弟第13話の内容を時系列でまとめました。
 ネタバレが含まれていますので、注意してくださいね！

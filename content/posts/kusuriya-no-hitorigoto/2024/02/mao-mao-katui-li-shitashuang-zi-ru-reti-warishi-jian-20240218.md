@@ -1,5 +1,7 @@
 ---
+
 title: 薬屋のひとりごと｜第90話｜最新話ネタバレ・感想・考察
+noindex: true
 slug: mao-mao-katui-li-shitashuang-zi-ru-reti-warishi-jian-20240218
 date: 2024-02-18 00:00:00+00:00
 series: 薬屋のひとりごと
@@ -21,6 +23,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2024/20240218_mao-mao-katui-li-shitashuang-zi-ru-reti-warishi-jian-20240218.png
 ---
+**?????????????????????????**
 
 第90話では、後宮での双子入れ替わり事件の真相が明らかになります。
 これからネタバレが含まれますので、ご注意ください。

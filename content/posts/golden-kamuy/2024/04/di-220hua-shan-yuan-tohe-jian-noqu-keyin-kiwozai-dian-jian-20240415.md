@@ -1,5 +1,7 @@
 ---
+
 title: ゴールデンカムイ｜第220話｜最新話ネタバレ・感想・考察
+noindex: true
 slug: di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-20240415
 date: 2024-04-15 00:00:00+00:00
 series: ゴールデンカムイ
@@ -19,6 +21,7 @@ disclaimer: 史実や文化の引用は公式資料と監修コメントに従�
 images:
 - ogp/2024/20240415_di-220hua-shan-yuan-tohe-jian-noqu-keyin-kiwozai-dian-jian-20240415.png
 ---
+**?????????????????????????**
 
 第220話では、杉元と鶴見中尉の緊迫した読み合いが描かれます。
 ネタバレが含まれますので、注意してくださいね！

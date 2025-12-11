@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
   others:
@@ -23,7 +24,9 @@ tags:
 - 宮廷劇
 - 月刊誌
 title: 薬屋のひとりごと 第18話最新話ネタバレ・感想・考察
+noindex: true
 ---
+**?????????????????????????**
 
 第18話の内容をお届けします。
 ネタバレが含まれますので、注意してくださいね！

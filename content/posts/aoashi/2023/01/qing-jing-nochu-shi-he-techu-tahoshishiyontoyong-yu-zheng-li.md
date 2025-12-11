@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B00Z6HQWYU?tag=naoto0610-22
   others: []
@@ -20,8 +21,9 @@ tags:
 - 青春
 - 守備分析
 title: アオアシ｜初試合を守備目線で総復習（ネタバレあり）
+noindex: true
 ---
-
+**?????????????????????????**
 
 > **本記事はユース初試合（単行本収録範囲）のネタバレを含みます。
 守備目線での振り返りです。

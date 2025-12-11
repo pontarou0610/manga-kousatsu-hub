@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009LHBVQ0?tag=naoto0610-22
   others: []
@@ -21,8 +22,9 @@ tags:
 - バトル
 - 週刊誌
 title: キングダム 第20話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 第20話では新たな戦局が展開されます。
 ネタバレを含みますので、注意してお読みください。

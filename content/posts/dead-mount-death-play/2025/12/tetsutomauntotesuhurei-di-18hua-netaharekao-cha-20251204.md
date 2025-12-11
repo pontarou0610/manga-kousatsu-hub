@@ -13,8 +13,8 @@ tags:
 draft: false
 description: "デッドマウント・デスプレイの第18話が公開されました！今回は重要な展開が目白押しですので、ネタバレにご注意ください。"
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22"
-  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
+  amazon: "https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22"
+  rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
   others: []
 disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は根拠を添えて記載します。"
 images:
@@ -55,14 +55,29 @@ images:
 - 予想: 黒幕との対決が近づく中、山田の過去が明らかになることで、彼のモチベーションが変化し、物語の展開が大きく変わる可能性がある。
 
 ## 関連巻・グッズへのリンク
-- 第18話収録巻：https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
+- 第18話収録巻：https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22
 - 電子書籍：デッドマウント・デスプレイ Kindle / 楽天Kobo など
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
-- Amazonで探す：https://www.amazon.co.jp/dp/B07BSZLR4X?tag=naoto0610-22
-- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
+- Amazonで探す：https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22
+- 楽天で探す：https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://magazine.jp.square-enix.com/yg/introduction/dead/
 - 用語集：/posts/dead-mount-death-play/glossary/
+
+## ????
+
+## ???????????
+- {< term name="???" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
+- {< term name="????" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
+- {< term name="????????" reading="??? ????" first="?82?" >}??????????????????????????{< /term >}
+- {< term name="???" reading="????? ?" first="?82?" >}????????????????????????????{< /term >}
+
+- ????<a href="//posts\dead-mount-death-play\2025\12\tetsutomauntotesuhurei-di-18hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">デッドマウント・デスプレイ 第18話の考察</a>
+- ????<a href="//posts\dead-mount-death-play\2025\12\tetsutomauntotesuhurei-di-19hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">tetsutomauntotesuhurei-di-19hua-netaharekao-cha-20251204-insight</a>
+
+## ?????
+- ????TOP?<a href="/posts/dead-mount-death-play/" target="_blank" rel="noopener">??????</a>
+- ????<a href="/posts/dead-mount-death-play/glossary/" target="_blank" rel="noopener">???</a>

@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B00T3XVB9E?tag=naoto0610-22
   others: []
@@ -21,8 +22,9 @@ tags:
 - サバイバル
 - 週刊誌
 title: ゴールデンカムイ 第11話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 今回はゴールデンカムイの第11話についてまとめました。
 ネタバレが含まれますので、注意してくださいね！

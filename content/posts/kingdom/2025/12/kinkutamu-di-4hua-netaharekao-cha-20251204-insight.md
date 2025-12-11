@@ -1,6 +1,8 @@
 ---
 
+
 title: キングダム第4話の内容まとめと考察
+noindex: true
 slug: kinkutamu-di-4hua-netaharekao-cha-20251204-insight
 date: 2025-12-04 00:30:48.604663+00:00
 series: キングダム
@@ -21,8 +23,7 @@ disclaimer: 史実との対比は公式コメントを参照し、ネタバレ�
 images:
 - ogp/2025/20251204_kinkutamu-di-4hua-netaharekao-cha-20251204.png
 ---
-
-
+**?????????????????????????**
 
 第4話では、キャラクターたちの決意が試される瞬間が描かれています。
 彼らの行動がどのように物語に影響を与えるのか、考えてみましょう。

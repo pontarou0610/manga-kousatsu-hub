@@ -1,4 +1,5 @@
 ---
+
 affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B0757MTWDV?tag=naoto0610-22
   others:
@@ -23,8 +24,9 @@ tags:
 - 宮廷劇
 - 月刊誌
 title: 薬屋のひとりごと 第1話最新話ネタバレ・感想・考察
+noindex: true
 ---
-
+**?????????????????????????**
 
 第1話では、薬屋の主人公がどのようにして薬を扱うかが描かれます。
 ネタバレが含まれていますのでご注意ください！

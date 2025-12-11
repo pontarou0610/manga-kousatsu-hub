@@ -1,6 +1,8 @@
 ---
 
+
 title: 薬屋のひとりごと 第6話の考察
+noindex: true
 slug: yao-wu-nohitorikoto-di-6hua-netaharekao-cha-20251204-insight
 date: 2025-12-04 01:06:08.496587+00:00
 series: 薬屋のひとりごと
@@ -23,8 +25,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2025/20251204_yao-wu-nohitorikoto-di-6hua-netaharekao-cha-20251204.png
 ---
-
-
+**?????????????????????????**
 
 第6話では、薬屋の主人公が新たな謎に直面します。
 彼女の選択がどのように物語を進展させるのか、興味が尽きませんね！

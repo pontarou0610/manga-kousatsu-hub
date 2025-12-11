@@ -1,6 +1,8 @@
 ---
 
+
 title: ゴールデンカムイ 第5話の考察
+noindex: true
 slug: ko-rutenkamui-di-5hua-netaharekao-cha-20251204-insight
 date: 2025-12-04 00:54:47.439392+00:00
 series: ゴールデンカムイ
@@ -21,8 +23,7 @@ disclaimer: 史実や文化の引用は公式資料と監修コメントに従�
 images:
 - ogp/2025/20251204_ko-rutenkamui-di-5hua-netaharekao-cha-20251204.png
 ---
-
-
+**?????????????????????????**
 
 第5話では、キャラクターたちの目的や背景がさらに深く掘り下げられ、物語の進展に興味が湧きます。
 彼らの選択がどのように影響するのか、一緒に考えてみましょう！

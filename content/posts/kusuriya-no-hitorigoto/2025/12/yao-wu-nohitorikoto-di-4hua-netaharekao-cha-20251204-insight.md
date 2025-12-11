@@ -1,6 +1,8 @@
 ---
 
+
 title: 薬屋のひとりごと 第4話の考察
+noindex: true
 slug: yao-wu-nohitorikoto-di-4hua-netaharekao-cha-20251204-insight
 date: 2025-12-04 00:31:26.102264+00:00
 series: 薬屋のひとりごと
@@ -23,8 +25,7 @@ disclaimer: 医療・薬学の描写は公式情報に限定し、推測は補�
 images:
 - ogp/2025/20251204_yao-wu-nohitorikoto-di-4hua-netaharekao-cha-20251204.png
 ---
-
-
+**?????????????????????????**
 
 第4話では、薬屋の主人公が新たな謎に挑む様子が描かれています。
 彼女の成長と周囲の反応がどう変わるのか、気になりますね！
