@@ -80,6 +80,6 @@ noindex: true
 - <a href="https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
 ## 関連記事・用語集
-- 関連記事：[ 薬屋のひとりごとの記事一覧 ](/posts/kusuriya-no-hitorigoto/)
+- 関連記事：[ 薬屋のひとりごとの記事一覧 ]({{< ref "series/kusuriya-no-hitorigoto" >}})
 - 公式リンク：<a href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener"> 月刊サンデーGX公式 </a>
 - 用語集：[用語集]({{< ref "posts/kusuriya-no-hitorigoto/glossary" >}})

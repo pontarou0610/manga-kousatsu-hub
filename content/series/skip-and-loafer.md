@@ -1,7 +1,7 @@
 ---
-title: "スキップとローファー"
-series_slug: "skip-and-loafer"
-series_name: "スキップとローファー"
-type: "series"
 noindex: true
+series_name: スキップとローファー
+series_slug: skip-and-loafer
+title: スキップとローファー
+type: series
 ---

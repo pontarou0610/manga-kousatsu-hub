@@ -146,7 +146,7 @@ images:
 
 
 
-- Amazon（小学館サンデーGX版）：<https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22>
+- Amazon（小学館サンデーGX版）：<[https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22](https://www.amazon.co.jp/dp/B079HN7CVR?tag=naoto0610-22)>
 
 
 

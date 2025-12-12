@@ -1,6 +1,6 @@
 ---
-title: "デッドマウント・デスプレイ"
-series_slug: "dead-mount-death-play"
-series_name: "デッドマウント・デスプレイ"
-type: "series"
+series_name: デッドマウント・デスプレイ
+series_slug: dead-mount-death-play
+title: デッドマウント・デスプレイ
+type: series
 ---

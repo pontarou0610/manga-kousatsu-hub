@@ -65,6 +65,6 @@ noindex: true
 - <a href="https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22" target="_blank" rel="noopener">Amazon（オールカラー版）</a>
 
 ## 関連記事・用語集
-- 関連記事：[ 宇宙兄弟の記事一覧 ](/posts/space-brothers/)
+- 関連記事：[ 宇宙兄弟の記事一覧 ]({{< ref "series/space-brothers" >}})
 - 公式リンク：<a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener"> モーニング公式サイト </a>
 - 用語集：[用語集]({{< ref "posts/space-brothers/glossary" >}})

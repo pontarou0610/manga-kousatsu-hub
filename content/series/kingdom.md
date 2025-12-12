@@ -1,7 +1,7 @@
 ---
-title: "キングダム"
-series_slug: "kingdom"
-series_name: "キングダム"
-type: "series"
 noindex: true
+series_name: キングダム
+series_slug: kingdom
+title: キングダム
+type: series
 ---

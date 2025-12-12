@@ -1,7 +1,7 @@
 ---
-title: "ゴールデンカムイ"
-series_slug: "golden-kamuy"
-series_name: "ゴールデンカムイ"
-type: "series"
 noindex: true
+series_name: ゴールデンカムイ
+series_slug: golden-kamuy
+title: ゴールデンカムイ
+type: series
 ---

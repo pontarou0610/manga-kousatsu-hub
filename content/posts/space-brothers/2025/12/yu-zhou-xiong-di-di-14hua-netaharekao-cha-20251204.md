@@ -69,16 +69,16 @@ noindex: true
 特に彼の背景が明かされることで、ストーリーがさらに面白くなる。
 
 ## 関連巻・グッズへのリンク
-- 第14話収録巻：<https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>
+- 第14話収録巻：<[https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22](https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22)>
 - 電子書籍：宇宙兄弟 Kindle / 楽天Kobo など
 {{< /spoiler >}}
 
 ## 購入リンク（公式/通販）
 - <a href="https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22>" target="_blank" rel="noopener">Amazonで探す</a>
 - <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fspace-brothers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>" target="_blank" rel="noopener">楽天で探す</a>
-- Amazon（オールカラー版）：<https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22>
+- Amazon（オールカラー版）：<[https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22](https://www.amazon.co.jp/dp/B00OJRLZ86?tag=naoto0610-22)>
 
 ## 関連記事・用語集
-- 関連記事：[ 宇宙兄弟の記事一覧 ](/posts/space-brothers/)
+- 関連記事：[ 宇宙兄弟の記事一覧 ]({{< ref "series/space-brothers" >}})
 - 公式リンク：<a href="https://morning.kodansha.co.jp/c/uchukyodai/" target="_blank" rel="noopener"> モーニング公式サイト </a>
 - 用語集：[用語集]({{< ref "posts/space-brothers/glossary" >}})

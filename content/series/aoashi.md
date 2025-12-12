@@ -1,7 +1,7 @@
 ---
-title: "アオアシ"
-series_slug: "aoashi"
-series_name: "アオアシ"
-type: "series"
 noindex: true
+series_name: アオアシ
+series_slug: aoashi
+title: アオアシ
+type: series
 ---
