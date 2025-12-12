@@ -72,8 +72,10 @@ def load_glossary(series_slug: str) -> List[Dict[str, str]]:
     glossary_file = GLOSSARY_DIR / f"{series_slug}.yaml"
     if glossary_file.exists():
         with open(glossary_file, 'r', encoding='utf-8') as f:
-            data = yaml.safe_load(f)
-            return data.get('terms', [])
+            data = yaml.safe_load(f) or {}
+            # New schema (extract_terms.py): {items: [...]}
+            # Backward compatible with older {terms: [...]}.
+            return data.get('items') or data.get('terms') or []
     return []
 
 

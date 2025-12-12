@@ -2,19 +2,28 @@
 title: "{{ title }}"
 date: {{ date }}
 series: "{{ series }}"
-chapter: "用語集"
+series_slug: "{{ series_slug }}"
+chapter: "???"
 article_variant: "glossary"
 slug: "{{ series_slug }}-glossary"
 tags:
-  - "用語解説"
-  {% for tag in tags %}
+  - "????"
+{% for tag in tags %}
   - "{{ tag }}"
-  {% endfor %}
+{% endfor %}
 draft: false
 affiliate_ids:
   amazon: "{{ affiliate_ids.amazon }}"
   rakuten: "{{ affiliate_ids.rakuten }}"
+{% if affiliate_ids.others %}
+  others:
+{% for other in affiliate_ids.others %}
+    - name: "{{ other.name }}"
+      url: "{{ other.url }}"
+{% endfor %}
+{% else %}
   others: []
+{% endif %}
 disclaimer: "{{ disclaimer }}"
 images: []
 ---
@@ -25,18 +34,23 @@ images: []
 > {{ glossary_note }}
 {% endif %}
 
-## 用語リスト
+## ?????
 {% for term in glossary %}
-### {{ term.term }}{% if term.reading %}（{{ term.reading }}）{% endif %}
-- 説明: {{ term.description }}
-- 参考: {{ term.reference }}
+### {{ term.term }}{% if term.reading %}?{{ term.reading }}?{% endif %}
+- ??: {{ term.desc or term.description }}
+{% if term.first_appear %}
+- ???: {{ term.first_appear }}
+{% endif %}
+{% if term.reference %}
+- ??: {{ term.reference }}
+{% endif %}
 
 {% endfor %}
 
 {% if official_link %}
-{{ "{{< affbox title=\"" }}{{ official_link.label or "公式サイト" }}{{ "\" desc=\"公式情報はこちら\" url=\"" }}{{ official_link.url }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"" }}{{ official_link.label or "?????" }}{{ "\" desc=\"????????????????\" url=\"" }}{{ official_link.url }}{{ "\" >}}" }}
 {% endif %}
 
 {% if affiliate_widgets.amazon %}
-{{ "{{< affbox title=\"Amazonで関連巻を探す\" desc=\"まとめ買い・Kindle版はこちら\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"Amazon???\" desc=\"Kindle?????????\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
 {% endif %}

@@ -36,9 +36,9 @@ images:
 ---
 {{ intro }}
 
-> **{{ spoiler_notice or "この先は最新話までのネタバレを含みます。" }}**
+> **{{ spoiler_notice or "?????????????????????" }}**
 {% if prev_post %}
-> 前回のネタバレ: [{{ prev_post.title }}]({{ prev_post.url }})
+> ???????: [{{ prev_post.title }}]({{ prev_post.url }})
 {% endif %}
 
 {% if hero_image %}
@@ -46,44 +46,45 @@ images:
 <small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
 {% endif %}
 
-## 結論：{{ chapter_label }}のポイント3つ（ネタバレあり）
+## ???{{ chapter_label }}?????3?????????
 {% for point in summary_points %}
 - {{ point }}
 {% endfor %}
 
 {{ "{{< spoiler >}}" }}
-## {{ chapter_label }}のあらすじ要約（3分でわかる）
+## {{ chapter_label }}????????3??????
+
 {{ spoiler.synopsis }}
 
-## 伏線・気付き
+## ??????
 {% for item in spoiler.foreshadowings %}
 - {{ item }}
 {% endfor %}
 
-## 今後の展開予想（根拠付き）
+## ?????????????
 {% for item in spoiler.predictions %}
 - {{ item }}
 {% endfor %}
 
-## 関連巻・グッズへのリンク
+## ????????????
 {% if affiliate_ids.amazon %}
-- {{ chapter_label }}収録巻：[Amazonで探す]({{ affiliate_ids.amazon }})
+- {{ chapter_label }}????[Amazon???]({{ affiliate_ids.amazon }})
 {% else %}
-- {{ chapter_label }}収録巻：Amazonリンク未設定
+- {{ chapter_label }}????Amazon??????
 {% endif %}
 {% if affiliate_ids.rakuten %}
-- 電子書籍：[楽天で探す]({{ affiliate_ids.rakuten }})
+- ?????[?????]({{ affiliate_ids.rakuten }})
 {% else %}
-- 電子書籍：{{ series }} Kindle / 楽天Kobo など
+- ?????{{ series }} Kindle / ??Kobo ??
 {% endif %}
 {{ "{{< /spoiler >}}" }}
 
-## 購入リンク（公式/通販）
+## ????????/???
 {% if affiliate_ids.amazon %}
-- [Amazonで探す]({{ affiliate_ids.amazon }})
+- [Amazon???]({{ affiliate_ids.amazon }})
 {% endif %}
 {% if affiliate_ids.rakuten %}
-- [楽天で探す]({{ affiliate_ids.rakuten }})
+- [?????]({{ affiliate_ids.rakuten }})
 {% endif %}
 {% if affiliate_ids.others %}
 {% for other in affiliate_ids.others %}
@@ -91,7 +92,7 @@ images:
 {% endfor %}
 {% endif %}
 
-## 関連記事・用語集
-- 関連記事：[ {{ series }}の記事一覧 ](/posts/{{ series_slug }}/)
-- 公式リンク：[ {{ official_link.label if official_link else "公式サイト" }} ]({{ official_link.url if official_link else "#" }})
-- 用語集：[用語集]({{ "{{< ref \"posts/" ~ series_slug ~ "/glossary\" >}}" }})
+## ????????
+- ?????[ {{ series }}????? ](/posts/{{ series_slug }}/)
+- ??????[ {{ official_link.label if official_link else "?????" }} ]({{ official_link.url if official_link else "#" }})
+- ????[???]({{ "{{< ref \"posts/" ~ series_slug ~ "/glossary\" >}}" }})
