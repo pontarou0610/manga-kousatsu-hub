@@ -3,7 +3,11 @@
     <h2>{{ .Title }}</h2>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
 
-    {{ $paginator := .Paginate .Pages }}
+    {{ $pages := .Pages }}
+    {{ if eq .Section "series" }}
+      {{ $pages = where $pages "Params.noindex" "ne" true }}
+    {{ end }}
+    {{ $paginator := .Paginate $pages }}
     {{ if not (gt (len $paginator.Pages) 0) }}
       <p>まだ記事がありません。GitHub Actions または <code>python scripts/generate_posts.py</code> で生成してください。</p>
     {{ end }}

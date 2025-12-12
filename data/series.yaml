@@ -42,7 +42,7 @@
   slug: "skip-and-loafer"
   rss: ""
   release_day: "2025-01-20"
-  manual: false
+  manual: true
   auto_publish: true
   official_links:
     - label: "月刊アフタヌーン公式"
@@ -120,7 +120,7 @@
   slug: "kingdom"
   rss: ""
   release_day: "2025-01-18"
-  manual: false
+  manual: true
   auto_publish: true
   official_links:
     - label: "週刊ヤングジャンプ公式"
@@ -159,7 +159,7 @@
   slug: "kusuriya-no-hitorigoto"
   rss: ""
   release_day: "2025-01-09"
-  manual: false
+  manual: true
   auto_publish: true
   official_links:
     - label: "月刊サンデーGX公式"
@@ -200,7 +200,7 @@
   slug: "space-brothers"
   rss: ""
   release_day: "2025-01-25"
-  manual: false
+  manual: true
   auto_publish: true
   official_links:
     - label: "モーニング公式サイト"
@@ -241,7 +241,7 @@
   slug: "golden-kamuy"
   rss: ""
   release_day: "2025-01-14"
-  manual: false
+  manual: true
   auto_publish: true
   official_links:
     - label: "週刊ヤングジャンプ公式"
@@ -280,7 +280,7 @@
   slug: "aoashi"
   rss: ""
   release_day: "2025-01-22"
-  manual: false
+  manual: true
   auto_publish: true
   official_links:
     - label: "ビッグコミックス公式"

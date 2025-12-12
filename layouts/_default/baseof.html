@@ -541,16 +541,25 @@
             <div class="caution">※ 本サイトの記事は最新話までのネタバレを含みます。読み進める前にご留意ください。</div>
           </div>
           <div class="sidebar__card">
-            <h3 style="margin:0;">ほかの作品</h3>
+            <h3 style="margin:0;">シリーズ</h3>
             <ul class="series-list">
               {{ $currentSeries := .Params.series }}
+              {{ $activeSlugs := slice "madan-no-ichi" "heavenly-delusion" "dead-mount-death-play" }}
+              {{ $seriesMap := dict }}
               {{ range .Site.Data.series }}
-                {{ $name := .name }}
-                {{ $slug := .slug }}
-                {{ $link := printf "/series/%s/" $slug }}
-                <li class="{{ if eq $currentSeries $name }}is-active{{ end }}">
-                  <a href="{{ $link }}">{{ $name }}</a>
-                </li>
+                {{ if not .manual }}
+                  {{ $seriesMap = merge $seriesMap (dict .slug .) }}
+                {{ end }}
+              {{ end }}
+              {{ range $activeSlugs }}
+                {{ with index $seriesMap . }}
+                  {{ $name := .name }}
+                  {{ $slug := .slug }}
+                  {{ $link := printf "/series/%s/" $slug }}
+                  <li class="{{ if eq $currentSeries $name }}is-active{{ end }}">
+                    <a href="{{ $link }}">{{ $name }}</a>
+                  </li>
+                {{ end }}
               {{ end }}
             </ul>
           </div>
@@ -579,9 +588,6 @@
     </footer>
   </body>
 </html>
-
-
-
 
 
 
