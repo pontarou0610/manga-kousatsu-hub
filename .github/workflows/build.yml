@@ -16,6 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: gpt-5.1
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
       AMAZON_TAG: ${{ secrets.AMAZON_TAG }}
       GA4_ID: ${{ secrets.GA4_ID || '' }}

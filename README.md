@@ -47,11 +47,11 @@
 
 3. **API キー (.env)**
 
-   ルートに `.env` を作成し、少なくとも `OPENAI_API_KEY` を設定します。任意で `OPENAI_MODEL`（既定: `gpt-4o-mini`）と Pexels 画像取得用の `PEXELS_API_KEY` も指定できます。また Amazon アソシエイトのトラッキングID（例: `naoto0610-22`）を `AMAZON_TAG` として設定すると、リンクに自動付与されます。
+   ルートに `.env` を作成し、少なくとも `OPENAI_API_KEY` を設定します。任意で `OPENAI_MODEL`（既定: `gpt-5.1`）と Pexels 画像取得用の `PEXELS_API_KEY` も指定できます。また Amazon アソシエイトのトラッキングID（例: `naoto0610-22`）を `AMAZON_TAG` として設定すると、リンクに自動付与されます。
 
    ```
    OPENAI_API_KEY=sk-xxxx
-   OPENAI_MODEL=gpt-4o-mini
+   OPENAI_MODEL=gpt-5.1
    AMAZON_TAG=naoto0610-22
    PEXELS_API_KEY=your_pexels_token
    GA4_ID=G-XXXXXXXXXX
