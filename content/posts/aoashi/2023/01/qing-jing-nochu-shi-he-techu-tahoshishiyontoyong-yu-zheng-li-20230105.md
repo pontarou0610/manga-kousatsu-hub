@@ -21,7 +21,6 @@ disclaimer: 公開済みの初試合エピソードを元にしたネタバレ�
 images:
 - ogp/2023/20230105_qing-jing-nochu-shi-he-techu-tahoshishiyontoyong-yu-zheng-li-20230105.png
 ---
-**?????????????????????????**
 
 > **本記事はユース加入後の初試合（単行本収録範囲）のネタバレを含みます。
 未読の方はご注意ください。
