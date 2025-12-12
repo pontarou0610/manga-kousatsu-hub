@@ -1,6 +1,6 @@
 ---
 title: "宇宙兄弟 用語集"
-date: 2025-12-12T00:45:55+09:00
+date: 2025-12-12T01:09:09+09:00
 series: "宇宙兄弟"
 chapter: "用語集"
 article_variant: "glossary"
