@@ -8,7 +8,11 @@ affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22
 ---
 
-
+## 主要用語
+- {{< term name="天国" reading="てんごく" first="第1話" >}}壁内の安全な施設で子どもたちが暮らす場所{{< /term >}}
+- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
+- {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
+- {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
 
 ﻿---
 title: "天国大魔境｜第1話｜最新話ネタバレ・感想・考察"
@@ -79,18 +83,3 @@ images:
 - <a href="https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
 
 - <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
-
-## ????
-
-## ???????????
-- {< term name="??" reading="????" first="?1?" >}????????????????????{< /term >}
-- {< term name="??" reading="????" first="?1?" >}?????????????????????{< /term >}
-- {< term name="??" reading="??" first="?1?" >}???????????????????????{< /term >}
-- {< term name="???" reading="???" first="?1?" >}??????????????????????{< /term >}
-
-- ????<a href="//posts\heavenly-delusion\2023\01\di-1hua-noshe-bei-towai-jie-ru-rumatome-20230101" target="_blank" rel="noopener">天国大魔境｜第1話ネタバレ・感想・考察（壁内の秘密に初潜入）</a>
-- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203-insight" target="_blank" rel="noopener">天国大魔境 第1話の内容まとめと考察</a>
-
-## ?????
-- ????TOP?<a href="/posts/heavenly-delusion/" target="_blank" rel="noopener">??????</a>
-- ????<a href="/posts/heavenly-delusion/glossary/" target="_blank" rel="noopener">???</a>

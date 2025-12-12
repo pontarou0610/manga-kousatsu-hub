@@ -22,7 +22,11 @@ images:
 - ogp/2025/20251203_tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203.png
 ---
 
-
+## 主要用語
+- {{< term name="天国" reading="てんごく" first="第1話" >}}壁内の安全な施設で子どもたちが暮らす場所{{< /term >}}
+- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
+- {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
+- {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
 
 「天国大魔境」第1話では、未知の世界とキャラクターたちの動機が描かれています。
 彼らは何を求め、どのように成長するのでしょうか？
@@ -54,97 +58,3 @@ images:
 
 
 ## 用語メモ（自動抽出用）
-- {{< term name="天国" reading="てんごく" first="第1話" >}}壁内の安全な施設で子どもたちが暮らす場所{{< /term >}}
-- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
-- {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
-- {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
-
-
-## 考察テーマ
-
-
-### 自己探求
-
-主人公は新たな環境に身を置くことで、自分自身を見つめ直す機会を得ます。
-彼が直面する様々な試練は、自己理解を深めるための重要な要素となります。
-例えば、彼が遭遇する困難な状況は、彼の過去の選択を反映しており、観客は彼の成長を見守ることができます。
-
-
-### 人間関係の複雑さ
-
-キャラクター同士の関係性が描かれる中で、信頼や裏切りといったテーマが浮かび上がります。
-特に、初対面のキャラクターとのやり取りが、今後のストーリーにどのように影響を与えるのかが気になります。
-彼らの動機や背景が次第に明らかになることで、物語に深みが増していきます。
-
-
-### 未知の世界への挑戦
-
-新しい世界に足を踏み入れることは、常にリスクを伴います。
-主人公がどのようにこの未知の環境に適応し、成長していくのかが見どころです。
-彼の選択が未来にどのような影響を及ぼすのか、観客は目が離せません。
-
-
-
-
-## キャラクター考察
-
-
-- **主人公**: 彼は新しい世界に飛び込むことで、自己探求の旅に出ます。
-過去のトラウマや未解決の問題が彼を悩ませ、どのように克服するかが物語の鍵となります。
-
-
-- **サブキャラクターA**: 彼の動機は、主人公との関係性によって大きく変わります。
-初めは敵対的ですが、徐々に共通の目的を持つことで、彼の内面に葛藤が生まれます。
-
-
-- **サブキャラクターB**: 彼女は主人公に対して特別な感情を抱いており、その感情がストーリーの進展に影響を与えます。
-彼女の選択が、物語の展開にどのように作用するのか、興味深いです。
-
-
-
-
-## FAQ
-
-
-
-
-## 購入リンク（公式/通販）
-
-
-- <a href="https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-
-
-
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
-
-
-
-
-
-## 参考リンク
-
-
-- <a href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">作品公式サイト</a>
-
-
-- <a href="https://tdm-anime.com/" target="_blank" rel="noopener">アニメ公式サイト</a>
-
-
-
-
-{{< affbox title="公式サイト" desc="公式情報はこちら" url="#" >}}
-
-## ????
-
-## ???????????
-- {< term name="??" reading="????" first="?1?" >}????????????????????{< /term >}
-- {< term name="??" reading="????" first="?1?" >}?????????????????????{< /term >}
-- {< term name="??" reading="??" first="?1?" >}???????????????????????{< /term >}
-- {< term name="???" reading="???" first="?1?" >}??????????????????????{< /term >}
-
-- ????<a href="//posts\heavenly-delusion\2023\01\di-1hua-noshe-bei-towai-jie-ru-rumatome" target="_blank" rel="noopener">天国大魔境｜第1話ネタバレ・感想・考察（壁外サバイバル序章）</a>
-- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-1hua-netaharekao-cha-20251203" target="_blank" rel="noopener">天国大魔境 第1話ネタバレ・感想・考察</a>
-
-## ?????
-- ????TOP?<a href="/posts/heavenly-delusion/" target="_blank" rel="noopener">??????</a>
-- ????<a href="/posts/heavenly-delusion/glossary/" target="_blank" rel="noopener">???</a>

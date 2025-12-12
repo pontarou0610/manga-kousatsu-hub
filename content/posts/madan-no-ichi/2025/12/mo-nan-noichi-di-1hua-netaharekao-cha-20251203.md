@@ -22,6 +22,11 @@ images:
 - ogp/2025/20251203_madan-no-ichi-di-1hua-netaharekao-cha-20251203.png
 ---
 
+## 主要用語
+- {{< term name="イチ" reading="いち" first="第12話" >}}本作の主人公。旧式の術式に通じる若い術者{{< /term >}}
+- {{< term name="リオ" reading="りお" first="第1話" >}}イチの友人。彼の特別さを肯定し、行動を後押しする{{< /term >}}
+- {{< term name="瘴気" reading="しょうき" first="第1話" >}}イチの感情高ぶりで周囲に放たれる負のエネルギー{{< /term >}}
+- {{< term name="師匠" reading="ししょう" first="第12話" >}}イチに術式の在り方を教えた人物。過去の因縁が物語の核になる{{< /term >}}
 
 『魔男のイチ』第1話の内容を詳しく振り返り、登場人物や世界観の伏線を整理します。
 未読の方はネタバレにご注意ください。
@@ -35,71 +40,3 @@ images:
 - 終盤でイチが力の制御に成功し、「使命」を自覚する兆しを見せる。
 
 ## 用語メモ（自動抽出用）
-- {{< term name="イチ" reading="いち" first="第1話" >}}魔界に生まれ、人間界で暮らす少年。内に異質な力を宿す{{< /term >}}
-- {{< term name="リオ" reading="りお" first="第1話" >}}イチの友人。彼の特別さを肯定し、行動を後押しする{{< /term >}}
-- {{< term name="瘴気" reading="しょうき" first="第1話" >}}イチの感情高ぶりで周囲に放たれる負のエネルギー{{< /term >}}
-
-{{< spoiler >}}
-## 第1話あらすじ（詳細）
-
-物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。
-序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
-場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
-物語は、魔界で生まれた少年イチが、人間界の養護施設で目を覚ます場面から始まる。
-彼は過去の記憶が曖昧なまま、身体の内側にある異質な力だけを感じている。
-施設では人間の子どもたちに紛れて静かに暮らそうとするが、感情が昂ると周囲の空気が歪むほどの「瘴気」を無意識に放ってしまう。
-
-学校で孤立しかけたイチを救ったのが、クラスメイトのリオだ。
-リオはイチの力を目にしても恐れず、「君は特別だ、力を隠すより使い方を覚えよう」と背中を押す。
-二人は放課後に廃工場で力の練習を重ね、イチは瘴気を防御の膜として張る術を身につける。
-夜、施設の前に魔界からの追跡者が現れ、イチはリオを守るため初めて意図的に力を解放。
-瘴気の衝撃で追跡者を退け、同時に自らの出自を受け入れる決意を固める。
-
-## 詳細考察：キャラと世界観
-- **イチ**: 感情と連動する力が制御のキー。
-人間界での孤立感と「守りたい」衝動が同居しており、今後は力の使い方が人格形成に直結しそう。
-- **リオ**: イチを肯定する役割を担う存在。
-彼の言葉がなければ力を恐れるだけだったため、今後も倫理的なブレーキ役になる可能性が高い。
-- **世界観**: 魔界と人間界は薄い膜で隔てられており、瘴気はその境界を壊すトリガー。
-施設前に現れた追跡者は「境界が弱まっている」と発言しており、今後の侵攻フラグ。
-
-## 伏線・気付き
-- 追跡者がイチを「次代の鍵」と呼んだ理由は未開示。
-魔界の内紛に関わると推測。
-- リオが瘴気に耐性を示した点は謎。
-人間側にも特異体質者がいる可能性。
-- 瘴気を防御に使えたことから、攻撃以外の応用（治癒や探索）が今後の成長要素になりそう。
-
-## 今後の展開予想（根拠付き）
-- 予想1：イチは瘴気を「結界」として制御する訓練を受け、学校や施設を守る役に回る。
-第1話で防御に成功した流れ。
-- 予想2：リオの出自が明かされ、魔界と人間界のハーフか協力者であることが判明。
-瘴気耐性の伏線が示唆。
-
-## 関連リンク
-- ネタバレ無しの考察版: [ネタバレ無しの考察版]( [ネタバレ無しの考察版: [ネタバレ無しの考察版](](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203-insight/))
-- 用語集: [用語集](/posts/madan-no-ichi/glossary/)
-{{< /spoiler >}}
-
-## 購入リンク（公式/通販）
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
-- Amazonで検索する： [Amazonで探す]( [Amazonで探す](](https://www.amazon.co.jp/sfield-keywords=%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81))
-
-## 関連記事
-- ネタバレ無しの考察版: [ネタバレ無しの考察版]( [ネタバレ無しの考察版: [ネタバレ無しの考察版](](https://pontarou0610.github.io/manga-kousatsu-hub/posts/2025/12/madan-no-ichi-di-1hua-netaharekao-cha-20251203-insight/))
-- 用語集: [用語集](/posts/madan-no-ichi/glossary/)
-
-## ????
-
-## ???????????
-- {< term name="??" reading="??" first="?1?" >}??????????????????????????{< /term >}
-- {< term name="??" reading="??" first="?1?" >}????????????????????????{< /term >}
-- {< term name="??" reading="????" first="?1?" >}???????????????????????{< /term >}
-- {< term name="??" reading="????" first="?12?" >}?????????????????????????????{< /term >}
-
-- ????<a href="//posts\madan-no-ichi\2025\12\mo-nan-noichi-di-1hua-netaharekao-cha-20251203-insight" target="_blank" rel="noopener">魔男のイチ｜第1話の考察メモ（ネタバレ無し）</a>
-- ????<a href="//posts\madan-no-ichi\2025\12\mo-nan-noichi-di-2hua-netaharekao-cha-20251203-insight" target="_blank" rel="noopener">mo-nan-noichi-di-2hua-netaharekao-cha-20251203-insight</a>
-
-## ?????
-- ????TOP?<a href="/posts/madan-no-ichi/" target="_blank" rel="noopener">??????</a>
-- ????<a href="/posts/madan-no-ichi/glossary/" target="_blank" rel="noopener">???</a>

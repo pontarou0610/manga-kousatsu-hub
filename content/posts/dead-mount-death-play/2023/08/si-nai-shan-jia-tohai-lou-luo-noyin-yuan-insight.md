@@ -22,61 +22,9 @@ images:
 - ogp/2023/20230830_si-nai-shan-jia-tohai-lou-luo-noyin-yuan.png
 ---
 
-## ???????????
-- {< term name="???" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
-- {< term name="????" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
-- {< term name="????????" reading="??? ????" first="?82?" >}??????????????????????????{< /term >}
-- {< term name="???" reading="????? ?" first="?82?" >}????????????????????????????{< /term >}
+## 主要用語
+- {{< term name="屍神殿" reading="しかんでん" first="第82話" >}}異世界から転生した死霊術師。現世で暗躍しつつ真の目的を探る{{< /term >}}
+- {{< term name="四乃山家" reading="しのやまけ" first="第82話" >}}新宿に影響力を持つ資産家一族。内部の権力争いが物語を揺らす{{< /term >}}
+- {{< term name="ポルカ・シノミヤ" reading="ぽるか しのみや" first="第82話" >}}四乃山家の少年として生まれ変わった屍神殿の新たな肉体{{< /term >}}
+- {{< term name="骸楼羅" reading="むくろばこ ら" first="第82話" >}}四乃山家と因縁を持つ殺し屋。過去の事件が現在の対立を生む{{< /term >}}
 
-
-
-四乃山家と骸楼羅の因縁について考えてみよう。
-彼らの関係性は、物語の核心に迫る重要な要素なんだ。
-
-## 用語メモ（自動抽出用）
-- {{< term name="四乃山家" reading="しのやまけ" first="Stage.82" >}}新宿に影響力を持つ資産家一族。内部の権力争いが物語を揺らす{{< /term >}}
-- {{< term name="骸楼羅" reading="むくろばこ ら" first="Stage.82" >}}四乃山家と因縁を持つ殺し屋。過去の事件が現在の対立を生む{{< /term >}}
-- {{< term name="屍神殿" reading="しかんでん" first="Stage.82" >}}異世界から転生した死霊術師。現世で暗躍しつつ真の目的を探る{{< /term >}}
-
-## 記事のアウトライン（検索意図ベース）
-
-
-## 着眼ポイント（ネタバレ無し）
-- 四乃山家の権力構造は複雑で、家族内の力関係が物語の進行に大きく影響を与えていることがわかります。
-- 骸楼羅の立ち位置は、四乃山家との関係を通じて明らかになり、彼の行動が物語にどのような波紋を呼ぶのかが鍵となります。
-- 最新章では、四乃山家のメンバーの心理描写が深まっており、彼らの選択がどのように物語を動かすのかに注目したいです。
-
-## テーマ深掘り
-### 権力と家族
-四乃山家の権力構造は、家族の絆と裏切りが交錯する複雑なものです。
-特に、家族の中での地位争いは、彼らの行動に大きな影響を与え、物語全体に緊張感を生み出しています。
-例えば、家族間の信頼が崩れる瞬間は、ストーリーのクライマックスを形成します。
-### 選択の重み
-キャラクターたちが直面する選択は、彼らの内面的な葛藤を反映しています。
-特に、骸楼羅の選択は、彼自身の過去や未来に対する責任感を問うものです。
-彼の選択が他のキャラクターに与える影響は、物語の進行において重要な要素となります。
-### 因縁の深さ
-四乃山家と骸楼羅の因縁は、単なる敵対関係に留まらず、過去の出来事が現在に影響を及ぼす様子が描かれています。
-この因縁がどのように解決されるかが、物語の展開において重要な鍵となるでしょう。
-
-## キャラクター視点
-- **四乃山家の長**: 権力を握る彼は、家族の絆と自らの欲望との間で揺れ動き、選択の重みを感じています。
-彼の決断は、家族の未来に大きな影響を与えることになるでしょう。
-- **骸楼羅**: 彼は自らの過去と向き合いながら、四乃山家との関係を築いていきます。
-彼の内面的な葛藤は、物語の核心に迫る重要な要素となっています。
-- **四乃山家の次男**: 彼は家族の期待と自分の理想との間で葛藤し、どちらを選ぶべきか悩んでいます。
-この選択が彼の成長につながるのか、物語の展開に注目です。
-
-## FAQ
-
-## 参考リンク（すべて公式）
-- <a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">ガンガンJOKER公式</a>
-- <a href="https://dmdp-anime.jp/" target="_blank" rel="noopener">アニメ公式サイト</a>
-
-- <a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener">公式サイトで詳しく読む</a>
-
-- <a href="https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-
-- <a href="https://www.amazon.co.jp/dp/B07BSZLR4Xtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fdead-mount-death-play%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>

@@ -20,6 +20,13 @@ disclaimer: "術式・勢力図は公式ガイドラインに従い、推測は�
 images:
   - "ogp/2025/20251204_tetsutomauntotesuhurei-di-18hua-netaharekao-cha-20251204.png"
 ---
+
+## 主要用語
+- {{< term name="屍神殿" reading="しかんでん" first="第82話" >}}異世界から転生した死霊術師。現世で暗躍しつつ真の目的を探る{{< /term >}}
+- {{< term name="四乃山家" reading="しのやまけ" first="第82話" >}}新宿に影響力を持つ資産家一族。内部の権力争いが物語を揺らす{{< /term >}}
+- {{< term name="ポルカ・シノミヤ" reading="ぽるか しのみや" first="第82話" >}}四乃山家の少年として生まれ変わった屍神殿の新たな肉体{{< /term >}}
+- {{< term name="骸楼羅" reading="むくろばこ ら" first="第82話" >}}四乃山家と因縁を持つ殺し屋。過去の事件が現在の対立を生む{{< /term >}}
+
 デッドマウント・デスプレイの第18話が公開されました！今回は重要な展開が目白押しですので、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -66,18 +73,3 @@ images:
 ## 関連記事・用語集
 - 関連話へのリンク：https://magazine.jp.square-enix.com/yg/introduction/dead/
 - 用語集：/posts/dead-mount-death-play/glossary/
-
-## ????
-
-## ???????????
-- {< term name="???" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
-- {< term name="????" reading="?????" first="?82?" >}?????????????????????????????{< /term >}
-- {< term name="????????" reading="??? ????" first="?82?" >}??????????????????????????{< /term >}
-- {< term name="???" reading="????? ?" first="?82?" >}????????????????????????????{< /term >}
-
-- ????<a href="//posts\dead-mount-death-play\2025\12\tetsutomauntotesuhurei-di-18hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">デッドマウント・デスプレイ 第18話の考察</a>
-- ????<a href="//posts\dead-mount-death-play\2025\12\tetsutomauntotesuhurei-di-19hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">tetsutomauntotesuhurei-di-19hua-netaharekao-cha-20251204-insight</a>
-
-## ?????
-- ????TOP?<a href="/posts/dead-mount-death-play/" target="_blank" rel="noopener">??????</a>
-- ????<a href="/posts/dead-mount-death-play/glossary/" target="_blank" rel="noopener">???</a>

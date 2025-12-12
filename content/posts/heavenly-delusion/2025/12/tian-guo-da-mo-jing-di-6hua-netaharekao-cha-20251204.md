@@ -21,6 +21,11 @@ images:
 - ogp/2025/20251204_tian-guo-da-mo-jing-di-6hua-netaharekao-cha-20251204.png
 ---
 
+## 主要用語
+- {{< term name="天国" reading="てんごく" first="第1話" >}}壁内の安全な施設で子どもたちが暮らす場所{{< /term >}}
+- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
+- {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
+- {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
 
 『天国大魔境』第6話のネタバレと感想・考察です。
 ネタバレを含みますのでご注意ください。
@@ -63,18 +68,3 @@ images:
 - 関連記事：[ 天国大魔境の記事一覧 ](/posts/heavenly-delusion/)
 - 公式リンク：<a href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener"> 作品公式サイト </a>
 - 用語集：[用語集](/posts/heavenly-delusion/glossary/)
-
-## ????
-
-## ???????????
-- {< term name="??" reading="????" first="?1?" >}????????????????????{< /term >}
-- {< term name="??" reading="????" first="?1?" >}?????????????????????{< /term >}
-- {< term name="??" reading="??" first="?1?" >}???????????????????????{< /term >}
-- {< term name="???" reading="???" first="?1?" >}??????????????????????{< /term >}
-
-- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-6hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">天国大魔境 第6話の考察と感想</a>
-- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-7hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">天国大魔境 第7話の感想と考察</a>
-
-## ?????
-- ????TOP?<a href="/posts/heavenly-delusion/" target="_blank" rel="noopener">??????</a>
-- ????<a href="/posts/heavenly-delusion/glossary/" target="_blank" rel="noopener">???</a>

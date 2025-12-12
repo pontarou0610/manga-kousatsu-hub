@@ -21,6 +21,11 @@ images:
   - ogp/2025/20251207_tian-guo-da-mo-jing-di-22hua-netaharekao-cha-20251207.png
 ---
 
+## 主要用語
+- {{< term name="天国" reading="てんごく" first="第1話" >}}壁内の安全な施設で子どもたちが暮らす場所{{< /term >}}
+- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
+- {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
+- {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
 
 第22話では、新たな仲間アオイとの出会いと、敵の正体に迫る展開が描かれます。ネタバレを含むためご注意ください。
 
@@ -33,48 +38,3 @@ images:
 - ユウが使命と仲間を守る思いの間で葛藤する。
 
 ## 用語メモ（自動抽出用）
-- {{< term name="ユウ" reading="ゆう" first="第22話" >}}主人公の一人。仲間を守る使命感と自分の役割の間で葛藤する{{< /term >}}
-- {{< term name="アオイ" reading="あおい" first="第22話" >}}特殊な能力を持つ少女。過去が敵の目的と絡む{{< /term >}}
-- {{< term name="異形" reading="いぎょう" first="第1話" >}}壁外に出没する正体不明の存在。魔境の脅威{{< /term >}}
-
-{{< spoiler >}}
-## 第22話のあらすじ要約（時系列）
-主人公たちは特殊な能力を持つ少女アオイと出会い、彼女が過去に経験した出来事を聞き出す。
-アオイの能力が敵の目的と深く関わっていることが示され、彼女を守る必要性が浮上する。
-敵の正体が徐々に明かされ、これまでの事件とのつながりが見えてくる。
-ユウはアオイを守りたい思いと、自身の使命との間で葛藤しながらも戦う決意を固める。
-クライマックスでは敵との対峙が描かれ、次章への伏線が張られる。
-
-## 伏線と気付き
-- アオイの能力が物語の鍵になることが強調されている。
-- 敵の過去が主人公たちと深く結びついていることが示唆される。
-- ユウの葛藤と成長が今後の展開に影響しそうだ。
-
-## 今後の展開予想（根拠付き）
-- アオイの能力を巡って敵との衝突が激化し、主人公たちは新たな力や仲間を得る可能性が高い。
-- 敵の背景が明らかになることで、物語全体の真相に近づく展開が期待される。
-{{< /spoiler >}}
-
-## 購入リンク（主要通販）
-- <a href="https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
-
-## 関連記事・用語集
-- 関連記事：[天国大魔境の記事一覧](/posts/heavenly-delusion/)
-- 公式リンク：<a href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">作品公式サイト</a>
-- 用語集：[用語集](/posts/heavenly-delusion/glossary/)
-
-## ????
-
-## ???????????
-- {< term name="??" reading="????" first="?1?" >}????????????????????{< /term >}
-- {< term name="??" reading="????" first="?1?" >}?????????????????????{< /term >}
-- {< term name="??" reading="??" first="?1?" >}???????????????????????{< /term >}
-- {< term name="???" reading="???" first="?1?" >}??????????????????????{< /term >}
-
-- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-22hua-netaharekao-cha-20251207-insight" target="_blank" rel="noopener">tian-guo-da-mo-jing-di-22hua-netaharekao-cha-20251207-insight</a>
-- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-23hua-netaharekao-cha-20251208-insight" target="_blank" rel="noopener">tian-guo-da-mo-jing-di-23hua-netaharekao-cha-20251208-insight</a>
-
-## ?????
-- ????TOP?<a href="/posts/heavenly-delusion/" target="_blank" rel="noopener">??????</a>
-- ????<a href="/posts/heavenly-delusion/glossary/" target="_blank" rel="noopener">???</a>

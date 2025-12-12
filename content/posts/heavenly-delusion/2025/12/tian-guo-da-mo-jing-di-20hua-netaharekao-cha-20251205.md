@@ -23,6 +23,12 @@ tags:
 title: 天国大魔境 第20話最新話ネタバレ・感想・考察
 ---
 
+## 主要用語
+- {{< term name="天国" reading="てんごく" first="第1話" >}}壁内の安全な施設で子どもたちが暮らす場所{{< /term >}}
+- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
+- {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
+- {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
+
 『天国大魔境』第20話の内容を時系列でまとめました。ネタバレが含まれていますので、注意してお読みください。
 
 > **This article contains spoilers up to the latest chapter.**
@@ -35,49 +41,3 @@ title: 天国大魔境 第20話最新話ネタバレ・感想・考察
 - 重要な選択が迫られ、キャラクターたちの心情が揺れ動く。
 
 ## 用語メモ（自動抽出用）
-- {{< term name="名も無き剣士" reading="なもなきけんし" first="第20話" >}}主人公たちに力を貸す新たな仲間。過去に秘密を抱えている{{< /term >}}
-- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
-- {{< term name="異形" reading="いぎょう" first="第1話" >}}壁外に出没する正体不明の存在。魔境の脅威{{< /term >}}
-
-{{< spoiler >}}
-## 第20話のあらすじ要約（3分でわかる）
-第20話では、主人公たちが新たに出会った仲間、名も無き剣士と共に冒険を続けます。彼は彼らに強力な武器を提供し、共に敵に立ち向かう決意を固めます。物語の中盤で、敵の正体が明らかになり、主人公たちの心に重い影を落とします。「我々は何のために戦っているのか？」というセリフが印象的で、キャラクターたちの内面の葛藤が描かれます。最終的に、選択を迫られる場面で、主人公が「仲間を守るために、どんな犠牲も払う」と宣言することで、彼の成長が感じられます。仲間との絆が深まる一方で、敵との対峙が迫り、緊張感が高まります。
-
-## 伏線・気付き
-- 新たな仲間の剣士が過去に何か秘密を抱えていることが示唆されている。
-- 敵の正体が実は主人公の過去に関係している可能性がある。
-- 主人公の選択が今後のストーリーに大きな影響を与えることが暗示されている。
-- 仲間たちの絆が試される場面が近い将来に訪れることが予感される。
-
-## 今後の展開予想（根拠付き）
-- 予想: 次回、敵の正体が主人公の過去に深く関わっていることが明らかになり、感情的な対決が繰り広げられるだろう。その理由は、過去のトラウマが主人公の成長に繋がるからだ。
-- 予想: 新たな仲間の剣士が、実は敵のスパイである可能性が高い。この伏線は、彼の行動や言動からも見え隠れしているため、今後の展開に注目したい。
-
-## 関連巻・グッズへのリンク
-- 第20話収録巻：<a href="https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-- 電子書籍：<a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
-{{< /spoiler >}}
-
-## 購入リンク（公式/通販）
-- <a href="https://www.amazon.co.jp/dp/B07FCHN6XQtag=naoto0610-22" target="_blank" rel="noopener">Amazonで探す</a>
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fheavenly-delusion%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="noopener">楽天で探す</a>
-
-## 関連記事・用語集
-- 関連記事：[ 天国大魔境の記事一覧 ](/posts/heavenly-delusion/)
-- 公式リンク：<a href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener">作品公式サイト</a>
-- 用語集：[用語集](/posts/heavenly-delusion/glossary/)
-
-## ????
-
-## ???????????
-- {< term name="??" reading="????" first="?1?" >}????????????????????{< /term >}
-- {< term name="??" reading="????" first="?1?" >}?????????????????????{< /term >}
-- {< term name="??" reading="??" first="?1?" >}???????????????????????{< /term >}
-- {< term name="???" reading="???" first="?1?" >}??????????????????????{< /term >}
-
-- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-20hua-netaharekao-cha-20251205-insight" target="_blank" rel="noopener">tian-guo-da-mo-jing-di-20hua-netaharekao-cha-20251205-insight</a>
-- ????<a href="//posts\heavenly-delusion\2025\12\tian-guo-da-mo-jing-di-21hua-netaharekao-cha-20251206-insight" target="_blank" rel="noopener">tian-guo-da-mo-jing-di-21hua-netaharekao-cha-20251206-insight</a>
-
-## ?????
-- ????TOP?<a href="/posts/heavenly-delusion/" target="_blank" rel="noopener">??????</a>
-- ????<a href="/posts/heavenly-delusion/glossary/" target="_blank" rel="noopener">???</a>

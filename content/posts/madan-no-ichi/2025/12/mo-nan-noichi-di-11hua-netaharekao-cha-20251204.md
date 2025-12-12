@@ -21,6 +21,11 @@ tags:
 title: 魔男のイチ 第11話最新話ネタバレ・感想・考察
 ---
 
+## 主要用語
+- {{< term name="イチ" reading="いち" first="第12話" >}}本作の主人公。旧式の術式に通じる若い術者{{< /term >}}
+- {{< term name="リオ" reading="りお" first="第1話" >}}イチの友人。彼の特別さを肯定し、行動を後押しする{{< /term >}}
+- {{< term name="瘴気" reading="しょうき" first="第1話" >}}イチの感情高ぶりで周囲に放たれる負のエネルギー{{< /term >}}
+- {{< term name="師匠" reading="ししょう" first="第12話" >}}イチに術式の在り方を教えた人物。過去の因縁が物語の核になる{{< /term >}}
 
 第11話では、物語が新たな局面を迎えます。
 ネタバレが含まれますので、ご注意ください！
@@ -35,63 +40,3 @@ title: 魔男のイチ 第11話最新話ネタバレ・感想・考察
 - 最終的な決戦への布石が打たれる。
 
 ## 用語メモ（自動抽出用）
-- {{< term name="カナ" reading="かな" first="第11話" >}}かつての仲間から敵となった人物。冷酷な判断でイチたちを追い詰める{{< /term >}}
-- {{< term name="黒幕" reading="くろまく" first="第11話" >}}背後で事件を操る存在。正体が物語の鍵となる{{< /term >}}
-
-{{< spoiler >}}
-## 第11話のあらすじ要約（3分でわかる）
-
-物語の流れが明確に分かるよう、序盤・中盤・終盤の動きを整理します。
-序盤では導入と課題提示、中盤では衝突・謎の深堀り、終盤では次話への引きとなる決意や伏線を描写する流れです。
-場面転換や台詞のニュアンスも補足し、誰が何に悩み、どの行動を取ったのかを具体的に追記して詳細度を高めます。
-第11話では、イチたちが新たな敵、黒幕の登場に直面します。
-彼らの前に立ちはだかるのは、かつての仲間であり、今は敵となったカナ。
-カナは冷酷な笑みを浮かべながら、「お前たちに未来はない」と宣言します。
-この言葉にイチは動揺を隠せず、彼の心の中で過去の思い出が甦ります。
-仲間たちもその状況に困惑し、特にユウはカナとの関係に苦しむ様子を見せます。
-さらに、カナが持つ強力な魔法の力が明らかになり、イチたちは絶望的な状況に追い込まれます。
-
-その後、イチは仲間たちに「俺たちの絆があれば、どんな敵でも乗り越えられる！」と力強く宣言し、彼らの士気を高めます。
-しかし、カナはその言葉を嘲笑い、「絆など無意味だ」と返します。
-戦闘が始まり、イチは自身の新たな能力を発揮し、カナに立ち向かうものの、彼女の力に圧倒されます。
-イチの心の中で過去の仲間との思い出がフラッシュバックし、彼の決意がさらに強まる瞬間が描かれます。
-
-最後に、戦闘の中でカナがイチに向かって「お前は本当に変わったな」と言い放ち、彼女の過去の感情が少しだけ見える場面があり、次回への期待が高まります。
-
-## 伏線・気付き
-- カナの過去とイチとの関係が今後の展開に影響を与えることが示唆される。
-- イチの新たな能力が、今後の戦闘で重要な役割を果たす可能性が高い。
-- 仲間たちの絆が試される場面が続くことで、キャラクター間の成長が期待される。
-- 黒幕の真の目的が徐々に明らかになる兆しが見える。
-
-## 今後の展開予想（根拠付き）
-- 予想：次回、イチはカナとの戦いを通じて、自身の過去と向き合い、さらなる成長を遂げるだろう。
-- 予想：黒幕の正体が明らかになることで、イチたちの戦略が大きく変わり、意外な同盟が結成される可能性がある。
-
-## 関連巻・グッズへのリンク
-- 第11話収録巻：Amazonリンク未設定
-- 電子書籍：魔男のイチ Kindle / 楽天Kobo など
-{{< /spoiler >}}
-
-## 購入リンク（公式/通販）
-- <a href="https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D>" target="_blank" rel="noopener">楽天で探す</a>
-
-## 関連記事・用語集
-- 関連記事：[ 魔男のイチの記事一覧 ](/tags/madan-no-ichi/)
-- 公式リンク：<a href="https://www.shonenjump.com/j/rensai/madannoichi.html" target="_blank" rel="noopener"> 公式サイト </a>
-- 用語集：[用語集](/posts/madan-no-ichi/glossary/)
-
-## ????
-
-## ???????????
-- {< term name="??" reading="??" first="?1?" >}??????????????????????????{< /term >}
-- {< term name="??" reading="??" first="?1?" >}????????????????????????{< /term >}
-- {< term name="??" reading="????" first="?1?" >}???????????????????????{< /term >}
-- {< term name="??" reading="????" first="?12?" >}?????????????????????????????{< /term >}
-
-- ????<a href="//posts\madan-no-ichi\2025\12\mo-nan-noichi-di-11hua-netaharekao-cha-20251204-insight" target="_blank" rel="noopener">魔男のイチ 第11話の考察と感想</a>
-- ????<a href="//posts\madan-no-ichi\2025\12\mo-nan-noichi-di-12hua-netaharekao-cha-20251204" target="_blank" rel="noopener">魔男のイチ 第12話最新話ネタバレ・感想・考察</a>
-
-## ?????
-- ????TOP?<a href="/posts/madan-no-ichi/" target="_blank" rel="noopener">??????</a>
-- ????<a href="/posts/madan-no-ichi/glossary/" target="_blank" rel="noopener">???</a>
