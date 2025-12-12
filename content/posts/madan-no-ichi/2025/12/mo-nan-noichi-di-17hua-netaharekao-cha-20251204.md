@@ -112,4 +112,4 @@ title: 魔男のイチ 第17話最新話ネタバレ・感想・考察
 ## 関連記事・用語集
 - 関連記事：[ 魔男のイチの記事一覧 ](/tags/madan-no-ichi/)
 - 公式リンク：<a href="https://www.shonenjump.com/j/rensai/madannoichi.html" target="_blank" rel="noopener"> 公式サイト </a>
-- 用語集：[用語集](/posts/madan-no-ichi/glossary/)
+- 用語集：[用語集]({{< ref "posts/madan-no-ichi/glossary" >}})

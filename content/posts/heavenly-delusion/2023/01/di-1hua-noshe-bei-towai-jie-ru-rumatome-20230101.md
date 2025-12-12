@@ -81,4 +81,4 @@ images:
 ## 関連記事・用語集
 - 関連記事：[ 天国大魔境の記事一覧 ](/posts/天国大魔境/)
 - 公式リンク：公式情報は準備中です
-- 用語集：[用語集](/posts/天国大魔境/glossary/)
+- 用語集：[用語集]({{< ref "posts/heavenly-delusion/glossary" >}})

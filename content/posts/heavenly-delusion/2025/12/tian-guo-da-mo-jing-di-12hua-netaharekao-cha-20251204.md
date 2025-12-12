@@ -83,4 +83,4 @@ title: 天国大魔境 第12話最新話ネタバレ・感想・考察
 ## 関連記事・用語集
 - 関連記事：[ 天国大魔境の記事一覧 ](/posts/heavenly-delusion/)
 - 公式リンク：<a href="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" target="_blank" rel="noopener"> 作品公式サイト </a>
-- 用語集：[用語集](/posts/heavenly-delusion/glossary/)
+- 用語集：[用語集]({{< ref "posts/heavenly-delusion/glossary" >}})

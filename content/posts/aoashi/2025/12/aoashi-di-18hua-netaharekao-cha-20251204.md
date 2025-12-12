@@ -72,4 +72,4 @@ images:
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://bigcomicbros.net/comics/30384/
-- 用語集：/posts/aoashi/glossary/
+- 用語集：[用語集]({{< ref "posts/aoashi/glossary" >}})

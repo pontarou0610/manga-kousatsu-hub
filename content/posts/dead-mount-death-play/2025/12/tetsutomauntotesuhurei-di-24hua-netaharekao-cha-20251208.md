@@ -70,4 +70,4 @@ title: デッドマウント・デスプレイ 第24話最新話ネタバレ・�
 ## 関連記事・用語集
 - 関連記事：[ デッドマウント・デスプレイの記事一覧 ](/posts/dead-mount-death-play/)
 - 公式リンク：<a href="https://magazine.jp.square-enix.com/yg/introduction/dead/" target="_blank" rel="noopener"> ガンガンJOKER公式 </a>
-- 用語集：[用語集](/posts/dead-mount-death-play/glossary/)
+- 用語集：[用語集]({{< ref "posts/dead-mount-death-play/glossary" >}})

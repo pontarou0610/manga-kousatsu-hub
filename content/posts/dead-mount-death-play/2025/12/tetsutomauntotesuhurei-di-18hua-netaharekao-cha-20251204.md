@@ -72,4 +72,4 @@ images:
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://magazine.jp.square-enix.com/yg/introduction/dead/
-- 用語集：/posts/dead-mount-death-play/glossary/
+- 用語集：[用語集]({{< ref "posts/dead-mount-death-play/glossary" >}})

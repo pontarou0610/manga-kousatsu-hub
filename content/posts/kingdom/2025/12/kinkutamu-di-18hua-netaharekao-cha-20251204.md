@@ -68,4 +68,4 @@ noindex: true
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://youngjump.jp/manga/kingdom/
-- 用語集：/posts/kingdom/glossary/
+- 用語集：[用語集]({{< ref "posts/kingdom/glossary" >}})

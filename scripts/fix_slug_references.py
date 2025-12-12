@@ -35,9 +35,9 @@ def fix_slug_references(file_path: Path) -> bool:
         
         # Fix malformed glossary links
         # Pattern: [用語集](? [用語集: [用語集](](：[用語集](URL)))
-        # Should be: [用語集](/posts/madan-no-ichi/glossary/)
+        # Should be: [用語集]({{< ref "posts/madan-no-ichi/glossary" >}})
         malformed_pattern = r'\[用語集\]\(\?\s*\[用語集:\s*\[用語集\]\(\]\(：\[用語集\]\(https://pontarou0610\.github\.io/manga-kousatsu-hub/posts/[^/]+/glossary/\)\)\)'
-        content = re.sub(malformed_pattern, '[用語集](/posts/madan-no-ichi/glossary/)', content)
+        content = re.sub(malformed_pattern, '[用語集]({{< ref "posts/madan-no-ichi/glossary" >}})', content)
         
         if content != original_content:
             with open(file_path, 'w', encoding='utf-8') as f:

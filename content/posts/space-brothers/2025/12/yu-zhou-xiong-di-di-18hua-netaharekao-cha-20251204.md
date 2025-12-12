@@ -76,4 +76,4 @@ noindex: true
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://morning.kodansha.co.jp/c/uchukyodai/
-- 用語集：/posts/space-brothers/glossary/
+- 用語集：[用語集]({{< ref "posts/space-brothers/glossary" >}})

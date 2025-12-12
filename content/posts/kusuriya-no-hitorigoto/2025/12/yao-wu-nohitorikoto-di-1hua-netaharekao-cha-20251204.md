@@ -76,4 +76,4 @@ noindex: true
 ## 関連記事・用語集
 - 関連記事：[ 薬屋のひとりごとの記事一覧 ](/posts/kusuriya-no-hitorigoto/)
 - 公式リンク：<a href="https://sundaygx.com/kusuriya/" target="_blank" rel="noopener"> 月刊サンデーGX公式 </a>
-- 用語集：[用語集](/posts/kusuriya-no-hitorigoto/glossary/)
+- 用語集：[用語集]({{< ref "posts/kusuriya-no-hitorigoto/glossary" >}})

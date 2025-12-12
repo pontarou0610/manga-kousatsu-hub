@@ -75,4 +75,4 @@ noindex: true
 ## 関連記事・用語集
 - 関連記事：[ アオアシの記事一覧 ](/posts/aoashi/)
 - 公式リンク：<a href="https://bigcomicbros.net/comics/30384/" target="_blank" rel="noopener"> ビッグコミックス公式 </a>
-- 用語集：[用語集](/posts/aoashi/glossary/)
+- 用語集：[用語集]({{< ref "posts/aoashi/glossary" >}})

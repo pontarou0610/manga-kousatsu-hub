@@ -71,4 +71,4 @@ noindex: true
 ## 関連記事・用語集
 - 関連記事：[ ゴールデンカムイの記事一覧 ](/posts/golden-kamuy/)
 - 公式リンク：<a href="https://youngjump.jp/manga/goldenkamuy/" target="_blank" rel="noopener"> 週刊ヤングジャンプ公式 </a>
-- 用語集：[用語集](/posts/golden-kamuy/glossary/)
+- 用語集：[用語集]({{< ref "posts/golden-kamuy/glossary" >}})

@@ -66,4 +66,4 @@ noindex: true
 ## 関連記事・用語集
 - 関連記事：[ キングダムの記事一覧 ](/posts/kingdom/)
 - 公式リンク：<a href="https://youngjump.jp/manga/kingdom/" target="_blank" rel="noopener"> 週刊ヤングジャンプ公式 </a>
-- 用語集：[用語集](/posts/kingdom/glossary/)
+- 用語集：[用語集]({{< ref "posts/kingdom/glossary" >}})

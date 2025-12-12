@@ -70,4 +70,4 @@ images:
 ## 関連記事・用語集
 - 関連記事：[ スキップとローファーの記事一覧 ](/posts/skip-and-loafer/)
 - 公式リンク：<a href="https://afternoon.kodansha.co.jp/c/skiptoloafer/" target="_blank" rel="noopener"> 月刊アフタヌーン公式 </a>
-- 用語集：[用語集](/posts/skip-and-loafer/glossary/)
+- 用語集：[用語集]({{< ref "posts/skip-and-loafer/glossary" >}})

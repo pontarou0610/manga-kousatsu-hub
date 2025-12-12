@@ -73,4 +73,4 @@ noindex: true
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://afternoon.kodansha.co.jp/c/skiptoloafer/
-- 用語集：/posts/skip-and-loafer/glossary/
+- 用語集：[用語集]({{< ref "posts/skip-and-loafer/glossary" >}})

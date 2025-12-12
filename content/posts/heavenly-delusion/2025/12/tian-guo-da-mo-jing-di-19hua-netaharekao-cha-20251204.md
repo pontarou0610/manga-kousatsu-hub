@@ -80,4 +80,4 @@ images:
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://afternoon.kodansha.co.jp/c/tengokudaimakyo/
-- 用語集：/posts/heavenly-delusion/glossary/
+- 用語集：[用語集]({{< ref "posts/heavenly-delusion/glossary" >}})

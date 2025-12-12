@@ -77,4 +77,4 @@ noindex: true
 
 ## 関連記事・用語集
 - 関連話へのリンク：https://sundaygx.com/kusuriya/
-- 用語集：/posts/kusuriya-no-hitorigoto/glossary/
+- 用語集：[用語集]({{< ref "posts/kusuriya-no-hitorigoto/glossary" >}})
