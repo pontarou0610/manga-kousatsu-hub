@@ -1,6 +1,4 @@
-
 ---
-
 title: "宇宙兄弟 第23話の考察と感想"
 
 slug: "yu-zhou-xiong-di-di-23hua-netaharekao-cha-20251207-insight"
@@ -57,9 +55,6 @@ images:
 
 
   - "ogp/2025/20251207_yu-zhou-xiong-di-di-23hua-netaharekao-cha-20251207.png"
-
-
-
 ---
 
 第23話では、宇宙兄弟のキャラクターたちが新たな挑戦に直面します。彼らの成長や葛藤がどのように描かれているのか、一緒に考えてみましょう！

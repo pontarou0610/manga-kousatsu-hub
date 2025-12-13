@@ -1,6 +1,4 @@
-
 ---
-
 title: "薬屋のひとりごと 第19話の考察"
 
 slug: "yao-wu-nohitorikoto-di-19hua-netaharekao-cha-20251204-insight"
@@ -58,9 +56,6 @@ images:
 
 
   - "ogp/2025/20251204_yao-wu-nohitorikoto-di-19hua-netaharekao-cha-20251204.png"
-
-
-
 ---
 
 第19話では、薬屋の主人公が新たな謎に直面し、彼女の成長と人間関係に焦点が当てられています。

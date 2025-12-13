@@ -1,6 +1,4 @@
-
 ---
-
 title: "キングダム 第24話の考察と感想"
 
 slug: "kinkutamu-di-24hua-netaharekao-cha-20251208-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251208_kinkutamu-di-24hua-netaharekao-cha-20251208.png"
-
-
-
 ---
 
 第24話では、キャラクターたちの成長や戦略が描かれています。彼らの選択がどのように物語に影響を与えるのか、興味深いですね！

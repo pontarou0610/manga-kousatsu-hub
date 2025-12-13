@@ -1,6 +1,4 @@
-
 ---
-
 title: "ゴールデンカムイ第24話の考察"
 
 slug: "ko-rutenkamui-di-24hua-netaharekao-cha-20251208-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251208_ko-rutenkamui-di-24hua-netaharekao-cha-20251208.png"
-
-
-
 ---
 
 第24話では、キャラクターたちの隠された動機や、物語の進展に影響を与える重要な出来事が描かれます。次は何が起こるのか、気になりますね！

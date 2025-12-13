@@ -1,6 +1,4 @@
-
 ---
-
 title: "アオアシ 第19話の考察と感想"
 
 slug: "aoashi-di-19hua-netaharekao-cha-20251204-insight"
@@ -52,9 +50,6 @@ images:
 
 
   - "ogp/2025/20251204_aoashi-di-19hua-netaharekao-cha-20251204.png"
-
-
-
 ---
 
 第19話では、アオアシの成長と仲間との絆が深まる瞬間が描かれています。

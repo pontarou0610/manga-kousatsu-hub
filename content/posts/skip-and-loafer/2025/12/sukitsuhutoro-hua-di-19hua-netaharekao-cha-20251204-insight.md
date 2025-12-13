@@ -1,6 +1,4 @@
-
 ---
-
 title: "スキップとローファー 第19話の考察"
 
 slug: "sukitsuhutoro-hua-di-19hua-netaharekao-cha-20251204-insight"
@@ -52,9 +50,6 @@ images:
 
 
   - "ogp/2025/20251204_sukitsuhutoro-hua-di-19hua-netaharekao-cha-20251204.png"
-
-
-
 ---
 
 第19話では、キャラクターたちが新たな挑戦に直面し、成長する様子が描かれています。

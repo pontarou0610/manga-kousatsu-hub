@@ -1,6 +1,4 @@
-
 ---
-
 title: "薬屋のひとりごと 第20話の考察"
 
 slug: "yao-wu-nohitorikoto-di-20hua-netaharekao-cha-20251205-insight"
@@ -58,9 +56,6 @@ images:
 
 
   - "ogp/2025/20251205_yao-wu-nohitorikoto-di-20hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第20話では、薬屋の主人公が新たな謎に挑む姿が描かれています。

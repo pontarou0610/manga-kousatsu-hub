@@ -1,6 +1,4 @@
-
 ---
-
 title: "ゴールデンカムイ 第21話の考察"
 
 slug: "ko-rutenkamui-di-21hua-netaharekao-cha-20251205-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251205_ko-rutenkamui-di-21hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第21話では、登場人物たちの複雑な人間関係や動機が浮き彫りになります。彼らの選択が物語にどう影響するのか、考えてみましょう。

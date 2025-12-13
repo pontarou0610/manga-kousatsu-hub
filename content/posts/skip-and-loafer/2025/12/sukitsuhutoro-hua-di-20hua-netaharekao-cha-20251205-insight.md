@@ -1,6 +1,4 @@
-
 ---
-
 title: "スキップとローファー 第20話考察"
 
 slug: "sukitsuhutoro-hua-di-20hua-netaharekao-cha-20251205-insight"
@@ -52,9 +50,6 @@ images:
 
 
   - "ogp/2025/20251205_sukitsuhutoro-hua-di-20hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第20話では、登場人物たちの成長や人間関係の変化が描かれています。

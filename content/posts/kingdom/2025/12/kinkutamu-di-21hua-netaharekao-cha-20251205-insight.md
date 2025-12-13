@@ -1,6 +1,4 @@
-
 ---
-
 title: "キングダム 第21話の考察と感想"
 
 slug: "kinkutamu-di-21hua-netaharekao-cha-20251205-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251205_kinkutamu-di-21hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第21話では、キャラクターたちの成長や戦の緊張感が描かれています。彼らの選択がどのように物語に影響を与えるのか、一緒に考えてみましょう。

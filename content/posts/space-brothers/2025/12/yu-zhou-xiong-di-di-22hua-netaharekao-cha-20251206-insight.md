@@ -1,6 +1,4 @@
-
 ---
-
 title: "宇宙兄弟第22話の考察と感想"
 
 slug: "yu-zhou-xiong-di-di-22hua-netaharekao-cha-20251206-insight"
@@ -57,9 +55,6 @@ images:
 
 
   - "ogp/2025/20251206_yu-zhou-xiong-di-di-22hua-netaharekao-cha-20251206.png"
-
-
-
 ---
 
 宇宙兄弟第22話では、キャラクターたちが直面する選択と成長が描かれています。彼らの決断がどのように物語に影響を与えるのか、一緒に探ってみましょう。

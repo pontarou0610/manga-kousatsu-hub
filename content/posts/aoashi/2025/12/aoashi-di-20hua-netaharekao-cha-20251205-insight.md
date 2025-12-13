@@ -1,6 +1,4 @@
-
 ---
-
 title: "アオアシ 第20話の考察と感想"
 
 slug: "aoashi-di-20hua-netaharekao-cha-20251205-insight"
@@ -52,9 +50,6 @@ images:
 
 
   - "ogp/2025/20251205_aoashi-di-20hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第20話では、アオアシの成長と仲間との絆が一層深まります。

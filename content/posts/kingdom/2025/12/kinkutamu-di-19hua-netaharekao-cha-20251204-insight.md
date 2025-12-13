@@ -1,6 +1,4 @@
-
 ---
-
 title: "キングダム 第19話の考察と感想"
 
 slug: "kinkutamu-di-19hua-netaharekao-cha-20251204-insight"
@@ -52,9 +50,6 @@ images:
 
 
   - "ogp/2025/20251204_kinkutamu-di-19hua-netaharekao-cha-20251204.png"
-
-
-
 ---
 
 第19話では、キャラクターたちの決断が物語を大きく動かします。

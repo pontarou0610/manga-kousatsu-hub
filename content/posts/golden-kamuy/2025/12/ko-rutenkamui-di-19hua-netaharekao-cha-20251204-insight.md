@@ -1,6 +1,4 @@
-
 ---
-
 title: "ゴールデンカムイ 第19話の考察"
 
 slug: "ko-rutenkamui-di-19hua-netaharekao-cha-20251204-insight"
@@ -52,9 +50,6 @@ images:
 
 
   - "ogp/2025/20251204_ko-rutenkamui-di-19hua-netaharekao-cha-20251204.png"
-
-
-
 ---
 
 第19話のゴールデンカムイでは、キャラクターたちの心理や新たな展開が描かれています。

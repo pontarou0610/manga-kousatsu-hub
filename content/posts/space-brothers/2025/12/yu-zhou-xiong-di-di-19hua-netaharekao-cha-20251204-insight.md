@@ -1,6 +1,4 @@
-
 ---
-
 title: "宇宙兄弟 第19話の考察と感想"
 
 slug: "yu-zhou-xiong-di-di-19hua-netaharekao-cha-20251204-insight"
@@ -58,9 +56,6 @@ images:
 
 
   - "ogp/2025/20251204_yu-zhou-xiong-di-di-19hua-netaharekao-cha-20251204.png"
-
-
-
 ---
 
 第19話では、宇宙兄弟のキャラクターたちが新たな挑戦に直面します。

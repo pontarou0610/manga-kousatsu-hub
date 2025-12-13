@@ -1,6 +1,4 @@
-
 ---
-
 title: "キングダム 第23話の内容まとめ"
 
 slug: "kinkutamu-di-23hua-netaharekao-cha-20251207-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251207_kinkutamu-di-23hua-netaharekao-cha-20251207.png"
-
-
-
 ---
 
 第23話では、戦場の緊迫感が高まる中、キャラクターたちの思惑が交錯します。彼らの決断がどのように物語を動かすのか、気になりますね。

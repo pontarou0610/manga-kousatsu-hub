@@ -1,6 +1,4 @@
-
 ---
-
 title: "アオアシ第21話の考察と感想"
 
 slug: "aoashi-di-21hua-netaharekao-cha-20251205-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251205_aoashi-di-21hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 アオアシ第21話では、成長と葛藤が描かれています。主人公たちの心の動きに注目しながら、次の展開を考えてみましょう。

@@ -1,6 +1,4 @@
-
 ---
-
 title: "薬屋のひとりごと 第22話の考察"
 
 slug: "yao-wu-nohitorikoto-di-22hua-netaharekao-cha-20251206-insight"
@@ -57,9 +55,6 @@ images:
 
 
   - "ogp/2025/20251206_yao-wu-nohitorikoto-di-22hua-netaharekao-cha-20251206.png"
-
-
-
 ---
 
 第22話では、薬屋の主人公が新たな謎に直面します。彼女はどのように困難を乗り越えていくのでしょうか？

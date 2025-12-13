@@ -1,6 +1,4 @@
-
 ---
-
 title: "スキップとローファー第23話の考察"
 
 slug: "sukitsuhutoro-hua-di-23hua-netaharekao-cha-20251207-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251207_sukitsuhutoro-hua-di-23hua-netaharekao-cha-20251207.png"
-
-
-
 ---
 
 第23話では、キャラクターたちの成長や人間関係が深まる瞬間が描かれます。彼らの選択がどのように未来に影響するのか、一緒に考えてみましょう。

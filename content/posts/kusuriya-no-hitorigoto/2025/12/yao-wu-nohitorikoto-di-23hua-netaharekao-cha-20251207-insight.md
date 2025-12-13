@@ -1,6 +1,4 @@
-
 ---
-
 title: "薬屋のひとりごと 第23話の考察"
 
 slug: "yao-wu-nohitorikoto-di-23hua-netaharekao-cha-20251207-insight"
@@ -57,9 +55,6 @@ images:
 
 
   - "ogp/2025/20251207_yao-wu-nohitorikoto-di-23hua-netaharekao-cha-20251207.png"
-
-
-
 ---
 
 第23話では、薬屋の主人公が新たな謎に直面します。彼女の選択が物語にどのような影響を与えるのか、興味深い展開が待っています。

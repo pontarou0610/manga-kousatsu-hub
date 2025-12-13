@@ -1,6 +1,4 @@
-
 ---
-
 title: "キングダム 第20話の内容と考察"
 
 slug: "kinkutamu-di-20hua-netaharekao-cha-20251205-insight"
@@ -52,9 +50,6 @@ images:
 
 
   - "ogp/2025/20251205_kinkutamu-di-20hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第20話では、戦の緊迫感が増し、キャラクターたちの内面がより深く描かれています。

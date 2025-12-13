@@ -1,6 +1,4 @@
-
 ---
-
 title: "スキップとローファー 第22話の考察"
 
 slug: "sukitsuhutoro-hua-di-22hua-netaharekao-cha-20251206-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251206_sukitsuhutoro-hua-di-22hua-netaharekao-cha-20251206.png"
-
-
-
 ---
 
 第22話では、登場人物たちの成長や人間関係の変化が描かれています。彼らはどのように自分を見つめ直し、新たな一歩を踏み出すのでしょうか？

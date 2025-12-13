@@ -1,6 +1,4 @@
-
 ---
-
 title: "アオアシ第23話の考察と感想"
 
 slug: "aoashi-di-23hua-netaharekao-cha-20251207-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251207_aoashi-di-23hua-netaharekao-cha-20251207.png"
-
-
-
 ---
 
 アオアシ第23話では、キャラクターたちの成長と新たな挑戦が描かれています。彼らはどのように進化していくのか、気になりませんか？

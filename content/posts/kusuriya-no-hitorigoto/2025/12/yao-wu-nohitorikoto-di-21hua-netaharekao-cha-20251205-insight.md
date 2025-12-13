@@ -1,6 +1,4 @@
-
 ---
-
 title: "薬屋のひとりごと 第21話の考察"
 
 slug: "yao-wu-nohitorikoto-di-21hua-netaharekao-cha-20251205-insight"
@@ -57,9 +55,6 @@ images:
 
 
   - "ogp/2025/20251205_yao-wu-nohitorikoto-di-21hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第21話では、薬屋の主人公が新たな謎に直面します。この章で明らかになるテーマやキャラクターの動機について探ってみましょう。

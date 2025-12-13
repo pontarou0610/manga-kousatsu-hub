@@ -1,6 +1,4 @@
-
 ---
-
 title: "アオアシ第22話の考察と感想"
 
 slug: "aoashi-di-22hua-netaharekao-cha-20251206-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251206_aoashi-di-22hua-netaharekao-cha-20251206.png"
-
-
-
 ---
 
 第22話のアオアシでは、選手たちの成長と葛藤が描かれています。彼らの未来はどうなるのか、気になりますね！

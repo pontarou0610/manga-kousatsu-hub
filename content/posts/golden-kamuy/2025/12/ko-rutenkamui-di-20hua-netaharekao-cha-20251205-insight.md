@@ -1,6 +1,4 @@
-
 ---
-
 title: "ゴールデンカムイ 第20話の考察"
 
 slug: "ko-rutenkamui-di-20hua-netaharekao-cha-20251205-insight"
@@ -52,9 +50,6 @@ images:
 
 
   - "ogp/2025/20251205_ko-rutenkamui-di-20hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第20話では、キャラクターたちの動機や関係性が深まる場面が描かれます。

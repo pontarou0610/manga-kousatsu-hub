@@ -1,6 +1,4 @@
-
 ---
-
 title: "宇宙兄弟 第20話の内容まとめ"
 
 slug: "yu-zhou-xiong-di-di-20hua-netaharekao-cha-20251205-insight"
@@ -58,9 +56,6 @@ images:
 
 
   - "ogp/2025/20251205_yu-zhou-xiong-di-di-20hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第20話では、宇宙兄弟のキャラクターたちが新たな挑戦に直面します。

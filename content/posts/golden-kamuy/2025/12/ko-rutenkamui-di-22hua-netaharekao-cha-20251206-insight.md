@@ -1,6 +1,4 @@
-
 ---
-
 title: "ゴールデンカムイ第22話の考察"
 
 slug: "ko-rutenkamui-di-22hua-netaharekao-cha-20251206-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251206_ko-rutenkamui-di-22hua-netaharekao-cha-20251206.png"
-
-
-
 ---
 
 第22話では、キャラクターたちの内面がより深く描かれ、彼らの動機や葛藤が明らかになります。この章で何が起こるのか、興味津々ですね！

@@ -1,6 +1,4 @@
-
 ---
-
 title: "アオアシ第24話の考察と感想"
 
 slug: "aoashi-di-24hua-netaharekao-cha-20251208-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251208_aoashi-di-24hua-netaharekao-cha-20251208.png"
-
-
-
 ---
 
 アオアシ第24話では、キャラクターたちの成長とチームの絆が試される瞬間が描かれています。このエピソードから何を学べるのでしょうか？

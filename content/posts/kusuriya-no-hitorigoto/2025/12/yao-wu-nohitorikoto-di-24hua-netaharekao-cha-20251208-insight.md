@@ -1,6 +1,4 @@
-
 ---
-
 title: "薬屋のひとりごと 第24話の考察"
 
 slug: "yao-wu-nohitorikoto-di-24hua-netaharekao-cha-20251208-insight"
@@ -57,9 +55,6 @@ images:
 
 
   - "ogp/2025/20251208_yao-wu-nohitorikoto-di-24hua-netaharekao-cha-20251208.png"
-
-
-
 ---
 
 第24話では、薬屋のひとりごとの世界がさらに深まります。登場人物たちの思惑が交錯する中、どんな新たな真実が明らかになるのでしょうか？

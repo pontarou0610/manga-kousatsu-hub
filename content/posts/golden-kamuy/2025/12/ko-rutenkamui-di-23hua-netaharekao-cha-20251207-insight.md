@@ -1,6 +1,4 @@
-
 ---
-
 title: "ゴールデンカムイ 第23話の考察"
 
 slug: "ko-rutenkamui-di-23hua-netaharekao-cha-20251207-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251207_ko-rutenkamui-di-23hua-netaharekao-cha-20251207.png"
-
-
-
 ---
 
 第23話では、キャラクターたちの動機がさらに深掘りされ、物語の緊張感が高まります。彼らの選択はどのように物語に影響を与えるのでしょうか？

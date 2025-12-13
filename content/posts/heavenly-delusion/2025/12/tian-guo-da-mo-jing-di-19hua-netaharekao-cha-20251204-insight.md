@@ -1,11 +1,4 @@
-## 主要用語
-- {{< term name="天国" reading="てんごく" first="第1話" >}}壁内の安全な施設で子どもたちが暮らす場所{{< /term >}}
-- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
-- {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
-- {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
-
 ---
-
 title: "天国大魔境 第19話の考察と感想"
 
 slug: "tian-guo-da-mo-jing-di-19hua-netaharekao-cha-20251204-insight"
@@ -57,10 +50,15 @@ images:
 
 
   - "ogp/2025/20251204_tian-guo-da-mo-jing-di-19hua-netaharekao-cha-20251204.png"
-
-
-
 ---
+
+## 主要用語
+- {{< term name="天国" reading="てんごく" first="第1話" >}}壁内の安全な施設で子どもたちが暮らす場所{{< /term >}}
+- {{< term name="魔境" reading="まきょう" first="第1話" >}}壁外の荒廃した世界。異形が徘徊する危険地帯{{< /term >}}
+- {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
+- {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
+
+
 
 第19話では、キャラクターたちの選択が物語の行く先を大きく変える瞬間が描かれています。
 果たして、彼らはどのような決断を下すのでしょうか？

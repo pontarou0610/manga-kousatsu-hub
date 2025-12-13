@@ -1,6 +1,4 @@
-
 ---
-
 title: "宇宙兄弟 第21話の考察"
 
 slug: "yu-zhou-xiong-di-di-21hua-netaharekao-cha-20251205-insight"
@@ -57,9 +55,6 @@ images:
 
 
   - "ogp/2025/20251205_yu-zhou-xiong-di-di-21hua-netaharekao-cha-20251205.png"
-
-
-
 ---
 
 第21話では、宇宙兄弟のキャラクターたちが新たな挑戦に直面します。彼らの成長と葛藤がどのように描かれるのか、興味深いですね。

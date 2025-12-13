@@ -1,6 +1,4 @@
-
 ---
-
 title: "キングダム 第22話の内容と考察"
 
 slug: "kinkutamu-di-22hua-netaharekao-cha-20251206-insight"
@@ -51,9 +49,6 @@ images:
 
 
   - "ogp/2025/20251206_kinkutamu-di-22hua-netaharekao-cha-20251206.png"
-
-
-
 ---
 
 第22話では、キャラクターたちの成長と戦略が描かれ、物語が新たな局面を迎えます。次はどんな展開が待っているのか、気になりますね！
