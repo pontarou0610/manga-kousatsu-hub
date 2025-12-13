@@ -4,7 +4,7 @@
 - {{< term name="瘴気" reading="しょうき" first="第1話" >}}イチの感情高ぶりで周囲に放たれる負のエネルギー{{< /term >}}
 - {{< term name="師匠" reading="ししょう" first="第12話" >}}イチに術式の在り方を教えた人物。過去の因縁が物語の核になる{{< /term >}}
 
-﻿---
+---
 
 title: 魔男のイチ 第5話の考察と感想
 slug: madan-no-ichi-di-5hua-netaharekao-cha-20251204-insight

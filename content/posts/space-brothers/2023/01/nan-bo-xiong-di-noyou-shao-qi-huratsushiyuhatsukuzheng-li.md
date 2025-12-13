@@ -10,7 +10,7 @@ affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
 ---
 
-﻿---
+---
 title: "宇宙兄弟｜幼少期回想｜最新話ネタバレ・感想・考察"
 slug: "nan-bo-xiong-di-noyou-shao-qi-huratsushiyuhatsukuzheng-li"
 date: 2023-01-03T00:00:00Z

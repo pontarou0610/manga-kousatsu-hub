@@ -4,7 +4,7 @@
 - {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
 - {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
 
-﻿---
+---
 title: "天国大魔境 第19話最新話ネタバレ・感想・考察"
 slug: "tian-guo-da-mo-jing-di-19hua-netaharekao-cha-20251204"
 date: 2025-12-04T08:34:24.465721+00:00

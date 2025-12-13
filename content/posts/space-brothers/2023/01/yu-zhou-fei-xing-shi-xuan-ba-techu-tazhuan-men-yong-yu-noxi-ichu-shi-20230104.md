@@ -10,7 +10,7 @@ affiliate_ids:
   amazon: https://www.amazon.co.jp/dp/B009KWUFNG?tag=naoto0610-22
 ---
 
-﻿---
+---
 title: "宇宙兄弟｜選抜試験の専門用語まとめ（保存版）"
 slug: "yu-zhou-fei-xing-shi-xuan-ba-techu-tazhuan-men-yong-yu-noxi-ichu-shi-20230104"
 date: 2023-01-04T00:00:00Z

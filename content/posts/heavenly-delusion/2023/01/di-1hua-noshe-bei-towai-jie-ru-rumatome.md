@@ -14,7 +14,7 @@ affiliate_ids:
 - {{< term name="マル" reading="まる" first="第1話" >}}外界を旅する少年。天国への案内を依頼されている{{< /term >}}
 - {{< term name="キルコ" reading="きるこ" first="第1話" >}}電撃武器を操る護衛役。マルと行動をともにする{{< /term >}}
 
-﻿---
+---
 title: "天国大魔境｜第1話｜最新話ネタバレ・感想・考察"
 slug: "di-1hua-noshe-bei-towai-jie-ru-rumatome"
 date: 2023-01-01T00:00:00Z
