@@ -1,6 +1,6 @@
 ---
 title: "魔男のイチ 用語集"
-date: 2025-12-13T00:43:34+09:00
+date: 2025-12-14T00:51:31+09:00
 series: "魔男のイチ"
 series_slug: "madan-no-ichi"
 chapter: "???"
