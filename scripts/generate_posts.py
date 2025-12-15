@@ -41,6 +41,14 @@ BACKLOG_DIR = DATA_DIR / "backlog"
 # Initialize Jinja2 environment
 jinja_env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)))
 
+# Runtime controls (cost / throttling)
+RSS_MAX_ENTRIES = int(os.getenv("RSS_MAX_ENTRIES", "5"))
+GENERATE_FALLBACK_TOPICS = os.getenv("GENERATE_FALLBACK_TOPICS", "true").strip().lower() not in (
+    "0",
+    "false",
+    "no",
+    "off",
+)
 
 def load_state() -> Dict[str, Any]:
     """Load processing state from JSON file."""
@@ -280,7 +288,7 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any]) -> None:
     if series.get('rss'):
         feed = feedparser.parse(series['rss'])
         
-        for entry in feed.entries[:5]:  # Process up to 5 recent entries
+        for entry in feed.entries[:RSS_MAX_ENTRIES]:  # Throttle per run
             entry_hash = generate_hash(entry.link + entry.title)
             
             if entry_hash in state['entries']:
@@ -307,7 +315,7 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any]) -> None:
     
     # Process fallback topics if no RSS or no new entries
     fallback_topics = series.get('fallback_topics', [])
-    if fallback_topics and 'insight' in series.get('content_modes', []):
+    if GENERATE_FALLBACK_TOPICS and fallback_topics and 'insight' in series.get('content_modes', []):
         progress = state['backlog_progress'].get(series['slug'], 0)
         
         if progress < len(fallback_topics):

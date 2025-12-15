@@ -16,8 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      # Try GPT-5.1 first; if the API/key doesn't allow it yet, fall back automatically.
-      OPENAI_MODEL_CANDIDATES: gpt-5.1,gpt-4.1
+      # Cost-first: use mini by default, and allow automatic upgrade/fallback.
+      OPENAI_MODEL_CANDIDATES: gpt-5-mini,gpt-5.1,gpt-4.1-mini,gpt-4.1
+      # Disable fallback topic generation in CI to avoid spending tokens daily when no new RSS.
+      GENERATE_FALLBACK_TOPICS: "false"
+      # Throttle RSS processing per run (cost control).
+      RSS_MAX_ENTRIES: "1"
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
       AMAZON_TAG: ${{ secrets.AMAZON_TAG }}
       GA4_ID: ${{ secrets.GA4_ID || '' }}

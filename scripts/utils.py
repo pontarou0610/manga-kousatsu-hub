@@ -20,6 +20,7 @@ load_dotenv()
 
 # Configuration
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_ENABLED = os.getenv("OPENAI_ENABLED", "").strip().lower() not in ("0", "false", "no", "off")
 OPENAI_MODEL = os.getenv("OPENAI_MODEL")  # backward compatible (single model)
 OPENAI_MODEL_CANDIDATES = os.getenv("OPENAI_MODEL_CANDIDATES")  # preferred list (CSV)
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY")
@@ -29,7 +30,7 @@ AMAZON_TAG = os.getenv("AMAZON_TAG", "")
 FONT_PATH = Path("assets/fonts/NotoSansJP-Regular.ttf")
 
 # Initialize OpenAI client
-client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
+client = OpenAI(api_key=OPENAI_API_KEY) if (OPENAI_ENABLED and OPENAI_API_KEY) else None
 
 
 def _get_openai_model_candidates() -> List[str]:
