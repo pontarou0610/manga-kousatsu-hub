@@ -1,6 +1,6 @@
 ---
 title: "天国大魔境 用語集"
-date: 2025-12-15T00:22:18+09:00
+date: 2025-12-15T00:49:54+09:00
 series: "天国大魔境"
 series_slug: "heavenly-delusion"
 chapter: "???"
