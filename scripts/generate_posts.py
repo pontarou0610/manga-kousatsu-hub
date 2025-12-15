@@ -227,6 +227,30 @@ def get_prev_post(series_slug: str, chapter_number: int) -> Optional[Dict[str, s
     return {"title": title, "url": build_post_url(dt, slug)}
 
 
+def has_existing_variant_post(series_slug: str, variant: str, chapter_number: int) -> bool:
+    if not chapter_number or chapter_number < 0:
+        return False
+
+    series_root = CONTENT_DIR / series_slug
+    if not series_root.exists():
+        return False
+
+    for path in series_root.rglob("*.md"):
+        if "glossary" in path.parts:
+            continue
+        try:
+            post = frontmatter.load(path)
+        except Exception:
+            continue
+        if post.get("article_variant") != variant:
+            continue
+        post_ch = extract_chapter_number(post.get("chapter"))
+        if post_ch == chapter_number:
+            return True
+
+    return False
+
+
 def ensure_ogp(series_name: str, title: str, dt: datetime, slug: str) -> List[str]:
     yyyymmdd = f"{dt.year:04d}{dt.month:02d}{dt.day:02d}"
     rel = f"ogp/{dt.year:04d}/{yyyymmdd}_{slug}.png"
@@ -241,6 +265,8 @@ def create_spoiler_post(series: Dict[str, Any], chapter_label: str, chapter_numb
     slug = build_post_slug(series_slug, chapter_number, yyyymmdd, variant="spoiler")
     output_path = build_post_output_path(series_slug, dt, slug)
 
+    if has_existing_variant_post(series_slug, "spoiler", chapter_number):
+        return None
     if output_path.exists():
         return None
 
@@ -284,6 +310,8 @@ def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_numb
     slug = build_post_slug(series_slug, chapter_number, yyyymmdd, variant="insight")
     output_path = build_post_output_path(series_slug, dt, slug)
 
+    if has_existing_variant_post(series_slug, "insight", chapter_number):
+        return None
     if output_path.exists():
         return None
 
