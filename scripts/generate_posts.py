@@ -233,16 +233,9 @@ def generate_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> Non
     if not glossary_terms:
         print(f">> No glossary terms for {series['name']}")
         return
-    
-    # Get progress
-    progress = state['glossary_progress'].get(series_slug, 0)
-    
-    # Publish terms incrementally (3 at a time)
-    terms_to_publish = glossary_terms[:progress + 3]
-    
-    if len(terms_to_publish) == progress:
-        print(f">> All glossary terms already published for {series['name']}")
-        return
+
+    # Always publish all terms. Only rewrite when the rendered content changes.
+    terms_to_publish = glossary_terms
     
     # Prepare context
     context = {
@@ -269,11 +262,28 @@ def generate_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> Non
     # Output path
     output_dir = CONTENT_DIR / series_slug / "glossary"
     output_path = output_dir / "index.md"
-    
-    # Create post
-    if create_post_from_template('post_glossary.md.j2', context, output_path):
+
+    try:
+        template = jinja_env.get_template('post_glossary.md.j2')
+        content = template.render(**context)
+
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        existing = output_path.read_text(encoding='utf-8') if output_path.exists() else None
+
+        if existing == content:
+            state['glossary_progress'][series_slug] = len(terms_to_publish)
+            print(f">> Glossary unchanged for {series['name']}")
+            return
+
+        with open(output_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+
         state['glossary_progress'][series_slug] = len(terms_to_publish)
         print(f"[OK] Updated glossary: {len(terms_to_publish)} terms")
+
+    except Exception as e:
+        print(f"[ERROR] Error creating glossary post: {e}")
+        return
 
 
 def process_series(series: Dict[str, Any], state: Dict[str, Any]) -> None:
