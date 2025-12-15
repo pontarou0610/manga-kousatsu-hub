@@ -3,11 +3,11 @@ title: "{{ title }}"
 date: {{ date }}
 series: "{{ series }}"
 series_slug: "{{ series_slug }}"
-chapter: "???"
+chapter: "用語集"
 article_variant: "glossary"
 slug: "{{ series_slug }}-glossary"
 tags:
-  - "????"
+  - "用語集"
 {% for tag in tags %}
   - "{{ tag }}"
 {% endfor %}
@@ -34,23 +34,23 @@ images: []
 > {{ glossary_note }}
 {% endif %}
 
-## ?????
+## 用語一覧
 {% for term in glossary %}
-### {{ term.term }}{% if term.reading %}?{{ term.reading }}?{% endif %}
-- ??: {{ term.desc or term.description }}
+### {{ term.term }}{% if term.reading %}（{{ term.reading }}）{% endif %}
+- 説明: {{ term.desc or term.description }}
 {% if term.first_appear %}
-- ???: {{ term.first_appear }}
+- 初登場: {{ term.first_appear }}
 {% endif %}
 {% if term.reference %}
-- ??: {{ term.reference }}
+- 参照: {{ term.reference }}
 {% endif %}
 
 {% endfor %}
 
 {% if official_link %}
-{{ "{{< affbox title=\"" }}{{ official_link.label or "?????" }}{{ "\" desc=\"????????????????\" url=\"" }}{{ official_link.url }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"" }}{{ official_link.label or "公式サイト" }}{{ "\" desc=\"公式情報はこちら\" url=\"" }}{{ official_link.url }}{{ "\" >}}" }}
 {% endif %}
 
 {% if affiliate_widgets.amazon %}
-{{ "{{< affbox title=\"Amazon???\" desc=\"Kindle?????????\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"Amazonで探す\" desc=\"Kindle版・紙版の購入はこちら\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
 {% endif %}
