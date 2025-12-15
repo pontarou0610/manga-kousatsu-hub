@@ -44,14 +44,35 @@ jinja_env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)))
 
 def load_state() -> Dict[str, Any]:
     """Load processing state from JSON file."""
-    if STATE_FILE.exists():
-        with open(STATE_FILE, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return {
+    default_state: Dict[str, Any] = {
         "entries": [],
         "glossary_progress": {},
-        "backlog_progress": {}
+        "backlog_progress": {},
     }
+    if STATE_FILE.exists():
+        with open(STATE_FILE, 'r', encoding='utf-8') as f:
+            try:
+                state = json.load(f)
+            except json.JSONDecodeError:
+                state = {}
+
+        if not isinstance(state, dict):
+            state = {}
+
+        # Backward compatible: older caches may miss newer keys.
+        for key, value in default_state.items():
+            if key not in state or state[key] is None:
+                state[key] = value
+        if not isinstance(state.get("entries"), list):
+            state["entries"] = []
+        if not isinstance(state.get("glossary_progress"), dict):
+            state["glossary_progress"] = {}
+        if not isinstance(state.get("backlog_progress"), dict):
+            state["backlog_progress"] = {}
+
+        return state
+
+    return default_state
 
 
 def save_state(state: Dict[str, Any]) -> None:
