@@ -1,6 +1,7 @@
 ﻿# 作品ごとの設定。必要に応じてエントリを追加してください。
 - name: "天国大魔境"
   slug: "heavenly-delusion"
+  run_priority: 2
   rss: ""
   release_day: "2025-01-15"
   manual: false
@@ -79,6 +80,7 @@
 
 - name: "デッドマウント・デスプレイ"
   slug: "dead-mount-death-play"
+  run_priority: 3
   rss: ""
   release_day: "2025-01-12"
   manual: false
@@ -317,6 +319,7 @@
 
 - name: "魔男のイチ"
   slug: "madan-no-ichi"
+  run_priority: 1
   rss: ""
   release_day: "2025-01-27"
   manual: false

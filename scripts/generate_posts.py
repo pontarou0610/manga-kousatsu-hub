@@ -7,9 +7,10 @@ Reads RSS feeds, generates content using OpenAI, and creates Hugo markdown files
 import os
 import json
 import yaml
+import re
 import feedparser
 import frontmatter
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 from jinja2 import Environment, FileSystemLoader
@@ -43,7 +44,27 @@ jinja_env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)))
 
 # Runtime controls (cost / throttling)
 RSS_MAX_ENTRIES = int(os.getenv("RSS_MAX_ENTRIES", "5"))
+MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN", "999"))
 GENERATE_FALLBACK_TOPICS = os.getenv("GENERATE_FALLBACK_TOPICS", "true").strip().lower() not in (
+    "0",
+    "false",
+    "no",
+    "off",
+)
+GENERATE_BACKLOG_ENTRIES = os.getenv("GENERATE_BACKLOG_ENTRIES", "true").strip().lower() not in (
+    "0",
+    "false",
+    "no",
+    "off",
+)
+BACKLOG_ENTRIES_PER_RUN = int(os.getenv("BACKLOG_ENTRIES_PER_RUN", "1"))
+GENERATE_SPOILER_POSTS = os.getenv("GENERATE_SPOILER_POSTS", "true").strip().lower() not in (
+    "0",
+    "false",
+    "no",
+    "off",
+)
+GENERATE_INSIGHT_POSTS = os.getenv("GENERATE_INSIGHT_POSTS", "true").strip().lower() not in (
     "0",
     "false",
     "no",
@@ -109,13 +130,196 @@ def load_glossary(series_slug: str) -> List[Dict[str, str]]:
 
 
 def load_backlog(series_slug: str) -> List[Dict[str, Any]]:
-    """Load backlog topics for a series."""
+    """Load backlog entries for a series (data/backlog/<slug>.yaml)."""
     backlog_file = BACKLOG_DIR / f"{series_slug}.yaml"
     if backlog_file.exists():
         with open(backlog_file, 'r', encoding='utf-8') as f:
-            data = yaml.safe_load(f)
-            return data.get('topics', [])
+            data = yaml.safe_load(f) or {}
+            entries = data.get('entries') or data.get('topics') or []
+            return entries
     return []
+
+
+def parse_rfc3339(dt_str: str) -> datetime:
+    # Accept "...Z" and without timezone.
+    if not dt_str:
+        return datetime.utcnow()
+    dt_str = dt_str.strip()
+    if dt_str.endswith("Z"):
+        dt_str = dt_str[:-1] + "+00:00"
+    try:
+        return datetime.fromisoformat(dt_str)
+    except ValueError:
+        return datetime.utcnow()
+
+
+def format_rfc3339(dt: datetime) -> str:
+    # Ensure we always output timezone-aware timestamps.
+    if dt.tzinfo is None:
+        return dt.replace(microsecond=0).isoformat() + "Z"
+    return dt.replace(microsecond=0).isoformat()
+
+
+JST = timezone(timedelta(hours=9))
+
+
+def extract_chapter_number(value: Any) -> Optional[int]:
+    if value is None:
+        return None
+    if isinstance(value, int):
+        return value
+    s = str(value)
+    m = re.search(r"(\d+)", s)
+    return int(m.group(1)) if m else None
+
+
+def normalize_chapter_label(series_slug: str, chapter_number: int, raw: str) -> str:
+    raw = (raw or "").strip()
+    if extract_chapter_number(raw) is not None:
+        return raw
+    # Fallback: default Japanese chapter label.
+    return f"第{chapter_number}話"
+
+
+def build_post_slug(series_slug: str, chapter_number: int, yyyymmdd: str, variant: str) -> str:
+    base = f"{series_slug}-di-{chapter_number}hua-netaharekao-cha-{yyyymmdd}"
+    if variant == "insight":
+        return f"{base}-insight"
+    return base
+
+
+def build_post_output_path(series_slug: str, dt: datetime, slug: str) -> Path:
+    year = dt.year
+    month = dt.month
+    return CONTENT_DIR / series_slug / f"{year:04d}" / f"{month:02d}" / f"{slug}.md"
+
+
+def build_post_url(dt: datetime, slug: str) -> str:
+    return f"/posts/{dt.year:04d}/{dt.month:02d}/{slug}/"
+
+
+def get_prev_post(series_slug: str, chapter_number: int) -> Optional[Dict[str, str]]:
+    # Find the most recent spoiler post with smaller chapter_number.
+    candidates = []
+    series_root = CONTENT_DIR / series_slug
+    if not series_root.exists():
+        return None
+    for path in series_root.rglob("*.md"):
+        if "glossary" in path.parts:
+            continue
+        try:
+            post = frontmatter.load(path)
+        except Exception:
+            continue
+        if post.get("article_variant") != "spoiler":
+            continue
+        prev_ch_num = extract_chapter_number(post.get("chapter"))
+        if prev_ch_num is None or prev_ch_num >= chapter_number:
+            continue
+        post_date = parse_rfc3339(str(post.get("date") or ""))
+        candidates.append((prev_ch_num, post_date, post.get("title") or "", post.get("slug") or ""))
+
+    if not candidates:
+        return None
+
+    candidates.sort(key=lambda x: (x[0], x[1]))
+    _, dt, title, slug = candidates[-1]
+    return {"title": title, "url": build_post_url(dt, slug)}
+
+
+def ensure_ogp(series_name: str, title: str, dt: datetime, slug: str) -> List[str]:
+    yyyymmdd = f"{dt.year:04d}{dt.month:02d}{dt.day:02d}"
+    rel = f"ogp/{dt.year:04d}/{yyyymmdd}_{slug}.png"
+    out = STATIC_OGP_DIR / f"{dt.year:04d}" / f"{yyyymmdd}_{slug}.png"
+    generate_ogp_image(title=title, series=series_name, output_path=out)
+    return [rel]
+
+
+def create_spoiler_post(series: Dict[str, Any], chapter_label: str, chapter_number: int, dt: datetime, content: Dict[str, Any]) -> Optional[Path]:
+    series_slug = series["slug"]
+    yyyymmdd = f"{dt.year:04d}{dt.month:02d}{dt.day:02d}"
+    slug = build_post_slug(series_slug, chapter_number, yyyymmdd, variant="spoiler")
+    output_path = build_post_output_path(series_slug, dt, slug)
+
+    if output_path.exists():
+        return None
+
+    affiliate_ids = {
+        "amazon": build_amazon_url(series.get("affiliates", {}).get("amazon", {}).get("asin", "")),
+        "rakuten": build_rakuten_url(series.get("affiliates", {}).get("rakuten", {}).get("params", "")),
+        "others": series.get("affiliates", {}).get("others", []) or [],
+    }
+
+    title = content.get("title") or f"{series['name']} {chapter_label} ネタバレ・感想・考察"
+    images = ensure_ogp(series["name"], title, dt, slug)
+
+    context = {
+        "title": title,
+        "slug": slug,
+        "date": format_rfc3339(dt),
+        "series": series["name"],
+        "series_slug": series_slug,
+        "chapter": chapter_label,
+        "chapter_label": chapter_label,
+        "tags": series.get("tags", []),
+        "draft": (not bool(series.get("auto_publish", True))),
+        "description": (content.get("intro") or title)[:140],
+        "affiliate_ids": affiliate_ids,
+        "disclaimer": series.get("defaults", {}).get("disclaimer", ""),
+        "images": images,
+        "intro": content.get("intro") or "",
+        "summary_points": content.get("summary_points") or [],
+        "spoiler": content.get("spoiler") or {},
+        "prev_post": get_prev_post(series_slug, chapter_number),
+        "official_link": (series.get("official_links") or [None])[0],
+    }
+
+    ok = create_post_from_template("post_spoiler.md.j2", context, output_path, is_draft=context["draft"])
+    return output_path if ok else None
+
+
+def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_number: int, dt: datetime, content: Dict[str, Any]) -> Optional[Path]:
+    series_slug = series["slug"]
+    yyyymmdd = f"{dt.year:04d}{dt.month:02d}{dt.day:02d}"
+    slug = build_post_slug(series_slug, chapter_number, yyyymmdd, variant="insight")
+    output_path = build_post_output_path(series_slug, dt, slug)
+
+    if output_path.exists():
+        return None
+
+    affiliate_ids = {
+        "amazon": build_amazon_url(series.get("affiliates", {}).get("amazon", {}).get("asin", "")),
+        "rakuten": build_rakuten_url(series.get("affiliates", {}).get("rakuten", {}).get("params", "")),
+        "others": series.get("affiliates", {}).get("others", []) or [],
+    }
+
+    title = content.get("title") or f"{series['name']} {chapter_label} 考察"
+    images = ensure_ogp(series["name"], title, dt, slug)
+
+    context = {
+        "title": title,
+        "slug": slug,
+        "date": format_rfc3339(dt),
+        "series": series["name"],
+        "chapter": chapter_label,
+        "tags": series.get("tags", []),
+        "draft": (not bool(series.get("auto_publish", True))),
+        "description": (content.get("intro") or title)[:140],
+        "affiliate_ids": affiliate_ids,
+        "disclaimer": series.get("defaults", {}).get("disclaimer", ""),
+        "images": images,
+        "intro": content.get("intro") or "",
+        "summary_points": content.get("summary_points") or [],
+        "insight": content.get("insight") or {},
+        "outline": content.get("outline") or [],
+        "faq": content.get("faq") or [],
+        "hero_image": None,
+        "reference_links": [],
+        "official_link": (series.get("official_links") or [None])[0],
+    }
+
+    ok = create_post_from_template("post_insight.md.j2", context, output_path, is_draft=context["draft"])
+    return output_path if ok else None
 
 
 def generate_spoiler_content(series: Dict[str, Any], chapter: str) -> Optional[Dict[str, Any]]:
@@ -236,11 +440,31 @@ def generate_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> Non
 
     # Always publish all terms. Only rewrite when the rendered content changes.
     terms_to_publish = glossary_terms
+
+    # Output path
+    output_dir = CONTENT_DIR / series_slug / "glossary"
+    output_path = output_dir / "index.md"
+
+    # Keep existing date to avoid rewriting the file every run.
+    existing_date = None
+    if output_path.exists():
+        try:
+            post = frontmatter.load(output_path)
+            existing_date = post.get("date")
+        except Exception:
+            existing_date = None
+
+    if isinstance(existing_date, datetime):
+        existing_date = existing_date.astimezone(JST).replace(microsecond=0).isoformat()
+    elif isinstance(existing_date, str):
+        existing_date = existing_date.strip() or None
+
+    date_value = existing_date or datetime.now(tz=JST).replace(microsecond=0).isoformat()
     
     # Prepare context
     context = {
         'title': f"{series['name']} 用語集",
-        'date': datetime.now().strftime('%Y-%m-%dT%H:%M:%S+09:00'),
+        'date': date_value,
         'series': series['name'],
         'series_slug': series_slug,
         'tags': series.get('tags', []),
@@ -258,10 +482,6 @@ def generate_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> Non
         'disclaimer': series.get('defaults', {}).get('disclaimer', ''),
         'official_link': series.get('official_links', [{}])[0] if series.get('official_links') else None
     }
-    
-    # Output path
-    output_dir = CONTENT_DIR / series_slug / "glossary"
-    output_path = output_dir / "index.md"
 
     try:
         template = jinja_env.get_template('post_glossary.md.j2')
@@ -271,14 +491,12 @@ def generate_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> Non
         existing = output_path.read_text(encoding='utf-8') if output_path.exists() else None
 
         if existing == content:
-            state['glossary_progress'][series_slug] = len(terms_to_publish)
             print(f">> Glossary unchanged for {series['name']}")
             return
 
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(content)
 
-        state['glossary_progress'][series_slug] = len(terms_to_publish)
         print(f"[OK] Updated glossary: {len(terms_to_publish)} terms")
 
     except Exception as e:
@@ -286,7 +504,7 @@ def generate_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> Non
         return
 
 
-def process_series(series: Dict[str, Any], state: Dict[str, Any]) -> None:
+def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_posts: int) -> int:
     """Process a single series: check RSS, generate posts."""
     print(f"\n>> Processing: {series['name']}")
     
@@ -294,34 +512,58 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any]) -> None:
     if 'glossary' in series.get('content_modes', []):
         generate_glossary_post(series, state)
     
+    entries_set = set(state.get("entries", []))
+    created_posts = 0
+
     # Check RSS feed
     if series.get('rss'):
         feed = feedparser.parse(series['rss'])
-        
-        for entry in feed.entries[:RSS_MAX_ENTRIES]:  # Throttle per run
-            entry_hash = generate_hash(entry.link + entry.title)
-            
-            if entry_hash in state['entries']:
+
+        # Process oldest-first so we can "catch up" gradually.
+        candidates = []
+        for entry in getattr(feed, "entries", [])[:50]:
+            entry_hash = generate_hash((getattr(entry, "link", "") or "") + (getattr(entry, "title", "") or ""))
+            if entry_hash in entries_set:
                 continue
-            
+            published = getattr(entry, "published", "") or getattr(entry, "updated", "") or ""
+            dt = parse_rfc3339(published)
+            candidates.append((dt, entry, entry_hash))
+
+        candidates.sort(key=lambda x: x[0])
+        for dt, entry, entry_hash in candidates[:RSS_MAX_ENTRIES]:
+            if remaining_posts <= created_posts:
+                break
+
             print(f"[NEW] New entry: {entry.title}")
-            
-            # Generate spoiler post if enabled
-            if 'spoiler' in series.get('content_modes', []):
-                content = generate_spoiler_content(series, entry.title)
-                if content:
-                    # TODO: Create spoiler post
-                    pass
-            
-            # Generate insight post if enabled
-            if 'insight' in series.get('content_modes', []):
-                content = generate_insight_content(series, entry.title)
-                if content:
-                    # TODO: Create insight post
-                    pass
-            
-            # Mark as processed
-            state['entries'].append(entry_hash)
+
+            chapter_number = extract_chapter_number(entry.title)
+            if chapter_number is None:
+                # Fallback: put it in a reasonable bucket.
+                chapter_number = 0
+            chapter_label = normalize_chapter_label(series["slug"], chapter_number, str(entry.title))
+
+            created_any = False
+            if GENERATE_SPOILER_POSTS and 'spoiler' in series.get('content_modes', []):
+                if remaining_posts <= created_posts:
+                    break
+                content = generate_spoiler_content(series, chapter_label)
+                if content and create_spoiler_post(series, chapter_label, chapter_number, dt, content):
+                    created_posts += 1
+                    created_any = True
+
+            if GENERATE_INSIGHT_POSTS and 'insight' in series.get('content_modes', []):
+                if remaining_posts <= created_posts:
+                    break
+                content = generate_insight_content(series, str(entry.title))
+                if content and create_insight_post(series, chapter_label, chapter_number, dt, content):
+                    created_posts += 1
+                    created_any = True
+
+            if created_any:
+                state['entries'].append(entry_hash)
+                entries_set.add(entry_hash)
+            else:
+                print(f"[WARN] No post generated for RSS entry (will retry): {entry.title}")
     
     # Process fallback topics if no RSS or no new entries
     fallback_topics = series.get('fallback_topics', [])
@@ -337,6 +579,56 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any]) -> None:
                 # TODO: Create insight post from fallback topic
                 state['backlog_progress'][series['slug']] = progress + 1
 
+    # Process structured backlog entries (daily catch-up).
+    if GENERATE_BACKLOG_ENTRIES and remaining_posts > created_posts:
+        backlog_entries = load_backlog(series["slug"])
+        if backlog_entries:
+            pending = []
+            for item in backlog_entries:
+                ch_num = extract_chapter_number(item.get("chapter_number") or item.get("chapter") or item.get("title"))
+                if ch_num is None:
+                    continue
+                key = generate_hash(f"backlog:{series['slug']}:{ch_num}:{','.join(item.get('force_modes') or [])}")
+                if key in entries_set:
+                    continue
+                dt = parse_rfc3339(str(item.get("date") or ""))
+                pending.append((dt, ch_num, item, key))
+
+            pending.sort(key=lambda x: (x[0], x[1]))
+            for dt, ch_num, item, key in pending[:BACKLOG_ENTRIES_PER_RUN]:
+                if remaining_posts <= created_posts:
+                    break
+                chapter_label = normalize_chapter_label(series["slug"], ch_num, str(item.get("chapter") or ""))
+                modes = item.get("force_modes") or []
+                if not isinstance(modes, list):
+                    modes = []
+
+                created_any = False
+                if "spoiler" in modes and GENERATE_SPOILER_POSTS and "spoiler" in series.get("content_modes", []):
+                    if remaining_posts <= created_posts:
+                        break
+                    content = generate_spoiler_content(series, chapter_label)
+                    if content and create_spoiler_post(series, chapter_label, ch_num, dt, content):
+                        created_posts += 1
+                        created_any = True
+
+                if "insight" in modes and GENERATE_INSIGHT_POSTS and "insight" in series.get("content_modes", []):
+                    if remaining_posts <= created_posts:
+                        break
+                    topic = str(item.get("title") or chapter_label)
+                    content = generate_insight_content(series, topic)
+                    if content and create_insight_post(series, chapter_label, ch_num, dt, content):
+                        created_posts += 1
+                        created_any = True
+
+                if created_any:
+                    state["entries"].append(key)
+                    entries_set.add(key)
+                else:
+                    print(f"[WARN] No post generated for backlog entry (will retry): {series['slug']} #{ch_num}")
+
+    return created_posts
+
 
 def main():
     """Main execution function."""
@@ -344,16 +636,21 @@ def main():
     
     # Load configuration and state
     series_list = load_series_config()
+    series_list = sorted(series_list, key=lambda s: int(s.get("run_priority", 999)))
     state = load_state()
+    remaining_posts = MAX_POSTS_PER_RUN
     
     # Process each series
     for series in series_list:
         if series.get('manual', False):
             print(f">> Skipping manual series: {series['name']}")
             continue
+        if remaining_posts <= 0:
+            break
         
         try:
-            process_series(series, state)
+            created = process_series(series, state, remaining_posts)
+            remaining_posts -= int(created or 0)
         except Exception as e:
             print(f"[ERROR] Error processing {series['name']}: {e}")
             continue
