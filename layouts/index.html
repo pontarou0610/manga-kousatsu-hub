@@ -3,7 +3,7 @@
   <h2>最新考察</h2>
   <p>公式RSSから検知した新着情報をもとに、ネタバレ配慮つきでまとめた考察記事を一覧表示します。</p>
 
-  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") 5 }}}
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") 5 }}
   {{ if not (gt (len $paginator.Pages) 0) }}
   <p>まだ記事がありません。GitHub Actions または <code>python scripts/generate_posts.py</code> で生成してください。</p>
   {{ end }}
