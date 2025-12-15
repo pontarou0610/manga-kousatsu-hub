@@ -1,6 +1,6 @@
 ---
 title: "天国大魔境 用語集"
-date: 2025-12-15T11:13:37+09:00
+date: 2025-12-15T02:15:58+09:00
 series: "天国大魔境"
 series_slug: "heavenly-delusion"
 chapter: "用語集"
@@ -17,7 +17,7 @@ tags:
 
 draft: false
 affiliate_ids:
-  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ"
+  amazon: "https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22"
   rakuten: "https://hb.afl.rakuten.co.jp/ichiba/0d1b5972.6cd44226.0d1b5973.40a5c49e/?pc={pc}&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjoxLCJhbXAiOmZhbHNlfQ%3D%3D"
 
   others: []
@@ -104,4 +104,4 @@ images: []
 
 
 
-{{< affbox title="Amazonで探す" desc="Kindle版・紙版の購入はこちら" url="https://www.amazon.co.jp/dp/B07FCHN6XQ" >}}
+{{< affbox title="Amazonで探す" desc="Kindle版・紙版の購入はこちら" url="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" >}}
