@@ -1,6 +1,6 @@
 ---
 title: "デッドマウント・デスプレイ 用語集"
-date: 2025-12-15T06:00:05+09:00
+date: 2025-12-15T06:10:20+09:00
 series: "デッドマウント・デスプレイ"
 series_slug: "dead-mount-death-play"
 chapter: "用語集"
