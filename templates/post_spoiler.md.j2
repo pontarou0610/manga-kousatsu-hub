@@ -96,3 +96,10 @@ images:
 - 記事一覧：[{{ series }}の記事一覧]({{ "{{< ref \"series/" ~ series_slug ~ "\" >}}" }})
 - 公式サイト：[{{ official_link.label if official_link else "公式サイト" }}]({{ official_link.url if official_link else "#" }})
 - 用語集：[用語集]({{ "{{< ref \"posts/" ~ series_slug ~ "/glossary\" >}}" }})
+
+{% if reference_links %}
+## 参考リンク（外部）
+{% for ref in reference_links %}
+- <a href="{{ ref.url }}" target="_blank" rel="noopener noreferrer">{{ ref.title }}</a>{% if ref.source %}（{{ ref.source }}）{% endif %}{% if ref.desc %} - {{ ref.desc }}{% endif %}
+{% endfor %}
+{% endif %}

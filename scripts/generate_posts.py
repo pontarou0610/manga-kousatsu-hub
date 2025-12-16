@@ -26,6 +26,7 @@ from utils import (
     build_rakuten_url,
     sanitize_filename
 )
+from research import collect_reference_notes
 
 # Paths
 ROOT_DIR = Path(__file__).parent.parent
@@ -303,7 +304,14 @@ def ensure_ogp(series_name: str, title: str, dt: datetime, slug: str) -> List[st
     return [rel]
 
 
-def create_spoiler_post(series: Dict[str, Any], chapter_label: str, chapter_number: int, dt: datetime, content: Dict[str, Any]) -> Optional[Path]:
+def create_spoiler_post(
+    series: Dict[str, Any],
+    chapter_label: str,
+    chapter_number: int,
+    dt: datetime,
+    content: Dict[str, Any],
+    reference_links: Optional[List[Dict[str, str]]] = None,
+) -> Optional[Path]:
     series_slug = series["slug"]
     yyyymmdd = f"{dt.year:04d}{dt.month:02d}{dt.day:02d}"
     slug = build_post_slug(series_slug, chapter_number, yyyymmdd, variant="spoiler")
@@ -342,6 +350,7 @@ def create_spoiler_post(series: Dict[str, Any], chapter_label: str, chapter_numb
         "spoiler": content.get("spoiler") or {},
         "prev_post": get_prev_post(series_slug, chapter_number),
         "official_link": (series.get("official_links") or [None])[0],
+        "reference_links": reference_links or [],
     }
 
     ok = create_post_from_template("post_spoiler.md.j2", context, output_path, is_draft=context["draft"])
@@ -394,7 +403,11 @@ def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_numb
     return output_path if ok else None
 
 
-def generate_spoiler_content(series: Dict[str, Any], chapter: str) -> Optional[Dict[str, Any]]:
+def generate_spoiler_content(
+    series: Dict[str, Any],
+    chapter: str,
+    reference_notes: Optional[List[Dict[str, str]]] = None,
+) -> Optional[Dict[str, Any]]:
     """Generate spoiler content using OpenAI."""
     system_prompt = f"""あなたは「{series['name']}」の考察記事を書く専門家です。
 {series.get('defaults', {}).get('tone', '落ち着いた敬体で、根拠を示しつつ丁寧にまとめる。')}
@@ -404,6 +417,27 @@ def generate_spoiler_content(series: Dict[str, Any], chapter: str) -> Optional[D
 - 句点（。）の後は必ず改行してください
 - 1文を短く簡潔にまとめ、読みやすさを最優先してください
 - 長い文章は避け、適切な長さで区切ってください"""
+
+    refs_block = ""
+    if reference_notes:
+        lines = []
+        for ref in reference_notes[:8]:
+            title = (ref.get("title") or "").strip()
+            url = (ref.get("url") or "").strip()
+            desc = (ref.get("desc") or "").strip()
+            src = (ref.get("source") or "").strip()
+            if not url:
+                continue
+            line = f"- {title} ({src}) {url}"
+            if desc:
+                line += f" / 概要: {desc}"
+            lines.append(line)
+        if lines:
+            refs_block = (
+                "\n\n【参考メモ（外部サイト）】\n"
+                "※以下は見出し/概要のみです。本文の引用・言い換えは禁止。事実関係の確認と論点整理の参考にのみ使ってください。\n"
+                + "\n".join(lines)
+            )
 
     prompt = f"""「{series['name']}」の{chapter}について、ネタバレありの考察記事を作成してください。
 
@@ -419,7 +453,7 @@ def generate_spoiler_content(series: Dict[str, Any], chapter: str) -> Optional[D
   }}
 }}
 
-※すべてのテキストフィールドで、句点（。）の後は必ず改行（\n）を入れてください。"""
+※すべてのテキストフィールドで、句点（。）の後は必ず改行（\n）を入れてください。{refs_block}"""
 
     return generate_content_with_openai(
         prompt=prompt,
@@ -633,8 +667,22 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                     created_any = True
                     print(f">> RSS spoiler already exists for {series['slug']} #{chapter_number}")
                 else:
-                    content = generate_spoiler_content(series, chapter_label)
-                    if content and create_spoiler_post(series, chapter_label, chapter_number, dt, content):
+                    ref_sources = series.get("research_sources") or []
+                    reference_notes = collect_reference_notes(
+                        series_name=series["name"],
+                        chapter_label=chapter_label,
+                        sources=ref_sources,
+                    ) if ref_sources else []
+
+                    content = generate_spoiler_content(series, chapter_label, reference_notes=reference_notes)
+                    if content and create_spoiler_post(
+                        series,
+                        chapter_label,
+                        chapter_number,
+                        dt,
+                        content,
+                        reference_links=reference_notes,
+                    ):
                         created_posts += 1
                         created_any = True
                         set_last_generated_chapter(state, series["slug"], chapter_number)
@@ -734,8 +782,22 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                         created_any = True
                         print(f">> Backlog spoiler already exists for {series['slug']} #{ch_num}")
                     else:
-                        content = generate_spoiler_content(series, chapter_label)
-                        if content and create_spoiler_post(series, chapter_label, ch_num, dt, content):
+                        ref_sources = series.get("research_sources") or []
+                        reference_notes = collect_reference_notes(
+                            series_name=series["name"],
+                            chapter_label=chapter_label,
+                            sources=ref_sources,
+                        ) if ref_sources else []
+
+                        content = generate_spoiler_content(series, chapter_label, reference_notes=reference_notes)
+                        if content and create_spoiler_post(
+                            series,
+                            chapter_label,
+                            ch_num,
+                            dt,
+                            content,
+                            reference_links=reference_notes,
+                        ):
                             state["entries"].append(key)
                             entries_set.add(key)
                             created_posts += 1

@@ -20,6 +20,12 @@
     - "spoiler"
     - "insight"
     - "glossary"
+  research_sources:
+    - "https://296.fm/"
+    - "https://comic-days.com/"
+    - "https://note.com/orange240/n/nf228e546cf66"
+    - "https://ciatr.jp/"
+    - "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%9B%BD%E5%A4%A7%E9%AD%94%E5%A2%83"
   fallback_topics:
     - "壁外サバイバルの基本装備をおさらい"
     - "天国側の教育カリキュラムから読み解く価値観"
@@ -338,6 +344,12 @@
     - "spoiler"
     - "insight"
     - "glossary"
+  research_sources:
+    - "https://soundsgoood.net/"
+    - "https://animanch.com/"
+    - "https://y-mangamatome.hatenablog.com/"
+    - "https://jumpmatome2ch.biz/"
+    - "https://ja.wikipedia.org/wiki/%E9%AD%94%E7%94%B7%E3%81%AE%E3%82%A4%E3%83%81"
   fallback_topics:
     - "魔男一家の序列と掟を整理して勢力図を把握する"
     - "イチの過去任務から読み解く判断基準と価値観"

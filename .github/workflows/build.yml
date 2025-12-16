@@ -30,6 +30,11 @@ jobs:
       # Focus on spoiler posts while catching up.
       GENERATE_SPOILER_POSTS: "true"
       GENERATE_INSIGHT_POSTS: "false"
+      # Web research (headlines/OGP only) for allowed sources.
+      RESEARCH_ENABLED: "true"
+      RESEARCH_TIMEOUT_SEC: "8"
+      RESEARCH_MAX_LINKS: "4"
+      RESEARCH_PER_SOURCE: "1"
       PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
       AMAZON_TAG: ${{ secrets.AMAZON_TAG }}
       GA4_ID: ${{ secrets.GA4_ID || '' }}
