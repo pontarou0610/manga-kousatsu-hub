@@ -2,7 +2,8 @@
 - name: "天国大魔境"
   slug: "heavenly-delusion"
   run_priority: 2
-  rss: ""
+  rss: "https://news.google.com/rss/search?q=天国大魔境+第+話&hl=ja&gl=JP&ceid=JP:ja"
+  rss_mode: "signal_only"
   release_day: "2025-01-15"
   manual: false
   auto_publish: true
@@ -81,7 +82,8 @@
 - name: "デッドマウント・デスプレイ"
   slug: "dead-mount-death-play"
   run_priority: 3
-  rss: ""
+  rss: "https://news.google.com/rss/search?q=デッドマウント・デスプレイ+第+話&hl=ja&gl=JP&ceid=JP:ja"
+  rss_mode: "signal_only"
   release_day: "2025-01-12"
   manual: false
   auto_publish: true
@@ -320,7 +322,8 @@
 - name: "魔男のイチ"
   slug: "madan-no-ichi"
   run_priority: 1
-  rss: ""
+  rss: "https://news.google.com/rss/search?q=魔男のイチ+第+話&hl=ja&gl=JP&ceid=JP:ja"
+  rss_mode: "signal_only"
   release_day: "2025-01-27"
   manual: false
   auto_publish: true

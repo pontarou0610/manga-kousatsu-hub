@@ -48,7 +48,7 @@ jobs:
           if (!(Test-Path data)) { New-Item -ItemType Directory -Path data | Out-Null }
           $statePath = "data/state.json"
           if (!(Test-Path $statePath)) {
-            '{"entries":[],"glossary_progress":{},"backlog_progress":{}}' | Out-File $statePath -Encoding UTF8
+            '{"entries":[],"glossary_progress":{},"backlog_progress":{},"chapter_progress":{}}' | Out-File $statePath -Encoding UTF8
           } else {
             try {
               $state = Get-Content $statePath -Raw | ConvertFrom-Json
@@ -59,6 +59,7 @@ jobs:
             if (-not ($state.PSObject.Properties.Name -contains "entries")) { $state | Add-Member -NotePropertyName entries -NotePropertyValue @() }
             if (-not ($state.PSObject.Properties.Name -contains "glossary_progress")) { $state | Add-Member -NotePropertyName glossary_progress -NotePropertyValue @{} }
             if (-not ($state.PSObject.Properties.Name -contains "backlog_progress")) { $state | Add-Member -NotePropertyName backlog_progress -NotePropertyValue @{} }
+            if (-not ($state.PSObject.Properties.Name -contains "chapter_progress")) { $state | Add-Member -NotePropertyName chapter_progress -NotePropertyValue @{} }
             $state | ConvertTo-Json -Depth 10 | Set-Content $statePath -Encoding UTF8
           }
 

@@ -77,6 +77,7 @@ def load_state() -> Dict[str, Any]:
         "entries": [],
         "glossary_progress": {},
         "backlog_progress": {},
+        "chapter_progress": {},
     }
     if STATE_FILE.exists():
         with open(STATE_FILE, 'r', encoding='utf-8') as f:
@@ -98,6 +99,8 @@ def load_state() -> Dict[str, Any]:
             state["glossary_progress"] = {}
         if not isinstance(state.get("backlog_progress"), dict):
             state["backlog_progress"] = {}
+        if not isinstance(state.get("chapter_progress"), dict):
+            state["chapter_progress"] = {}
 
         return state
 
@@ -249,6 +252,47 @@ def has_existing_variant_post(series_slug: str, variant: str, chapter_number: in
             return True
 
     return False
+
+
+def get_max_variant_chapter(series_slug: str, variant: str) -> int:
+    series_root = CONTENT_DIR / series_slug
+    if not series_root.exists():
+        return 0
+
+    max_ch = 0
+    for path in series_root.rglob("*.md"):
+        if "glossary" in path.parts:
+            continue
+        try:
+            post = frontmatter.load(path)
+        except Exception:
+            continue
+        if post.get("article_variant") != variant:
+            continue
+        ch = extract_chapter_number(post.get("chapter"))
+        if ch is not None and ch > max_ch:
+            max_ch = ch
+
+    return max_ch
+
+
+def get_last_generated_chapter(state: Dict[str, Any], series_slug: str, variant: str) -> int:
+    progress = state.get("chapter_progress", {}).get(series_slug)
+    if isinstance(progress, int) and progress > 0:
+        return progress
+    return get_max_variant_chapter(series_slug, variant)
+
+
+def set_last_generated_chapter(state: Dict[str, Any], series_slug: str, chapter_number: int) -> None:
+    if chapter_number is None:
+        return
+    if "chapter_progress" not in state or not isinstance(state.get("chapter_progress"), dict):
+        state["chapter_progress"] = {}
+    prev = state["chapter_progress"].get(series_slug)
+    if isinstance(prev, int):
+        state["chapter_progress"][series_slug] = max(prev, int(chapter_number))
+    else:
+        state["chapter_progress"][series_slug] = int(chapter_number)
 
 
 def ensure_ogp(series_name: str, title: str, dt: datetime, slug: str) -> List[str]:
@@ -546,6 +590,7 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
     # Check RSS feed
     if series.get('rss'):
         feed = feedparser.parse(series['rss'])
+        rss_mode = (series.get("rss_mode") or "chapter_from_title").strip()
 
         # Process oldest-first so we can "catch up" gradually.
         candidates = []
@@ -564,32 +609,56 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
 
             print(f"[NEW] New entry: {entry.title}")
 
-            chapter_number = extract_chapter_number(entry.title)
-            if chapter_number is None:
-                # Fallback: put it in a reasonable bucket.
-                chapter_number = 0
-            chapter_label = normalize_chapter_label(series["slug"], chapter_number, str(entry.title))
+            if rss_mode == "signal_only":
+                # Treat any new RSS item as a "new chapter signal".
+                last = get_last_generated_chapter(state, series["slug"], variant="spoiler")
+                chapter_number = last + 1
+                chapter_label = f"第{chapter_number}話"
+            else:
+                chapter_number = extract_chapter_number(entry.title)
+                if chapter_number is None:
+                    # Fallback: put it in a reasonable bucket.
+                    chapter_number = 0
+                chapter_label = normalize_chapter_label(series["slug"], chapter_number, str(entry.title))
 
             created_any = False
             if GENERATE_SPOILER_POSTS and 'spoiler' in series.get('content_modes', []):
                 if remaining_posts <= created_posts:
                     break
-                content = generate_spoiler_content(series, chapter_label)
-                if content and create_spoiler_post(series, chapter_label, chapter_number, dt, content):
-                    created_posts += 1
+                if chapter_number and has_existing_variant_post(series["slug"], "spoiler", chapter_number):
+                    # Consider this RSS item "handled" if the post already exists.
+                    state["entries"].append(entry_hash)
+                    entries_set.add(entry_hash)
+                    set_last_generated_chapter(state, series["slug"], chapter_number)
                     created_any = True
+                    print(f">> RSS spoiler already exists for {series['slug']} #{chapter_number}")
+                else:
+                    content = generate_spoiler_content(series, chapter_label)
+                    if content and create_spoiler_post(series, chapter_label, chapter_number, dt, content):
+                        created_posts += 1
+                        created_any = True
+                        set_last_generated_chapter(state, series["slug"], chapter_number)
 
             if GENERATE_INSIGHT_POSTS and 'insight' in series.get('content_modes', []):
                 if remaining_posts <= created_posts:
                     break
-                content = generate_insight_content(series, str(entry.title))
-                if content and create_insight_post(series, chapter_label, chapter_number, dt, content):
-                    created_posts += 1
+                if chapter_number and has_existing_variant_post(series["slug"], "insight", chapter_number):
+                    state["entries"].append(entry_hash)
+                    entries_set.add(entry_hash)
+                    set_last_generated_chapter(state, series["slug"], chapter_number)
                     created_any = True
+                    print(f">> RSS insight already exists for {series['slug']} #{chapter_number}")
+                else:
+                    content = generate_insight_content(series, str(entry.title))
+                    if content and create_insight_post(series, chapter_label, chapter_number, dt, content):
+                        created_posts += 1
+                        created_any = True
+                        set_last_generated_chapter(state, series["slug"], chapter_number)
 
             if created_any:
-                state['entries'].append(entry_hash)
-                entries_set.add(entry_hash)
+                if entry_hash not in entries_set:
+                    state['entries'].append(entry_hash)
+                    entries_set.add(entry_hash)
             else:
                 print(f"[WARN] No post generated for RSS entry (will retry): {entry.title}")
     
@@ -661,6 +730,7 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                     elif has_existing_variant_post(series["slug"], "spoiler", ch_num):
                         state["entries"].append(key)
                         entries_set.add(key)
+                        set_last_generated_chapter(state, series["slug"], ch_num)
                         created_any = True
                         print(f">> Backlog spoiler already exists for {series['slug']} #{ch_num}")
                     else:
@@ -670,6 +740,7 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                             entries_set.add(key)
                             created_posts += 1
                             created_any = True
+                            set_last_generated_chapter(state, series["slug"], ch_num)
 
                 if "insight" in keys_by_mode and GENERATE_INSIGHT_POSTS and "insight" in series.get("content_modes", []):
                     if remaining_posts <= created_posts:
@@ -680,6 +751,7 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                     elif has_existing_variant_post(series["slug"], "insight", ch_num):
                         state["entries"].append(key)
                         entries_set.add(key)
+                        set_last_generated_chapter(state, series["slug"], ch_num)
                         created_any = True
                         print(f">> Backlog insight already exists for {series['slug']} #{ch_num}")
                     else:
@@ -690,6 +762,7 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                             entries_set.add(key)
                             created_posts += 1
                             created_any = True
+                            set_last_generated_chapter(state, series["slug"], ch_num)
 
                 if not created_any:
                     # Keep it pending for next run (e.g., API error).
