@@ -163,7 +163,11 @@ def main() -> int:
         slug = series.get("slug")
         name = series.get("name", slug)
         rss = (series.get("rss") or "").strip()
+        rss_mode = (series.get("rss_mode") or "").strip()
         if not slug:
+            continue
+        if rss_mode == "signal_only":
+            print(f"[INFO] {name}: rss_mode=signal_only のためスキップ")
             continue
         if not rss:
             print(f"[INFO] {name}: rss未設定のためスキップ")
@@ -188,4 +192,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

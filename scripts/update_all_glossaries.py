@@ -12,6 +12,7 @@ from pathlib import Path
 SERIES = [
     "madan-no-ichi",
     "heavenly-delusion",
+    "dandadan",
 ]
 
 

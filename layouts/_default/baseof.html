@@ -544,22 +544,14 @@
             <h3 style="margin:0;">シリーズ</h3>
             <ul class="series-list">
               {{ $currentSeries := .Params.series }}
-              {{ $activeSlugs := slice "madan-no-ichi" "heavenly-delusion" }}
-              {{ $seriesMap := dict }}
-              {{ range .Site.Data.series }}
-                {{ if not .manual }}
-                  {{ $seriesMap = merge $seriesMap (dict .slug .) }}
-                {{ end }}
-              {{ end }}
-              {{ range $activeSlugs }}
-                {{ with index $seriesMap . }}
-                  {{ $name := .name }}
-                  {{ $slug := .slug }}
-                  {{ $link := printf "/series/%s/" $slug }}
-                  <li class="{{ if eq $currentSeries $name }}is-active{{ end }}">
-                    <a href="{{ $link }}">{{ $name }}</a>
-                  </li>
-                {{ end }}
+              {{ $activeSeries := sort (where .Site.Data.series "manual" false) "run_priority" "asc" }}
+              {{ range $activeSeries }}
+                {{ $name := .name }}
+                {{ $slug := .slug }}
+                {{ $link := printf "/series/%s/" $slug }}
+                <li class="{{ if eq $currentSeries $name }}is-active{{ end }}">
+                  <a href="{{ $link }}">{{ $name }}</a>
+                </li>
               {{ end }}
             </ul>
           </div>
@@ -588,6 +580,5 @@
     </footer>
   </body>
 </html>
-
 
 

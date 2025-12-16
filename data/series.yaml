@@ -46,6 +46,50 @@
     prohibited: "諷論中傷や懧測だけの断定、暴力的・過劇な表現は避ける。"
     official_note: "公式情報に基づき、推測は推測と明記する。"
 
+- name: "ダンダダン"
+  slug: "dandadan"
+  run_priority: 3
+  rss: "https://news.google.com/rss/search?q=ダンダダン+第+話&hl=ja&gl=JP&ceid=JP:ja"
+  rss_mode: "signal_only"
+  release_day: "2025-01-22"
+  manual: false
+  auto_publish: true
+  official_links:
+    - label: "少年ジャンプ+（公式）"
+      url: "https://shonenjumpplus.com/episode/3269632237310729754"
+  tags:
+    - "オカルト"
+    - "バトル"
+    - "ジャンプ+"
+  content_modes:
+    - "spoiler"
+    - "insight"
+    - "glossary"
+  research_sources:
+    - "https://shonenjumpplus.com/episode/3269632237310729754"
+    - "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%80%E3%83%80%E3%83%B3"
+    - "https://ciatr.jp/"
+    - "https://y-mangamatome.hatenablog.com/"
+  fallback_topics:
+    - "怪異・宇宙人・超能力のルール整理"
+    - "主要キャラの目的と関係性の整理"
+    - "伏線・用語の初出を追う読み方"
+  affiliates:
+    amazon:
+      asin: ""
+    rakuten:
+      params: ""
+    others: []
+    priority:
+      - "Amazon"
+      - "Rakuten"
+  defaults:
+    disclaimer: "公式情報の範囲で設定・用語を整理し、推測は推測と明記します。"
+    synopsis_prefix: "怪異と宇宙人が交差する世界で"
+    tone: "落ち着いた敬体で、根拠を示しつつ丁寧にまとめる。"
+    prohibited: "誹謗中傷や憶測だけの断定、暴力的・過激な表現は避ける。"
+    official_note: "公式情報に基づき、推測は推測と明記する。"
+
 - name: "スキップとローファー"
   slug: "skip-and-loafer"
   rss: ""
