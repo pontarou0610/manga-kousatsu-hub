@@ -544,7 +544,7 @@
             <h3 style="margin:0;">シリーズ</h3>
             <ul class="series-list">
               {{ $currentSeries := .Params.series }}
-              {{ $activeSlugs := slice "madan-no-ichi" "heavenly-delusion" "dead-mount-death-play" }}
+              {{ $activeSlugs := slice "madan-no-ichi" "heavenly-delusion" }}
               {{ $seriesMap := dict }}
               {{ range .Site.Data.series }}
                 {{ if not .manual }}
@@ -588,7 +588,6 @@
     </footer>
   </body>
 </html>
-
 
 
 

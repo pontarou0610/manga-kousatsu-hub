@@ -91,7 +91,7 @@
   rss: "https://news.google.com/rss/search?q=デッドマウント・デスプレイ+第+話&hl=ja&gl=JP&ceid=JP:ja"
   rss_mode: "signal_only"
   release_day: "2025-01-12"
-  manual: false
+  manual: true
   auto_publish: true
   official_links:
     - label: "ガンガンJOKER公式"

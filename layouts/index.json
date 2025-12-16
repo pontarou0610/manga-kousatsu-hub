@@ -1,4 +1,10 @@
-{{- $pages := (where .Site.RegularPages "Type" "posts") -}}
+{{- $activeSlugs := slice -}}
+{{- range .Site.Data.series -}}
+  {{- if not .manual -}}
+    {{- $activeSlugs = $activeSlugs | append .slug -}}
+  {{- end -}}
+{{- end -}}
+{{- $pages := (where (where .Site.RegularPages "Type" "posts") "Params.series_slug" "in" $activeSlugs) -}}
 [
 {{- range $index, $page := $pages }}
   {{- if $index }},{{ end }}
