@@ -616,43 +616,83 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                 ch_num = extract_chapter_number(item.get("chapter_number") or item.get("chapter") or item.get("title"))
                 if ch_num is None:
                     continue
-                key = generate_hash(f"backlog:{series['slug']}:{ch_num}:{','.join(item.get('force_modes') or [])}")
-                if key in entries_set:
-                    continue
-                dt = parse_rfc3339(str(item.get("date") or ""))
-                pending.append((dt, ch_num, item, key))
 
-            pending.sort(key=lambda x: (x[0], x[1]))
-            for dt, ch_num, item, key in pending[:BACKLOG_ENTRIES_PER_RUN]:
-                if remaining_posts <= created_posts:
-                    break
-                chapter_label = normalize_chapter_label(series["slug"], ch_num, str(item.get("chapter") or ""))
                 modes = item.get("force_modes") or []
                 if not isinstance(modes, list):
                     modes = []
 
+                # Backward compatible: older key format used the joined force_modes list.
+                old_key = generate_hash(f"backlog:{series['slug']}:{ch_num}:{','.join(modes)}")
+                if old_key in entries_set:
+                    continue
+
+                # Only consider modes that are enabled for this run.
+                actionable_modes: List[str] = []
+                for mode in modes:
+                    if mode == "spoiler" and GENERATE_SPOILER_POSTS and "spoiler" in series.get("content_modes", []):
+                        actionable_modes.append(mode)
+                    elif mode == "insight" and GENERATE_INSIGHT_POSTS and "insight" in series.get("content_modes", []):
+                        actionable_modes.append(mode)
+
+                # If no actionable modes (e.g. insight-only entry but insight generation disabled), skip for now.
+                if not actionable_modes:
+                    continue
+
+                keys_by_mode = {mode: generate_hash(f"backlog:{series['slug']}:{ch_num}:{mode}") for mode in actionable_modes}
+                if all(k in entries_set for k in keys_by_mode.values()):
+                    continue
+
+                dt = parse_rfc3339(str(item.get("date") or ""))
+                pending.append((dt, ch_num, item, keys_by_mode))
+
+            pending.sort(key=lambda x: (x[0], x[1]))
+            for dt, ch_num, item, keys_by_mode in pending[:BACKLOG_ENTRIES_PER_RUN]:
+                if remaining_posts <= created_posts:
+                    break
+                chapter_label = normalize_chapter_label(series["slug"], ch_num, str(item.get("chapter") or ""))
+
                 created_any = False
-                if "spoiler" in modes and GENERATE_SPOILER_POSTS and "spoiler" in series.get("content_modes", []):
+                if "spoiler" in keys_by_mode and GENERATE_SPOILER_POSTS and "spoiler" in series.get("content_modes", []):
                     if remaining_posts <= created_posts:
                         break
-                    content = generate_spoiler_content(series, chapter_label)
-                    if content and create_spoiler_post(series, chapter_label, ch_num, dt, content):
-                        created_posts += 1
+                    key = keys_by_mode["spoiler"]
+                    if key in entries_set:
+                        pass
+                    elif has_existing_variant_post(series["slug"], "spoiler", ch_num):
+                        state["entries"].append(key)
+                        entries_set.add(key)
                         created_any = True
+                        print(f">> Backlog spoiler already exists for {series['slug']} #{ch_num}")
+                    else:
+                        content = generate_spoiler_content(series, chapter_label)
+                        if content and create_spoiler_post(series, chapter_label, ch_num, dt, content):
+                            state["entries"].append(key)
+                            entries_set.add(key)
+                            created_posts += 1
+                            created_any = True
 
-                if "insight" in modes and GENERATE_INSIGHT_POSTS and "insight" in series.get("content_modes", []):
+                if "insight" in keys_by_mode and GENERATE_INSIGHT_POSTS and "insight" in series.get("content_modes", []):
                     if remaining_posts <= created_posts:
                         break
-                    topic = str(item.get("title") or chapter_label)
-                    content = generate_insight_content(series, topic)
-                    if content and create_insight_post(series, chapter_label, ch_num, dt, content):
-                        created_posts += 1
+                    key = keys_by_mode["insight"]
+                    if key in entries_set:
+                        pass
+                    elif has_existing_variant_post(series["slug"], "insight", ch_num):
+                        state["entries"].append(key)
+                        entries_set.add(key)
                         created_any = True
+                        print(f">> Backlog insight already exists for {series['slug']} #{ch_num}")
+                    else:
+                        topic = str(item.get("title") or chapter_label)
+                        content = generate_insight_content(series, topic)
+                        if content and create_insight_post(series, chapter_label, ch_num, dt, content):
+                            state["entries"].append(key)
+                            entries_set.add(key)
+                            created_posts += 1
+                            created_any = True
 
-                if created_any:
-                    state["entries"].append(key)
-                    entries_set.add(key)
-                else:
+                if not created_any:
+                    # Keep it pending for next run (e.g., API error).
                     print(f"[WARN] No post generated for backlog entry (will retry): {series['slug']} #{ch_num}")
 
     return created_posts
