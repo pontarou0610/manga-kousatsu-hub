@@ -77,6 +77,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
+      - name: Update backlog (from sources)
+        run: python scripts/update_backlog_from_sources.py
+
       - name: Generate posts
         run: python scripts/generate_posts.py
 
