@@ -26,7 +26,7 @@ images:
 キングダム第24話のネタバレと感想です。重要な展開が続くため、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [キングダム 第23話 最新話ネタバレ・感想](/posts/kingdom/2025/12/kinkutamu-di-23hua-netaharekao-cha-20251207/)
+> 前回のネタバレ: [キングダム 第23話 最新話ネタバレ・感想](/posts/2025/12/kinkutamu-di-23hua-netaharekao-cha-20251207/)
 
 ## 結論：第24話のポイント（ネタバレあり）
 - 信が新たな戦術を考案し、仲間と共有する。

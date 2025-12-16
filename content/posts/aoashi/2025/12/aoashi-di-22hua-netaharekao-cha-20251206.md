@@ -28,7 +28,7 @@ noindex: true
 アオアシの第22話の内容を時系列でまとめました。ネタバレが含まれるのでご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [アオアシ 第21話最新話ネタバレ・感想・考察](/posts/aoashi/2025/12/aoashi-di-21hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [アオアシ 第21話最新話ネタバレ・感想・考察](/posts/2025/12/aoashi-di-21hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第22話のポイント3つ（ネタバレあり）

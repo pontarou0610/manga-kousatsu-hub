@@ -26,7 +26,7 @@ images:
 キングダムの第15話の内容をまとめました！ネタバレが含まれていますので、注意してくださいね。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [キングダム 第14話最新話ネタバレ・感想・考察](/posts/kingdom/2025/12/kinkutamu-di-14hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [キングダム 第14話最新話ネタバレ・感想・考察](/posts/2025/12/kinkutamu-di-14hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第15話のポイント3つ（ネタバレあり）

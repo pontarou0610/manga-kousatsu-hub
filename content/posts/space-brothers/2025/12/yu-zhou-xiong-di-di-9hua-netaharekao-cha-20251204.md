@@ -31,7 +31,7 @@ noindex: true
 ネタバレ注意でお楽しみください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [宇宙兄弟 第8話最新話ネタバレ・感想・考察](/posts/space-brothers/2025/12/yu-zhou-xiong-di-di-8hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [宇宙兄弟 第8話最新話ネタバレ・感想・考察](/posts/2025/12/yu-zhou-xiong-di-di-8hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第9話のポイント3つ（ネタバレあり）

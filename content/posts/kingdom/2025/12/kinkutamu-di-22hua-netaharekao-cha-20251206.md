@@ -28,7 +28,7 @@ noindex: true
 キングダムの第22話の内容をお届けします。ネタバレが含まれますので、注意してご覧ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [キングダム 第21話最新話ネタバレ・感想・考察](/posts/kingdom/2025/12/kinkutamu-di-21hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [キングダム 第21話最新話ネタバレ・感想・考察](/posts/2025/12/kinkutamu-di-21hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第22話のポイント3つ（ネタバレあり）

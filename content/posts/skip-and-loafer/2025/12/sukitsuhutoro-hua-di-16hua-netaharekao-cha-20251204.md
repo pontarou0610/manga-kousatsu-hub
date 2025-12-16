@@ -29,7 +29,7 @@ noindex: true
 ネタバレが含まれるので、注意してお読みください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [スキップとローファー 第15話最新話ネタバレ・感想・考察](/posts/skip-and-loafer/2025/12/sukitsuhutoro-hua-di-15hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [スキップとローファー 第15話最新話ネタバレ・感想・考察](/posts/2025/12/sukitsuhutoro-hua-di-15hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第16話のポイント3つ（ネタバレあり）

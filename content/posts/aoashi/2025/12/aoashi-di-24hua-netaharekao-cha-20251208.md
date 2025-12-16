@@ -28,7 +28,7 @@ noindex: true
 アオアシの第24話についての内容をまとめました。ネタバレが含まれていますので、注意してお読みください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [アオアシ 第23話最新話ネタバレ・感想・考察](/posts/aoashi/2025/12/aoashi-di-23hua-netaharekao-cha-20251207/)
+> 前回のネタバレ: [アオアシ 第23話最新話ネタバレ・感想・考察](/posts/2025/12/aoashi-di-23hua-netaharekao-cha-20251207/)
 
 
 ## 結論：第24話のポイント3つ（ネタバレあり）

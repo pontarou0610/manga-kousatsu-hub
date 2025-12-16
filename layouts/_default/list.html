@@ -4,6 +4,15 @@
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
 
     {{ $pages := .Pages }}
+    {{ if eq .Section "posts" }}
+      {{ $activeSlugs := slice }}
+      {{ range .Site.Data.series }}
+        {{ if not .manual }}
+          {{ $activeSlugs = $activeSlugs | append .slug }}
+        {{ end }}
+      {{ end }}
+      {{ $pages = where $pages "Params.series_slug" "in" $activeSlugs }}
+    {{ end }}
     {{ if eq .Section "series" }}
       {{ $pages = where $pages "Params.noindex" "ne" true }}
     {{ end }}

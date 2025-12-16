@@ -30,7 +30,7 @@ noindex: true
 第22話では、宇宙兄弟たちの成長が描かれます。ネタバレが含まれるので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [宇宙兄弟 第21話最新話ネタバレ・感想・考察](/posts/space-brothers/2025/12/yu-zhou-xiong-di-di-21hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [宇宙兄弟 第21話最新話ネタバレ・感想・考察](/posts/2025/12/yu-zhou-xiong-di-di-21hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第22話のポイント3つ（ネタバレあり）

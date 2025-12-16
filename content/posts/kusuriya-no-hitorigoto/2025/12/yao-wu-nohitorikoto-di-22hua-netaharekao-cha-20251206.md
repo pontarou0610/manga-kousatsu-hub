@@ -30,7 +30,7 @@ noindex: true
 第22話では新たな謎が浮かび上がり、キャラクターたちの心情が深く描かれます。ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [薬屋のひとりごと 第21話最新話ネタバレ・感想・考察](/posts/kusuriya-no-hitorigoto/2025/12/yao-wu-nohitorikoto-di-21hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [薬屋のひとりごと 第21話最新話ネタバレ・感想・考察](/posts/2025/12/yao-wu-nohitorikoto-di-21hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第22話のポイント3つ（ネタバレあり）

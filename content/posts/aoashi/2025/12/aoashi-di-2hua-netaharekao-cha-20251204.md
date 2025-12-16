@@ -26,7 +26,7 @@ images:
 アオアシの第2話が公開されました！今回はストーリーの展開やキャラクターの心情に迫りますので、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [アオアシ 第1話最新話ネタバレ・感想・考察](/posts/aoashi/2025/12/aoashi-di-1hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [アオアシ 第1話最新話ネタバレ・感想・考察](/posts/2025/12/aoashi-di-1hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第2話のポイント3つ（ネタバレあり）

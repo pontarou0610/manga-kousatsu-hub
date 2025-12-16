@@ -15,9 +15,10 @@
     const meta = document.getElementById("search-meta");
     let idx;
     let documents = [];
+    const indexUrl = "{{ "index.json" | absURL }}";
 
     async function initSearch() {
-      const response = await fetch("/index.json");
+      const response = await fetch(indexUrl);
       documents = await response.json();
       idx = lunr(function () {
         this.ref("url");

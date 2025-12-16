@@ -30,7 +30,7 @@ noindex: true
 第24話では新たな展開が待っており、物語がさらに深まります。ネタバレが含まれますので、ご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [薬屋のひとりごと 第23話最新話ネタバレ・感想・考察](/posts/kusuriya-no-hitorigoto/2025/12/yao-wu-nohitorikoto-di-23hua-netaharekao-cha-20251207/)
+> 前回のネタバレ: [薬屋のひとりごと 第23話最新話ネタバレ・感想・考察](/posts/2025/12/yao-wu-nohitorikoto-di-23hua-netaharekao-cha-20251207/)
 
 
 ## 結論：第24話のポイント3つ（ネタバレあり）

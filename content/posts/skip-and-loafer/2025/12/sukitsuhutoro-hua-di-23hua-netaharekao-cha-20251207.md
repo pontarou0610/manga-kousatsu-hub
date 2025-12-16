@@ -28,7 +28,7 @@ noindex: true
 第23話では、物語が新たな展開を迎えます。ネタバレが含まれるので注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [スキップとローファー 第22話最新話ネタバレ・感想・考察](/posts/skip-and-loafer/2025/12/sukitsuhutoro-hua-di-22hua-netaharekao-cha-20251206/)
+> 前回のネタバレ: [スキップとローファー 第22話最新話ネタバレ・感想・考察](/posts/2025/12/sukitsuhutoro-hua-di-22hua-netaharekao-cha-20251206/)
 
 
 ## 結論：第23話のポイント3つ（ネタバレあり）

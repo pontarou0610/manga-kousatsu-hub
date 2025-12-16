@@ -28,7 +28,7 @@ noindex: true
 今回はゴールデンカムイ第21話の内容を詳しくまとめます。ネタバレが含まれますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [ゴールデンカムイ 第20話最新話ネタバレ・感想・考察](/posts/golden-kamuy/2025/12/ko-rutenkamui-di-20hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [ゴールデンカムイ 第20話最新話ネタバレ・感想・考察](/posts/2025/12/ko-rutenkamui-di-20hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第21話のポイント3つ（ネタバレあり）

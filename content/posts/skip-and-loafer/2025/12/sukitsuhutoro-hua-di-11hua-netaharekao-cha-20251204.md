@@ -29,7 +29,7 @@ noindex: true
 ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [スキップとローファー 第10話最新話ネタバレ・感想・考察](/posts/skip-and-loafer/2025/12/sukitsuhutoro-hua-di-10hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [スキップとローファー 第10話最新話ネタバレ・感想・考察](/posts/2025/12/sukitsuhutoro-hua-di-10hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第11話のポイント3つ（ネタバレあり）

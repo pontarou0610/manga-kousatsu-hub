@@ -32,7 +32,7 @@ noindex: true
 さあ、一緒に内容を振り返りましょう！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [ゴールデンカムイ 第19話最新話ネタバレ・感想・考察](/posts/golden-kamuy/2025/12/ko-rutenkamui-di-19hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [ゴールデンカムイ 第19話最新話ネタバレ・感想・考察](/posts/2025/12/ko-rutenkamui-di-19hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第20話のポイント3つ（ネタバレあり）

@@ -31,7 +31,7 @@ noindex: true
 ネタバレが含まれるので、ご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [薬屋のひとりごと 第9話 最新話ネタバレ・感想・考察](/posts/kusuriya-no-hitorigoto/2025/12/yao-wu-nohitorikoto-di-9hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [薬屋のひとりごと 第9話 最新話ネタバレ・感想・考察](/posts/2025/12/yao-wu-nohitorikoto-di-9hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第10話のポイント（ネタバレあり）

@@ -32,7 +32,7 @@ noindex: true
 楽しんで読んでください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [ゴールデンカムイ 第17話最新話ネタバレ・感想・考察](/posts/golden-kamuy/2025/12/ko-rutenkamui-di-17hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [ゴールデンカムイ 第17話最新話ネタバレ・感想・考察](/posts/2025/12/ko-rutenkamui-di-17hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第18話のポイント3つ（ネタバレあり）

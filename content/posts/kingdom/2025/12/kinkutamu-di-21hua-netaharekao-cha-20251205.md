@@ -28,7 +28,7 @@ noindex: true
 第21話の内容をまとめました。ネタバレが含まれますのでご注意ください！それでは、キングダムの最新話を楽しんでください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [キングダム 第20話最新話ネタバレ・感想・考察](/posts/kingdom/2025/12/kinkutamu-di-20hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [キングダム 第20話最新話ネタバレ・感想・考察](/posts/2025/12/kinkutamu-di-20hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第21話のポイント3つ（ネタバレあり）

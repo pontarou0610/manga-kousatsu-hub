@@ -31,7 +31,7 @@ noindex: true
 ネタバレが含まれますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [薬屋のひとりごと 第12話最新話ネタバレ・感想・考察](/posts/kusuriya-no-hitorigoto/2025/12/yao-wu-nohitorikoto-di-12hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [薬屋のひとりごと 第12話最新話ネタバレ・感想・考察](/posts/2025/12/yao-wu-nohitorikoto-di-12hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第13話のポイント3つ（ネタバレあり）

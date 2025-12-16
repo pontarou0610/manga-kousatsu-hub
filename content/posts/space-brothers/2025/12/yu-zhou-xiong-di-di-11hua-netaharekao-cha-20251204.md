@@ -31,7 +31,7 @@ noindex: true
 ネタバレが含まれますので、ご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [宇宙兄弟 第10話最新話ネタバレ・感想・考察](/posts/space-brothers/2025/12/yu-zhou-xiong-di-di-10hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [宇宙兄弟 第10話最新話ネタバレ・感想・考察](/posts/2025/12/yu-zhou-xiong-di-di-10hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第11話のポイント3つ（ネタバレあり）

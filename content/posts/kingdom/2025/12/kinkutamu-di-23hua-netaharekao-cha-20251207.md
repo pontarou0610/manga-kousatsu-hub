@@ -28,7 +28,7 @@ noindex: true
 キングダムの第23話では、物語がさらに深まる重要な展開が待っています。ネタバレが含まれますので、ご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [キングダム 第22話最新話ネタバレ・感想・考察](/posts/kingdom/2025/12/kinkutamu-di-22hua-netaharekao-cha-20251206/)
+> 前回のネタバレ: [キングダム 第22話最新話ネタバレ・感想・考察](/posts/2025/12/kinkutamu-di-22hua-netaharekao-cha-20251206/)
 
 
 ## 結論：第23話のポイント3つ（ネタバレあり）

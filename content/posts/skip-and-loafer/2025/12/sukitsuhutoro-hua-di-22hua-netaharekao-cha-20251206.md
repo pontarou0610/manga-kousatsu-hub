@@ -30,7 +30,7 @@ noindex: true
 第22話の内容をお届けします。ネタバレが含まれますので、ご注意ください。友達との関係や成長が描かれる素敵なエピソードです。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [スキップとローファー 第21話最新話ネタバレ・感想・考察](/posts/skip-and-loafer/2025/12/sukitsuhutoro-hua-di-21hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [スキップとローファー 第21話最新話ネタバレ・感想・考察](/posts/2025/12/sukitsuhutoro-hua-di-21hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第22話のポイント3つ（ネタバレあり）

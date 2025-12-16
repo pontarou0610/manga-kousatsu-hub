@@ -30,7 +30,7 @@ noindex: true
 第24話では、宇宙飛行士たちの訓練や心の葛藤が描かれます。ネタバレが含まれますのでご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [宇宙兄弟 第23話最新話ネタバレ・感想・考察](/posts/space-brothers/2025/12/yu-zhou-xiong-di-di-23hua-netaharekao-cha-20251207/)
+> 前回のネタバレ: [宇宙兄弟 第23話最新話ネタバレ・感想・考察](/posts/2025/12/yu-zhou-xiong-di-di-23hua-netaharekao-cha-20251207/)
 
 
 ## 結論：第24話のポイント3つ（ネタバレあり）

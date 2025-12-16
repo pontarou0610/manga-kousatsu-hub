@@ -28,7 +28,7 @@ noindex: true
 第21話では、登場人物たちの心情が深く描かれています。ネタバレが含まれるので、注意してお読みください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [スキップとローファー 第20話最新話ネタバレ・感想・考察](/posts/skip-and-loafer/2025/12/sukitsuhutoro-hua-di-20hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [スキップとローファー 第20話最新話ネタバレ・感想・考察](/posts/2025/12/sukitsuhutoro-hua-di-20hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第21話のポイント3つ（ネタバレあり）

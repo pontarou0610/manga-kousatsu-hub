@@ -30,7 +30,7 @@ noindex: true
 第23話では、物語が新たな展開を迎えます。ネタバレ注意でお楽しみください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [薬屋のひとりごと 第22話最新話ネタバレ・感想・考察](/posts/kusuriya-no-hitorigoto/2025/12/yao-wu-nohitorikoto-di-22hua-netaharekao-cha-20251206/)
+> 前回のネタバレ: [薬屋のひとりごと 第22話最新話ネタバレ・感想・考察](/posts/2025/12/yao-wu-nohitorikoto-di-22hua-netaharekao-cha-20251206/)
 
 
 ## 結論：第23話のポイント3つ（ネタバレあり）

@@ -26,7 +26,7 @@ images:
 アオアシの第21話が公開されました！今回は重要な展開が盛りだくさんですので、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [アオアシ 第20話最新話ネタバレ・感想・考察](/posts/aoashi/2025/12/aoashi-di-20hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [アオアシ 第20話最新話ネタバレ・感想・考察](/posts/2025/12/aoashi-di-20hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第21話のポイント3つ（ネタバレあり）

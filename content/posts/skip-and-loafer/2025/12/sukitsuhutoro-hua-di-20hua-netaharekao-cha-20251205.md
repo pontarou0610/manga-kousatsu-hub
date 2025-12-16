@@ -26,7 +26,7 @@ images:
 第20話では新たな展開が盛りだくさん！ネタバレ注意でお届けしますので、心の準備をしてお読みください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [スキップとローファー 第19話最新話ネタバレ・感想・考察](/posts/skip-and-loafer/2025/12/sukitsuhutoro-hua-di-19hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [スキップとローファー 第19話最新話ネタバレ・感想・考察](/posts/2025/12/sukitsuhutoro-hua-di-19hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第20話のポイント3つ（ネタバレあり）

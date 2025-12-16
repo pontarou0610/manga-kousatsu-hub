@@ -57,82 +57,70 @@
     {{- range .AlternativeOutputFormats }}
       <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" />
     {{- end }}
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "url": "{{ .Site.BaseURL }}",
-        "name": {{ .Site.Title | jsonify }},
-        "description": {{ .Site.Params.siteDescription | jsonify }},
-        "inLanguage": "ja-JP",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "{{ .Site.BaseURL }}Search/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
-      }
-    </script>
+    {{ $searchTarget := printf "%ssearch/?q={search_term_string}" .Site.BaseURL }}
+    {{ $websiteLD := dict
+      "@context" "https://schema.org"
+      "@type" "WebSite"
+      "url" .Site.BaseURL
+      "name" .Site.Title
+      "description" .Site.Params.siteDescription
+      "inLanguage" "ja-JP"
+      "potentialAction" (dict
+        "@type" "SearchAction"
+        "target" $searchTarget
+        "query-input" "required name=search_term_string"
+      )
+    }}
+    <script type="application/ld+json">{{ $websiteLD | jsonify | safeJS }}</script>
     {{ if .IsPage }}
-      <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Article",
-          "headline": {{ .Title | jsonify }},
-          "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
-          "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
-          "url": "{{ .Permalink }}",
-          "inLanguage": "ja-JP",
-          "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "{{ .Permalink }}"
-          },
-          "image": {{ $image | absURL | jsonify }},
-          "author": {
-            "@type": "Organization",
-            "name": {{ .Site.Title | jsonify }}
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": {{ .Site.Title | jsonify }},
-            "logo": {
-              "@type": "ImageObject",
-              "url": {{ .Site.Params.defaultOgImage | absURL | jsonify }}
-            }
-          },
-          {{ with .Params.series }}
-            "articleSection": {{ . | jsonify }},
-          {{ else }}
-            {{ if .Section }}
-              "articleSection": {{ .Section | humanize | jsonify }},
-            {{ end }}
-          {{ end }}
-          {{ with .Params.tags }}"keywords": {{ delimit . ", " | jsonify }},{{ end }}
-          "description": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Site.Params.siteDescription | jsonify }}{{ end }}
-        }
-      </script>
-      {{ $breadcrumbs := slice (dict "name" "Home" "url" .Site.BaseURL) }}
+      {{ $articleLD := dict
+        "@context" "https://schema.org"
+        "@type" "Article"
+        "headline" .Title
+        "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+        "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+        "url" .Permalink
+        "inLanguage" "ja-JP"
+        "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+        "image" ($image | absURL)
+        "author" (dict "@type" "Organization" "name" .Site.Title)
+        "publisher" (dict
+          "@type" "Organization"
+          "name" .Site.Title
+          "logo" (dict "@type" "ImageObject" "url" (.Site.Params.defaultOgImage | absURL))
+        )
+        "description" (cond (ne .Description "") .Description .Site.Params.siteDescription)
+      }}
       {{ with .Params.series }}
-        {{ $seriesURL := printf "%sseries/%s/" $.Site.BaseURL (urlize .) }}
-        {{ $breadcrumbs = $breadcrumbs | append (dict "name" . "url" $seriesURL) }}
+        {{ $articleLD = merge $articleLD (dict "articleSection" .) }}
+      {{ else }}
+        {{ if .Section }}
+          {{ $articleLD = merge $articleLD (dict "articleSection" (.Section | humanize)) }}
+        {{ end }}
+      {{ end }}
+      {{ with .Params.tags }}
+        {{ $articleLD = merge $articleLD (dict "keywords" (delimit . ", ")) }}
+      {{ end }}
+      <script type="application/ld+json">{{ $articleLD | jsonify | safeJS }}</script>
+
+      {{ $breadcrumbs := slice (dict "name" "Home" "url" .Site.BaseURL) }}
+      {{ with .Params.series_slug }}
+        {{ $seriesName := $.Params.series }}
+        {{ $seriesURL := printf "%sseries/%s/" $.Site.BaseURL . }}
+        {{ if $seriesName }}
+          {{ $breadcrumbs = $breadcrumbs | append (dict "name" $seriesName "url" $seriesURL) }}
+        {{ else }}
+          {{ $breadcrumbs = $breadcrumbs | append (dict "name" . "url" $seriesURL) }}
+        {{ end }}
       {{ end }}
       {{ $breadcrumbs = $breadcrumbs | append (dict "name" .Title "url" .Permalink) }}
-      <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          {{ range $index, $item := $breadcrumbs }}
-            {{ if $index }},{{ end }}
-            {
-              "@type": "ListItem",
-              "position": {{ add $index 1 }},
-              "name": {{ $item.name | jsonify }},
-              "item": "{{ $item.url }}"
-            }
-          {{ end }}
-        ]
-      }
-      </script>
+
+      {{ $breadcrumbItems := slice }}
+      {{ range $index, $item := $breadcrumbs }}
+        {{ $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" (add $index 1) "name" $item.name "item" $item.url) }}
+      {{ end }}
+      {{ $breadcrumbLD := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $breadcrumbItems }}
+      <script type="application/ld+json">{{ $breadcrumbLD | jsonify | safeJS }}</script>
     {{ end }}
     {{ with .Site.Params.analytics.ga4_id }}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
@@ -522,7 +510,7 @@
         </div>
         <nav class="site-nav">
           <a href="{{ .Site.BaseURL }}">Home</a>
-          <a href="{{ .Site.BaseURL }}Search/">Search</a>
+          <a href="{{ .Site.BaseURL }}search/">Search</a>
           <a href="{{ .Site.BaseURL }}about/">運営者情報</a>
           <a href="{{ .Site.BaseURL }}privacy/">プライバシー</a>
           <a href="{{ .Site.BaseURL }}contact/">お問い合わせ</a>
@@ -580,5 +568,3 @@
     </footer>
   </body>
 </html>
-
-

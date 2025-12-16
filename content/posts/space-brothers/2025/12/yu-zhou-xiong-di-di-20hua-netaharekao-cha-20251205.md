@@ -31,7 +31,7 @@ noindex: true
 ネタバレが含まれていますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [宇宙兄弟 第19話最新話ネタバレ・感想・考察](/posts/space-brothers/2025/12/yu-zhou-xiong-di-di-19hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [宇宙兄弟 第19話最新話ネタバレ・感想・考察](/posts/2025/12/yu-zhou-xiong-di-di-19hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第20話のポイント3つ（ネタバレあり）

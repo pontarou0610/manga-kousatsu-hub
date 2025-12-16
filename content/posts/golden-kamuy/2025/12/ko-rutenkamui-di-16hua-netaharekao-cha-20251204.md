@@ -29,7 +29,7 @@ noindex: true
 ネタバレを含みますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [ゴールデンカムイ 第15話最新話ネタバレ・感想・考察](/posts/golden-kamuy/2025/12/ko-rutenkamui-di-15hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [ゴールデンカムイ 第15話最新話ネタバレ・感想・考察](/posts/2025/12/ko-rutenkamui-di-15hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第16話のポイント3つ（ネタバレあり）

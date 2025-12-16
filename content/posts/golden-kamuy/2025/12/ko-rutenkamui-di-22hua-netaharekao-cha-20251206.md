@@ -28,7 +28,7 @@ noindex: true
 今回はゴールデンカムイの第22話についての内容をまとめました。ネタバレが含まれていますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [ゴールデンカムイ 第21話最新話ネタバレ・感想・考察](/posts/golden-kamuy/2025/12/ko-rutenkamui-di-21hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [ゴールデンカムイ 第21話最新話ネタバレ・感想・考察](/posts/2025/12/ko-rutenkamui-di-21hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第22話のポイント3つ（ネタバレあり）

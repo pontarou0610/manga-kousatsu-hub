@@ -27,7 +27,7 @@ images:
 アオアシの第9話がついに公開されました！この章では重要な展開が盛りだくさんですので、ネタバレにご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [アオアシ 第8話最新話ネタバレ・感想・考察](/posts/aoashi/2025/12/aoashi-di-8hua-netaharekao-cha-20251204/)
+> 前回のネタバレ: [アオアシ 第8話最新話ネタバレ・感想・考察](/posts/2025/12/aoashi-di-8hua-netaharekao-cha-20251204/)
 
 
 ## 結論：第9話のポイント3つ（ネタバレあり）

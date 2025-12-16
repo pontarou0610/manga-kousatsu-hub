@@ -28,7 +28,7 @@ noindex: true
 第24話では、物語が新たな展開を迎えます。ネタバレが含まれていますので、ご注意ください！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [ゴールデンカムイ 第23話最新話ネタバレ・感想・考察](/posts/golden-kamuy/2025/12/ko-rutenkamui-di-23hua-netaharekao-cha-20251207/)
+> 前回のネタバレ: [ゴールデンカムイ 第23話最新話ネタバレ・感想・考察](/posts/2025/12/ko-rutenkamui-di-23hua-netaharekao-cha-20251207/)
 
 
 ## 結論：第24話のポイント3つ（ネタバレあり）

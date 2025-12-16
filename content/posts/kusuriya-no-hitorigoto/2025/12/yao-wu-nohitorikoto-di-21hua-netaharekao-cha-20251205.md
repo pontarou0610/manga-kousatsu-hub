@@ -30,7 +30,7 @@ noindex: true
 第21話の内容をまとめました！ネタバレが含まれますので、注意してくださいね。さあ、物語の続きに迫りましょう！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [薬屋のひとりごと 第20話最新話ネタバレ・感想・考察](/posts/kusuriya-no-hitorigoto/2025/12/yao-wu-nohitorikoto-di-20hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [薬屋のひとりごと 第20話最新話ネタバレ・感想・考察](/posts/2025/12/yao-wu-nohitorikoto-di-20hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第21話のポイント3つ（ネタバレあり）

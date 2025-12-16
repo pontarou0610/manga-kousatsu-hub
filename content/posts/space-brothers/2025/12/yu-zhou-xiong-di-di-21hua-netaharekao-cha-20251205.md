@@ -30,7 +30,7 @@ noindex: true
 第21話では、宇宙兄弟の新たな挑戦が描かれています。ネタバレが含まれますので、注意してくださいね！
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [宇宙兄弟 第20話最新話ネタバレ・感想・考察](/posts/space-brothers/2025/12/yu-zhou-xiong-di-di-20hua-netaharekao-cha-20251205/)
+> 前回のネタバレ: [宇宙兄弟 第20話最新話ネタバレ・感想・考察](/posts/2025/12/yu-zhou-xiong-di-di-20hua-netaharekao-cha-20251205/)
 
 
 ## 結論：第21話のポイント3つ（ネタバレあり）

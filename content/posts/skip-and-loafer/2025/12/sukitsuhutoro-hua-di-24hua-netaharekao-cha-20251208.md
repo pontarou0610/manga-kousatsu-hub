@@ -28,7 +28,7 @@ noindex: true
 第24話では、キャラクターたちの新たな関係性が描かれ、感情の葛藤が浮き彫りになります。ネタバレが含まれますので、ご注意ください。
 
 > **This article contains spoilers up to the latest chapter.**
-> 前回のネタバレ: [スキップとローファー 第23話最新話ネタバレ・感想・考察](/posts/skip-and-loafer/2025/12/sukitsuhutoro-hua-di-23hua-netaharekao-cha-20251207/)
+> 前回のネタバレ: [スキップとローファー 第23話最新話ネタバレ・感想・考察](/posts/2025/12/sukitsuhutoro-hua-di-23hua-netaharekao-cha-20251207/)
 
 
 ## 結論：第24話のポイント3つ（ネタバレあり）
