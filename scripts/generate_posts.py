@@ -725,12 +725,17 @@ def generate_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> Non
     series_slug = series['slug']
     glossary_terms = load_glossary(series_slug)
     
-    if not glossary_terms:
-        print(f">> No glossary terms for {series['name']}")
-        return
-
-    # Always publish all terms. Only rewrite when the rendered content changes.
-    terms_to_publish = glossary_terms
+    # Always create the glossary page so Hugo `ref` links from posts don't break,
+    # even when terms are not extracted yet.
+    terms_to_publish = glossary_terms or []
+    intro = f"{series['name']}の用語集ページです。"
+    glossary_note = None
+    if glossary_terms:
+        intro = f"{series['name']}に登場する重要な用語をまとめました。"
+        glossary_note = "用語は随時追加されます。"
+    else:
+        print(f">> Glossary terms not found yet for {series['name']} (creating placeholder page)")
+        glossary_note = "用語は準備中です。記事内で用語が追加され次第、更新します。"
 
     # Output path
     output_dir = CONTENT_DIR / series_slug / "glossary"
@@ -759,9 +764,9 @@ def generate_glossary_post(series: Dict[str, Any], state: Dict[str, Any]) -> Non
         'series': series['name'],
         'series_slug': series_slug,
         'tags': series.get('tags', []),
-        'intro': f"{series['name']}に登場する重要な用語をまとめました。",
+        'intro': intro,
         'glossary': terms_to_publish,
-        'glossary_note': "用語は随時追加されます。",
+        'glossary_note': glossary_note,
         'affiliate_ids': {
             'amazon': build_amazon_url(series.get('affiliates', {}).get('amazon', {}).get('asin', '')),
             'rakuten': build_rakuten_url(series.get('affiliates', {}).get('rakuten', {}).get('params', '')),
