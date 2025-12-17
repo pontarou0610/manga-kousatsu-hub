@@ -46,6 +46,7 @@ jinja_env = Environment(loader=FileSystemLoader(str(TEMPLATES_DIR)))
 # Runtime controls (cost / throttling)
 RSS_MAX_ENTRIES = int(os.getenv("RSS_MAX_ENTRIES", "5"))
 MAX_POSTS_PER_RUN = int(os.getenv("MAX_POSTS_PER_RUN", "999"))
+MAX_POSTS_PER_SERIES_PER_RUN = int(os.getenv("MAX_POSTS_PER_SERIES_PER_RUN", "999"))
 GENERATE_FALLBACK_TOPICS = os.getenv("GENERATE_FALLBACK_TOPICS", "true").strip().lower() not in (
     "0",
     "false",
@@ -852,7 +853,8 @@ def main():
             break
         
         try:
-            created = process_series(series, state, remaining_posts)
+            series_budget = min(remaining_posts, MAX_POSTS_PER_SERIES_PER_RUN)
+            created = process_series(series, state, series_budget)
             remaining_posts -= int(created or 0)
         except Exception as e:
             print(f"[ERROR] Error processing {series['name']}: {e}")

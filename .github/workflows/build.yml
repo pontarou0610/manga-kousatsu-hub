@@ -22,8 +22,10 @@ jobs:
       GENERATE_FALLBACK_TOPICS: "false"
       # Throttle RSS processing per run (cost control).
       RSS_MAX_ENTRIES: "1"
-      # Hard cap of newly created posts per run (API cost control).
-      MAX_POSTS_PER_RUN: "1"
+      # Cap newly created posts per series per run (cost control).
+      MAX_POSTS_PER_SERIES_PER_RUN: "1"
+      # Hard cap of newly created posts per run (must be >= number of active series).
+      MAX_POSTS_PER_RUN: "50"
       # Catch up using data/backlog/<series>.yaml.
       GENERATE_BACKLOG_ENTRIES: "true"
       BACKLOG_ENTRIES_PER_RUN: "1"
