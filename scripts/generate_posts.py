@@ -332,6 +332,10 @@ def create_spoiler_post(
     title = content.get("title") or f"{series['name']} {chapter_label} ネタバレ・感想・考察"
     images = ensure_ogp(series["name"], title, dt, slug)
 
+    reference_links = content.get("_reference_links")
+    if not isinstance(reference_links, list):
+        reference_links = []
+
     context = {
         "title": title,
         "slug": slug,
@@ -396,7 +400,7 @@ def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_numb
         "outline": content.get("outline") or [],
         "faq": content.get("faq") or [],
         "hero_image": None,
-        "reference_links": [],
+        "reference_links": reference_links,
         "official_link": (series.get("official_links") or [None])[0],
     }
 
@@ -456,6 +460,26 @@ def generate_spoiler_content(
 
 ※すべてのテキストフィールドで、句点（。）の後は必ず改行（\n）を入れてください。{refs_block}"""
 
+    if reference_notes:
+        lines = []
+        for ref in reference_notes[:8]:
+            title = (ref.get("title") or "").strip()
+            url = (ref.get("url") or "").strip()
+            desc = (ref.get("desc") or "").strip()
+            src = (ref.get("source") or "").strip()
+            if not url:
+                continue
+            line = f"- {title} ({src}) {url}"
+            if desc:
+                line += f" / 概要: {desc}"
+            lines.append(line)
+        if lines:
+            prompt += (
+                "\n\n【参考メモ（外部サイト）】\n"
+                "※以下は見出し/OGP概要のメモです。本文への引用・言い換えは禁止。事実確認と論点整理のためにのみ使ってください。\n"
+                + "\n".join(lines)
+            )
+
     return generate_content_with_openai(
         prompt=prompt,
         system_prompt=system_prompt,
@@ -463,7 +487,30 @@ def generate_spoiler_content(
     )
 
 
-def generate_insight_content(series: Dict[str, Any], topic: str) -> Optional[Dict[str, Any]]:
+def build_insight_reference_links(reference_notes: Optional[List[Dict[str, str]]]) -> List[Dict[str, str]]:
+    links: List[Dict[str, str]] = []
+    if not reference_notes:
+        return links
+
+    for ref in reference_notes[:8]:
+        title = (ref.get("title") or "").strip()
+        url = (ref.get("url") or "").strip()
+        src = (ref.get("source") or "").strip()
+        if not url:
+            continue
+        label = title or url
+        if src:
+            label = f"{label} ({src})"
+        links.append({"label": label, "url": url})
+
+    return links
+
+
+def generate_insight_content(
+    series: Dict[str, Any],
+    topic: str,
+    reference_notes: Optional[List[Dict[str, str]]] = None,
+) -> Optional[Dict[str, Any]]:
     """Generate insight content (no spoilers) using OpenAI."""
     system_prompt = f"""あなたは「{series['name']}」の考察記事を書く専門家です。
 ネタバレを避け、テーマに沿った分析を提供してください。
@@ -698,7 +745,16 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                     created_any = True
                     print(f">> RSS insight already exists for {series['slug']} #{chapter_number}")
                 else:
-                    content = generate_insight_content(series, str(entry.title))
+                    ref_sources = series.get("research_sources") or []
+                    reference_notes = collect_reference_notes(
+                        series_name=series["name"],
+                        chapter_label=chapter_label,
+                        sources=ref_sources,
+                    ) if ref_sources else []
+
+                    content = generate_insight_content(series, str(entry.title), reference_notes=reference_notes)
+                    if content:
+                        content["_reference_links"] = build_insight_reference_links(reference_notes)
                     if content and create_insight_post(series, chapter_label, chapter_number, dt, content):
                         created_posts += 1
                         created_any = True
@@ -720,7 +776,16 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
             topic = fallback_topics[progress]
             print(f"[INFO] Generating fallback insight: {topic}")
             
-            content = generate_insight_content(series, topic)
+            ref_sources = series.get("research_sources") or []
+            reference_notes = collect_reference_notes(
+                series_name=series["name"],
+                chapter_label=topic,
+                sources=ref_sources,
+            ) if ref_sources else []
+
+            content = generate_insight_content(series, topic, reference_notes=reference_notes)
+            if content:
+                content["_reference_links"] = build_insight_reference_links(reference_notes)
             if content:
                 # TODO: Create insight post from fallback topic
                 state['backlog_progress'][series['slug']] = progress + 1
@@ -819,7 +884,16 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                         print(f">> Backlog insight already exists for {series['slug']} #{ch_num}")
                     else:
                         topic = str(item.get("title") or chapter_label)
-                        content = generate_insight_content(series, topic)
+                        ref_sources = series.get("research_sources") or []
+                        reference_notes = collect_reference_notes(
+                            series_name=series["name"],
+                            chapter_label=chapter_label,
+                            sources=ref_sources,
+                        ) if ref_sources else []
+
+                        content = generate_insight_content(series, topic, reference_notes=reference_notes)
+                        if content:
+                            content["_reference_links"] = build_insight_reference_links(reference_notes)
                         if content and create_insight_post(series, chapter_label, ch_num, dt, content):
                             state["entries"].append(key)
                             entries_set.add(key)
