@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://pontarou0610.github.io/manga-kousatsu-hub/sitemap.xml
