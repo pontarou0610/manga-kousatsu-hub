@@ -1,99 +1,104 @@
-﻿---
-title: "{{ title }}"
-slug: "{{ slug }}"
-date: {{ date }}
-series: "{{ series }}"
-chapter: "{{ chapter }}"
-article_variant: "insight"
-{% if tags %}
-tags:
-{% for tag in tags %}
-  - "{{ tag }}"
-{% endfor %}
-{% else %}
-tags: []
-{% endif %}
-draft: {{ draft | lower }}
-description: "{{ description }}"
-affiliate_ids:
-  amazon: "{{ affiliate_ids.amazon }}"
-  rakuten: "{{ affiliate_ids.rakuten }}"
-{% if affiliate_ids.others %}
-  others:
-{% for other in affiliate_ids.others %}
-    - name: "{{ other.name }}"
-      url: "{{ other.url }}"
-{% endfor %}
-{% else %}
-  others: []
-{% endif %}
-disclaimer: "{{ disclaimer }}"
-{% if images %}
-images:
-{% for image in images %}
-  - "{{ image }}"
-{% endfor %}
-{% else %}
-images: []
-{% endif %}
----
-{{ intro }}
-
-## 着眼ポイント（検索意図ベース）
-{% for block in outline %}
-- **{{ block.heading }}**
-  {% for bullet in block.bullets %}
-  - {{ bullet }}
-  {% endfor %}
-{% endfor %}
-
-{% if hero_image %}
-![{{ hero_image.alt }}]({{ hero_image.url }})
-<small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
-{% endif %}
-
-## 要点まとめ（ネタバレ無し）
-{% for point in summary_points %}
-- {{ point }}
-{% endfor %}
-
-## 考察テーマ
-{% for item in insight.themes %}
-### {{ item.title }}
-{{ item.detail }}
-{% endfor %}
-
-## キャラクター考察
-{% for item in insight.characters %}
-- **{{ item.name }}**: {{ item.focus }}
-{% endfor %}
-
-## FAQ
-{% for item in faq %}
-- **Q. {{ item.question }}**  
-  A. {{ item.answer }}
-{% endfor %}
-
-## 購入リンク（公式/通販）
-{% if affiliate_ids.amazon %}
-- [Amazonで探す]({{ affiliate_ids.amazon }})
-{% endif %}
-{% if affiliate_ids.rakuten %}
-- [楽天で探す]({{ affiliate_ids.rakuten }})
-{% endif %}
-{% if affiliate_ids.others %}
-{% for other in affiliate_ids.others %}
-- [{{ other.name }}]({{ other.url }})
-{% endfor %}
-{% endif %}
-
-## 参考リンク
-{% for link in reference_links %}
-- [{{ link.label }}]({{ link.url }})
-{% endfor %}
-{% if reference_links %}
-{% set official = official_link if official_link else reference_links[0] %}
+﻿---
+title: "{{ title }}"
+slug: "{{ slug }}"
+date: {{ date }}
+series: "{{ series }}"
+chapter: "{{ chapter }}"
+article_variant: "insight"
+{% if tags %}
+tags:
+{% for tag in tags %}
+  - "{{ tag }}"
+{% endfor %}
+{% else %}
+tags: []
+{% endif %}
+draft: {{ draft | lower }}
+description: "{{ description }}"
+affiliate_ids:
+  amazon: "{{ affiliate_ids.amazon }}"
+  rakuten: "{{ affiliate_ids.rakuten }}"
+{% if affiliate_ids.others %}
+  others:
+{% for other in affiliate_ids.others %}
+    - name: "{{ other.name }}"
+      url: "{{ other.url }}"
+{% endfor %}
+{% else %}
+  others: []
+{% endif %}
+disclaimer: "{{ disclaimer }}"
+{% if images %}
+images:
+{% for image in images %}
+  - "{{ image }}"
+{% endfor %}
+{% else %}
+images: []
+{% endif %}
+---
+{{ intro }}
+
+## 着眼ポイント（検索意図ベース）
+{% for block in outline %}
+- **{{ block.heading }}**
+  {% for bullet in block.bullets %}
+  - {{ bullet }}
+  {% endfor %}
+{% endfor %}
+
+{% if hero_image %}
+![{{ hero_image.alt }}]({{ hero_image.url }})
+<small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
+{% endif %}
+
+## 要点まとめ（ネタバレ無し）
+{% for point in summary_points %}
+- {{ point }}
+{% endfor %}
+
+## 考察テーマ
+{% for item in insight.themes %}
+### {{ item.title }}
+{{ item.detail }}
+{% endfor %}
+
+## キャラクター考察
+{% for item in insight.characters %}
+- **{{ item.name }}**: {{ item.focus }}
+{% endfor %}
+
+## FAQ
+{% for item in faq %}
+- **Q. {{ item.question }}**  
+  A. {{ item.answer }}
+{% endfor %}
+
+## 購入リンク（公式/通販）
+{% if affiliate_ids.amazon %}
+- [Amazonで探す]({{ affiliate_ids.amazon }})
+{% endif %}
+{% if affiliate_ids.rakuten %}
+- [楽天で探す]({{ affiliate_ids.rakuten }})
+{% endif %}
+{% if affiliate_ids.others %}
+{% for other in affiliate_ids.others %}
+- [{{ other.name }}]({{ other.url }})
+{% endfor %}
+{% endif %}
+
+## 関連記事・用語集
+
+- 記事一覧：[{{ series }}の記事一覧]({{ "{{< ref \"series/" ~ series_slug ~ "\" >}}" }})
+- 用語集：[用語集]({{ "{{< ref \"posts/" ~ series_slug ~ "/glossary\" >}}" }})
+- 公式サイト：[{{ official_link.label if official_link else "公式サイト" }}]({{ official_link.url if official_link else "#" }})
+
+## 参考リンク
+{% for link in reference_links %}
+- [{{ link.label }}]({{ link.url }})
+{% endfor %}
+{% if reference_links %}
+{% set official = official_link if official_link else reference_links[0] %}
 {% set aff_title = official.label or "公式リンク" %}
 {{ "{{< affbox title=\"" ~ aff_title ~ "\" desc=\"詳しくは公式情報をご確認ください\" url=\"" ~ official.url ~ "\" >}}" }}
 {% endif %}
-

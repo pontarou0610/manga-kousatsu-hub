@@ -329,7 +329,7 @@ def create_spoiler_post(
         "others": series.get("affiliates", {}).get("others", []) or [],
     }
 
-    title = content.get("title") or f"{series['name']} {chapter_label} ネタバレ・感想・考察"
+    title = content.get("title") or f"{series['name']} {chapter_label} ネタバレ感想・考察"
     images = ensure_ogp(series["name"], title, dt, slug)
 
     reference_links = content.get("_reference_links")
@@ -379,7 +379,7 @@ def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_numb
         "others": series.get("affiliates", {}).get("others", []) or [],
     }
 
-    title = content.get("title") or f"{series['name']} {chapter_label} 考察"
+    title = content.get("title") or f"{series['name']} {chapter_label} 考察（ネタバレなし）"
     images = ensure_ogp(series["name"], title, dt, slug)
 
     context = {
@@ -387,6 +387,7 @@ def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_numb
         "slug": slug,
         "date": format_rfc3339(dt),
         "series": series["name"],
+        "series_slug": series_slug,
         "chapter": chapter_label,
         "tags": series.get("tags", []),
         "draft": (not bool(series.get("auto_publish", True))),
@@ -408,7 +409,7 @@ def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_numb
     return output_path if ok else None
 
 
-def generate_spoiler_content(
+def generate_spoiler_content_legacy(
     series: Dict[str, Any],
     chapter: str,
     reference_notes: Optional[List[Dict[str, str]]] = None,
@@ -506,7 +507,143 @@ def build_insight_reference_links(reference_notes: Optional[List[Dict[str, str]]
     return links
 
 
+def generate_spoiler_content(
+    series: Dict[str, Any],
+    chapter: str,
+    reference_notes: Optional[List[Dict[str, str]]] = None,
+) -> Optional[Dict[str, Any]]:
+    """Generate spoiler content using OpenAI."""
+    system_prompt = f"""あなたは「{series['name']}」の漫画考察・ネタバレ記事を書く編集者です。
+{series.get('defaults', {}).get('tone', '落ち着いた敬体で、根拠を示しつつ丁寧にまとめる。')}
+{series.get('defaults', {}).get('prohibited', '誹謗中傷や憶測だけの断定、暴力的・過激な表現は避ける。')}
+
+【必須】
+- 読者が最初に知りたい結論を先に出す（要点→本文）。
+- 事実/推測を明確に分ける（推測は推測と明記、断定しない）。
+- 文章は短く、句点（。）の後は改行して読みやすくする。
+- 外部参照メモは「事実確認・論点整理」のみに使用（本文への引用・言い換えは禁止）。"""
+
+    prompt = f"""「{series['name']}」{chapter}について、ネタバレありの感想・考察記事を作成してください。
+検索意図（例: ネタバレ/あらすじ/伏線/今後の展開）を取りこぼさない構成にしてください。
+タイトルには「{series['name']}」「{chapter}」「ネタバレ」を必ず含めてください。
+
+以下のJSON形式で出力してください。
+{{
+  "title": "記事タイトル（ネタバレ注意を含む）",
+  "intro": "導入（ネタバレなし、200〜300字）。読者が得られることを明示する。",
+  "summary_points": ["要点1（短く）", "要点2（短く）", "要点3（短く）"],
+  "spoiler": {{
+    "synopsis": "あらすじ要約（400〜600字）。句点の後は改行。",
+    "foreshadowings": ["伏線/気づき（根拠→解釈の順、句点後改行）", "伏線/気づき…", "伏線/気づき…"],
+    "predictions": ["今後の展開予想（根拠→推測の順、句点後改行）", "今後の展開予想…"]
+  }}
+}}
+
+※すべてのテキストフィールドで、句点（。）の後は必ず改行してください。
+※不明な点は無理に埋めず「不明/未確認」としてください。"""
+
+    if reference_notes:
+        lines = []
+        for ref in reference_notes[:8]:
+            title = (ref.get("title") or "").strip()
+            url = (ref.get("url") or "").strip()
+            desc = (ref.get("desc") or "").strip()
+            src = (ref.get("source") or "").strip()
+            if not url:
+                continue
+            line = f"- {title} ({src}) {url}"
+            if desc:
+                line += f" / 概要: {desc}"
+            lines.append(line)
+        if lines:
+            prompt += (
+                "\n\n【参考メモ（外部サイト）】\n"
+                "※以下は見出し/OGP概要のメモです。本文への引用・言い換えは禁止。事実確認と論点整理のためにのみ使ってください。\n"
+                + "\n".join(lines)
+            )
+
+    return generate_content_with_openai(
+        prompt=prompt,
+        system_prompt=system_prompt,
+        response_format={"type": "json_object"},
+    )
+
+
 def generate_insight_content(
+    series: Dict[str, Any],
+    topic: str,
+    reference_notes: Optional[List[Dict[str, str]]] = None,
+) -> Optional[Dict[str, Any]]:
+    """Generate insight content (no spoilers) using OpenAI."""
+    system_prompt = f"""あなたは「{series['name']}」の漫画考察記事を書く編集者です。
+ネタバレは避けつつ、読者の疑問に答える“検索意図ベース”の構成で書いてください。
+{series.get('defaults', {}).get('tone', '落ち着いた敬体で、根拠を示しつつ丁寧にまとめる。')}
+
+【必須】
+- 結論（要点）を先に提示する。
+- 事実/推測を区別し、断定しない。
+- 文章は短く、句点（。）の後は改行して読みやすくする。
+- 外部参照メモは「事実確認・論点整理」のみに使用（本文への引用・言い換えは禁止）。"""
+
+    prompt = f"""「{series['name']}」について、以下のテーマでネタバレなしの考察記事を作成してください。
+テーマ: {topic}
+検索意図（作品の魅力/世界観/キャラの見どころ/読み方のコツ）に答える内容にしてください。
+タイトルには「{series['name']}」を必ず含めてください。
+
+以下のJSON形式で出力してください。
+{{
+  "title": "記事タイトル",
+  "intro": "導入（200〜300字）。読者が得られることを明示する。句点の後は改行。",
+  "summary_points": ["要点1（短く、句点後改行）", "要点2（短く、句点後改行）", "要点3（短く、句点後改行）"],
+  "insight": {{
+    "themes": [
+      {{"title": "テーマ", "detail": "詳細（事実→解釈→読者の気づき、句点後改行）"}},
+      {{"title": "テーマ", "detail": "詳細（事実→解釈→読者の気づき、句点後改行）"}}
+    ],
+    "characters": [
+      {{"name": "キャラクター名", "focus": "着眼点（魅力/成長/関係性、句点後改行）"}}
+    ]
+  }},
+  "outline": [
+    {{"heading": "見出し", "bullets": ["箇条書き（短く、句点後改行）", "箇条書き（短く、句点後改行）"]}}
+  ],
+  "faq": [
+    {{"question": "質問", "answer": "回答（短く、句点後改行）"}},
+    {{"question": "質問", "answer": "回答（短く、句点後改行）"}}
+  ]
+}}
+
+※すべてのテキストフィールドで、句点（。）の後は必ず改行してください。
+※不明な点は無理に埋めず「不明/未確認」としてください。"""
+
+    if reference_notes:
+        lines = []
+        for ref in reference_notes[:8]:
+            title = (ref.get("title") or "").strip()
+            url = (ref.get("url") or "").strip()
+            desc = (ref.get("desc") or "").strip()
+            src = (ref.get("source") or "").strip()
+            if not url:
+                continue
+            line = f"- {title} ({src}) {url}"
+            if desc:
+                line += f" / 概要: {desc}"
+            lines.append(line)
+        if lines:
+            prompt += (
+                "\n\n【参考メモ（外部サイト）】\n"
+                "※以下は見出し/OGP概要のメモです。本文への引用・言い換えは禁止。事実確認と論点整理のためにのみ使ってください。\n"
+                + "\n".join(lines)
+            )
+
+    return generate_content_with_openai(
+        prompt=prompt,
+        system_prompt=system_prompt,
+        response_format={"type": "json_object"},
+    )
+
+
+def generate_insight_content_legacy(
     series: Dict[str, Any],
     topic: str,
     reference_notes: Optional[List[Dict[str, str]]] = None,
