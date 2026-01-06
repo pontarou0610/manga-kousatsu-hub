@@ -4,7 +4,16 @@
 {{- $isExternal := or (hasPrefix $dest "http://") (hasPrefix $dest "https://") -}}
 
 {{- if $isExternal -}}
-  <a href="{{ $dest | safeURL }}" target="_blank" rel="noopener noreferrer"{{ if $title }} title="{{ $title }}"{{ end }}>{{ $text | safeHTML }}</a>
+  {{- $destLower := lower $dest -}}
+  {{- $isAffiliate := or
+    (in $destLower "hb.afl.rakuten.co.jp")
+    (in $destLower "a.r10.to")
+    (in $destLower "amzn.to")
+    (in $destLower "amazon.co.jp")
+    (in $destLower "tag=")
+  -}}
+  {{- $rel := cond $isAffiliate "sponsored noopener" "noopener noreferrer" -}}
+  <a href="{{ $dest | safeURL }}" target="_blank" rel="{{ $rel }}"{{ if $title }} title="{{ $title }}"{{ end }}>{{ $text | safeHTML }}</a>
 {{- else -}}
   <a href="{{ $dest | safeURL }}"{{ if $title }} title="{{ $title }}"{{ end }}>{{ $text | safeHTML }}</a>
 {{- end -}}

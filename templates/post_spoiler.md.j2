@@ -37,21 +37,24 @@ images:
 {{ intro }}
 
 > **{{ spoiler_notice or "この記事は最新話までのネタバレを含みます。" }}**
+> ※ネタバレ本文は下の折りたたみ（`spoiler`）内にまとめています。
 {% if prev_post %}
 > 前回のネタバレ: [{{ prev_post.title }}]({{ prev_post.url }})
 {% endif %}
+
+<!--more-->
 
 {% if hero_image %}
 ![{{ hero_image.alt }}]({{ hero_image.url }})
 <small>Photo by <a href="{{ hero_image.photographer_url }}" target="_blank" rel="noopener">{{ hero_image.photographer }}</a> on <a href="{{ hero_image.pexels_url }}" target="_blank" rel="noopener">Pexels</a></small>
 {% endif %}
 
+{{ "{{< spoiler >}}" }}
 ## 結論：{{ chapter_label }}のポイント（ネタバレあり）
 {% for point in summary_points %}
 - {{ point }}
 {% endfor %}
 
-{{ "{{< spoiler >}}" }}
 ## {{ chapter_label }}のあらすじ要約（3分でわかる！）
 
 {{ spoiler.synopsis }}
@@ -80,11 +83,15 @@ images:
 {{ "{{< /spoiler >}}" }}
 
 ## 購入リンク（公式/通販）
+
+{% if affiliate_ids.amazon or affiliate_ids.rakuten or affiliate_ids.others %}
+> ※価格・在庫・キャンペーンは変動します。最新情報はリンク先でご確認ください。
+{% endif %}
 {% if affiliate_ids.amazon %}
-- [Amazonで探す]({{ affiliate_ids.amazon }})
+{{ "{{< affbox title=\"Amazonで探す\" desc=\"Kindle版・紙版の最新情報はリンク先で確認\" url=\"" }}{{ affiliate_ids.amazon }}{{ "\" cta=\"Amazonで確認する\" >}}" }}
 {% endif %}
 {% if affiliate_ids.rakuten %}
-- [楽天で探す]({{ affiliate_ids.rakuten }})
+{{ "{{< affbox title=\"楽天で探す\" desc=\"ポイント還元やキャンペーンは変動します。最新はリンク先で確認\" url=\"" }}{{ affiliate_ids.rakuten }}{{ "\" cta=\"楽天で確認する\" >}}" }}
 {% endif %}
 {% if affiliate_ids.others %}
 {% for other in affiliate_ids.others %}
@@ -94,7 +101,7 @@ images:
 
 ## 関連記事・用語集
 - 記事一覧：[{{ series }}の記事一覧]({{ "{{< ref \"series/" ~ series_slug ~ "\" >}}" }})
-- 公式サイト：[{{ official_link.label if official_link else "公式サイト" }}]({{ official_link.url if official_link else "#" }})
+- 公式サイト：{% if official_link and official_link.url and official_link.url != "#" %}[{{ official_link.label if official_link.label else "公式サイト" }}]({{ official_link.url }}){% else %}公式情報をご確認ください{% endif %}
 - 用語集：[用語集]({{ "{{< ref \"posts/" ~ series_slug ~ "/glossary\" >}}" }})
 
 {% if reference_links %}

@@ -1,10 +1,13 @@
-{{- $activeSlugs := slice -}}
+{{- $activeSeriesNames := slice -}}
 {{- range .Site.Data.series -}}
   {{- if not .manual -}}
-    {{- $activeSlugs = $activeSlugs | append .slug -}}
+    {{- $activeSeriesNames = $activeSeriesNames | append .name -}}
   {{- end -}}
 {{- end -}}
-{{- $pages := (where (where .Site.RegularPages "Type" "posts") "Params.series_slug" "in" $activeSlugs) -}}
+{{- $pages := where (where .Site.RegularPages "Type" "posts") "Params.series" "in" $activeSeriesNames -}}
+{{- $pages = where $pages "Draft" "ne" true -}}
+{{- $pages = where $pages "Params.noindex" "ne" true -}}
+{{- $pages = sort $pages "Date" "desc" -}}
 [
 {{- range $index, $page := $pages }}
   {{- if $index }},{{ end }}

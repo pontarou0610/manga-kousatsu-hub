@@ -3,6 +3,7 @@ title: "{{ title }}"
 slug: "{{ slug }}"
 date: {{ date }}
 series: "{{ series }}"
+series_slug: "{{ series_slug }}"
 chapter: "{{ chapter }}"
 article_variant: "insight"
 {% if tags %}
@@ -39,12 +40,14 @@ images: []
 ---
 {{ intro }}
 
+<!--more-->
+
 ## 着眼ポイント（検索意図ベース）
 {% for block in outline %}
-- **{{ block.heading }}**
-  {% for bullet in block.bullets %}
-  - {{ bullet }}
-  {% endfor %}
+### {{ block.heading }}
+{% for bullet in block.bullets %}
+- {{ bullet }}
+{% endfor %}
 {% endfor %}
 
 {% if hero_image %}
@@ -75,11 +78,15 @@ images: []
 {% endfor %}
 
 ## 購入リンク（公式/通販）
+
+{% if affiliate_ids.amazon or affiliate_ids.rakuten or affiliate_ids.others %}
+> ※価格・在庫・キャンペーンは変動します。最新情報はリンク先でご確認ください。
+{% endif %}
 {% if affiliate_ids.amazon %}
-- [Amazonで探す]({{ affiliate_ids.amazon }})
+{{ "{{< affbox title=\"Amazonで探す\" desc=\"Kindle版・紙版の最新情報はリンク先で確認\" url=\"" }}{{ affiliate_ids.amazon }}{{ "\" cta=\"Amazonで確認する\" >}}" }}
 {% endif %}
 {% if affiliate_ids.rakuten %}
-- [楽天で探す]({{ affiliate_ids.rakuten }})
+{{ "{{< affbox title=\"楽天で探す\" desc=\"ポイント還元やキャンペーンは変動します。最新はリンク先で確認\" url=\"" }}{{ affiliate_ids.rakuten }}{{ "\" cta=\"楽天で確認する\" >}}" }}
 {% endif %}
 {% if affiliate_ids.others %}
 {% for other in affiliate_ids.others %}
@@ -91,14 +98,14 @@ images: []
 
 - 記事一覧：[{{ series }}の記事一覧]({{ "{{< ref \"series/" ~ series_slug ~ "\" >}}" }})
 - 用語集：[用語集]({{ "{{< ref \"posts/" ~ series_slug ~ "/glossary\" >}}" }})
-- 公式サイト：[{{ official_link.label if official_link else "公式サイト" }}]({{ official_link.url if official_link else "#" }})
+{% if official_link and official_link.url and official_link.url != "#" %}
+- 公式サイト：[{{ official_link.label if official_link.label else "公式サイト" }}]({{ official_link.url }})
+{% endif %}
 
 ## 参考リンク
 {% for link in reference_links %}
 - [{{ link.label }}]({{ link.url }})
 {% endfor %}
-{% if reference_links %}
-{% set official = official_link if official_link else reference_links[0] %}
-{% set aff_title = official.label or "公式リンク" %}
-{{ "{{< affbox title=\"" ~ aff_title ~ "\" desc=\"詳しくは公式情報をご確認ください\" url=\"" ~ official.url ~ "\" >}}" }}
+{% if official_link and official_link.url and official_link.url != "#" %}
+{{ "{{< affbox title=\"" }}{{ official_link.label or "公式サイト" }}{{ "\" desc=\"公式情報はこちら\" url=\"" }}{{ official_link.url }}{{ "\" cta=\"公式サイトで確認する\" >}}" }}
 {% endif %}

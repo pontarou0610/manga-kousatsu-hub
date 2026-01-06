@@ -5,13 +5,17 @@
 
     {{ $pages := .Pages }}
     {{ if eq .Section "posts" }}
-      {{ $activeSlugs := slice }}
+      {{ $activeSeriesNames := slice }}
       {{ range .Site.Data.series }}
         {{ if not .manual }}
-          {{ $activeSlugs = $activeSlugs | append .slug }}
+          {{ $activeSeriesNames = $activeSeriesNames | append .name }}
         {{ end }}
       {{ end }}
-      {{ $pages = where $pages "Params.series_slug" "in" $activeSlugs }}
+      {{ $pages = where $pages "Params.series" "in" $activeSeriesNames }}
+      {{ $pages = where $pages "Draft" "ne" true }}
+      {{ $pages = where $pages "Params.noindex" "ne" true }}
+      {{ $pages = where $pages "Params.article_variant" "in" (slice "spoiler" "insight") }}
+      {{ $pages = sort $pages "Date" "desc" }}
     {{ end }}
     {{ if eq .Section "series" }}
       {{ $pages = where $pages "Params.noindex" "ne" true }}

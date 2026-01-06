@@ -305,6 +305,24 @@ def ensure_ogp(series_name: str, title: str, dt: datetime, slug: str) -> List[st
     return [rel]
 
 
+def is_placeholder_spoiler_content(content: Dict[str, Any]) -> bool:
+    spoiler = content.get("spoiler") if isinstance(content, dict) else None
+    spoiler = spoiler if isinstance(spoiler, dict) else {}
+
+    synopsis = str(spoiler.get("synopsis") or "").strip()
+    if "不明/未確認" in synopsis:
+        return True
+    if "参照可能なデータベース" in synopsis or "断定して要約することはできません" in synopsis:
+        return True
+
+    points = content.get("summary_points") if isinstance(content, dict) else None
+    if isinstance(points, list) and points:
+        if all(isinstance(p, str) and "不明/未確認" in p for p in points):
+            return True
+
+    return False
+
+
 def create_spoiler_post(
     series: Dict[str, Any],
     chapter_label: str,
@@ -345,7 +363,7 @@ def create_spoiler_post(
         "chapter": chapter_label,
         "chapter_label": chapter_label,
         "tags": series.get("tags", []),
-        "draft": (not bool(series.get("auto_publish", True))),
+        "draft": (not bool(series.get("auto_publish", True))) or is_placeholder_spoiler_content(content),
         "description": (content.get("intro") or title)[:140],
         "affiliate_ids": affiliate_ids,
         "disclaimer": series.get("defaults", {}).get("disclaimer", ""),
@@ -382,6 +400,10 @@ def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_numb
     title = content.get("title") or f"{series['name']} {chapter_label} 考察（ネタバレなし）"
     images = ensure_ogp(series["name"], title, dt, slug)
 
+    reference_links = content.get("_reference_links")
+    if not isinstance(reference_links, list):
+        reference_links = []
+
     context = {
         "title": title,
         "slug": slug,
@@ -401,7 +423,7 @@ def create_insight_post(series: Dict[str, Any], chapter_label: str, chapter_numb
         "outline": content.get("outline") or [],
         "faq": content.get("faq") or [],
         "hero_image": None,
-        "reference_links": reference_links,
+        "reference_links": reference_links or [],
         "official_link": (series.get("official_links") or [None])[0],
     }
 
@@ -441,7 +463,7 @@ def generate_spoiler_content_legacy(
         if lines:
             refs_block = (
                 "\n\n【参考メモ（外部サイト）】\n"
-                "※以下は見出し/概要のみです。本文の引用・言い換えは禁止。事実関係の確認と論点整理の参考にのみ使ってください。\n"
+                "※以下は見出し/概要のみです。事実確認と論点整理に使ってよいですが、本文は必ずオリジナルで書き、転載・長文引用・言い回しのコピーはしないでください。\n"
                 + "\n".join(lines)
             )
 
@@ -477,7 +499,7 @@ def generate_spoiler_content_legacy(
         if lines:
             prompt += (
                 "\n\n【参考メモ（外部サイト）】\n"
-                "※以下は見出し/OGP概要のメモです。本文への引用・言い換えは禁止。事実確認と論点整理のためにのみ使ってください。\n"
+                "※以下は見出し/OGP概要のメモです。事実確認と論点整理に使ってよいですが、本文は必ずオリジナルで書き、転載・長文引用・言い回しのコピーはしないでください。\n"
                 + "\n".join(lines)
             )
 
@@ -511,6 +533,7 @@ def generate_spoiler_content(
     series: Dict[str, Any],
     chapter: str,
     reference_notes: Optional[List[Dict[str, str]]] = None,
+    rss_note: Optional[Dict[str, str]] = None,
 ) -> Optional[Dict[str, Any]]:
     """Generate spoiler content using OpenAI."""
     system_prompt = f"""あなたは「{series['name']}」の漫画考察・ネタバレ記事を書く編集者です。
@@ -521,7 +544,7 @@ def generate_spoiler_content(
 - 読者が最初に知りたい結論を先に出す（要点→本文）。
 - 事実/推測を明確に分ける（推測は推測と明記、断定しない）。
 - 文章は短く、句点（。）の後は改行して読みやすくする。
-- 外部参照メモは「事実確認・論点整理」のみに使用（本文への引用・言い換えは禁止）。"""
+- 外部参照メモは「事実確認・論点整理」に使ってよいが、本文は必ずオリジナルで書く（転載・長文引用は禁止、言い回しのコピーもしない）。"""
 
     prompt = f"""「{series['name']}」{chapter}について、ネタバレありの感想・考察記事を作成してください。
 検索意図（例: ネタバレ/あらすじ/伏線/今後の展開）を取りこぼさない構成にしてください。
@@ -542,6 +565,24 @@ def generate_spoiler_content(
 ※すべてのテキストフィールドで、句点（。）の後は必ず改行してください。
 ※不明な点は無理に埋めず「不明/未確認」としてください。"""
 
+    if rss_note:
+        rss_title = (rss_note.get("title") or "").strip()
+        rss_url = (rss_note.get("url") or "").strip()
+        rss_summary = (rss_note.get("summary") or "").strip()
+        if rss_summary:
+            rss_summary = re.sub(r"<[^>]+>", " ", rss_summary)
+            rss_summary = re.sub(r"\\s+", " ", rss_summary).strip()
+            if len(rss_summary) > 240:
+                rss_summary = rss_summary[:240].rstrip() + "…"
+        if rss_title or rss_summary or rss_url:
+            prompt += (
+                "\n\n【RSSメモ】\n"
+                "※以下は公開RSSの見出し/要約です。本文は必ずオリジナルで書き、転載・長文引用・言い回しのコピーはしないでください。\n"
+                f"- 見出し: {rss_title}\n"
+                f"- 要約: {rss_summary}\n"
+                f"- URL: {rss_url}\n"
+            )
+
     if reference_notes:
         lines = []
         for ref in reference_notes[:8]:
@@ -558,7 +599,7 @@ def generate_spoiler_content(
         if lines:
             prompt += (
                 "\n\n【参考メモ（外部サイト）】\n"
-                "※以下は見出し/OGP概要のメモです。本文への引用・言い換えは禁止。事実確認と論点整理のためにのみ使ってください。\n"
+                "※以下は見出し/OGP概要のメモです。事実確認と論点整理に使ってよいですが、本文は必ずオリジナルで書き、転載・長文引用・言い回しのコピーはしないでください。\n"
                 + "\n".join(lines)
             )
 
@@ -583,7 +624,7 @@ def generate_insight_content(
 - 結論（要点）を先に提示する。
 - 事実/推測を区別し、断定しない。
 - 文章は短く、句点（。）の後は改行して読みやすくする。
-- 外部参照メモは「事実確認・論点整理」のみに使用（本文への引用・言い換えは禁止）。"""
+- 外部参照メモは「事実確認・論点整理」に使ってよいが、本文は必ずオリジナルで書く（転載・長文引用は禁止、言い回しのコピーもしない）。"""
 
     prompt = f"""「{series['name']}」について、以下のテーマでネタバレなしの考察記事を作成してください。
 テーマ: {topic}
@@ -632,7 +673,7 @@ def generate_insight_content(
         if lines:
             prompt += (
                 "\n\n【参考メモ（外部サイト）】\n"
-                "※以下は見出し/OGP概要のメモです。本文への引用・言い換えは禁止。事実確認と論点整理のためにのみ使ってください。\n"
+                "※以下は見出し/OGP概要のメモです。事実確認と論点整理に使ってよいですが、本文は必ずオリジナルで書き、転載・長文引用・言い回しのコピーはしないでください。\n"
                 + "\n".join(lines)
             )
 
@@ -864,7 +905,17 @@ def process_series(series: Dict[str, Any], state: Dict[str, Any], remaining_post
                         sources=ref_sources,
                     ) if ref_sources else []
 
-                    content = generate_spoiler_content(series, chapter_label, reference_notes=reference_notes)
+                    rss_note = {
+                        "title": getattr(entry, "title", "") or "",
+                        "summary": getattr(entry, "summary", "") or "",
+                        "url": getattr(entry, "link", "") or "",
+                    }
+                    content = generate_spoiler_content(
+                        series,
+                        chapter_label,
+                        reference_notes=reference_notes,
+                        rss_note=rss_note,
+                    )
                     if content and create_spoiler_post(
                         series,
                         chapter_label,

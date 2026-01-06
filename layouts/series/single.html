@@ -2,6 +2,8 @@
   {{ $slug := .Params.series_slug | default .File.BaseFileName }}
   {{ $name := .Params.series_name | default .Title }}
   {{ $pages := where .Site.RegularPages "Params.series" $name }}
+  {{ $pages = where $pages "Draft" "ne" true }}
+  {{ $pages = where $pages "Params.noindex" "ne" true }}
 
   <article class="post">
     <header>

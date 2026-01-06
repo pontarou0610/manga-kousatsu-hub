@@ -1,5 +1,14 @@
 <details class="spoiler">
-  <summary>※ネタバレを開く</summary>
+  {{- $summary := "" -}}
+  {{- if .IsNamedParams -}}
+    {{- $summary = .Get "summary" -}}
+  {{- else if gt (len .Params) 0 -}}
+    {{- $summary = .Get 0 -}}
+  {{- end -}}
+  {{- if not $summary -}}
+    {{- $summary = .Site.Params.spoilerSummary | default "※ネタバレを開く" -}}
+  {{- end -}}
+  <summary>{{ $summary }}</summary>
   <div class="spoiler__body">
     {{ .Inner | markdownify }}
   </div>

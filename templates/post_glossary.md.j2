@@ -48,9 +48,9 @@ images: []
 {% endfor %}
 
 {% if official_link %}
-{{ "{{< affbox title=\"" }}{{ official_link.label or "公式サイト" }}{{ "\" desc=\"公式情報はこちら\" url=\"" }}{{ official_link.url }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"" }}{{ official_link.label or "公式サイト" }}{{ "\" desc=\"公式情報はこちら\" url=\"" }}{{ official_link.url }}{{ "\" cta=\"公式サイトで確認する\" >}}" }}
 {% endif %}
 
 {% if affiliate_widgets.amazon %}
-{{ "{{< affbox title=\"Amazonで探す\" desc=\"Kindle版・紙版の購入はこちら\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" >}}" }}
+{{ "{{< affbox title=\"Amazonで探す\" desc=\"Kindle版・紙版の最新情報はリンク先で確認\" url=\"" }}{{ affiliate_widgets.amazon }}{{ "\" cta=\"Amazonで確認する\" >}}" }}
 {% endif %}

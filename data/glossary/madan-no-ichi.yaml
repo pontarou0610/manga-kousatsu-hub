@@ -3,18 +3,10 @@ items:
   reading: いち
   desc: 本作の主人公。旧式の術式に通じる若い術者
   first_appear: 第12話
-- term: カナ
-  reading: かな
-  desc: かつての仲間から敵となった人物。冷酷な判断でイチたちを追い詰める
-  first_appear: 第11話
 - term: リオ
   reading: りお
   desc: イチの友人。彼の特別さを肯定し、行動を後押しする
   first_appear: 第1話
-- term: 呪符工房
-  reading: じゅふこうぼう
-  desc: 呪符を製造する工房で、旧式の術式も保管されている施設
-  first_appear: 第12話
 - term: 師匠
   reading: ししょう
   desc: イチに術式の在り方を教えた人物。過去の因縁が物語の核になる
@@ -23,7 +15,3 @@ items:
   reading: しょうき
   desc: イチの感情高ぶりで周囲に放たれる負のエネルギー
   first_appear: 第1話
-- term: 黒幕
-  reading: くろまく
-  desc: 背後で事件を操る存在。正体が物語の鍵となる
-  first_appear: 第11話

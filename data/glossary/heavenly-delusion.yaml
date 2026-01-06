@@ -1,8 +1,4 @@
 items:
-- term: アオイ
-  reading: あおい
-  desc: 特殊な能力を持つ少女。過去が敵の目的と絡む
-  first_appear: 第22話
 - term: キルコ
   reading: きるこ
   desc: 電撃武器を操る護衛役。マルと行動をともにする
@@ -11,21 +7,9 @@ items:
   reading: まる
   desc: 外界を旅する少年。天国への案内を依頼されている
   first_appear: 第1話
-- term: ユウ
-  reading: ゆう
-  desc: 主人公の一人。仲間を守る使命感と自分の役割の間で葛藤する
-  first_appear: 第22話
-- term: 名も無き剣士
-  reading: なもなきけんし
-  desc: 主人公たちに力を貸す新たな仲間。過去に秘密を抱えている
-  first_appear: 第20話
 - term: 天国
   reading: てんごく
   desc: 壁内の安全な施設で子どもたちが暮らす場所
-  first_appear: 第1話
-- term: 異形
-  reading: いぎょう
-  desc: 壁外に出没する正体不明の存在。魔境の脅威
   first_appear: 第1話
 - term: 魔境
   reading: まきょう

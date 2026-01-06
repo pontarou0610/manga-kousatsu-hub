@@ -4,14 +4,40 @@
 {{ if not $url }}
   {{ errorf "affbox shortcodeにはurl引数が必要です" }}
 {{ end }}
+{{ $cta := .Get "cta" | default "" }}
+{{ $rel := .Get "rel" | default "" }}
+{{ $urlLower := lower $url }}
+{{ $isAffiliate := or
+  (in $urlLower "hb.afl.rakuten.co.jp")
+  (in $urlLower "a.r10.to")
+  (in $urlLower "amzn.to")
+  (in $urlLower "amazon.co.jp")
+  (in $urlLower "tag=")
+}}
+{{ if not $cta }}
+  {{ if in $urlLower "amazon.co.jp" }}
+    {{ $cta = "Amazonで確認する" }}
+  {{ else if or (in $urlLower "hb.afl.rakuten.co.jp") (in $urlLower "a.r10.to") }}
+    {{ $cta = "楽天で確認する" }}
+  {{ else if $isAffiliate }}
+    {{ $cta = "販売ページで確認する" }}
+  {{ else if in $title "公式" }}
+    {{ $cta = "公式ページで確認する" }}
+  {{ else }}
+    {{ $cta = "リンク先で確認する" }}
+  {{ end }}
+{{ end }}
+{{ if not $rel }}
+  {{ $rel = cond $isAffiliate "sponsored noopener" "noopener noreferrer" }}
+{{ end }}
 <div class="aff-box">
   <h3 class="aff-box__title">{{ $title }}</h3>
   {{ if $desc }}
     <p>{{ $desc }}</p>
   {{ end }}
   <p>
-    <a class="aff-box__cta" href="{{ $url }}" target="_blank" rel="sponsored noopener">
-      公式サイトでチェックする
+    <a class="aff-box__cta" href="{{ $url }}" target="_blank" rel="{{ $rel }}">
+      {{ $cta }}
     </a>
   </p>
 </div>

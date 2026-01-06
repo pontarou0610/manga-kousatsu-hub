@@ -1,7 +1,9 @@
 {{- $activeSlugs := slice -}}
+{{- $activeNames := slice -}}
 {{- range .Site.Data.series -}}
   {{- if not .manual -}}
     {{- $activeSlugs = $activeSlugs | append .slug -}}
+    {{- $activeNames = $activeNames | append .name -}}
   {{- end -}}
 {{- end -}}
 
@@ -30,7 +32,10 @@
   {{- end -}}
 {{- end -}}
 
-{{- range where (where .Site.RegularPages "Type" "posts") "Params.series_slug" "in" $activeSlugs -}}
+{{- $postsAll := where .Site.RegularPages "Type" "posts" -}}
+{{- $postsBySlug := where $postsAll "Params.series_slug" "in" $activeSlugs -}}
+{{- $postsByName := where $postsAll "Params.series" "in" $activeNames -}}
+{{- range union $postsBySlug $postsByName -}}
   {{- if and (not .Draft) (ne (.Params.noindex | default false) true) -}}
     {{- $urls = $urls | append . -}}
   {{- end -}}

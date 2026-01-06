@@ -3,14 +3,18 @@
   <h2>最新考察</h2>
   <p>公式RSSから検知した新着情報をもとに、ネタバレ配慮つきでまとめた考察記事を一覧表示します。</p>
 
-  {{ $activeSlugs := slice }}
+  {{ $activeSeriesNames := slice }}
   {{ range .Site.Data.series }}
     {{ if not .manual }}
-      {{ $activeSlugs = $activeSlugs | append .slug }}
+      {{ $activeSeriesNames = $activeSeriesNames | append .name }}
     {{ end }}
   {{ end }}
-  {{ $activePages := where (where .Site.RegularPages "Type" "posts") "Params.series_slug" "in" $activeSlugs }}
-  {{ $paginator := .Paginate $activePages 5 }}
+  {{ $pages := where (where .Site.RegularPages "Type" "posts") "Params.series" "in" $activeSeriesNames }}
+  {{ $pages = where $pages "Draft" "ne" true }}
+  {{ $pages = where $pages "Params.noindex" "ne" true }}
+  {{ $pages = where $pages "Params.article_variant" "in" (slice "spoiler" "insight") }}
+  {{ $pages = sort $pages "Date" "desc" }}
+  {{ $paginator := .Paginate $pages 5 }}
   {{ if not (gt (len $paginator.Pages) 0) }}
   <p>まだ記事がありません。GitHub Actions または <code>python scripts/generate_posts.py</code> で生成してください。</p>
   {{ end }}
