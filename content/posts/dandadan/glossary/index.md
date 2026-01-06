@@ -36,6 +36,6 @@ images: []
 
 
 
-{{< affbox title="少年ジャンプ+（公式）" desc="公式情報はこちら" url="https://shonenjumpplus.com/episode/3269632237310729754" >}}
+{{< affbox title="少年ジャンプ+（公式）" desc="公式情報はこちら" url="https://shonenjumpplus.com/episode/3269632237310729754" cta="公式サイトで確認する" >}}
 
 

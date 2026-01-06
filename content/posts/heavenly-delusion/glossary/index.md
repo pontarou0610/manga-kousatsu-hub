@@ -34,14 +34,6 @@ images: []
 
 ## 用語一覧
 
-### アオイ（あおい）
-- 説明: 特殊な能力を持つ少女。過去が敵の目的と絡む
-
-- 初登場: 第22話
-
-
-
-
 ### キルコ（きるこ）
 - 説明: 電撃武器を操る護衛役。マルと行動をともにする
 
@@ -58,32 +50,8 @@ images: []
 
 
 
-### ユウ（ゆう）
-- 説明: 主人公の一人。仲間を守る使命感と自分の役割の間で葛藤する
-
-- 初登場: 第22話
-
-
-
-
-### 名も無き剣士（なもなきけんし）
-- 説明: 主人公たちに力を貸す新たな仲間。過去に秘密を抱えている
-
-- 初登場: 第20話
-
-
-
-
 ### 天国（てんごく）
 - 説明: 壁内の安全な施設で子どもたちが暮らす場所
-
-- 初登場: 第1話
-
-
-
-
-### 異形（いぎょう）
-- 説明: 壁外に出没する正体不明の存在。魔境の脅威
 
 - 初登場: 第1話
 
@@ -100,8 +68,8 @@ images: []
 
 
 
-{{< affbox title="作品公式サイト" desc="公式情報はこちら" url="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" >}}
+{{< affbox title="作品公式サイト" desc="公式情報はこちら" url="https://afternoon.kodansha.co.jp/c/tengokudaimakyo/" cta="公式サイトで確認する" >}}
 
 
 
-{{< affbox title="Amazonで探す" desc="Kindle版・紙版の購入はこちら" url="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" >}}
+{{< affbox title="Amazonで探す" desc="Kindle版・紙版の最新情報はリンク先で確認" url="https://www.amazon.co.jp/dp/B07FCHN6XQ?tag=naoto0610-22" cta="Amazonで確認する" >}}
