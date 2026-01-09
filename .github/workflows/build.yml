@@ -1,11 +1,14 @@
 ﻿name: Build & Deploy (Hugo)
 
 on:
-  schedule:
-    - cron: "0 0 * * *"      # Once daily (UTC 00:00)
   workflow_dispatch:
-  push:
-    branches: [ main ]
+  # 自動更新（毎日実行）を再開する場合は以下を戻してください。
+  # schedule:
+  #   - cron: "0 0 * * *"      # Once daily (UTC 00:00)
+  #
+  # push での自動実行も止めたい場合はこのまま。
+  # push:
+  #   branches: [ main ]
 
 concurrency:
   group: build-${{ github.ref }}
